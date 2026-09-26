@@ -9,6 +9,7 @@
       "package": "com.alexfresquet.perspectiva",
       "versionCode": 1
     },
-    "description": "Lector personal de noticias y fuentes"
+    "description": "Lector personal de noticias y fuentes",
+    "owner": "alex.fresquet"
   }
 }
