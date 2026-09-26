@@ -1,14 +1,14 @@
 {
   "name": "perspectiva",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
-  "main": "App.js",
+  "main": "index.js",
   "scripts": {
     "start": "expo start"
   },
   "dependencies": {
-    "expo": "*",
-    "react": "*",
-    "react-native": "*"
+    "expo": "~57.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.0"
   }
 }
