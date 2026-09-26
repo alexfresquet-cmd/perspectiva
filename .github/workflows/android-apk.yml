@@ -1,0 +1,44 @@
+name: APK de Perspectiva
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  android-apk:
+    name: Compilar APK Android
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Obtener proyecto
+        uses: actions/checkout@v4
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: package-lock.json
+      - name: Configurar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Configurar Android
+        uses: android-actions/setup-android@v3
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Generar proyecto Android
+        run: npx expo prebuild --platform android --non-interactive --clean
+      - name: Compilar APK independiente
+        working-directory: android
+        run: ./gradlew :app:assembleRelease --no-daemon
+      - name: Comprobar APK
+        run: test -s android/app/build/outputs/apk/release/app-release.apk
+      - name: Descargar APK desde GitHub
+        uses: actions/upload-artifact@v4
+        with:
+          name: Perspectiva-Android-APK
+          path: android/app/build/outputs/apk/release/app-release.apk
+          retention-days: 30
