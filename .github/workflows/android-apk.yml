@@ -31,8 +31,12 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-      - name: Configurar Android
-        uses: android-actions/setup-android@v3
+      # ubuntu-latest incluye Android SDK. Evitamos setup-android:
+      # su comando 'sdkmanager tools' falla con las herramientas recientes.
+      - name: Verificar Android SDK
+        run: |
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          test -d "$ANDROID_HOME"
       - name: Instalar dependencias
         run: npm install --no-audit --no-fund
       - name: Generar proyecto Android
