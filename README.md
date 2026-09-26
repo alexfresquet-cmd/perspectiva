@@ -1,3 +1,14 @@
+## Instalar directamente en Android (sin Codespaces ni Expo Go)
+
+He añadido un flujo de GitHub Actions llamado **APK de Perspectiva**. Compila Android en GitHub y adjunta un APK a la ejecución si termina correctamente; no se necesita iniciar Expo ni ejecutar nada en el teléfono. **La primera compilación todavía no está verificada**.
+
+1. Abre [APK de Perspectiva — GitHub Actions](https://github.com/alexfresquet-cmd/perspectiva/actions/workflows/android-apk.yml).
+2. Abre la ejecución más reciente. Si figura ✅, en **Artifacts** descarga **Perspectiva-Android-APK** (archivo ZIP).
+3. Descomprime el ZIP y abre el archivo `app-release.apk` para instalarlo; Android puede pedirte que autorices la instalación desde tu navegador o administrador de archivos.
+4. Si no se ejecutó automáticamente, selecciona **Run workflow → main → Run workflow**.
+
+**Avisos:** La versión inicial es una compilación de prueba. No distribuirla; su firma no está configurada para actualizaciones permanentes. No generar sucesivos APK para actualizar instalaciones con datos locales hasta configurar una clave de firma estable. El lector descarga la edición desde GitHub en cada apertura; no contiene información personal publicada.
+
 # Perspectiva
 
 Lector personal de noticias en español. Código público; coste de uso previsto: 0 €.
