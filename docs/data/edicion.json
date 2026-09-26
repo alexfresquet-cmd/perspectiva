@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "edicion_id": "2026-09-25-v5",
+  "titulo": "Perspectiva · Edición del 25 de septiembre",
+  "fecha_edicion": "2026-09-25",
+  "actualizado_en": "2026-09-25T22:20:00+02:00",
+  "tipo": "real",
+  "nota_editorial": "Edición fechada el 25/09/2026, no actualizada automáticamente. Portada: tres noticias destacadas, actualidad por fecha y una sección ampliada de noticias positivas. Cada historia tiene enlaces específicos a sus fuentes. Los acontecimientos constructivos pueden ser anuncios o avances parciales; no se presentan como resultados definitivos. Sin deportes ni comparaciones sin base documental.",
+  "noticias": [
+    {
+      "id": "20260925-onu",
+      "categoria": "Mundo",
+      "region": "Global",
+      "fecha": "2026-09-22",
+      "portada": true,
+      "destacada": true,
+      "etiquetas": [
+        "Diplomacia",
+        "ONU"
+      ],
+      "etiqueta_editorial": "EN PORTADA",
+      "titulo": "La Asamblea General de la ONU reúne a líderes en un contexto de múltiples conflictos",
+      "entradilla": "Las guerras en Oriente Próximo y Ucrania, junto con el papel de Naciones Unidas, ocupan parte de la agenda diplomática en Nueva York.",
+      "que_ha_pasado": "La semana de alto nivel de la Asamblea General congrega a numerosos dirigentes. Los discursos y contactos diplomáticos se desarrollan mientras persisten varios conflictos y se debate cómo mejorar la cooperación internacional.",
+      "contexto": "La Asamblea General ofrece visibilidad a las prioridades de cada país, aunque las intervenciones no equivalen automáticamente a acuerdos. Distintas publicaciones destacan aspectos diferentes de las mismas jornadas.",
+      "por_que_importa": "El encuentro concentra contactos entre gobiernos y declaraciones sobre seguridad, relaciones internacionales y cooperación; sus resultados deben evaluarse por decisiones posteriores.",
+      "que_se_sabe": [
+        "La Asamblea General celebra su semana de reuniones de alto nivel en Nueva York.",
+        "La situación en Ucrania y Oriente Próximo está presente en la cobertura."
+      ],
+      "que_falta": [
+        "Las conversaciones diplomáticas todavía no aseguran acuerdos verificables."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "titular": "Los líderes vuelven a la ONU en medio de los conflictos de Oriente Próximo y Ucrania",
+          "extracto": "Sitúa la agenda del encuentro en el contexto de las guerras y las dudas sobre la capacidad de acción de la ONU.",
+          "fecha": "2026-09-20",
+          "url": "https://www.reuters.com/world/china/world-leaders-return-un-amid-wars-middle-east-ukraine-2026-09-20/",
+          "enfoque": "Enmarca las reuniones a través de los conflictos internacionales y de los retos de Naciones Unidas.",
+          "orientacion": null,
+          "titular_traducido": true
+        },
+        {
+          "medio": "Associated Press",
+          "pais": "EE. UU.",
+          "titular": "Diplomáticos describen un mundo convulso al arrancar la reunión anual de la ONU",
+          "extracto": "Recoge la percepción de diplomáticos y una agenda marcada por conflictos y desafíos mundiales.",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/83dfe88eaf541fdcef3a4758010bef6e",
+          "enfoque": "Presenta la apertura de la reunión a través de voces diplomáticas y el debate institucional.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ],
+      "posicion_portada": 1
+    },
+    {
+      "id": "20260925-china-ai",
+      "categoria": "Tecnología",
+      "region": "EE. UU. y Asia",
+      "fecha": "2026-09-22",
+      "portada": true,
+      "destacada": true,
+      "etiquetas": [
+        "IA",
+        "Diplomacia"
+      ],
+      "etiqueta_editorial": "TECNOLOGÍA",
+      "titulo": "Estados Unidos y China abren un canal de diálogo sobre los riesgos de la IA",
+      "entradilla": "Ambos países exploran mecanismos de comunicación para gestionar incidentes, aunque mantienen diferencias estratégicas.",
+      "que_ha_pasado": "Representantes de Washington y Pekín discutieron un mecanismo para comunicar problemas graves de seguridad vinculados a la inteligencia artificial. Reuters y AP describieron las conversaciones y los obstáculos derivados de la competencia tecnológica.",
+      "contexto": "La gestión de incidentes relacionados con sistemas avanzados podría requerir comunicación incluso entre países rivales. Que exista diálogo no significa que se hayan acordado normas conjuntas o medidas verificables.",
+      "por_que_importa": "El posible canal de comunicación es relevante por el alcance global de la tecnología y por las tensiones entre dos de sus principales potencias.",
+      "que_se_sabe": [
+        "Representantes de ambos países trataron los riesgos de la IA.",
+        "Se estudia mantener un diálogo y mecanismos de notificación de incidentes."
+      ],
+      "que_falta": [
+        "No se ha verificado un acuerdo exhaustivo que resuelva las diferencias tecnológicas y de seguridad."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "titular": "EE. UU. y China prevén volver a reunirse sobre seguridad de la IA",
+          "extracto": "Informa sobre una posible nueva cita y la propuesta de comunicación ante incidentes.",
+          "fecha": "2026-09-21",
+          "url": "https://www.reuters.com/world/asia-pacific/us-china-meet-again-ai-safety-two-months-shenzhen-bessent-says-2026-09-21/",
+          "enfoque": "Detalla la diplomacia del mecanismo y su posible calendario.",
+          "orientacion": null,
+          "titular_traducido": true
+        },
+        {
+          "medio": "Associated Press",
+          "pais": "EE. UU.",
+          "titular": "China y Estados Unidos compiten en IA, pero comparten inquietudes sobre seguridad",
+          "extracto": "Analiza los riesgos en los que hay interés común pese a la rivalidad comercial y tecnológica.",
+          "fecha": "2026-09-21",
+          "url": "https://apnews.com/article/d08e58524de21511dcaba51f43faad95",
+          "enfoque": "Profundiza en el contexto de la competencia tecnológica y las preocupaciones compartidas.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ],
+      "posicion_portada": 2
+    },
+    {
+      "id": "20260925-nino",
+      "categoria": "Medioambiente",
+      "region": "Asia y Pacífico",
+      "fecha": "2026-09-22",
+      "portada": true,
+      "destacada": true,
+      "etiquetas": [
+        "Clima",
+        "Asia"
+      ],
+      "etiqueta_editorial": "MEDIOAMBIENTE",
+      "titulo": "El Niño amenaza cultivos y disponibilidad de agua en diversas regiones de Asia",
+      "entradilla": "Los cambios en las lluvias pueden afectar a la agricultura regional; observaciones satelitales permiten seguir la evolución del fenómeno.",
+      "que_ha_pasado": "Associated Press informó de los riesgos de sequía para distintas zonas asiáticas asociados al fenómeno de El Niño. NASA había documentado en junio de 2026 observaciones satelitales del calentamiento del Pacífico relacionadas con su desarrollo.",
+      "contexto": "El Niño es un fenómeno climático recurrente. Sus efectos dependen de la región y no producen automáticamente un mismo resultado en todos los países.",
+      "por_que_importa": "Las variaciones en el clima de grandes regiones agrícolas pueden tener repercusiones para las cosechas y los precios de determinados alimentos.",
+      "que_se_sabe": [
+        "AP describe riesgos agrícolas e hídricos en regiones de Asia.",
+        "NASA documentó mediante satélites señales de El Niño durante 2026."
+      ],
+      "que_falta": [
+        "La magnitud y localización de los impactos concretos deberán comprobarse con datos posteriores."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "EE. UU.",
+          "titular": "El Niño amenaza a Asia con sequía y riesgo para los precios alimentarios",
+          "extracto": "Describe los posibles efectos sobre la agricultura, el agua y la seguridad alimentaria.",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/31c88df9ce8f67bcbfe3ea7f39431d57",
+          "enfoque": "Prioriza la exposición social y económica a los riesgos meteorológicos.",
+          "orientacion": null,
+          "titular_traducido": true
+        },
+        {
+          "medio": "NASA Earth Observatory",
+          "pais": "EE. UU.",
+          "titular": "Las observaciones por satélite muestran el desarrollo de El Niño",
+          "extracto": "Explica la medición de temperaturas y niveles del mar que ayudan a observar el fenómeno.",
+          "fecha": "2026-06-18",
+          "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
+          "enfoque": "Aporta contexto científico previo: no es una segunda crónica del episodio de sequía descrito por AP.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ],
+      "posicion_portada": 3
+    },
+    {
+      "id": "20260925-eurogas",
+      "categoria": "Economía",
+      "region": "Europa",
+      "fecha": "2026-09-21",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Inflación",
+        "Europa"
+      ],
+      "etiqueta_editorial": "ECONOMÍA",
+      "titulo": "El BCE estudia cómo el encarecimiento del gas se transmite a la inflación europea",
+      "entradilla": "Un análisis del Banco Central Europeo recogido por Reuters señala cambios en la velocidad de transmisión de los precios energéticos.",
+      "que_ha_pasado": "Reuters informó de un análisis del BCE sobre cómo los movimientos del precio del gas pueden llegar con más rapidez a la inflación en la zona euro. El efecto sobre la electricidad no tiene por qué ser idéntico.",
+      "contexto": "La transmisión de costes energéticos depende de los contratos, la regulación y la composición de los precios finales, por lo que cambia según cada país.",
+      "por_que_importa": "Entender esos mecanismos ayuda a interpretar la evolución de los precios de consumo sin confundir una subida mayorista con un aumento inmediato idéntico para todos los hogares.",
+      "que_se_sabe": [
+        "Reuters publicó los hallazgos atribuidos a un análisis del BCE."
+      ],
+      "que_falta": [
+        "El impacto futuro depende de la evolución de los mercados y de las condiciones de cada país."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "titular": "El BCE encuentra indicios de transmisión más rápida de los precios del gas a la inflación",
+          "extracto": "Resume el análisis sobre los cambios en el mercado europeo de gas y sus efectos posibles.",
+          "fecha": "2026-09-21",
+          "url": "https://www.reuters.com/business/energy/europes-gas-price-surge-may-feed-into-inflation-more-quickly-ecb-finds-2026-09-21/",
+          "enfoque": "Explica el estudio económico y sus implicaciones para los precios europeos.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-vida-calor",
+      "categoria": "Ciencia",
+      "region": "Global",
+      "fecha": "2026-09-22",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Biología",
+        "Investigación"
+      ],
+      "etiqueta_editorial": "DESCUBRIMIENTO",
+      "titulo": "Un organismo estudiado con apoyo de la NASA desafía límites conocidos de resistencia al calor",
+      "entradilla": "El estudio de un microorganismo complejo en condiciones extremas amplía las preguntas científicas sobre los entornos compatibles con la vida.",
+      "que_ha_pasado": "NASA difundió los resultados de investigaciones sobre un organismo capaz de soportar durante periodos limitados temperaturas extremas en condiciones de laboratorio.",
+      "contexto": "En biología resulta importante diferenciar entre sobrevivir una exposición breve, recuperarse después y desarrollarse de manera estable a una temperatura determinada.",
+      "por_que_importa": "Las observaciones ayudan a estudiar los límites de organismos complejos y orientan nuevas preguntas sobre la vida en condiciones extremas.",
+      "que_se_sabe": [
+        "NASA publicó una explicación de la investigación el 22 de septiembre."
+      ],
+      "que_falta": [
+        "Hace falta consultar el estudio original y otras investigaciones para conocer la generalidad de los resultados."
+      ],
+      "fuentes": [
+        {
+          "medio": "NASA Science",
+          "pais": "EE. UU.",
+          "titular": "Una investigación apoyada por la NASA observa vida compleja en condiciones de calor extremas",
+          "extracto": "Describe el estudio, las pruebas y las distintas temperaturas observadas en el organismo.",
+          "fecha": "2026-09-22",
+          "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+          "enfoque": "Presenta la explicación científica publicada por la institución.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-flores",
+      "categoria": "Noticias positivas",
+      "region": "Australia",
+      "fecha": "2026-09-23",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Naturaleza",
+        "Australia"
+      ],
+      "etiqueta_editorial": "BUENAS NOTICIAS",
+      "titulo": "Las lluvias transforman áreas áridas del oeste de Australia en extensas floraciones",
+      "entradilla": "Imágenes satelitales permiten comparar el paisaje tras un periodo de precipitaciones por encima de lo habitual.",
+      "que_ha_pasado": "El Observatorio de la Tierra de NASA publicó una comparación de imágenes de agosto de 2025 y 2026 que muestra una notable floración en zonas del oeste australiano después de las lluvias.",
+      "contexto": "En regiones áridas, las semillas pueden permanecer latentes y germinar cuando se dan condiciones favorables de humedad. La presencia de flores no implica por sí sola una recuperación ambiental permanente.",
+      "por_que_importa": "Es una historia de observación de la naturaleza con evidencia visual y meteorológica; la categoría positiva se refiere a su carácter constructivo, no a una valoración científica definitiva.",
+      "que_se_sabe": [
+        "NASA publicó imágenes satelitales comparativas y una explicación de las floraciones."
+      ],
+      "que_falta": [
+        "No se puede inferir con estas imágenes la evolución ecológica de largo plazo."
+      ],
+      "fuentes": [
+        {
+          "medio": "NASA Earth Observatory",
+          "pais": "EE. UU.",
+          "titular": "Un año excepcional para las floraciones del desierto australiano",
+          "extracto": "Muestra imágenes de la región de Murchison y relaciona las floraciones con un periodo lluvioso.",
+          "fecha": "2026-09-23",
+          "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+          "enfoque": "Documenta el fenómeno con imágenes satelitales, observaciones y contexto climático.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-esa-espacio",
+      "categoria": "Noticias positivas",
+      "region": "Europa",
+      "fecha": "2026-09-16",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Espacio",
+        "Europa"
+      ],
+      "etiqueta_editorial": "AVANCES",
+      "titulo": "La ESA y la Comisión Europea avanzan en compromisos sobre sostenibilidad espacial",
+      "entradilla": "Una declaración conjunta aborda operaciones y servicios en órbita y la necesidad de coordinar el uso del espacio.",
+      "que_ha_pasado": "La Agencia Espacial Europea informó de una declaración conjunta con la Comisión Europea, presentada tras una cumbre internacional celebrada en París, y de otras declaraciones sobre sostenibilidad espacial.",
+      "contexto": "El aumento de satélites y operaciones orbitales exige coordinación para reducir riesgos y hacer viable el acceso al espacio a largo plazo.",
+      "por_que_importa": "El anuncio identifica objetivos de cooperación; su importancia práctica dependerá de los programas y resultados posteriores.",
+      "que_se_sabe": [
+        "ESA publicó las declaraciones y el contexto de la reunión de septiembre."
+      ],
+      "que_falta": [
+        "Queda por comprobar la aplicación práctica de las declaraciones y sus resultados."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia Espacial Europea (ESA)",
+          "pais": "Europa",
+          "titular": "Europa anuncia compromisos para impulsar prácticas espaciales sostenibles",
+          "extracto": "La agencia resume las declaraciones y las prioridades debatidas durante la cumbre de París.",
+          "fecha": "2026-09-16",
+          "url": "https://www.esa.int/Space_Safety/Clean_Space/Europe_commits_to_sustainable_practices_in_space",
+          "enfoque": "Es una fuente institucional que informa de los acuerdos anunciados.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-francia-estudiantes",
+      "categoria": "Sociedad",
+      "region": "Francia",
+      "fecha": "2026-09-24",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Educación",
+        "Francia"
+      ],
+      "etiqueta_editorial": "SOCIEDAD",
+      "titulo": "Los comedores universitarios franceses afrontan colas por la ampliación de las comidas a un euro",
+      "entradilla": "La extensión del programa está aumentando la demanda y muestra tanto el apoyo económico a estudiantes como la presión sobre el servicio.",
+      "que_ha_pasado": "Euronews informó de grandes colas en comedores universitarios franceses tras ampliarse la oferta de menús a un euro, y recogió opiniones de estudiantes y trabajadores sobre la experiencia.",
+      "contexto": "Una medida de acceso universal puede mejorar la asequibilidad y, al mismo tiempo, requerir plantilla e infraestructura suficientes para absorber el incremento de la demanda.",
+      "por_que_importa": "El funcionamiento cotidiano de los servicios públicos depende tanto del precio como de la capacidad material para atender a sus usuarios.",
+      "que_se_sabe": [
+        "Euronews publicó testimonios sobre las colas y la situación del servicio el 24 de septiembre."
+      ],
+      "que_falta": [
+        "Falta una evaluación general sobre tiempos de espera y acceso en el conjunto de centros."
+      ],
+      "fuentes": [
+        {
+          "medio": "Euronews",
+          "pais": "Europa",
+          "titular": "Las comidas a un euro en Francia aumentan la presión sobre los comedores universitarios",
+          "extracto": "Describe colas en París, problemas de capacidad y opiniones variadas de estudiantes y personal.",
+          "fecha": "2026-09-24",
+          "url": "https://www.euronews.com/video/2026/09/24/long-queues-as-frances-1-student-meals-draw-crowds",
+          "enfoque": "Combina testimonios de usuarios con dificultades operativas de los centros.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-caballos-kazajistan",
+      "categoria": "Noticias positivas",
+      "region": "Asia Central",
+      "fecha": "2026-09-23",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Biodiversidad",
+        "Conservación"
+      ],
+      "etiqueta_editorial": "NOTICIAS POSITIVAS",
+      "titulo": "Nacen en Kazajistán dos caballos salvajes de Przewalski tras su reintroducción",
+      "entradilla": "Un programa de recuperación logra nuevos nacimientos en las estepas de Kazajistán, donde la especie llevaba mucho tiempo ausente.",
+      "que_ha_pasado": "El Programa de las Naciones Unidas para el Medio Ambiente informa del nacimiento de dos potros de caballo de Przewalski en un centro de reintroducción de Kazajistán. Según los expertos citados, el primer nacimiento podría ser el primero de esta especie en esas estepas en unos dos siglos.",
+      "contexto": "Desde 2024 se han trasladado ejemplares procedentes de zoológicos europeos como parte de una estrategia de recuperación del hábitat y de reintroducción de animales que desaparecieron del medio silvestre.",
+      "por_que_importa": "Los nacimientos son una señal de progreso para la recuperación de la especie, pero establecer una población autosuficiente llevará años.",
+      "que_se_sabe": [
+        "El primer nacimiento se registró el 22 de agosto y hubo un segundo ocho días después.",
+        "El proyecto pretende establecer una población que pueda vivir sin intervención humana."
+      ],
+      "que_falta": [
+        "Todavía debe comprobarse si los potros sobreviven y si el programa logra una población estable."
+      ],
+      "fuentes": [
+        {
+          "medio": "UNEP",
+          "pais": "Internacional",
+          "titular": "Nace un caballo salvaje tras dos siglos de ausencia en las estepas de Kazajistán",
+          "extracto": "La agencia ambiental de la ONU describe los nacimientos y el proyecto de restauración ecológica.",
+          "fecha": "2026-09-23",
+          "url": "https://www.unep.org/news-and-stories/story/after-200-years-birth-worlds-last-truly-wild-horse-kazakhstans-steppe",
+          "enfoque": "Comunicación original del organismo responsable; no equivale a verificación independiente de todos los efectos futuros.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-refrigeracion-sostenible",
+      "categoria": "Noticias positivas",
+      "region": "Global",
+      "fecha": "2026-09-17",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Clima",
+        "Adaptación"
+      ],
+      "etiqueta_editorial": "NOTICIAS POSITIVAS",
+      "titulo": "Varios países anuncian iniciativas para proteger a las comunidades frente al calor",
+      "entradilla": "La iniciativa mundial de refrigeración sostenible presenta un plan y proyectos para reducir la exposición al calor.",
+      "que_ha_pasado": "El Programa de Naciones Unidas para el Medio Ambiente anunció en Singapur una hoja de ruta de resiliencia ante el calor y un reto de refrigeración basada en soluciones naturales en Brasil, Camboya y Costa de Marfil. También se comunicaron nuevas alianzas y apoyo para impulsar las medidas.",
+      "contexto": "El calor extremo supone un riesgo creciente para la salud y el consumo energético. Las medidas de refrigeración pasiva y las soluciones basadas en la naturaleza pueden complementar los sistemas convencionales.",
+      "por_que_importa": "Es un compromiso concreto hacia la adaptación, aunque todavía habrá que medir cuántas personas se benefician de las iniciativas.",
+      "que_se_sabe": [
+        "Se presentaron una hoja de ruta mundial y una iniciativa en tres países.",
+        "Los anuncios incluyen cooperación entre gobiernos, industria y otras organizaciones."
+      ],
+      "que_falta": [
+        "Faltan evaluaciones independientes sobre la ejecución, la financiación final y los resultados sobre el terreno."
+      ],
+      "fuentes": [
+        {
+          "medio": "UNEP",
+          "pais": "Internacional",
+          "titular": "Global Cooling Pledge impulsa nuevas medidas frente al calor",
+          "extracto": "El PNUMA enumera los planes, iniciativas y participantes anunciados durante la asamblea de Singapur.",
+          "fecha": "2026-09-17",
+          "url": "https://www.unep.org/news-and-stories/press-release/cool-leaders-roadmap-and-nature-cooling-global-cooling-pledge-acts",
+          "enfoque": "Comunicación original del organismo responsable; no equivale a verificación independiente de todos los efectos futuros.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-oms-vrs",
+      "categoria": "Noticias positivas",
+      "region": "Global",
+      "fecha": "2026-09-09",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Salud",
+        "Vacunas"
+      ],
+      "etiqueta_editorial": "NOTICIAS POSITIVAS",
+      "titulo": "La OMS da un paso para facilitar el acceso a la vacunación materna frente al VRS",
+      "entradilla": "La presentación multidosis de una vacuna materna recibe la precalificación de la OMS.",
+      "que_ha_pasado": "La OMS precalificó la presentación multidosis de la vacuna materna RSVpreF para el virus respiratorio sincitial. Según la organización, esta presentación puede facilitar la distribución y reducir costes en determinados programas de vacunación.",
+      "contexto": "El virus respiratorio sincitial provoca hospitalizaciones y enfermedad respiratoria grave en bebés. La precalificación es uno de los pasos que pueden facilitar la adquisición internacional de vacunas.",
+      "por_que_importa": "El avance abre una vía de acceso más asequible a programas maternos, especialmente en países con menos recursos, sin implicar que la vacuna ya se haya desplegado en todos ellos.",
+      "que_se_sabe": [
+        "La precalificación de la presentación multidosis se anunció el 9 de septiembre.",
+        "La OMS había precalificado anteriormente la presentación monodosis."
+      ],
+      "que_falta": [
+        "La disponibilidad concreta y el impacto dependerán de las compras, las políticas nacionales y su implantación."
+      ],
+      "fuentes": [
+        {
+          "medio": "OMS",
+          "pais": "Internacional",
+          "titular": "La OMS precalifica la presentación multidosis de una vacuna frente al VRS",
+          "extracto": "La OMS explica la decisión de precalificación y su posible repercusión sobre los programas de inmunización.",
+          "fecha": "2026-09-09",
+          "url": "https://www.who.int/news/item/09-09-2026-who-prequalifies-multi-dose-rsv-vaccine-vial--paving-the-way-to-protecting-more-infants-globally",
+          "enfoque": "Comunicación original del organismo responsable; no equivale a verificación independiente de todos los efectos futuros.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-vacunas-mpox",
+      "categoria": "Noticias positivas",
+      "region": "Global",
+      "fecha": "2026-09-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Salud",
+        "Cooperación"
+      ],
+      "etiqueta_editorial": "NOTICIAS POSITIVAS",
+      "titulo": "Se crea una reserva mundial de vacunas frente a la mpox para responder a brotes",
+      "entradilla": "Una nueva reserva coordinada internacionalmente busca facilitar el acceso a vacunas durante las emergencias.",
+      "que_ha_pasado": "UNICEF comunicó el lanzamiento de un mecanismo de reserva global de vacunas frente a la mpox, diseñado para que los países puedan solicitarlas cuando aparezcan brotes. El mecanismo fue anunciado tras su lanzamiento el 27 de agosto y estaba previsto que comenzara a operar durante septiembre.",
+      "contexto": "En anteriores emergencias, el acceso a vacunas estuvo condicionado por las diferencias económicas y logísticas entre países. La iniciativa utiliza un sistema internacional de coordinación ya empleado para otras vacunas de emergencia.",
+      "por_que_importa": "El mecanismo pretende reducir desigualdades de acceso y acortar la respuesta durante brotes; su eficacia dependerá del abastecimiento y la distribución real.",
+      "que_se_sabe": [
+        "El mecanismo se anunció para todos los países y cuenta con financiación de Gavi.",
+        "UNICEF participa en la gestión y entrega de vacunas junto con varios organismos internacionales."
+      ],
+      "que_falta": [
+        "La cantidad disponible, la rapidez de distribución y sus efectos deberán comprobarse una vez en funcionamiento."
+      ],
+      "fuentes": [
+        {
+          "medio": "UNICEF",
+          "pais": "Internacional",
+          "titular": "Iniciativa mundial para mejorar el acceso a vacunas contra la mpox",
+          "extracto": "UNICEF y organismos asociados presentan el mecanismo internacional y su calendario previsto.",
+          "fecha": "2026-09-02",
+          "url": "https://www.unicef.org/press-releases/global-initiative-launched-improve-access-mpox-vaccines",
+          "enfoque": "Comunicación original del organismo responsable; no equivale a verificación independiente de todos los efectos futuros.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    },
+    {
+      "id": "20260925-restauracion-ecosistemas",
+      "categoria": "Noticias positivas",
+      "region": "África, América y Asia",
+      "fecha": "2026-08-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Naturaleza",
+        "Restauración"
+      ],
+      "etiqueta_editorial": "NOTICIAS POSITIVAS",
+      "titulo": "La ONU reconoce programas de restauración de ecosistemas en tres regiones",
+      "entradilla": "Tres iniciativas de Brasil, el Sahel y Arabia Saudí obtienen reconocimiento por su trabajo de recuperación ecológica.",
+      "que_ha_pasado": "El PNUMA anunció tres nuevos programas insignia de restauración mundial en Brasil, el Sahel y Arabia Saudí. Los proyectos incluyen recuperación de terrenos degradados, restauración de vegetación y medidas para mejorar la productividad de los ecosistemas.",
+      "contexto": "Los programas forman parte del Decenio de la ONU sobre la Restauración de los Ecosistemas y combinan objetivos ecológicos con la mejora de los medios de vida locales.",
+      "por_que_importa": "Los proyectos presentan actividades y resultados de restauración documentados por sus promotores, aunque sus metas para 2030 todavía son objetivos y no logros alcanzados.",
+      "que_se_sabe": [
+        "En agosto de 2026 se reconocieron tres iniciativas en regiones diferentes.",
+        "El PNUMA publica cifras de superficie intervenida y objetivos pendientes diferenciados por programa."
+      ],
+      "que_falta": [
+        "La permanencia ecológica de las mejoras y el cumplimiento de las metas futuras todavía requieren seguimiento."
+      ],
+      "fuentes": [
+        {
+          "medio": "UNEP",
+          "pais": "Internacional",
+          "titular": "La ONU reconoce tres iniciativas de restauración de tierras",
+          "extracto": "El PNUMA describe actividades realizadas y metas futuras de los proyectos seleccionados.",
+          "fecha": "2026-08-26",
+          "url": "https://www.unep.org/news-and-stories/press-release/greening-lands-feeding-people-un-awards-three-restoration-flagships",
+          "enfoque": "Comunicación original del organismo responsable; no equivale a verificación independiente de todos los efectos futuros.",
+          "orientacion": null,
+          "titular_traducido": true
+        }
+      ]
+    }
+  ]
+}
