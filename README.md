@@ -24,6 +24,19 @@ Para **probar el lector con Snack en Android**:
 
 Si prefieres **no cambiar la versión actual de Expo Go**, activa GitHub Pages en Settings → Pages → Deploy from a branch → main → /docs → Save y usa https://alexfresquet-cmd.github.io/perspectiva/ desde el navegador del móvil. Esta versión web utiliza el mismo JSON de noticias, funciona fuera de casa y no depende de Expo Go.
 
+## Probar en Expo Go desde el móvil sin ordenador
+
+Puedes utilizar **GitHub Codespaces**, que ejecuta Metro en un entorno remoto. No utilizamos Snack y no es necesaria una segunda cuenta de Expo. El Codespace debe permanecer activo durante la prueba.
+
+1. En el móvil, abre https://codespaces.new/alexfresquet-cmd/perspectiva para crear un Codespace. El repositorio tiene `.devcontainer/devcontainer.json` para instalar dependencias durante el arranque.
+2. En la terminal del Codespace ejecuta `npm run dev:go` para arrancar Expo con túnel. Si se solicita instalar o autorizar Ngrok, acepta. Espera a que aparezca una URL `exp://` o un QR.
+3. Copia el enlace `exp://` y ábrelo con Expo Go o utiliza el lector QR de Expo Go desde otro dispositivo.
+4. Si Metro informa de incompatibilidades de dependencias, comprueba primero `npx expo install --check`, corrige las versiones sugeridas y vuelve a arrancar. La ejecución real en tu teléfono sigue pendiente de validación.
+
+En Codespaces, cuando hayas terminado, **detén el Codespace** desde GitHub para no consumir cuotas gratuitas innecesariamente. Metro dejará de servir la app al detenerlo; las noticias continúan disponibles a través de la versión web.
+
+**Para el uso diario**, está prevista una compilación APK independiente con EAS; requiere vincular el nuevo proyecto a tu misma cuenta de Expo y autorizar la compilación. GitHub por sí solo no puede servir una sesión Expo Go sin Metro.
+
 ## Actualizaciones
 La app consulta: https://raw.githubusercontent.com/alexfresquet-cmd/perspectiva/main/docs/data/edicion.json
 
