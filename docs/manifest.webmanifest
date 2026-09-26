@@ -1,0 +1,19 @@
+{
+  "name": "Perspectiva — El mundo, con contexto",
+  "short_name": "Perspectiva",
+  "description": "Tu lector personal de noticias y contexto.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F5EF",
+  "theme_color": "#172525",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
