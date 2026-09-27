@@ -1,53 +1,42 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-27-manana-v1",
-  "titulo": "Perspectiva · Edición del 27 de septiembre",
+  "edicion_id": "2026-09-27-internacional-v2",
+  "titulo": "Perspectiva · Edición internacional del 27 de septiembre",
   "fecha_edicion": "2026-09-27",
-  "actualizado_en": "2026-09-27T09:54:00+02:00",
+  "actualizado_en": "2026-09-27T13:00:00+02:00",
   "tipo": "real",
-  "nota_editorial": "Edición manual de la mañana del domingo 27/09/2026: 29 noticias, 8 positivas. Solo 1 noticia fue publicada el propio domingo y estaba verificada al cierre; el resto son acontecimientos y avances de los días anteriores, con fecha individual, que siguen siendo relevantes. No se simula actualidad que aún no está documentada. La portada incorpora la novedad confirmada sobre Ormuz, las protestas por la vivienda y el diálogo bilateral sobre IA. Los enlaces múltiples del mismo medio no equivalen a corroboración independiente. Los resultados preliminares, afirmaciones institucionales y anuncios se describen como tales. Sin deportes ni clasificaciones ideológicas no verificadas.",
+  "nota_editorial": "Perspectiva cambia a una mirada internacional. 29 historias de África, América del Norte y Latina, Asia, Oriente Próximo, Europa, Oceanía y cuestiones globales. 6 noticias positivas. Se han consultado medios internacionales y, en varios casos, fuentes africanas y organismos primarios; no se usa prensa española en la selección actual. Fecha editorial: 27/09/2026. La mayoría de artículos enlazados se publicaron del 21 al 26: no se presentan como hechos ocurridos hoy. Tres destacadas de continentes diferentes. Las noticias de actualidad no garantizan vigencia minuto a minuto, especialmente ante conflictos, emergencias y meteorología. Cuando un artículo republica información de una agencia se identifica expresamente, y las fuentes que pertenecen a un mismo proyecto o medio no cuentan como confirmación independiente. Las noticias positivas distinguen los avances comprobados de las expectativas futuras. Sin deportes, sin clasificaciones ideológicas supuestas y sin análisis comparativos no contrastados.",
   "noticias": [
     {
-      "id": "20260926-ormuz",
+      "id": "20260926-etiopia-tigray",
       "categoria": "Mundo",
-      "region": "Oriente Próximo",
+      "region": "África · Etiopía",
       "fecha": "2026-09-26",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Energía",
-        "Diplomacia"
+        "África",
+        "Conflictos"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Estados Unidos rechaza el plan iraní para reabrir el estrecho de Ormuz",
-      "entradilla": "Trump comunicó que no acepta la propuesta de siete días anunciada por Teherán; por ahora no existe un acuerdo de reapertura.",
-      "que_ha_pasado": "El presidente de Estados Unidos declaró el sábado que había rechazado el plan iraní para normalizar el tránsito por Ormuz. La oferta de Teherán incluía un alto el fuego regional temporal, medidas estadounidenses sobre bloqueo y sanciones y una reapertura escalonada. La declaración de Trump no resuelve las diferencias pendientes y el tránsito sigue sujeto a los efectos de la guerra.",
-      "contexto": "El paso marítimo es estratégico para el comercio de petróleo. Irán había presentado la iniciativa por mediación de Catar durante la semana de la Asamblea General de Naciones Unidas.",
-      "por_que_importa": "Sin un acuerdo y mecanismos de aplicación, el abastecimiento energético y los operadores de transporte continúan expuestos a interrupciones e incertidumbre.",
+      "titulo": "El resurgimiento de los combates en Tigray amenaza el acuerdo de paz etíope",
+      "entradilla": "Una alianza de grupos armados se enfrenta a las fuerzas federales; la situación militar y política continúa evolucionando.",
+      "que_ha_pasado": "Al Jazeera documentó la intensificación de combates entre el ejército federal de Etiopía y fuerzas de Tigray después de que varios grupos se aliaran. Su explicación se publicó el sábado y recoge el temor a que el acuerdo de 2022 se debilite.",
+      "contexto": "El conflicto anterior produjo un enorme coste humano y dejó asuntos territoriales y políticos sin resolver. La cobertura explica reivindicaciones y riesgos sin tratar como hechos demostrados todas las versiones de los contendientes.",
+      "por_que_importa": "Un nuevo ciclo de violencia amenaza a población desplazada, comunicaciones y servicios básicos en la región.",
       "que_se_sabe": [],
       "que_falta": [
-        "No hay calendario pactado de reapertura; las cifras de tránsito declaradas por las partes requieren contraste independiente."
+        "Es prematuro concluir que haya comenzado otra guerra civil generalizada."
       ],
       "fuentes": [
         {
-          "medio": "Agencia EFE",
-          "pais": "España",
+          "medio": "Al Jazeera",
+          "pais": "Catar",
           "fecha": "2026-09-26",
-          "url": "https://efe.com/mundo/2026-09-26/trump-plan-iran-reabrir-estrecho-ormuz/",
-          "titular": "Trump rechaza la propuesta iraní sobre Ormuz",
-          "extracto": "Incluye la declaración de rechazo y los elementos anunciados de la propuesta.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/",
-          "titular": "Teherán había planteado retomar conversaciones sobre Ormuz",
-          "extracto": "Antecedentes de las gestiones diplomáticas publicadas días antes.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray",
+          "titular": "Explicación de la escalada en Tigray",
+          "extracto": "Reportaje con antecedentes de la guerra, nueva alianza y situación territorial.",
+          "enfoque": "Reportaje con antecedentes de la guerra, nueva alianza y situación territorial.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -56,94 +45,212 @@
       "posicion_portada": 1
     },
     {
-      "id": "20260926-madrid-acampada",
-      "categoria": "Sociedad",
-      "region": "España",
-      "fecha": "2026-09-26",
-      "portada": true,
-      "destacada": true,
+      "id": "20260925-sudan-chad-acnur",
+      "categoria": "Mundo",
+      "region": "África · Sudán y Chad",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
       "etiquetas": [
-        "Vivienda",
-        "Madrid"
+        "África",
+        "Humanitario"
       ],
-      "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Las protestas por el desahucio de Maricarmen terminan en una acampada en la Puerta del Sol",
-      "entradilla": "Una manifestación por la vivienda dio paso el sábado por la noche a una acampada convocada por el Sindicato de Inquilinas.",
-      "que_ha_pasado": "Tras una marcha en Madrid motivada por el desahucio de una mujer de 87 años, manifestantes se concentraron y comenzaron a acampar en Sol. La Delegación del Gobierno cifró la marcha en 25.000 asistentes y la organización en más de 300.000; ambas estimaciones se presentan atribuidas.",
-      "contexto": "Las organizaciones participantes reclaman modificaciones en la protección de arrendatarios. La movilización coincide con negociaciones sobre posibles medidas de vivienda del Gobierno.",
-      "por_que_importa": "La evolución de la protesta y el contenido de cualquier iniciativa normativa determinarán si se producen cambios concretos para inquilinos y propietarios.",
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Más de 55.000 personas han huido de Sudán hacia Chad en 2026, según ACNUR",
+      "entradilla": "Las nuevas llegadas superan los recursos de acogida y la agencia de la ONU advierte de una importante falta de financiación.",
+      "que_ha_pasado": "ACNUR informó el viernes de que más de 55.000 personas habían cruzado a Chad desde Sudán este año. En algunos puestos fronterizos la llegada se ha acelerado a unos 400 refugiados diarios, mientras el llamamiento humanitario apenas está financiado en una quinta parte.",
+      "contexto": "Los combates y la inseguridad desplazan a familias sudanesas desde 2023. Chad ya acoge a una elevada población refugiada y la respuesta necesita alojamiento, agua y protección.",
+      "por_que_importa": "La falta de recursos puede empeorar las condiciones de las familias que llegan y de las comunidades anfitrionas.",
       "que_se_sabe": [],
       "que_falta": [
-        "El tamaño final de la acampada y las medidas que pueda aprobar el Consejo de Ministros."
+        "Los recuentos y necesidades pueden cambiar con las nuevas llegadas."
       ],
       "fuentes": [
         {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/espana/2026-09-26/acampada-puerta-del-sol-vivienda-desahucio-maricarmen/",
-          "titular": "Acampada por la crisis de vivienda tras la manifestación",
-          "extracto": "Relata la marcha y la concentración nocturna; diferencia las estimaciones de asistentes.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "medio": "ACNUR (UNHCR)",
+          "pais": "ONU",
+          "fecha": "2026-09-25",
+          "url": "https://www.unhcr.org/news/briefing-notes/unhcr-its-fourth-year-sudan-conflict-drives-new-displacement-chad-funding-falls",
+          "titular": "Informe sobre el desplazamiento de Sudán a Chad",
+          "extracto": "Fuente primaria de los datos de desplazamientos y financiación.",
+          "enfoque": "Fuente primaria de los datos de desplazamientos y financiación.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/espana/2026-09-26/multitudinaria-protesta-desahucio-maricarmen-madrid/",
-          "titular": "Multitudinaria protesta por el desahucio",
-          "extracto": "Cobertura de la marcha por la misma agencia; no cuenta como segunda fuente independiente.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "medio": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-09-25",
+          "url": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding",
+          "titular": "ACNUR advierte sobre el aumento de refugiados en Chad",
+          "extracto": "Cobertura periodística que explica el informe de ACNUR, no una segunda medición independiente.",
+          "enfoque": "Cobertura periodística que explica el informe de ACNUR, no una segunda medición independiente.",
           "orientacion": null,
           "titular_traducido": false
         }
       ],
-      "analisis_verificado": false,
-      "posicion_portada": 2
+      "analisis_verificado": false
     },
     {
-      "id": "20260926-china-eeuu-canal-ia",
-      "categoria": "Tecnología",
-      "region": "China y Estados Unidos",
-      "fecha": "2026-09-26",
-      "portada": true,
-      "destacada": true,
+      "id": "20260925-rdc-ebola-oms",
+      "categoria": "Sociedad",
+      "region": "África · República Democrática del Congo",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
       "etiquetas": [
-        "Inteligencia artificial",
-        "Diplomacia"
+        "Salud",
+        "África"
       ],
-      "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Estados Unidos y China acuerdan un canal de diálogo sobre los riesgos de la IA",
-      "entradilla": "Los dos gobiernos anuncian un mecanismo para intercambiar puntos de vista y comunicar incidentes.",
-      "que_ha_pasado": "Tras la visita de Xi Jinping a Washington, ambos países comunicaron la creación de un diálogo sobre lo que llamaron «superinteligencia», con un siguiente intercambio previsto para noviembre. También anunciaron un canal bilateral para incidentes relacionados con esta tecnología.",
-      "contexto": "Ambas potencias compiten en modelos y semiconductores, pero también han expresado preocupaciones por las aplicaciones y posibles incidentes de IA.",
-      "por_que_importa": "El nuevo mecanismo puede facilitar las comunicaciones, aunque su utilidad dependerá de las prácticas efectivas de intercambio y las reglas que adopten los participantes.",
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "La OMS confirma la extensión del brote de ébola a dos nuevas zonas sanitarias en la RDC",
+      "entradilla": "El virus Bundibugyo sigue afectando a comunidades y servicios médicos en siete provincias del país.",
+      "que_ha_pasado": "La Organización Mundial de la Salud comunicó el viernes que se han detectado casos en las zonas de Bulu y Dungu, elevando a 63 el número de zonas afectadas. Los 7.890 casos y 3.799 fallecimientos confirmados corresponden a su corte estadístico del 23 de septiembre, no al balance actual de hoy.",
+      "contexto": "El seguimiento es especialmente complejo donde coinciden desplazamientos, inseguridad y dificultades para llegar a centros sanitarios.",
+      "por_que_importa": "La expansión geográfica incrementa las necesidades de vigilancia, asistencia y cooperación sanitaria transfronteriza.",
       "que_se_sabe": [],
       "que_falta": [
-        "La agenda concreta del diálogo y su capacidad para resolver incidentes aún no han sido evaluadas."
+        "La cifra oficial es del 23 de septiembre; no extrapolarla a fechas posteriores."
       ],
       "fuentes": [
         {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/mundo/2026-09-26/china-eeuu-canal-dialogo-superinteligencia/",
-          "titular": "Acuerdo para un canal sobre superinteligencia",
-          "extracto": "Información basada en el comunicado de la Casa Blanca sobre la visita de Xi.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "medio": "Organización Mundial de la Salud",
+          "pais": "ONU",
+          "fecha": "2026-09-25",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON618",
+          "titular": "Parte epidemiológico de ébola en la RDC",
+          "extracto": "Boletín sanitario primario con definición de casos y fecha de corte.",
+          "enfoque": "Boletín sanitario primario con definición de casos y fecha de corte.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "Associated Press",
+          "medio": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-09-25",
+          "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says",
+          "titular": "El brote de ébola se extiende a otras dos zonas",
+          "extracto": "Recoge la actualización oficial y los obstáculos de la respuesta.",
+          "enfoque": "Recoge la actualización oficial y los obstáculos de la respuesta.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260925-sudsudan-dialogo",
+      "categoria": "Mundo",
+      "region": "África · Sudán del Sur",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Instituciones",
+        "África"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Sudán del Sur abre un diálogo entre partidos antes de las elecciones previstas",
+      "entradilla": "El Gobierno convoca conversaciones después de disolver la administración de transición; algunos grupos opositores rechazan el planteamiento.",
+      "que_ha_pasado": "Africanews informó el viernes de que el presidente Salva Kiir abrió un diálogo entre partidos en Yuba mientras el Ejecutivo mantiene en su calendario los comicios de diciembre. Partidos de oposición vinculados a Riek Machar han criticado el procedimiento.",
+      "contexto": "Reuters ya había informado de cambios en el marco electoral y de la disolución del Gobierno transitorio el 22 de septiembre. El calendario anunciado no garantiza por sí solo una votación efectivamente celebrada.",
+      "por_que_importa": "La discusión sobre normas, seguridad y participación afecta a la transición institucional del país.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No existe aquí una evaluación independiente de la viabilidad del calendario."
+      ],
+      "fuentes": [
+        {
+          "medio": "Africanews / Associated Press",
+          "pais": "África",
+          "fecha": "2026-09-25",
+          "url": "https://www.africanews.com/2026/09/25/south-sudan-kiir-opens-political-dialogue-ahead-of-december-elections/",
+          "titular": "Kiir abre un diálogo político",
+          "extracto": "Cobertura desde África basada en información de AP y declaraciones de los participantes.",
+          "enfoque": "Cobertura desde África basada en información de AP y declaraciones de los participantes.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Reuters",
           "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://apnews.com/article/d08e58524de21511dcaba51f43faad95",
-          "titular": "China y EE. UU. comparten inquietudes sobre riesgos de IA",
-          "extracto": "Describe las negociaciones previas y el contexto de competencia tecnológica.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "fecha": "2026-09-22",
+          "url": "https://www.reuters.com/world/africa/south-sudans-president-signs-election-law-changes-ahead-december-vote-2026-09-22/",
+          "titular": "Cambios legales y disolución del Gobierno de transición",
+          "extracto": "Antecedente documental sobre el marco anunciado.",
+          "enfoque": "Antecedente documental sobre el marco anunciado.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260925-chad-buitres",
+      "categoria": "Ciencia",
+      "region": "África · Chad",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Biodiversidad",
+        "Investigación"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Un estudio localiza 113 buitres encapuchados en el entorno de Yamena",
+      "entradilla": "El trabajo combina recuentos de campo y entrevistas para identificar riesgos de una especie en peligro crítico.",
+      "que_ha_pasado": "Un investigador chadiano y sus colaboradores estudiaron once lugares de Yamena y alrededores y estimaron 113 individuos. El estudio detectó importantes diferencias de presencia entre zonas y señaló el envenenamiento y la caza furtiva entre las amenazas registradas.",
+      "contexto": "La especie ayuda a eliminar restos orgánicos, pero sus poblaciones han disminuido y los recursos alimentarios por sí solos no explican dónde sobrevive.",
+      "por_que_importa": "El mapa de campo ofrece información útil para diseñar protección focalizada; no demuestra todavía que la población esté recuperándose.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Hacen falta series temporales y medidas efectivas contra envenenamiento y comercio ilegal."
+      ],
+      "fuentes": [
+        {
+          "medio": "Phys.org / estudio de campo",
+          "pais": "Internacional / Chad",
+          "fecha": "2026-09-25",
+          "url": "https://phys.org/news/2026-09-critically-endangered-species-heart-africa.html",
+          "titular": "Investigación sobre buitres encapuchados en Chad",
+          "extracto": "Divulgación de los métodos, los datos y las amenazas detectadas.",
+          "enfoque": "Divulgación de los métodos, los datos y las amenazas detectadas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260922-colombia-incendios",
+      "categoria": "Mundo",
+      "region": "América Latina · Colombia",
+      "fecha": "2026-09-22",
+      "portada": true,
+      "destacada": true,
+      "etiquetas": [
+        "Clima",
+        "América Latina"
+      ],
+      "etiqueta_editorial": "EN PORTADA",
+      "titulo": "Colombia declara la calamidad pública ante un incendio que amenaza Villa de Leyva",
+      "entradilla": "Equipos de emergencia afrontan un gran incendio forestal en un contexto regional de calor y sequedad.",
+      "que_ha_pasado": "Associated Press informó esta semana de la declaración de calamidad pública por el incendio próximo a Villa de Leyva y del despliegue de brigadas y aeronaves. Los datos de superficie quemada y evacuaciones corresponden al momento de publicación.",
+      "contexto": "El episodio coincide con una época seca exacerbada por El Niño. El riesgo de incendios también afecta a regiones vecinas, pero cada foco exige seguimiento local.",
+      "por_que_importa": "La respuesta inmediata protege a la población y patrimonio natural; la recuperación forestal y el origen del incendio siguen siendo asuntos pendientes.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No presentar el balance del 22 de septiembre como situación operativa actual; consultar autoridades colombianas para alertas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/8a280acc2c50b1877766dcc3a7f3d6b8",
+          "titular": "Emergencia por incendio junto a Villa de Leyva",
+          "extracto": "Datos de autoridades y trabajos de extinción recogidos por la agencia.",
+          "enfoque": "Datos de autoridades y trabajos de extinción recogidos por la agencia.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -152,118 +259,46 @@
       "posicion_portada": 3
     },
     {
-      "id": "20260927-cine-san-sebastian",
-      "categoria": "Sociedad",
-      "region": "España y Latinoamérica",
-      "fecha": "2026-09-27",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Cultura",
-        "Cine"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El Festival de San Sebastián reconoce al cine argentino en su gala de clausura",
-      "entradilla": "El documental argentino «La ilusión de un verano sin fin» obtuvo el premio Horizontes Latinos y el Premio de la Juventud.",
-      "que_ha_pasado": "La película de Alessandra Sanguinetti recibió dos reconocimientos en el festival. La gala también distinguió producciones de otros países y registró mensajes de cineastas sobre la situación en Palestina, según la crónica de EFE publicada este domingo.",
-      "contexto": "La edición reunió obras de múltiples cinematografías y diferentes secciones de competición. Los premios tienen categorías y jurados distintos; no constituyen una clasificación universal de calidad.",
-      "por_que_importa": "Los reconocimientos ofrecen visibilidad y oportunidades de distribución a proyectos de cine independientes y latinoamericanos.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Pendiente la distribución comercial en distintos países de algunas películas premiadas."
-      ],
-      "fuentes": [
-        {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-27",
-          "url": "https://efe.com/cultura/2026-09-27/festival-de-cine-de-san-sebastian-premios/",
-          "titular": "Reconocimiento al cine argentino en la clausura",
-          "extracto": "Crónica publicada el domingo sobre el palmarés y las intervenciones de la gala.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-espana-sumar-vivienda",
-      "categoria": "Sociedad",
-      "region": "España",
+      "id": "20260926-venezuela-ny",
+      "categoria": "Economía",
+      "region": "América Latina · Venezuela",
       "fecha": "2026-09-26",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Vivienda",
-        "Instituciones"
+        "Diplomacia",
+        "Economía"
       ],
       "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Sumar condiciona su asistencia al próximo Consejo de Ministros a las medidas de vivienda",
-      "entradilla": "La formación reclama la inclusión de un paquete específico; la decisión gubernamental todavía no se ha producido.",
-      "que_ha_pasado": "Sumar comunicó el sábado que no acudiría a la próxima reunión del Consejo de Ministros si no se incorporaba un paquete de medidas de vivienda para aprobar por decreto. La declaración es una posición política anunciada, no una suspensión efectiva de la reunión ni una nueva norma aprobada.",
-      "contexto": "El comunicado se publicó en un contexto de movilizaciones por el acceso a la vivienda y el desahucio de Maricarmen en Madrid.",
-      "por_que_importa": "Las negociaciones pueden traducirse en propuestas de distinta aplicación jurídica; hay que esperar al texto normativo para conocer su alcance.",
+      "titulo": "Venezuela concluye su visita a Nueva York sin anunciar los acuerdos económicos que buscaba",
+      "entradilla": "Los contactos sobre energía, minería y deuda no se tradujeron en anuncios cerrados durante el viaje, según un análisis de Reuters.",
+      "que_ha_pasado": "Reuters describió que la presidenta interina Delcy Rodríguez regresó de la Asamblea General después de reunirse con representantes internacionales y de buscar acuerdos sobre deuda y sectores extractivos. La agencia informó de la ausencia de compromisos económicos definitivos anunciados durante la visita.",
+      "contexto": "Los contactos se desarrollan mientras Venezuela busca financiación y discute su transición política. Las intenciones de cada Gobierno se presentan atribuidas y no como certezas sobre sus motivaciones.",
+      "por_que_importa": "Lo relevante será el contenido público de cualquier acuerdo futuro, las obligaciones financieras y el calendario institucional que llegue a confirmarse.",
       "que_se_sabe": [],
       "que_falta": [
-        "Texto de las medidas, posición del resto del Gobierno y decisión del Consejo."
+        "La evolución de las negociaciones y el contenido de futuros acuerdos requieren seguimiento."
       ],
       "fuentes": [
         {
-          "medio": "Agencia EFE",
-          "pais": "España",
+          "medio": "Reuters (publicado por Internazionale)",
+          "pais": "Internacional / Italia",
           "fecha": "2026-09-26",
-          "url": "https://efe.com/espana/2026-09-26/sumar-plante-consejo-ministros-medidas-crisis-vivienda/",
-          "titular": "Sumar advierte sobre su asistencia al Consejo de Ministros",
-          "extracto": "Recoge el comunicado de la formación y su contexto.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-mexico-polo",
-      "categoria": "Mundo",
-      "region": "México",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Clima",
-        "Seguridad"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El huracán Polo mantiene la alerta por lluvias intensas en varios estados de México",
-      "entradilla": "El servicio meteorológico mexicano advirtió el sábado de precipitaciones asociadas al ciclón y a otros sistemas.",
-      "que_ha_pasado": "El Servicio Meteorológico Nacional, citado por EFE, previó lluvias fuertes o intensas en 17 estados debido a la circulación de Polo y otros fenómenos meteorológicos. El informe situaba al huracán en categoría 5 en el momento del reporte; su intensidad y trayectoria pueden cambiar rápidamente.",
-      "contexto": "Las lluvias pueden producir crecidas e inundaciones incluso donde el núcleo del huracán no toca tierra.",
-      "por_que_importa": "Las recomendaciones prácticas deben seguir los avisos actualizados de las autoridades locales: una previsión del sábado no describe necesariamente la situación actual del domingo.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Consultar avisos meteorológicos oficiales actualizados; la trayectoria prevista puede cambiar."
-      ],
-      "fuentes": [
-        {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/mundo/2026-09-26/huracan-polo-mexico-lluvias/",
-          "titular": "Polo y otros sistemas generan alerta por precipitaciones",
-          "extracto": "Resume el aviso del Servicio Meteorológico Nacional.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/26/analysis-venezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date",
+          "titular": "Análisis: la visita de Rodríguez concluye sin acuerdos anunciados",
+          "extracto": "Reproducción identificada de la información de Reuters; no es una segunda fuente.",
+          "enfoque": "Reproducción identificada de la información de Reuters; no es una segunda fuente.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "Associated Press",
+          "medio": "Reuters",
           "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://apnews.com/article/a6c1c226c878a236442a8e1a7f37211b",
-          "titular": "Polo alcanza la categoría 5 frente a México",
-          "extracto": "Antecedentes sobre el fortalecimiento del ciclón.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "fecha": "2026-09-21",
+          "url": "https://www.reuters.com/world/americas/venezuelan-delegation-led-by-rodriguez-discuss-debt-energy-us-sources-say-2026-09-21/",
+          "titular": "Los asuntos económicos que Venezuela llevó a Nueva York",
+          "extracto": "Información previa de la misma agencia sobre agenda energética, minería y deuda.",
+          "enfoque": "Información previa de la misma agencia sobre agenda energética, minería y deuda.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -271,228 +306,431 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-nuevas-normas-trafico",
-      "categoria": "Sociedad",
-      "region": "España",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Seguridad vial",
-        "Normativa"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Las nuevas normas españolas de circulación entrarán en vigor el 1 de octubre",
-      "entradilla": "La reforma incluye obligaciones para usuarios de patinetes, motocicletas y bicicletas.",
-      "que_ha_pasado": "EFE detalla medidas de la reforma del Reglamento General de Circulación: edad mínima de 15 años para patinetes, requisitos de casco y elementos reflectantes en los supuestos previstos y cambios de seguridad para motoristas y ciclistas. La noticia se publica antes de la entrada en vigor.",
-      "contexto": "La regulación diferencia categorías de vehículos y situaciones de circulación; no todas las obligaciones son idénticas para todos los usuarios.",
-      "por_que_importa": "Conocer los cambios antes del 1 de octubre ayuda a evitar infracciones y a preparar los elementos de seguridad exigidos.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Revisar el texto oficial y posibles instrucciones de aplicación en casos concretos."
-      ],
-      "fuentes": [
-        {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/espana/2026-09-26/nuevas-normas-trafico-reforma-reglamento-circulacion/",
-          "titular": "Nuevos requisitos para patinetes, motos y bicicletas",
-          "extracto": "Incluye las disposiciones y condiciones principales.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-china-onu",
+      "id": "20260922-brasil-onu",
       "categoria": "Mundo",
-      "region": "Naciones Unidas / China",
-      "fecha": "2026-09-26",
+      "region": "América Latina · Brasil",
+      "fecha": "2026-09-22",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "ONU",
-        "Asia"
+        "Brasil"
       ],
       "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "China defiende el multilateralismo en su intervención ante la Asamblea General de la ONU",
-      "entradilla": "El vicepresidente Han Zheng expuso la posición de su Gobierno ante representantes internacionales.",
-      "que_ha_pasado": "Han Zheng afirmó en la Asamblea General que China defiende una visión de seguridad basada en cooperación y reclamó una gobernanza abierta de la inteligencia artificial. Se trata de las posiciones expresadas por el representante chino, no de acuerdos multilaterales adoptados durante su intervención.",
-      "contexto": "La semana de alto nivel reúne a representantes estatales con prioridades distintas y declaraciones que deben distinguirse de decisiones institucionales.",
-      "por_que_importa": "El discurso expone prioridades diplomáticas de Pekín en un contexto de competencia tecnológica y conflictos internacionales.",
+      "titulo": "Lula denuncia ante la ONU posibles injerencias extranjeras en procesos electorales",
+      "entradilla": "El presidente brasileño defendió la soberanía electoral de su país y pidió cambios en la gobernanza internacional.",
+      "que_ha_pasado": "Durante la Asamblea General, Luiz Inácio Lula da Silva expresó críticas hacia lo que considera intentos externos de influir en la política de Brasil y defendió la capacidad de sus instituciones electorales. Son declaraciones de su intervención, no una conclusión independiente sobre la existencia de una injerencia concreta.",
+      "contexto": "El mensaje se produce en un periodo de tensiones diplomáticas y de debate brasileño sobre seguridad, comercio y las próximas elecciones.",
+      "por_que_importa": "Permite conocer la posición oficial brasileña; cualquier acusación específica necesitaría pruebas verificables por separado.",
       "que_se_sabe": [],
       "que_falta": [
-        "No se derivan compromisos vinculantes de una declaración en la Asamblea General."
-      ],
-      "fuentes": [
-        {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/mundo/2026-09-26/china-onu-fuerza-estabilizadora-bloques/",
-          "titular": "Han Zheng reivindica la cooperación internacional",
-          "extracto": "Crónica de la intervención china ante Naciones Unidas.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-chile-fosiles",
-      "categoria": "Noticias positivas",
-      "region": "Chile y Madagascar",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Patrimonio",
-        "Ciencia"
-      ],
-      "etiqueta_editorial": "AVANCE COMPROBADO",
-      "titulo": "Chile intercepta 222 fósiles marinos de contrabando y estudia su devolución",
-      "entradilla": "Las autoridades identificaron un cargamento declarado como objetos decorativos que contenía amonites antiguos.",
-      "que_ha_pasado": "La Aduana chilena anunció el hallazgo en el puerto de San Antonio de 222 fósiles de unos 110 millones de años, con origen atribuido a Madagascar por especialistas. Las autoridades aguardan la confirmación del país de origen para resolver su situación patrimonial.",
-      "contexto": "El comercio ilícito de bienes paleontológicos dificulta la conservación y el estudio científico del patrimonio.",
-      "por_que_importa": "Recuperar las piezas permite protegerlas mientras se esclarecen su procedencia y su posible restitución.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Confirmación del origen por Madagascar y decisión sobre custodia o devolución."
-      ],
-      "fuentes": [
-        {
-          "medio": "Agencia EFE",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://efe.com/mundo/2026-09-26/chile-fosiles-marinos-contrabando/",
-          "titular": "Chile recupera 222 fósiles marinos de contrabando",
-          "extracto": "Información de Aduanas y especialistas sobre las piezas.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-praderas-marinas",
-      "categoria": "Noticias positivas",
-      "region": "Reino Unido",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Conservación",
-        "Biodiversidad"
-      ],
-      "etiqueta_editorial": "AVANCE COMPROBADO",
-      "titulo": "Los amarres ecológicos ayudan a recuperar praderas marinas en una bahía británica",
-      "entradilla": "Un estudio observa la reducción de las cicatrices que dejaban las anclas tradicionales.",
-      "que_ha_pasado": "Una investigación realizada con datos de Studland Bay, Dorset, ha observado que algunas zonas dañadas de las praderas de fanerógamas marinas redujeron sus cicatrices más del 90 % tras la instalación de amarres que evitan arrastrar cadenas por el fondo.",
-      "contexto": "Las praderas proporcionan hábitat para especies como los caballitos de mar y contribuyen al almacenamiento de carbono y la protección costera. El resultado corresponde a un lugar y periodo específicos.",
-      "por_que_importa": "Es un ejemplo documentado de una intervención de conservación con mejoras medibles, aunque no prueba que todas las bahías respondan igual.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Estudiar la evolución más allá de cuatro años y la aplicabilidad en otros lugares."
-      ],
-      "fuentes": [
-        {
-          "medio": "National Trust",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-21",
-          "url": "https://www.nationaltrust.org.uk/services/media/2026/september/first-clear-evidence-eco-moorings-restore-seagrass",
-          "titular": "Primera evidencia de recuperación de praderas con ecoamarres",
-          "extracto": "Comunicado que describe el estudio, sus métodos y el resultado observado.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "BBC (reproducido por Yahoo)",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-26",
-          "url": "https://currently.att.yahoo.com/att/seahorse-habitats-healing-thanks-eco-061042334.html",
-          "titular": "Mejora de hábitats de caballitos de mar gracias a amarres",
-          "extracto": "Información de BBC reproducida por Yahoo sobre el estudio y los límites de su alcance.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-drones-desfibriladores",
-      "categoria": "Noticias positivas",
-      "region": "Francia",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Salud",
-        "Innovación"
-      ],
-      "etiqueta_editorial": "AVANCE COMPROBADO",
-      "titulo": "Un estudio plantea utilizar drones para acercar desfibriladores a emergencias",
-      "entradilla": "Un modelo basado en paradas cardíacas de la región de París examina cómo mejorar el acceso rápido a estos equipos.",
-      "que_ha_pasado": "Investigadores analizaron más de 28.000 paradas cardíacas extrahospitalarias en áreas de la región parisina y compararon la accesibilidad de desfibriladores fijos con escenarios que incluyen bases para drones. Según el modelo, una red combinada podría ampliar considerablemente la cobertura.",
-      "contexto": "Las posibilidades técnicas se estudian en sistemas de emergencia, pero el análisis no equivale a una implantación que ya haya demostrado reducir la mortalidad.",
-      "por_que_importa": "Si se valida en la práctica y los costes son asumibles, el reparto por drones podría acortar el acceso a dispositivos en algunas zonas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Validación sobre tiempos reales de entrega, normativa aérea, costes y resultados clínicos."
-      ],
-      "fuentes": [
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-26",
-          "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
-          "titular": "Drones para acelerar el acceso a desfibriladores",
-          "extracto": "Cobertura de un estudio presentado en un congreso; todavía no revisado por pares.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-ucrania-ataques",
-      "categoria": "Mundo",
-      "region": "Ucrania y Rusia",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Guerra",
-        "Europa"
-      ],
-      "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Rusia y Ucrania intercambian ataques mientras continúan las víctimas civiles",
-      "entradilla": "Una nueva jornada de ataques aéreos mantiene el coste humano y los daños en infraestructuras.",
-      "que_ha_pasado": "Associated Press informó el sábado de siete muertos en ataques intercambiados entre Rusia y Ucrania. El balance corresponde al momento de la publicación y podría cambiar a medida que se completen las verificaciones.",
-      "contexto": "La guerra continúa durante los contactos diplomáticos de la Asamblea General de la ONU; los ataques afectan a población civil e instalaciones en distintos territorios.",
-      "por_que_importa": "La evolución de los ataques y los posibles compromisos sobre infraestructura civil tienen efectos humanitarios y económicos.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Confirmación independiente de todos los balances y la evolución de los daños."
+        "No tomar afirmaciones políticas atribuidas como hechos demostrados sin evidencia adicional."
       ],
       "fuentes": [
         {
           "medio": "Associated Press",
-          "pais": "EE. UU.",
-          "fecha": "2026-09-26",
-          "url": "https://gmg-wdiv-prod.cdn.arcpublishing.com/news/world/2026/09/26/7-dead-as-russia-ukraine-exchange-strikes-and-aerial-war-intensifies/",
-          "titular": "Siete muertos mientras Rusia y Ucrania intercambian ataques",
-          "extracto": "Cobertura de Associated Press reproducida por un medio asociado, con balances preliminares.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "pais": "Estados Unidos",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/767e63e2ffd5a2898c84f290de816ff7",
+          "titular": "Discurso de Lula ante Naciones Unidas",
+          "extracto": "Cobertura de los argumentos del presidente brasileño y sus críticas.",
+          "enfoque": "Cobertura de los argumentos del presidente brasileño y sus críticas.",
           "orientacion": null,
-          "titular_traducido": true
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260922-latam-visita",
+      "categoria": "Sociedad",
+      "region": "América Latina · Uruguay, Argentina y Perú",
+      "fecha": "2026-09-22",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Sociedad",
+        "Cultura"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "El Vaticano anuncia una gira de León XIV por Uruguay, Argentina y Perú",
+      "entradilla": "El viaje previsto para noviembre incluirá actos públicos y una vuelta del pontífice a localidades peruanas donde desarrolló su labor pastoral.",
+      "que_ha_pasado": "Associated Press informó de la agenda anunciada para el 6 al 17 de noviembre, con visitas a los tres países sudamericanos. El programa presta atención a encuentros comunitarios y celebraciones religiosas.",
+      "contexto": "El pontífice tiene vínculos personales con Perú. El viaje es futuro y puede experimentar cambios logísticos.",
+      "por_que_importa": "Los actos concentrarán atención cultural y social en varios países latinoamericanos; las repercusiones deberán evaluarse después de celebrarse.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Confirmación final de cada etapa y realización del viaje."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / América Latina",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/61b5070aae066765003a87ea5a063af8",
+          "titular": "El papa programa visitas a Uruguay, Argentina y Perú",
+          "extracto": "Información sobre las fechas y el itinerario anunciado.",
+          "enfoque": "Información sobre las fechas y el itinerario anunciado.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260921-eeuu-control-aereo",
+      "categoria": "Tecnología",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-09-21",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Infraestructura",
+        "Transporte"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Una avería en comunicaciones interrumpe cientos de vuelos en el noreste de EE. UU.",
+      "entradilla": "Las operaciones se recuperaron, pero el episodio expuso vulnerabilidades de sistemas aeronáuticos esenciales.",
+      "que_ha_pasado": "Reuters y Associated Press informaron de interrupciones en aeropuertos próximos a Nueva York y Filadelfia por la caída de una conexión principal y el daño accidental a una línea de respaldo. La circulación aérea fue recuperándose después de las reparaciones.",
+      "contexto": "El sistema de control aéreo depende de redundancias técnicas. Una incidencia de comunicaciones puede tener efectos sobre rutas y viajeros incluso después de la reparación.",
+      "por_que_importa": "El episodio aporta contexto al debate sobre mantenimiento y modernización, sin presentarlo como una interrupción activa hoy.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Impacto definitivo y resultados de las revisiones técnicas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-09-21",
+          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+          "titular": "Incidencia en comunicaciones de control aéreo",
+          "extracto": "Detalla las interrupciones y recuperación del sistema.",
+          "enfoque": "Detalla las interrupciones y recuperación del sistema.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/05e563809c8f954e175dfb93b9cf781d",
+          "titular": "La actividad aérea vuelve a normalizarse",
+          "extracto": "Seguimiento del día siguiente con explicación de las líneas afectadas.",
+          "enfoque": "Seguimiento del día siguiente con explicación de las líneas afectadas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260923-indonesia-humo",
+      "categoria": "Sociedad",
+      "region": "Asia sudoriental · Indonesia",
+      "fecha": "2026-09-23",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Clima",
+        "Salud"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "El humo de los incendios en Indonesia se relaciona con unas 175.000 afecciones respiratorias",
+      "entradilla": "Los incendios en Sumatra y Borneo afectan también a la calidad del aire de países vecinos.",
+      "que_ha_pasado": "Según datos de las autoridades sanitarias de Indonesia difundidos por BBC, desde agosto se habían registrado unas 175.000 afecciones respiratorias vinculadas al humo, más de 40.000 de ellas en niños muy pequeños. The Guardian publicó un reportaje visual sobre los incendios y su alcance transfronterizo.",
+      "contexto": "El fenómeno El Niño agrava la sequedad de terrenos donde también influyen actividades humanas y la quema de vegetación. Las cifras reflejan un corte temporal y no son un balance actualizado al domingo.",
+      "por_que_importa": "El daño respiratorio y la reducción de visibilidad requieren respuestas sanitarias y de prevención ambiental coordinadas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Balance actualizado de incendios y efectos médicos después del 23 de septiembre."
+      ],
+      "fuentes": [
+        {
+          "medio": "BBC (reproducido por MyJoyOnline)",
+          "pais": "Reino Unido / Ghana",
+          "fecha": "2026-09-23",
+          "url": "https://www.myjoyonline.com/more-than-170000-respiratory-cases-recorded-in-haze-choked-indonesia/",
+          "titular": "175.000 casos respiratorios en Indonesia",
+          "extracto": "Reproducción identificada de BBC con la cifra atribuida al ministerio de Salud.",
+          "enfoque": "Reproducción identificada de BBC con la cifra atribuida al ministerio de Salud.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-21",
+          "url": "https://www.theguardian.com/world/2026/sep/21/indonesia-borneo-sumatra-fires-smoke-toxic-air",
+          "titular": "Cómo el humo afecta a millones en Indonesia",
+          "extracto": "Reportaje visual sobre incendios, causas e impactos sobre comunidades.",
+          "enfoque": "Reportaje visual sobre incendios, causas e impactos sobre comunidades.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260923-india-redes",
+      "categoria": "Economía",
+      "region": "Asia meridional · India",
+      "fecha": "2026-09-23",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "India",
+        "Energía"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "India amplía su generación eléctrica de bajas emisiones, pero la red limita su aprovechamiento",
+      "entradilla": "El aumento de la capacidad instalada convive con problemas de evacuación de electricidad renovable.",
+      "que_ha_pasado": "BBC informa de que la generación procedente de fuentes no fósiles alcanzó brevemente más de la mitad de la demanda máxima india en julio. Sin embargo, los cuellos de botella de la red provocan vertidos de energía y el carbón sigue aportando la mayoría de la generación anual.",
+      "contexto": "Una potencia instalada mayor no se transforma automáticamente en la misma proporción de electricidad utilizada: cuentan el horario de producción, las redes y la flexibilidad del sistema.",
+      "por_que_importa": "Los resultados ilustran tanto los avances de instalación como el coste de retrasar las infraestructuras eléctricas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Planes y resultados de ampliación de la red y almacenamiento."
+      ],
+      "fuentes": [
+        {
+          "medio": "BBC News",
+          "pais": "Reino Unido / corresponsalía en India",
+          "fecha": "2026-09-23",
+          "url": "https://www.bbc.com/news/articles/c8xkvzlz0x4o",
+          "titular": "India produce más energía limpia, pero desperdicia parte",
+          "extracto": "Reportaje sobre datos de generación, capacidad instalada y límites de red.",
+          "enfoque": "Reportaje sobre datos de generación, capacidad instalada y límites de red.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260922-asia-nino",
+      "categoria": "Medioambiente",
+      "region": "Asia oriental y sudoriental",
+      "fecha": "2026-09-22",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Clima",
+        "Agricultura"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "El Niño eleva el riesgo de sequía e impactos sobre alimentos en Asia",
+      "entradilla": "Una evaluación periodística reúne previsiones agrícolas y condiciones meteorológicas en varias economías asiáticas.",
+      "que_ha_pasado": "Associated Press documentó el desarrollo de un fenómeno El Niño muy intenso y las preocupaciones por temperaturas, incendios y agua disponible para cultivos en varios países asiáticos. Algunas previsiones de precio o pérdidas son escenarios, no datos que ya hayan ocurrido.",
+      "contexto": "Una parte importante de la producción mundial de arroz, aceite de palma y otros alimentos procede de regiones sensibles a las lluvias monzónicas.",
+      "por_que_importa": "La evolución meteorológica puede afectar cosechas y precios internacionales, especialmente a hogares con recursos limitados.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La intensidad exacta, las pérdidas y las variaciones futuras de precios no están determinadas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Asia",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/31c88df9ce8f67bcbfe3ea7f39431d57",
+          "titular": "El Niño agrava los riesgos climáticos y agrícolas en Asia",
+          "extracto": "Análisis con datos sobre las condiciones esperadas y los riesgos agrícolas.",
+          "enfoque": "Análisis con datos sobre las condiciones esperadas y los riesgos agrícolas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260922-india-minerales",
+      "categoria": "Economía",
+      "region": "Asia · India, Indonesia y Filipinas",
+      "fecha": "2026-09-22",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Industria",
+        "Asia"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Una empresa india proyecta adquirir minas de níquel en Indonesia y Filipinas",
+      "entradilla": "Lohum quiere aumentar su suministro de minerales para baterías combinando reciclaje y extracción.",
+      "que_ha_pasado": "Reuters informó de que la compañía india busca adquirir activos mineros y multiplicar su producción de níquel. Son objetivos empresariales, no adquisiciones ya completadas.",
+      "contexto": "Los vehículos eléctricos y las redes de almacenamiento dependen de minerales cuya extracción tiene implicaciones económicas y ambientales.",
+      "por_que_importa": "El proyecto muestra nuevas alianzas industriales en Asia, pendientes de acuerdos, financiación y controles sobre impactos locales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Negociación de las minas, impacto ambiental y capacidad productiva que se alcance."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / India",
+          "fecha": "2026-09-22",
+          "url": "https://www.reuters.com/world/india/indias-lohum-seeks-buy-nickel-mines-indonesia-philippines-2026-09-22/",
+          "titular": "Lohum busca minas de níquel en Asia",
+          "extracto": "Informa de la estrategia y de las cifras comunicadas por la empresa.",
+          "enfoque": "Informa de la estrategia y de las cifras comunicadas por la empresa.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-ormuz-rechazo-internacional",
+      "categoria": "Mundo",
+      "region": "Oriente Próximo · Irán y Estados Unidos",
+      "fecha": "2026-09-26",
+      "portada": true,
+      "destacada": true,
+      "etiquetas": [
+        "Diplomacia",
+        "Energía"
+      ],
+      "etiqueta_editorial": "EN PORTADA",
+      "titulo": "Estados Unidos rechaza la propuesta iraní de siete días para reabrir Ormuz",
+      "entradilla": "El planteamiento comunicado por Irán a través de Catar no ha generado un acuerdo para normalizar el paso marítimo.",
+      "que_ha_pasado": "Al Jazeera documentó que Donald Trump comunicó el sábado su rechazo a la propuesta iraní. El día anterior, el ministro iraní de Exteriores había presentado en la ONU un plan condicionado que incluía medidas sobre bloqueo y sanciones estadounidenses, un alto el fuego regional y la reapertura del estrecho.",
+      "contexto": "Ormuz es una vía clave para el transporte energético. Las declaraciones de los dos gobiernos reflejan posiciones negociadoras que no equivalen a hechos ejecutados.",
+      "por_que_importa": "Sin acuerdo sobre condiciones y aplicación, los riesgos para abastecimiento energético y transporte continúan.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No existe acuerdo definitivo ni una reapertura verificada atribuible a este plan."
+      ],
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-09-26",
+          "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
+          "titular": "Trump rechaza la propuesta iraní",
+          "extracto": "Recoge la declaración del presidente estadounidense y la respuesta iraní.",
+          "enfoque": "Recoge la declaración del presidente estadounidense y la respuesta iraní.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-09-25",
+          "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
+          "titular": "El contenido del plan iraní de siete días",
+          "extracto": "Antecedente del mismo medio, no una corroboración independiente.",
+          "enfoque": "Antecedente del mismo medio, no una corroboración independiente.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false,
+      "posicion_portada": 2
+    },
+    {
+      "id": "20260921-yemen-huties",
+      "categoria": "Mundo",
+      "region": "Oriente Próximo · Yemen",
+      "fecha": "2026-09-21",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Conflictos",
+        "Humanitario"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Los hutíes avanzan hacia zonas montañosas estratégicas de Yemen",
+      "entradilla": "La ofensiva añade presión militar y humanitaria a la crisis de la península arábiga.",
+      "que_ha_pasado": "Reuters informó de un avance hutí para ganar posiciones en zonas montañosas de las provincias de Taiz y Lahj. La cobertura cita datos de desplazamiento de Naciones Unidas y diferentes versiones sobre la posible respuesta exterior.",
+      "contexto": "El conflicto en Yemen interactúa con las tensiones regionales y las rutas de navegación del mar Rojo. Las cifras y el control territorial pueden cambiar.",
+      "por_que_importa": "La seguridad de comunidades desplazadas y corredores comerciales depende de cómo evolucione la confrontación.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Confirmar cualquier cambio territorial más reciente y la respuesta internacional."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-09-21",
+          "url": "https://www.reuters.com/world/middle-east/houthis-push-control-yemen-highlands-trump-reported-have-called-off-airstrikes-2026-09-21/",
+          "titular": "Ofensiva hutí hacia tierras altas de Yemen",
+          "extracto": "Explica posiciones estratégicas y cita fuentes humanitarias.",
+          "enfoque": "Explica posiciones estratégicas y cita fuentes humanitarias.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260923-australia-floracion",
+      "categoria": "Noticias positivas",
+      "region": "Oceanía · Australia",
+      "fecha": "2026-09-23",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Naturaleza",
+        "Australia"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Las lluvias provocan extensas floraciones silvestres en áreas áridas de Australia",
+      "entradilla": "Imágenes de satélite muestran cómo cambió el paisaje del oeste australiano respecto al año anterior.",
+      "que_ha_pasado": "NASA Earth Observatory publicó imágenes captadas por Landsat 8 que comparan agosto de 2025 con agosto de 2026 en Murchison. Tras varios meses lluviosos aparecieron grandes extensiones de flores y vegetación.",
+      "contexto": "Las semillas de especies propias de zonas áridas pueden permanecer latentes hasta que llegan condiciones favorables de humedad.",
+      "por_que_importa": "Es un fenómeno natural documentado con evidencia visual. La floración no demuestra por sí sola una recuperación ecológica permanente.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Se desconoce cuánto durará el fenómeno y sus impactos ecológicos a largo plazo."
+      ],
+      "fuentes": [
+        {
+          "medio": "NASA Earth Observatory",
+          "pais": "Estados Unidos / datos de Australia",
+          "fecha": "2026-09-23",
+          "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+          "titular": "Gran floración en el oeste australiano",
+          "extracto": "Imágenes y explicación meteorológica basadas en satélites y datos australianos.",
+          "enfoque": "Imágenes y explicación meteorológica basadas en satélites y datos australianos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260925-eeuu-fagos",
+      "categoria": "Noticias positivas",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Investigación",
+        "Salud"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Investigadores reúnen una biblioteca de virus que infectan bacterias resistentes",
+      "entradilla": "Un equipo de la Universidad de Colorado lleva años conservando bacteriófagos para explorar tratamientos complementarios.",
+      "que_ha_pasado": "Investigadores de la Universidad de Colorado Anschutz han reunido y caracterizado bacteriófagos que infectan bacterias intestinales difíciles de tratar. El proyecto busca ampliar opciones de investigación en combinación con antibióticos.",
+      "contexto": "Los fagos son virus que infectan bacterias; su especificidad exige conocer cada combinación fago-bacteria. Las bacterias también pueden desarrollar resistencia.",
+      "por_que_importa": "La colección es infraestructura científica útil para futuros estudios, no un tratamiento universal ya validado.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Resultados de tratamientos específicos en pacientes y pruebas de seguridad."
+      ],
+      "fuentes": [
+        {
+          "medio": "Phys.org / Universidad de Colorado",
+          "pais": "Estados Unidos",
+          "fecha": "2026-09-25",
+          "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
+          "titular": "Biblioteca de bacteriófagos contra bacterias difíciles",
+          "extracto": "Comunicado universitario divulgado por Phys.org.",
+          "enfoque": "Comunicado universitario divulgado por Phys.org.",
+          "orientacion": null,
+          "titular_traducido": false
         }
       ],
       "analisis_verificado": false
@@ -568,181 +806,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-congo-lago",
-      "categoria": "Mundo",
-      "region": "África central",
-      "fecha": "2026-09-25",
+      "id": "20260926-alibaba-ia",
+      "categoria": "Tecnología",
+      "region": "China",
+      "fecha": "2026-09-22",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Transporte",
-        "África"
+        "Inteligencia artificial",
+        "China"
       ],
       "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Un naufragio en el lago Tanganica deja al menos 41 fallecidos",
-      "entradilla": "Equipos de rescate buscan a otras personas después del vuelco de una embarcación en la República Democrática del Congo.",
-      "que_ha_pasado": "Al Jazeera, citando a Associated Press y autoridades provinciales, informó de al menos 41 muertos y 49 rescatados tras el vuelco de un barco que transportaba pasajeros y mercancías en el lago Tanganica. La causa todavía no está establecida.",
-      "contexto": "La embarcación cubría una ruta entre Tanzania y la República Democrática del Congo. En algunas zonas, el transporte por agua es una alternativa habitual por la falta de infraestructura terrestre.",
-      "por_que_importa": "La tragedia pone el foco en la seguridad del transporte fluvial y en las necesidades de los familiares y supervivientes.",
+      "titulo": "Alibaba presenta un nuevo chip y planes para ampliar sus modelos de IA",
+      "entradilla": "La compañía expone una estrategia que combina hardware, modelos y centros de datos.",
+      "que_ha_pasado": "Reuters informó de que Alibaba anunció un chip nuevo desarrollado por su unidad de semiconductores y planes para modelos de IA de mayor escala. Algunos plazos y capacidades comunicados corresponden a objetivos empresariales futuros.",
+      "contexto": "La expansión de la IA incrementa la demanda de procesamiento y energía. Las grandes plataformas están buscando integrar componentes de su infraestructura.",
+      "por_que_importa": "La evolución del proyecto puede influir en la competencia tecnológica y en las cadenas de suministro, pero los resultados dependerán del despliegue real de la tecnología anunciada.",
       "que_se_sabe": [],
-      "que_falta": [
-        "Resultado final de la búsqueda y conclusiones de la investigación sobre la causa del hundimiento."
-      ],
+      "que_falta": [],
       "fuentes": [
         {
-          "medio": "Al Jazeera / Associated Press",
+          "medio": "Reuters",
           "pais": "Internacional",
-          "fecha": "2026-09-25",
-          "url": "https://www.aljazeera.com/amp/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika",
-          "titular": "Al menos 41 muertos tras el vuelco de un barco en el lago Tanganica",
-          "extracto": "Balance atribuido a las autoridades; el medio incorpora información de Associated Press.",
+          "fecha": "2026-09-22",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
+          "titular": "Alibaba muestra un nuevo chip y prepara modelos de IA más grandes",
+          "extracto": "Informa del anuncio corporativo y distingue entre producto mostrado y planes.",
           "enfoque": "Cobertura del acontecimiento según la información publicada.",
           "orientacion": null,
           "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-ceuta-decreto",
-      "categoria": "Sociedad",
-      "region": "España",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Migración",
-        "España"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El Gobierno español trabaja en un decreto para acelerar devoluciones desde Ceuta",
-      "entradilla": "La iniciativa sigue en preparación y afectaría a procedimientos migratorios aún sin resolver.",
-      "que_ha_pasado": "El País informó de que el Gobierno está elaborando un decreto ley para agilizar las devoluciones de personas migrantes a Marruecos desde Ceuta, incluso en algunos supuestos con solicitudes de asilo todavía pendientes. No se trata de una norma ya aprobada.",
-      "contexto": "Ceuta atraviesa una situación de presión sobre recursos de acogida y gestión migratoria. La tramitación y aplicación de nuevas medidas exigiría examinar sus garantías legales y el alcance definitivo.",
-      "por_que_importa": "El posible decreto puede modificar la gestión de expedientes y tendrá implicaciones humanitarias, jurídicas y administrativas que solo podrán evaluarse a partir del texto final.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Texto oficial del decreto, mecanismos de recurso y fecha de entrada en vigor."
-      ],
-      "fuentes": [
-        {
-          "medio": "El País",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://elpais.com/espana/2026-09-26/el-gobierno-prepara-un-decreto-ley-para-acelerar-las-devoluciones-de-migrantes-a-marruecos.html",
-          "titular": "El Gobierno prepara un decreto ley sobre devoluciones a Marruecos",
-          "extracto": "Información sobre una medida aún en elaboración y su contexto en Ceuta.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-alquileres",
-      "categoria": "Economía",
-      "region": "España",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Vivienda",
-        "Inflación"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Vivienda estudia limitar las subidas de alquiler de contratos anteriores a 2023",
-      "entradilla": "La negociación gubernamental explora fórmulas que reduzcan la exposición de ciertos alquileres a la inflación.",
-      "que_ha_pasado": "Según El País, el Ministerio de Vivienda y sus socios de negociación estudian un nuevo mecanismo para contener las revisiones de alquileres firmados antes de 2023 que todavía se vinculan al IPC. Los detalles no están cerrados y la medida no ha sido aprobada.",
-      "contexto": "Los contratos posteriores al cambio de la Ley de Vivienda están sujetos a otro índice de actualización. El repunte del IPC ha reabierto el debate sobre las revisiones anuales de rentas.",
-      "por_que_importa": "La fórmula elegida determinaría efectos distintos para inquilinos y propietarios. Sin texto definitivo, no puede anticiparse a qué contratos se aplicará exactamente.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La propuesta formal y sus excepciones, si se aprueba."
-      ],
-      "fuentes": [
-        {
-          "medio": "El País",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
-          "titular": "Vivienda estudia eliminar el IPC como referencia en las subidas",
-          "extracto": "Informa de las negociaciones y explica la diferencia entre contratos según su fecha.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-memorias",
-      "categoria": "Tecnología",
-      "region": "Global",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Semiconductores",
-        "Consumo"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El auge de la IA presiona el precio de las memorias para móviles",
-      "entradilla": "Un informe de la industria advierte del efecto sobre los teléfonos más económicos.",
-      "que_ha_pasado": "Cinco Días recoge datos del informe de conectividad móvil 2026 de la GSMA: según la asociación, el fuerte aumento de la demanda de semiconductores para IA ha encarecido memorias utilizadas en teléfonos y reducido su disponibilidad para otros segmentos.",
-      "contexto": "Las memorias DRAM y NAND forman parte del coste de fabricación de los teléfonos. Los dispositivos económicos tienen menos margen para absorber aumentos de componentes.",
-      "por_que_importa": "La presión puede dificultar el acceso a teléfonos asequibles, especialmente en mercados donde el coste inicial es decisivo.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Confirmación con datos posteriores sobre precios finales y evolución del mercado."
-      ],
-      "fuentes": [
-        {
-          "medio": "Cinco Días",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://cincodias.elpais.com/companias/2026-09-26/la-ia-encarece-hasta-un-90-las-memorias-y-provoca-escasez-de-los-moviles-mas-baratos.html",
-          "titular": "La IA eleva el precio de memorias y presiona a los móviles asequibles",
-          "extracto": "Analiza cifras de la GSMA y sus proyecciones; las estimaciones proceden del sector.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-escudo-cuantico",
-      "categoria": "Tecnología",
-      "region": "España y Europa",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Ciberseguridad",
-        "Finanzas"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "La banca prepara su transición a sistemas de seguridad poscuánticos",
-      "entradilla": "El sector espera coordinarse con el Gobierno para planificar la protección de sus sistemas criptográficos.",
-      "que_ha_pasado": "Cinco Días informa de que bancos y Gobierno estudian iniciar una coordinación para diseñar un programa de adaptación de sistemas financieros frente a riesgos de la computación cuántica. El encuentro y su alcance aún están pendientes.",
-      "contexto": "La preocupación se centra en la capacidad futura de determinadas técnicas cuánticas para comprometer algunos sistemas criptográficos actuales. La transición requiere planificación antes de que esa capacidad esté disponible a gran escala.",
-      "por_que_importa": "Afecta a la seguridad de transacciones, archivos e infraestructuras financieras. Preparar una estrategia no significa que se haya desplegado ya.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Calendario, estándares elegidos y presupuesto de un eventual programa."
-      ],
-      "fuentes": [
-        {
-          "medio": "Cinco Días",
-          "pais": "España",
-          "fecha": "2026-09-26",
-          "url": "https://cincodias.elpais.com/companias/2026-09-26/la-banca-aguarda-la-llamada-del-gobierno-para-iniciar-el-despliegue-de-un-escudo-cuantico-financiero.html",
-          "titular": "La banca aguarda para iniciar un escudo cuántico financiero",
-          "extracto": "Explica la coordinación prevista y el riesgo tecnológico de fondo.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": false
         }
       ],
       "analisis_verificado": false
@@ -886,40 +978,6 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-alibaba-ia",
-      "categoria": "Tecnología",
-      "region": "China",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Inteligencia artificial",
-        "China"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Alibaba presenta un nuevo chip y planes para ampliar sus modelos de IA",
-      "entradilla": "La compañía expone una estrategia que combina hardware, modelos y centros de datos.",
-      "que_ha_pasado": "Reuters informó de que Alibaba anunció un chip nuevo desarrollado por su unidad de semiconductores y planes para modelos de IA de mayor escala. Algunos plazos y capacidades comunicados corresponden a objetivos empresariales futuros.",
-      "contexto": "La expansión de la IA incrementa la demanda de procesamiento y energía. Las grandes plataformas están buscando integrar componentes de su infraestructura.",
-      "por_que_importa": "La evolución del proyecto puede influir en la competencia tecnológica y en las cadenas de suministro, pero los resultados dependerán del despliegue real de la tecnología anunciada.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
-          "titular": "Alibaba muestra un nuevo chip y prepara modelos de IA más grandes",
-          "extracto": "Informa del anuncio corporativo y distingue entre producto mostrado y planes.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
       "id": "20260926-kosovo-minas",
       "categoria": "Noticias positivas",
       "region": "Kosovo",
@@ -1039,84 +1097,48 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-croacia-disolventes",
+      "id": "20260926-praderas-marinas",
       "categoria": "Noticias positivas",
-      "region": "Croacia",
-      "fecha": "2026-09-25",
+      "region": "Reino Unido",
+      "fecha": "2026-09-26",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Economía circular",
-        "Industria"
+        "Conservación",
+        "Biodiversidad"
       ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Una planta croata recupera disolventes peligrosos para volver a utilizarlos",
-      "entradilla": "El proceso industrial presentado permite recuperar materiales, con datos de producción comunicados por la empresa.",
-      "que_ha_pasado": "Euronews visitó una instalación de reciclaje de disolventes en Croacia que destila y controla sustancias usadas para devolverlas a procesos industriales. La empresa afirma tratar alrededor de tres millones de kilogramos de material contaminado al año.",
-      "contexto": "El dato de capacidad y la afirmación de que el proceso no genera residuos aprovechables proceden de la empresa; la cobertura explica controles y tratamiento de los subproductos.",
-      "por_que_importa": "Ilustra cómo la recuperación industrial podría reducir la necesidad de materias primas y la eliminación de ciertos residuos, pendiente de auditorías independientes sobre su balance ambiental.",
+      "etiqueta_editorial": "AVANCE COMPROBADO",
+      "titulo": "Los amarres ecológicos ayudan a recuperar praderas marinas en una bahía británica",
+      "entradilla": "Un estudio observa la reducción de las cicatrices que dejaban las anclas tradicionales.",
+      "que_ha_pasado": "Una investigación realizada con datos de Studland Bay, Dorset, ha observado que algunas zonas dañadas de las praderas de fanerógamas marinas redujeron sus cicatrices más del 90 % tras la instalación de amarres que evitan arrastrar cadenas por el fondo.",
+      "contexto": "Las praderas proporcionan hábitat para especies como los caballitos de mar y contribuyen al almacenamiento de carbono y la protección costera. El resultado corresponde a un lugar y periodo específicos.",
+      "por_que_importa": "Es un ejemplo documentado de una intervención de conservación con mejoras medibles, aunque no prueba que todas las bahías respondan igual.",
       "que_se_sabe": [],
       "que_falta": [
-        "Verificación independiente del balance ambiental completo y de la ausencia neta de residuos."
+        "Estudiar la evolución más allá de cuatro años y la aplicabilidad en otros lugares."
       ],
       "fuentes": [
         {
-          "medio": "Euronews (ES)",
-          "pais": "Europa",
-          "fecha": "2026-09-25",
-          "url": "https://es.euronews.com/2026/09/25/desde-croacia-un-proceso-realmente-circular-da-nueva-vida-a-quimicos-peligrosos",
-          "titular": "Desde Croacia, un proceso circular da nueva vida a químicos peligrosos",
-          "extracto": "Reportaje en planta y declaraciones de la empresa sobre su procedimiento.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "medio": "National Trust",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-21",
+          "url": "https://www.nationaltrust.org.uk/services/media/2026/september/first-clear-evidence-eco-moorings-restore-seagrass",
+          "titular": "Primera evidencia de recuperación de praderas con ecoamarres",
+          "extracto": "Comunicado que describe el estudio, sus métodos y el resultado observado.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
           "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-conservacion-proteccion",
-      "categoria": "Noticias positivas",
-      "region": "Global",
-      "fecha": "2026-09-23",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Biodiversidad",
-        "Medioambiente"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "La protección terrestre avanza, pero los océanos siguen lejos de la meta de 2030",
-      "entradilla": "Un informe observa progreso en compromisos de conservación y grandes diferencias entre tierra y mar.",
-      "que_ha_pasado": "Una evaluación coordinada por organizaciones de conservación concluye que las áreas terrestres designadas y los compromisos conocidos podrían acercarse al objetivo del 30 % para 2030. Para el océano, en cambio, el informe identifica una brecha mucho mayor entre designación y protección efectiva.",
-      "contexto": "El porcentaje protegido sobre el papel no siempre coincide con conservación eficaz. La previsión de mejora se basa en compromisos que aún deben cumplirse.",
-      "por_que_importa": "El dato es útil para localizar ámbitos donde los gobiernos han anunciado medidas y aquellos donde falta ejecución comprobable.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Cumplimiento verificable de los compromisos y ampliación de la protección oceánica efectiva."
-      ],
-      "fuentes": [
-        {
-          "medio": "Together for the Ocean",
-          "pais": "Internacional",
-          "fecha": "2026-09-23",
-          "url": "https://for-the-ocean.org/news/ocean-protection-gap-report-2026/",
-          "titular": "Proteger el 30 % del planeta sigue al alcance, pero el océano queda atrás",
-          "extracto": "Documento de las organizaciones responsables de la evaluación.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
         },
         {
-          "medio": "Systemiq",
-          "pais": "Internacional",
-          "fecha": "2026-09-25",
-          "url": "https://www.systemiq.earth/ocean-protection-gap-report-2026/",
-          "titular": "Informe 2026 sobre la brecha de protección oceánica",
-          "extracto": "Detalla la diferencia entre superficie designada y superficie efectivamente protegida; participa en el mismo proyecto y no es corroboración independiente.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "medio": "BBC (reproducido por Yahoo)",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-26",
+          "url": "https://currently.att.yahoo.com/att/seahorse-habitats-healing-thanks-eco-061042334.html",
+          "titular": "Mejora de hábitats de caballitos de mar gracias a amarres",
+          "extracto": "Información de BBC reproducida por Yahoo sobre el estudio y los límites de su alcance.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
-          "titular_traducido": true
+          "titular_traducido": false
         }
       ],
       "analisis_verificado": false
