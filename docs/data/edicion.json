@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-27-internacional-v2",
+  "edicion_id": "2026-09-27-internacional-v3",
   "titulo": "Perspectiva · Edición internacional del 27 de septiembre",
   "fecha_edicion": "2026-09-27",
-  "actualizado_en": "2026-09-27T13:00:00+02:00",
+  "actualizado_en": "2026-09-27T10:28:05+02:00",
   "tipo": "real",
-  "nota_editorial": "Perspectiva cambia a una mirada internacional. 29 historias de África, América del Norte y Latina, Asia, Oriente Próximo, Europa, Oceanía y cuestiones globales. 6 noticias positivas. Se han consultado medios internacionales y, en varios casos, fuentes africanas y organismos primarios; no se usa prensa española en la selección actual. Fecha editorial: 27/09/2026. La mayoría de artículos enlazados se publicaron del 21 al 26: no se presentan como hechos ocurridos hoy. Tres destacadas de continentes diferentes. Las noticias de actualidad no garantizan vigencia minuto a minuto, especialmente ante conflictos, emergencias y meteorología. Cuando un artículo republica información de una agencia se identifica expresamente, y las fuentes que pertenecen a un mismo proyecto o medio no cuentan como confirmación independiente. Las noticias positivas distinguen los avances comprobados de las expectativas futuras. Sin deportes, sin clasificaciones ideológicas supuestas y sin análisis comparativos no contrastados.",
+  "nota_editorial": "Perspectiva cambia a una mirada internacional. 30 historias de África, América del Norte y Latina, Asia, Oriente Próximo, Europa, Oceanía y cuestiones globales. 7 noticias positivas. Se han consultado medios internacionales y, en varios casos, fuentes africanas y organismos primarios; no se usa prensa española en la selección actual. Fecha editorial: 27/09/2026. La mayoría de artículos enlazados se publicaron del 21 al 26: no se presentan como hechos ocurridos hoy. Tres destacadas de continentes diferentes. Las noticias de actualidad no garantizan vigencia minuto a minuto, especialmente ante conflictos, emergencias y meteorología. Cuando un artículo republica información de una agencia se identifica expresamente, y las fuentes que pertenecen a un mismo proyecto o medio no cuentan como confirmación independiente. Las noticias positivas distinguen los avances comprobados de las expectativas futuras. Sin deportes, sin clasificaciones ideológicas supuestas y sin análisis comparativos no contrastados.",
   "noticias": [
     {
       "id": "20260926-etiopia-tigray",
@@ -1139,6 +1139,44 @@
           "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
           "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-croacia-disolventes",
+      "categoria": "Noticias positivas",
+      "region": "Europa · Croacia",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Reciclaje",
+        "Industria"
+      ],
+      "etiqueta_editorial": "PROYECTO EN OPERACIÓN",
+      "titulo": "Una planta croata recupera disolventes contaminados para reutilizarlos en la industria",
+      "entradilla": "Euronews documenta cómo una instalación devuelve disolventes purificados a clientes industriales.",
+      "que_ha_pasado": "Un reportaje de Euronews muestra una planta de Ivanić-Grad donde se analizan, destilan y vuelven a verificar disolventes usados. La empresa afirma que procesa unos tres millones de kilogramos anuales, con una tasa de recuperación del 90 % sobre el material recibido.",
+      "contexto": "La recuperación evita fabricar una parte de los disolventes desde materias primas nuevas. Los restos del proceso y su consumo energético también deben considerarse en un balance completo.",
+      "por_que_importa": "Hay una instalación operativa y un proceso observado, aunque las cifras de rendimiento y huella ambiental comunicadas por la compañía requieren auditoría independiente.",
+      "que_se_sabe": [
+        "Euronews visitó la planta y documentó la destilación y retorno a un cliente."
+      ],
+      "que_falta": [
+        "Auditoría del balance neto de emisiones y residuos, independiente de la empresa."
+      ],
+      "fuentes": [
+        {
+          "medio": "Euronews (edición internacional)",
+          "pais": "Europa",
+          "fecha": "2026-09-25",
+          "url": "https://www.euronews.com/2026/09/25/from-croatia-without-waste-truly-circular-process-offers-hazardous-chemicals-a-second-life",
+          "titular": "A Croatian process offers contaminated industrial solvents a second life",
+          "extracto": "Reportaje realizado en la planta: explica el proceso y atribuye a la empresa las cifras de recuperación y emisiones.",
+          "enfoque": "Separa lo observado en las instalaciones de las cifras y proyecciones declaradas por la empresa.",
+          "orientacion": null,
+          "titular_traducido": true
         }
       ],
       "analisis_verificado": false
