@@ -1,43 +1,42 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-26-editorial-1",
-  "titulo": "Perspectiva · Edición del 26 de septiembre",
-  "fecha_edicion": "2026-09-26",
-  "actualizado_en": "2026-09-26T22:51:36+02:00",
+  "edicion_id": "2026-09-27-manana-v1",
+  "titulo": "Perspectiva · Edición del 27 de septiembre",
+  "fecha_edicion": "2026-09-27",
+  "actualizado_en": "2026-09-27T09:54:00+02:00",
   "tipo": "real",
-  "nota_editorial": "Actualización manual del 26/09/2026. Incluye noticias publicadas el 26 y acontecimientos recientes del 17 al 25 con la fecha real de cada fuente; no todos los hechos ocurrieron hoy. Portada seleccionada editorialmente; más actualidad y nueve noticias positivas. Fuentes enlazadas: si alguna cobertura solo dispone de una publicación, no se presenta como confirmación independiente. Los avances y planes se distinguen de resultados definitivos. No se incluyen deportes ni se asignan orientaciones ideológicas sin documentación externa.",
+  "nota_editorial": "Edición manual de la mañana del domingo 27/09/2026: 29 noticias, 8 positivas. Solo 1 noticia fue publicada el propio domingo y estaba verificada al cierre; el resto son acontecimientos y avances de los días anteriores, con fecha individual, que siguen siendo relevantes. No se simula actualidad que aún no está documentada. La portada incorpora la novedad confirmada sobre Ormuz, las protestas por la vivienda y el diálogo bilateral sobre IA. Los enlaces múltiples del mismo medio no equivalen a corroboración independiente. Los resultados preliminares, afirmaciones institucionales y anuncios se describen como tales. Sin deportes ni clasificaciones ideológicas no verificadas.",
   "noticias": [
     {
       "id": "20260926-ormuz",
       "categoria": "Mundo",
       "region": "Oriente Próximo",
-      "fecha": "2026-09-25",
+      "fecha": "2026-09-26",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Diplomacia",
-        "Energía"
+        "Energía",
+        "Diplomacia"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Irán presenta a Estados Unidos un plan para reabrir Ormuz en siete días",
-      "entradilla": "Teherán plantea condiciones para restablecer la navegación; Washington aún debe responder a la propuesta.",
-      "que_ha_pasado": "El ministro iraní de Exteriores, Abbas Araqchi, anunció en Nueva York el envío de una propuesta de siete puntos a Estados Unidos para reducir las hostilidades y reabrir el estrecho de Ormuz en una semana si se cumplen determinadas condiciones. El anuncio es una oferta negociadora, no un acuerdo en vigor.",
-      "contexto": "El paso marítimo es importante para el transporte mundial de hidrocarburos. Reuters ya informó el día 22 de la disposición iraní a reabrirlo si EE. UU. reduce su presión militar y levanta el bloqueo de puertos iraníes; el anuncio del 25 concreta una nueva propuesta.",
-      "por_que_importa": "La reapertura efectiva podría reducir perturbaciones comerciales y energéticas, pero aún hay desacuerdos sobre el orden de las medidas y las condiciones de las partes.",
+      "titulo": "Estados Unidos rechaza el plan iraní para reabrir el estrecho de Ormuz",
+      "entradilla": "Trump comunicó que no acepta la propuesta de siete días anunciada por Teherán; por ahora no existe un acuerdo de reapertura.",
+      "que_ha_pasado": "El presidente de Estados Unidos declaró el sábado que había rechazado el plan iraní para normalizar el tránsito por Ormuz. La oferta de Teherán incluía un alto el fuego regional temporal, medidas estadounidenses sobre bloqueo y sanciones y una reapertura escalonada. La declaración de Trump no resuelve las diferencias pendientes y el tránsito sigue sujeto a los efectos de la guerra.",
+      "contexto": "El paso marítimo es estratégico para el comercio de petróleo. Irán había presentado la iniciativa por mediación de Catar durante la semana de la Asamblea General de Naciones Unidas.",
+      "por_que_importa": "Sin un acuerdo y mecanismos de aplicación, el abastecimiento energético y los operadores de transporte continúan expuestos a interrupciones e incertidumbre.",
       "que_se_sabe": [],
       "que_falta": [
-        "La aceptación estadounidense y el calendario de aplicación de la propuesta.",
-        "Datos de tránsito que permitan verificar una reapertura efectiva."
+        "No hay calendario pactado de reapertura; las cifras de tránsito declaradas por las partes requieren contraste independiente."
       ],
       "fuentes": [
         {
-          "medio": "El País",
+          "medio": "Agencia EFE",
           "pais": "España",
-          "fecha": "2026-09-25",
-          "url": "https://elpais.com/internacional/2026-09-25/iran-envia-a-estados-unidos-un-plan-para-la-reapertura-del-estrecho-de-ormuz-en-siete-dias.html",
-          "titular": "Irán presenta un plan para reabrir Ormuz en siete días",
-          "extracto": "Recoge los puntos anunciados por Araqchi, sus condiciones y los obstáculos para aplicarlos.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/mundo/2026-09-26/trump-plan-iran-reabrir-estrecho-ormuz/",
+          "titular": "Trump rechaza la propuesta iraní sobre Ormuz",
+          "extracto": "Incluye la declaración de rechazo y los elementos anunciados de la propuesta.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
           "titular_traducido": false
         },
@@ -45,58 +44,58 @@
           "medio": "Reuters",
           "pais": "Internacional",
           "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/world/middle-east/iran-ready-reopen-strait-hormuz-if-us-eases-military-pressure-lifts-blockade-2026-09-22/",
-          "titular": "Irán dispuesto a reabrir Ormuz si EE. UU. reduce la presión militar y levanta el bloqueo",
-          "extracto": "Antecedente de la oferta iraní comunicado por una fuente oficial a Reuters.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "url": "https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/",
+          "titular": "Teherán había planteado retomar conversaciones sobre Ormuz",
+          "extracto": "Antecedentes de las gestiones diplomáticas publicadas días antes.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
-          "titular_traducido": true
+          "titular_traducido": false
         }
       ],
       "analisis_verificado": false,
       "posicion_portada": 1
     },
     {
-      "id": "20260926-china-visita",
-      "categoria": "Mundo",
-      "region": "Estados Unidos y China",
-      "fecha": "2026-09-25",
+      "id": "20260926-madrid-acampada",
+      "categoria": "Sociedad",
+      "region": "España",
+      "fecha": "2026-09-26",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Relaciones internacionales",
-        "Comercio"
+        "Vivienda",
+        "Madrid"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Termina la visita de Xi Jinping a Washington con nuevas reuniones previstas",
-      "entradilla": "Ambos gobiernos reivindican el diálogo, pero siguen abiertas sus diferencias sobre comercio, IA y seguridad.",
-      "que_ha_pasado": "El presidente chino terminó una visita de Estado de tres días a Washington, con una reunión y actos oficiales junto al presidente estadounidense. Trump anunció nuevos encuentros en noviembre y diciembre, pero al final de la visita aún no se habían comunicado acuerdos detallados sobre los asuntos más sensibles.",
-      "contexto": "Las relaciones entre las dos economías principales repercuten en cadenas de suministro, tecnología y seguridad internacional. Mantener reuniones no equivale a resolver los desacuerdos sobre Taiwán, aranceles o IA.",
-      "por_que_importa": "El seguimiento de compromisos concretos permitirá distinguir entre declaraciones diplomáticas y cambios materiales en las relaciones bilaterales.",
+      "titulo": "Las protestas por el desahucio de Maricarmen terminan en una acampada en la Puerta del Sol",
+      "entradilla": "Una manifestación por la vivienda dio paso el sábado por la noche a una acampada convocada por el Sindicato de Inquilinas.",
+      "que_ha_pasado": "Tras una marcha en Madrid motivada por el desahucio de una mujer de 87 años, manifestantes se concentraron y comenzaron a acampar en Sol. La Delegación del Gobierno cifró la marcha en 25.000 asistentes y la organización en más de 300.000; ambas estimaciones se presentan atribuidas.",
+      "contexto": "Las organizaciones participantes reclaman modificaciones en la protección de arrendatarios. La movilización coincide con negociaciones sobre posibles medidas de vivienda del Gobierno.",
+      "por_que_importa": "La evolución de la protesta y el contenido de cualquier iniciativa normativa determinarán si se producen cambios concretos para inquilinos y propietarios.",
       "que_se_sabe": [],
       "que_falta": [
-        "Comunicados y compromisos detallados que permitan evaluar el alcance de la cumbre."
+        "El tamaño final de la acampada y las medidas que pueda aprobar el Consejo de Ministros."
       ],
       "fuentes": [
         {
-          "medio": "El País",
+          "medio": "Agencia EFE",
           "pais": "España",
-          "fecha": "2026-09-25",
-          "url": "https://elpais.com/internacional/2026-09-25/trump-y-xi-sellan-su-entente-cordiale-tras-tres-dias-de-gran-pompa-y-escasa-sustancia.html",
-          "titular": "Termina la visita de Xi a Washington y se anuncian próximos encuentros",
-          "extracto": "Detalla la conclusión de la visita, las declaraciones públicas y los asuntos aún abiertos.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/espana/2026-09-26/acampada-puerta-del-sol-vivienda-desahucio-maricarmen/",
+          "titular": "Acampada por la crisis de vivienda tras la manifestación",
+          "extracto": "Relata la marcha y la concentración nocturna; diferencia las estimaciones de asistentes.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "El País",
+          "medio": "Agencia EFE",
           "pais": "España",
-          "fecha": "2026-09-24",
-          "url": "https://elpais.com/internacional/2026-09-24/xi-defiende-ante-trump-en-la-casa-blanca-la-estabilidad-estrategica-entre-estados-unidos-y-china.html",
-          "titular": "Xi plantea ante Trump la necesidad de estabilidad estratégica",
-          "extracto": "Describe los mensajes iniciales de la cumbre; ambos enlaces pertenecen al mismo periódico y no cuentan como corroboración independiente.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/espana/2026-09-26/multitudinaria-protesta-desahucio-maricarmen-madrid/",
+          "titular": "Multitudinaria protesta por el desahucio",
+          "extracto": "Cobertura de la marcha por la misma agencia; no cuenta como segunda fuente independiente.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -105,12 +104,370 @@
       "posicion_portada": 2
     },
     {
+      "id": "20260926-china-eeuu-canal-ia",
+      "categoria": "Tecnología",
+      "region": "China y Estados Unidos",
+      "fecha": "2026-09-26",
+      "portada": true,
+      "destacada": true,
+      "etiquetas": [
+        "Inteligencia artificial",
+        "Diplomacia"
+      ],
+      "etiqueta_editorial": "EN PORTADA",
+      "titulo": "Estados Unidos y China acuerdan un canal de diálogo sobre los riesgos de la IA",
+      "entradilla": "Los dos gobiernos anuncian un mecanismo para intercambiar puntos de vista y comunicar incidentes.",
+      "que_ha_pasado": "Tras la visita de Xi Jinping a Washington, ambos países comunicaron la creación de un diálogo sobre lo que llamaron «superinteligencia», con un siguiente intercambio previsto para noviembre. También anunciaron un canal bilateral para incidentes relacionados con esta tecnología.",
+      "contexto": "Ambas potencias compiten en modelos y semiconductores, pero también han expresado preocupaciones por las aplicaciones y posibles incidentes de IA.",
+      "por_que_importa": "El nuevo mecanismo puede facilitar las comunicaciones, aunque su utilidad dependerá de las prácticas efectivas de intercambio y las reglas que adopten los participantes.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La agenda concreta del diálogo y su capacidad para resolver incidentes aún no han sido evaluadas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/mundo/2026-09-26/china-eeuu-canal-dialogo-superinteligencia/",
+          "titular": "Acuerdo para un canal sobre superinteligencia",
+          "extracto": "Información basada en el comunicado de la Casa Blanca sobre la visita de Xi.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Associated Press",
+          "pais": "Internacional",
+          "fecha": "2026-09-21",
+          "url": "https://apnews.com/article/d08e58524de21511dcaba51f43faad95",
+          "titular": "China y EE. UU. comparten inquietudes sobre riesgos de IA",
+          "extracto": "Describe las negociaciones previas y el contexto de competencia tecnológica.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false,
+      "posicion_portada": 3
+    },
+    {
+      "id": "20260927-cine-san-sebastian",
+      "categoria": "Sociedad",
+      "region": "España y Latinoamérica",
+      "fecha": "2026-09-27",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Cultura",
+        "Cine"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "El Festival de San Sebastián reconoce al cine argentino en su gala de clausura",
+      "entradilla": "El documental argentino «La ilusión de un verano sin fin» obtuvo el premio Horizontes Latinos y el Premio de la Juventud.",
+      "que_ha_pasado": "La película de Alessandra Sanguinetti recibió dos reconocimientos en el festival. La gala también distinguió producciones de otros países y registró mensajes de cineastas sobre la situación en Palestina, según la crónica de EFE publicada este domingo.",
+      "contexto": "La edición reunió obras de múltiples cinematografías y diferentes secciones de competición. Los premios tienen categorías y jurados distintos; no constituyen una clasificación universal de calidad.",
+      "por_que_importa": "Los reconocimientos ofrecen visibilidad y oportunidades de distribución a proyectos de cine independientes y latinoamericanos.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Pendiente la distribución comercial en distintos países de algunas películas premiadas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-27",
+          "url": "https://efe.com/cultura/2026-09-27/festival-de-cine-de-san-sebastian-premios/",
+          "titular": "Reconocimiento al cine argentino en la clausura",
+          "extracto": "Crónica publicada el domingo sobre el palmarés y las intervenciones de la gala.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-espana-sumar-vivienda",
+      "categoria": "Sociedad",
+      "region": "España",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Vivienda",
+        "Instituciones"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Sumar condiciona su asistencia al próximo Consejo de Ministros a las medidas de vivienda",
+      "entradilla": "La formación reclama la inclusión de un paquete específico; la decisión gubernamental todavía no se ha producido.",
+      "que_ha_pasado": "Sumar comunicó el sábado que no acudiría a la próxima reunión del Consejo de Ministros si no se incorporaba un paquete de medidas de vivienda para aprobar por decreto. La declaración es una posición política anunciada, no una suspensión efectiva de la reunión ni una nueva norma aprobada.",
+      "contexto": "El comunicado se publicó en un contexto de movilizaciones por el acceso a la vivienda y el desahucio de Maricarmen en Madrid.",
+      "por_que_importa": "Las negociaciones pueden traducirse en propuestas de distinta aplicación jurídica; hay que esperar al texto normativo para conocer su alcance.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Texto de las medidas, posición del resto del Gobierno y decisión del Consejo."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/espana/2026-09-26/sumar-plante-consejo-ministros-medidas-crisis-vivienda/",
+          "titular": "Sumar advierte sobre su asistencia al Consejo de Ministros",
+          "extracto": "Recoge el comunicado de la formación y su contexto.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-mexico-polo",
+      "categoria": "Mundo",
+      "region": "México",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Clima",
+        "Seguridad"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "El huracán Polo mantiene la alerta por lluvias intensas en varios estados de México",
+      "entradilla": "El servicio meteorológico mexicano advirtió el sábado de precipitaciones asociadas al ciclón y a otros sistemas.",
+      "que_ha_pasado": "El Servicio Meteorológico Nacional, citado por EFE, previó lluvias fuertes o intensas en 17 estados debido a la circulación de Polo y otros fenómenos meteorológicos. El informe situaba al huracán en categoría 5 en el momento del reporte; su intensidad y trayectoria pueden cambiar rápidamente.",
+      "contexto": "Las lluvias pueden producir crecidas e inundaciones incluso donde el núcleo del huracán no toca tierra.",
+      "por_que_importa": "Las recomendaciones prácticas deben seguir los avisos actualizados de las autoridades locales: una previsión del sábado no describe necesariamente la situación actual del domingo.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Consultar avisos meteorológicos oficiales actualizados; la trayectoria prevista puede cambiar."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/mundo/2026-09-26/huracan-polo-mexico-lluvias/",
+          "titular": "Polo y otros sistemas generan alerta por precipitaciones",
+          "extracto": "Resume el aviso del Servicio Meteorológico Nacional.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Associated Press",
+          "pais": "Internacional",
+          "fecha": "2026-09-22",
+          "url": "https://apnews.com/article/a6c1c226c878a236442a8e1a7f37211b",
+          "titular": "Polo alcanza la categoría 5 frente a México",
+          "extracto": "Antecedentes sobre el fortalecimiento del ciclón.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-nuevas-normas-trafico",
+      "categoria": "Sociedad",
+      "region": "España",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Seguridad vial",
+        "Normativa"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "Las nuevas normas españolas de circulación entrarán en vigor el 1 de octubre",
+      "entradilla": "La reforma incluye obligaciones para usuarios de patinetes, motocicletas y bicicletas.",
+      "que_ha_pasado": "EFE detalla medidas de la reforma del Reglamento General de Circulación: edad mínima de 15 años para patinetes, requisitos de casco y elementos reflectantes en los supuestos previstos y cambios de seguridad para motoristas y ciclistas. La noticia se publica antes de la entrada en vigor.",
+      "contexto": "La regulación diferencia categorías de vehículos y situaciones de circulación; no todas las obligaciones son idénticas para todos los usuarios.",
+      "por_que_importa": "Conocer los cambios antes del 1 de octubre ayuda a evitar infracciones y a preparar los elementos de seguridad exigidos.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Revisar el texto oficial y posibles instrucciones de aplicación en casos concretos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/espana/2026-09-26/nuevas-normas-trafico-reforma-reglamento-circulacion/",
+          "titular": "Nuevos requisitos para patinetes, motos y bicicletas",
+          "extracto": "Incluye las disposiciones y condiciones principales.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-china-onu",
+      "categoria": "Mundo",
+      "region": "Naciones Unidas / China",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "ONU",
+        "Asia"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD",
+      "titulo": "China defiende el multilateralismo en su intervención ante la Asamblea General de la ONU",
+      "entradilla": "El vicepresidente Han Zheng expuso la posición de su Gobierno ante representantes internacionales.",
+      "que_ha_pasado": "Han Zheng afirmó en la Asamblea General que China defiende una visión de seguridad basada en cooperación y reclamó una gobernanza abierta de la inteligencia artificial. Se trata de las posiciones expresadas por el representante chino, no de acuerdos multilaterales adoptados durante su intervención.",
+      "contexto": "La semana de alto nivel reúne a representantes estatales con prioridades distintas y declaraciones que deben distinguirse de decisiones institucionales.",
+      "por_que_importa": "El discurso expone prioridades diplomáticas de Pekín en un contexto de competencia tecnológica y conflictos internacionales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No se derivan compromisos vinculantes de una declaración en la Asamblea General."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/mundo/2026-09-26/china-onu-fuerza-estabilizadora-bloques/",
+          "titular": "Han Zheng reivindica la cooperación internacional",
+          "extracto": "Crónica de la intervención china ante Naciones Unidas.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-chile-fosiles",
+      "categoria": "Noticias positivas",
+      "region": "Chile y Madagascar",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Patrimonio",
+        "Ciencia"
+      ],
+      "etiqueta_editorial": "AVANCE COMPROBADO",
+      "titulo": "Chile intercepta 222 fósiles marinos de contrabando y estudia su devolución",
+      "entradilla": "Las autoridades identificaron un cargamento declarado como objetos decorativos que contenía amonites antiguos.",
+      "que_ha_pasado": "La Aduana chilena anunció el hallazgo en el puerto de San Antonio de 222 fósiles de unos 110 millones de años, con origen atribuido a Madagascar por especialistas. Las autoridades aguardan la confirmación del país de origen para resolver su situación patrimonial.",
+      "contexto": "El comercio ilícito de bienes paleontológicos dificulta la conservación y el estudio científico del patrimonio.",
+      "por_que_importa": "Recuperar las piezas permite protegerlas mientras se esclarecen su procedencia y su posible restitución.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Confirmación del origen por Madagascar y decisión sobre custodia o devolución."
+      ],
+      "fuentes": [
+        {
+          "medio": "Agencia EFE",
+          "pais": "España",
+          "fecha": "2026-09-26",
+          "url": "https://efe.com/mundo/2026-09-26/chile-fosiles-marinos-contrabando/",
+          "titular": "Chile recupera 222 fósiles marinos de contrabando",
+          "extracto": "Información de Aduanas y especialistas sobre las piezas.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-praderas-marinas",
+      "categoria": "Noticias positivas",
+      "region": "Reino Unido",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Conservación",
+        "Biodiversidad"
+      ],
+      "etiqueta_editorial": "AVANCE COMPROBADO",
+      "titulo": "Los amarres ecológicos ayudan a recuperar praderas marinas en una bahía británica",
+      "entradilla": "Un estudio observa la reducción de las cicatrices que dejaban las anclas tradicionales.",
+      "que_ha_pasado": "Una investigación realizada con datos de Studland Bay, Dorset, ha observado que algunas zonas dañadas de las praderas de fanerógamas marinas redujeron sus cicatrices más del 90 % tras la instalación de amarres que evitan arrastrar cadenas por el fondo.",
+      "contexto": "Las praderas proporcionan hábitat para especies como los caballitos de mar y contribuyen al almacenamiento de carbono y la protección costera. El resultado corresponde a un lugar y periodo específicos.",
+      "por_que_importa": "Es un ejemplo documentado de una intervención de conservación con mejoras medibles, aunque no prueba que todas las bahías respondan igual.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Estudiar la evolución más allá de cuatro años y la aplicabilidad en otros lugares."
+      ],
+      "fuentes": [
+        {
+          "medio": "National Trust",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-21",
+          "url": "https://www.nationaltrust.org.uk/services/media/2026/september/first-clear-evidence-eco-moorings-restore-seagrass",
+          "titular": "Primera evidencia de recuperación de praderas con ecoamarres",
+          "extracto": "Comunicado que describe el estudio, sus métodos y el resultado observado.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "BBC (reproducido por Yahoo)",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-26",
+          "url": "https://currently.att.yahoo.com/att/seahorse-habitats-healing-thanks-eco-061042334.html",
+          "titular": "Mejora de hábitats de caballitos de mar gracias a amarres",
+          "extracto": "Información de BBC reproducida por Yahoo sobre el estudio y los límites de su alcance.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260926-drones-desfibriladores",
+      "categoria": "Noticias positivas",
+      "region": "Francia",
+      "fecha": "2026-09-26",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Salud",
+        "Innovación"
+      ],
+      "etiqueta_editorial": "AVANCE COMPROBADO",
+      "titulo": "Un estudio plantea utilizar drones para acercar desfibriladores a emergencias",
+      "entradilla": "Un modelo basado en paradas cardíacas de la región de París examina cómo mejorar el acceso rápido a estos equipos.",
+      "que_ha_pasado": "Investigadores analizaron más de 28.000 paradas cardíacas extrahospitalarias en áreas de la región parisina y compararon la accesibilidad de desfibriladores fijos con escenarios que incluyen bases para drones. Según el modelo, una red combinada podría ampliar considerablemente la cobertura.",
+      "contexto": "Las posibilidades técnicas se estudian en sistemas de emergencia, pero el análisis no equivale a una implantación que ya haya demostrado reducir la mortalidad.",
+      "por_que_importa": "Si se valida en la práctica y los costes son asumibles, el reparto por drones podría acortar el acceso a dispositivos en algunas zonas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Validación sobre tiempos reales de entrega, normativa aérea, costes y resultados clínicos."
+      ],
+      "fuentes": [
+        {
+          "medio": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-26",
+          "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+          "titular": "Drones para acelerar el acceso a desfibriladores",
+          "extracto": "Cobertura de un estudio presentado en un congreso; todavía no revisado por pares.",
+          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
       "id": "20260926-ucrania-ataques",
       "categoria": "Mundo",
       "region": "Ucrania y Rusia",
       "fecha": "2026-09-26",
-      "portada": true,
-      "destacada": true,
+      "portada": false,
+      "destacada": false,
       "etiquetas": [
         "Guerra",
         "Europa"
@@ -138,8 +495,7 @@
           "titular_traducido": true
         }
       ],
-      "analisis_verificado": false,
-      "posicion_portada": 3
+      "analisis_verificado": false
     },
     {
       "id": "20260926-ucrania-digital",
@@ -392,110 +748,6 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-combustible-aviacion",
-      "categoria": "Economía",
-      "region": "Europa y Asia",
-      "fecha": "2026-09-21",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Energía",
-        "Aviación"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Europa afronta riesgos de suministro de combustible de aviación para el último trimestre",
-      "entradilla": "El transporte y los precios energéticos siguen expuestos a interrupciones en Oriente Próximo.",
-      "que_ha_pasado": "Reuters informó el 21 de septiembre de que analistas del sector calculan un déficit europeo importante de queroseno de aviación para el cuarto trimestre, aun con más importaciones desde Asia, incluida Corea del Sur. Son previsiones, no un resultado cerrado.",
-      "contexto": "La oferta de derivados del petróleo depende de rutas comerciales y capacidad de refino. Las alteraciones de transporte en Oriente Próximo pueden elevar costes para sectores consumidores.",
-      "por_que_importa": "Los posibles déficits afectan a aerolíneas, cadenas logísticas y precios; la magnitud final dependerá de importaciones y reanudación del tráfico.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Balance real de inventarios y flujos comerciales durante el cuarto trimestre."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://www.reuters.com/business/energy/europe-faces-q4-jet-fuel-supply-deficit-even-south-korea-becomes-latest-big-2026-09-21/",
-          "titular": "Europa se encamina a un posible déficit de combustible de aviación",
-          "extracto": "Recoge estimaciones sectoriales y movimientos de importación desde Corea del Sur.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-alibaba-ia",
-      "categoria": "Tecnología",
-      "region": "China",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Inteligencia artificial",
-        "China"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Alibaba presenta un nuevo chip y planes para ampliar sus modelos de IA",
-      "entradilla": "La compañía expone una estrategia que combina hardware, modelos y centros de datos.",
-      "que_ha_pasado": "Reuters informó de que Alibaba anunció un chip nuevo desarrollado por su unidad de semiconductores y planes para modelos de IA de mayor escala. Algunos plazos y capacidades comunicados corresponden a objetivos empresariales futuros.",
-      "contexto": "La expansión de la IA incrementa la demanda de procesamiento y energía. Las grandes plataformas están buscando integrar componentes de su infraestructura.",
-      "por_que_importa": "La evolución del proyecto puede influir en la competencia tecnológica y en las cadenas de suministro, pero los resultados dependerán del despliegue real de la tecnología anunciada.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
-          "titular": "Alibaba muestra un nuevo chip y prepara modelos de IA más grandes",
-          "extracto": "Informa del anuncio corporativo y distingue entre producto mostrado y planes.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-taiwan-chips",
-      "categoria": "Tecnología",
-      "region": "Taiwán",
-      "fecha": "2026-09-21",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Semiconductores",
-        "Industria"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Taiwán inicia un parque industrial para tecnologías avanzadas de encapsulado",
-      "entradilla": "El proyecto busca reforzar actividades relacionadas con semiconductores de alta complejidad.",
-      "que_ha_pasado": "Reuters documentó el inicio de las obras de un parque industrial en Kaohsiung con instalaciones vinculadas a TSMC para validación tecnológica y formación. El calendario comunicado sitúa la entrada en funcionamiento de algunas instalaciones en 2029.",
-      "contexto": "El encapsulado avanzado integra componentes de chips y es importante para sistemas de alto rendimiento, incluida la IA.",
-      "por_que_importa": "El proyecto es una inversión industrial de medio plazo; su impacto no puede medirse por el anuncio de construcción.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://www.reuters.com/world/asia-pacific/taiwan-breaks-ground-advanced-packaging-park-anchored-by-tsmc-2026-09-21/",
-          "titular": "Taiwán comienza un parque de encapsulado avanzado vinculado a TSMC",
-          "extracto": "Describe la construcción, el calendario y los fines industriales.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
       "id": "20260926-renovables",
       "categoria": "Medioambiente",
       "region": "Global",
@@ -634,92 +886,22 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-fagos-colas",
-      "categoria": "Ciencia",
-      "region": "Canadá",
-      "fecha": "2026-09-23",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Microbiología",
-        "Investigación"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Científicos identifican características de fagos que pueden atacar más cepas bacterianas",
-      "entradilla": "Una investigación busca entender qué hace más versátiles a algunos virus que infectan bacterias.",
-      "que_ha_pasado": "Un equipo de la Universidad McMaster describió rasgos de fibras en las colas de determinados bacteriófagos asociados con una mayor amplitud de cepas bacterianas que pueden infectar. Son resultados de investigación, no una terapia disponible.",
-      "contexto": "La terapia con fagos busca aprovechar virus que infectan bacterias, pero cada fago suele actuar sobre cepas muy concretas.",
-      "por_que_importa": "Comprender su rango de acción podría reducir el tiempo de selección de candidatos para futuros tratamientos.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Phys.org / Universidad McMaster",
-          "pais": "Canadá",
-          "fecha": "2026-09-23",
-          "url": "https://phys.org/news/2026-09-variations-virus-tails-phages-bacterial.html",
-          "titular": "Variaciones en colas de bacteriófagos y espectro bacteriano",
-          "extracto": "Divulgación de un trabajo académico y sus posibles aplicaciones futuras.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-ceuta-contexto",
-      "categoria": "Sociedad",
-      "region": "España",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Migración",
-        "Sociedad"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "La situación humanitaria en Ceuta continúa bajo presión migratoria",
-      "entradilla": "El debate público combina gestión de fronteras, necesidades de acogida y garantías legales.",
-      "que_ha_pasado": "La cobertura de El País describe el caso de un migrante marroquí fallecido el 25 de septiembre en un asentamiento en Ceuta y recoge la denuncia de una ONG sobre la demora de la atención. La demora es una denuncia de la entidad, no una conclusión de investigación oficial.",
-      "contexto": "La situación se desarrolla en un contexto de llegada de migrantes y presión sobre los recursos locales; está relacionada con el debate sobre cambios normativos aún no aprobados.",
-      "por_que_importa": "Permite seguir las consecuencias humanas del fenómeno además de las decisiones institucionales.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Resultados de una investigación sobre las circunstancias y los tiempos de asistencia."
-      ],
-      "fuentes": [
-        {
-          "medio": "El País",
-          "pais": "España",
-          "fecha": "2026-09-25",
-          "url": "https://elpais.com/noticias/migracion/",
-          "titular": "Muere un migrante marroquí en un asentamiento de Ceuta",
-          "extracto": "Enlace a la página de seguimiento de migración donde figura la información del 25 de septiembre; no se dispone aquí de enlace individual confirmado.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-finanzas-inflacion",
-      "categoria": "Economía",
-      "region": "Europa",
+      "id": "20260926-alibaba-ia",
+      "categoria": "Tecnología",
+      "region": "China",
       "fecha": "2026-09-22",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Inflación",
-        "Mercados"
+        "Inteligencia artificial",
+        "China"
       ],
       "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El precio del petróleo condiciona las expectativas sobre los tipos de interés",
-      "entradilla": "Los mercados reaccionan a la posibilidad de un acuerdo sobre Ormuz, con efectos diferentes según el país.",
-      "que_ha_pasado": "Reuters describió movimientos en divisas y petróleo durante el 22 de septiembre después de que Irán planteara reabrir Ormuz bajo condiciones. Los inversores valoraban el posible efecto sobre inflación y decisiones de bancos centrales.",
-      "contexto": "La evolución de los precios energéticos incide en la inflación, pero las decisiones sobre tipos también dependen del empleo, salarios y otras variables.",
-      "por_que_importa": "La noticia aporta contexto económico a las negociaciones diplomáticas, sin tratar los movimientos de mercado como predicciones fiables.",
+      "titulo": "Alibaba presenta un nuevo chip y planes para ampliar sus modelos de IA",
+      "entradilla": "La compañía expone una estrategia que combina hardware, modelos y centros de datos.",
+      "que_ha_pasado": "Reuters informó de que Alibaba anunció un chip nuevo desarrollado por su unidad de semiconductores y planes para modelos de IA de mayor escala. Algunos plazos y capacidades comunicados corresponden a objetivos empresariales futuros.",
+      "contexto": "La expansión de la IA incrementa la demanda de procesamiento y energía. Las grandes plataformas están buscando integrar componentes de su infraestructura.",
+      "por_que_importa": "La evolución del proyecto puede influir en la competencia tecnológica y en las cadenas de suministro, pero los resultados dependerán del despliegue real de la tecnología anunciada.",
       "que_se_sabe": [],
       "que_falta": [],
       "fuentes": [
@@ -727,43 +909,9 @@
           "medio": "Reuters",
           "pais": "Internacional",
           "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/world/asia-pacific/yen-squeezed-hawkish-turn-grips-central-banks-2026-09-22/",
-          "titular": "El dólar oscila mientras los mercados observan el petróleo y los tipos",
-          "extracto": "Análisis de los movimientos financieros observados ese día.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-gaza-reconstruccion",
-      "categoria": "Mundo",
-      "region": "Oriente Próximo",
-      "fecha": "2026-09-24",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "ONU",
-        "Humanitario"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "La ONU estima elevadas necesidades de recuperación en Gaza",
-      "entradilla": "La reconstrucción y la actividad económica siguen condicionadas por el conflicto.",
-      "que_ha_pasado": "Una información de Al Jazeera sobre una evaluación de Naciones Unidas sitúa las necesidades de recuperación de Gaza en 71.500 millones de dólares. Se trata de una estimación citada por el medio, que depende de condiciones de seguridad, acceso y decisiones de financiación.",
-      "contexto": "Los daños materiales y el desplazamiento de población dificultan la recuperación de servicios y medios de vida. La cifra publicada debe leerse como estimación de necesidades, no como fondos concedidos.",
-      "por_que_importa": "El informe ayuda a dimensionar los retos de recuperación y la distancia entre necesidades y capacidad efectiva de ejecución.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Al Jazeera",
-          "pais": "Internacional",
-          "fecha": "2026-09-24",
-          "url": "https://www.aljazeera.com/tag/humanitarian-crises/",
-          "titular": "La recuperación de Gaza necesita 71.500 millones de dólares, según la ONU",
-          "extracto": "La noticia figura en la sección de crisis humanitarias; enlace temático verificado, no al artículo individual.",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
+          "titular": "Alibaba muestra un nuevo chip y prepara modelos de IA más grandes",
+          "extracto": "Informa del anuncio corporativo y distingue entre producto mostrado y planes.",
           "enfoque": "Cobertura del acontecimiento según la información publicada.",
           "orientacion": null,
           "titular_traducido": true
@@ -927,76 +1075,6 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-biblioteca-fagos",
-      "categoria": "Noticias positivas",
-      "region": "Estados Unidos",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Microbiología",
-        "Salud"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Investigadores amplían una biblioteca de virus capaces de atacar bacterias resistentes",
-      "entradilla": "El proyecto busca ofrecer más opciones de investigación frente a microorganismos difíciles de tratar.",
-      "que_ha_pasado": "Un grupo de la Universidad de Colorado ha reunido durante años una colección de bacteriófagos que infectan determinadas bacterias intestinales, con decenas de variantes conservadas para investigación.",
-      "contexto": "Los fagos son virus que infectan bacterias. Tener una colección amplia puede facilitar encontrar candidatos, pero no implica disponer de un tratamiento aprobado para cada infección.",
-      "por_que_importa": "La línea de trabajo abre posibilidades de investigación complementarias a los antibióticos frente a resistencias bacterianas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Ensayos clínicos de combinaciones específicas y evaluación de su eficacia y seguridad."
-      ],
-      "fuentes": [
-        {
-          "medio": "Phys.org / Universidad de Colorado",
-          "pais": "Estados Unidos",
-          "fecha": "2026-09-25",
-          "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
-          "titular": "Una biblioteca de fagos frente a bacterias difíciles de tratar",
-          "extracto": "Investigación y colección descritas por la universidad.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-fagos-nuevas-herramientas",
-      "categoria": "Noticias positivas",
-      "region": "Nueva Zelanda",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Biotecnología",
-        "Investigación"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Una nueva técnica permite estudiar genes de virus que infectan bacterias",
-      "entradilla": "El método desarrollado en Nueva Zelanda puede acelerar la comprensión de los bacteriófagos.",
-      "que_ha_pasado": "Investigadores de la Universidad de Otago presentaron una herramienta para introducir mutaciones en bacteriófagos y estudiar la función de genes poco conocidos. El trabajo se publicó en Nature Microbiology.",
-      "contexto": "Comprender los genes virales es una etapa de investigación básica necesaria para explorar aplicaciones en agricultura y frente a ciertas infecciones bacterianas.",
-      "por_que_importa": "La herramienta puede facilitar experimentos futuros, sin demostrar todavía un tratamiento clínico ni una aplicación agrícola lista para utilizar.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Phys.org / Universidad de Otago",
-          "pais": "Nueva Zelanda",
-          "fecha": "2026-09-25",
-          "url": "https://phys.org/news/2026-09-tool-gap-harnessing-untapped-potential.html",
-          "titular": "Nueva herramienta para investigar el potencial de los bacteriófagos",
-          "extracto": "Divulgación de una nueva metodología de investigación.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
       "id": "20260926-conservacion-proteccion",
       "categoria": "Noticias positivas",
       "region": "Global",
@@ -1036,89 +1114,6 @@
           "url": "https://www.systemiq.earth/ocean-protection-gap-report-2026/",
           "titular": "Informe 2026 sobre la brecha de protección oceánica",
           "extracto": "Detalla la diferencia entre superficie designada y superficie efectivamente protegida; participa en el mismo proyecto y no es corroboración independiente.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-hafnia",
-      "categoria": "Noticias positivas",
-      "region": "Estados Unidos",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Materiales",
-        "Electrónica"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Confirman una propiedad eléctrica poco habitual en un material usado en microelectrónica",
-      "entradilla": "El hallazgo experimental podría orientar futuras memorias y dispositivos energéticos.",
-      "que_ha_pasado": "Investigadores de la Universidad de Nebraska-Lincoln comunicaron evidencias de comportamiento antiferroeléctrico conmutables en hafnia, un material conocido en la industria electrónica.",
-      "contexto": "Los materiales con propiedades conmutables permiten investigar nuevas arquitecturas de memoria y electrónica. Una demostración de laboratorio no equivale a un componente industrial.",
-      "por_que_importa": "La confirmación amplía las opciones de investigación en almacenamiento y dispositivos, aunque su aplicación comercial queda abierta.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Comportamiento en dispositivos fabricados a escala y resultados de durabilidad."
-      ],
-      "fuentes": [
-        {
-          "medio": "Phys.org / Universidad de Nebraska-Lincoln",
-          "pais": "Estados Unidos",
-          "fecha": "2026-09-25",
-          "url": "https://phys.org/news/2026-09-discovery-rare-switchable-electrical-property.html",
-          "titular": "Descubren una propiedad eléctrica conmutable en hafnia",
-          "extracto": "Resumen de la investigación universitaria y sus posibles usos.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-bolivia-felino",
-      "categoria": "Noticias positivas",
-      "region": "Bolivia",
-      "fecha": "2026-09-17",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Biodiversidad",
-        "Descubrimientos"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Identifican genéticamente una especie de felino desconocida en Bolivia",
-      "entradilla": "El hallazgo en el bosque nublado de las Yungas amplía el conocimiento sobre los pequeños gatos silvestres.",
-      "que_ha_pasado": "Un equipo investigador identificó mediante análisis genéticos a un pequeño felino como especie diferenciada y lo denominó Leopardus tilcayo. La noticia fue publicada el 17 de septiembre y retomada esta semana en una selección de avances ambientales.",
-      "contexto": "Se conoce poco sobre su distribución y población. El hallazgo taxonómico no implica que su conservación esté garantizada.",
-      "por_que_importa": "Pone de relieve que aún existen lagunas de conocimiento sobre la biodiversidad en ecosistemas vulnerables.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Estimación de su población, distribución y situación de conservación."
-      ],
-      "fuentes": [
-        {
-          "medio": "The Guardian / Reuters",
-          "pais": "Reino Unido / Internacional",
-          "fecha": "2026-09-17",
-          "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-          "titular": "Nueva especie de felino identificada en Bolivia",
-          "extracto": "Recoge los resultados genéticos, el nombre de la especie y las incertidumbres sobre su biología.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        },
-        {
-          "medio": "Positive News",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-25",
-          "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
-          "titular": "Selección semanal: una nueva especie de felino en Bolivia",
-          "extracto": "Incluye el descubrimiento entre las noticias ambientales de la semana.",
           "enfoque": "Cobertura del acontecimiento según la información publicada.",
           "orientacion": null,
           "titular_traducido": true
