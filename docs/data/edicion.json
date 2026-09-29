@@ -1,42 +1,125 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-27-internacional-v3",
-  "titulo": "Perspectiva · Edición internacional del 27 de septiembre",
-  "fecha_edicion": "2026-09-27",
-  "actualizado_en": "2026-09-27T10:28:05+02:00",
+  "edicion_id": "2026-09-29-internacional-v1",
+  "titulo": "Perspectiva · Edición internacional del 29 de septiembre",
+  "fecha_edicion": "2026-09-29",
+  "actualizado_en": "2026-09-29T11:02:40+02:00",
   "tipo": "real",
-  "nota_editorial": "Perspectiva cambia a una mirada internacional. 30 historias de África, América del Norte y Latina, Asia, Oriente Próximo, Europa, Oceanía y cuestiones globales. 7 noticias positivas. Se han consultado medios internacionales y, en varios casos, fuentes africanas y organismos primarios; no se usa prensa española en la selección actual. Fecha editorial: 27/09/2026. La mayoría de artículos enlazados se publicaron del 21 al 26: no se presentan como hechos ocurridos hoy. Tres destacadas de continentes diferentes. Las noticias de actualidad no garantizan vigencia minuto a minuto, especialmente ante conflictos, emergencias y meteorología. Cuando un artículo republica información de una agencia se identifica expresamente, y las fuentes que pertenecen a un mismo proyecto o medio no cuentan como confirmación independiente. Las noticias positivas distinguen los avances comprobados de las expectativas futuras. Sin deportes, sin clasificaciones ideológicas supuestas y sin análisis comparativos no contrastados.",
+  "nota_editorial": "Cierre editorial de la mañana del 29/09/2026 (hora de Barcelona). Selección internacional en español, sin prioridad para medios de España ni deportes: África, Asia, Oriente Próximo, Europa, América Latina, América del Norte, Oceanía y asuntos globales. La edición combina información publicada el 29 con reportajes y avances documentados del 23 al 28, siempre con la fecha individual visible. Tres historias de portada de regiones distintas. Las 10 noticias positivas distinguen resultados observados de planes, expectativas y casos aislados. Se consultaron agencias, medios regionales, periodismo especializado y un organismo de la ONU; las republicaciones de agencias no se cuentan como confirmaciones independientes. No se asignan orientaciones ideológicas ni se generan comparaciones formales de coberturas sin los requisitos de verificación. Las alertas sobre conflictos, salud, mercados y seguridad pueden cambiar después del cierre.",
   "noticias": [
     {
-      "id": "20260926-etiopia-tigray",
+      "id": "20260929-iran-mediadores",
       "categoria": "Mundo",
-      "region": "África · Etiopía",
-      "fecha": "2026-09-26",
+      "region": "Oriente Próximo · Irán y Estados Unidos",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oriente Próximo",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Washington y Teherán mantienen posiciones distintas mientras continúan los contactos sobre Ormuz",
+      "entradilla": "Trump niega haber ofrecido alivio de sanciones; Irán afirma que los mediadores cataríes trasladan su propuesta a Estados Unidos.",
+      "que_ha_pasado": "Reuters recoge la negativa pública de Donald Trump a informes basados en fuentes estadounidenses anónimas sobre posibles concesiones. Al Jazeera documenta contactos del ministro iraní Abbas Araghchi con mediadores cataríes y las condiciones nucleares planteadas desde Washington.",
+      "contexto": "El estrecho de Ormuz es una ruta energética estratégica afectada por la guerra. Las conversaciones indirectas y los comunicados políticos no implican aceptación recíproca.",
+      "por_que_importa": "Una negociación efectiva tendría consecuencias para la seguridad regional, el transporte marítimo y los precios de la energía.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No se ha confirmado un acuerdo ni una reapertura del estrecho. Las versiones oficiales sobre concesiones difieren."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/middle-east/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-talks-2026-09-29/",
+          "titular": "Declaraciones contrapuestas y esfuerzos de mediación",
+          "extracto": "Reuters diferencia los informes de fuentes anónimas de las declaraciones públicas de Washington y Teherán.",
+          "enfoque": "Reuters diferencia los informes de fuentes anónimas de las declaraciones públicas de Washington y Teherán.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-09-29",
+          "url": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks",
+          "titular": "Contactos del ministro iraní con mediadores cataríes",
+          "extracto": "Cobertura propia sobre conversaciones indirectas; las posiciones oficiales siguen sin constituir un acuerdo.",
+          "enfoque": "Cobertura propia sobre conversaciones indirectas; las posiciones oficiales siguen sin constituir un acuerdo.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-iraq-retirada-eeuu",
+      "categoria": "Mundo",
+      "region": "Oriente Próximo · Irak",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oriente Próximo",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Estados Unidos prevé abandonar sus últimas bases en Irak el 30 de septiembre",
+      "entradilla": "La retirada pactada en 2024 suscita interpretaciones distintas entre facciones y responsables de seguridad iraquíes.",
+      "que_ha_pasado": "Reuters informa de que las últimas fuerzas estadounidenses tienen previsto salir de las bases iraquíes antes del miércoles. Recoge celebraciones de grupos aliados con Irán y reservas de interlocutores iraquíes preocupados por la seguridad.",
+      "contexto": "La coalición intervino contra el Estado Islámico tras su regreso a Irak en 2014. El país mantiene relaciones complejas con Washington y Teherán.",
+      "por_que_importa": "La retirada modifica la distribución de fuerzas y obliga a las autoridades iraquíes a reorganizar responsabilidades militares.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Al cierre de esta edición la retirada completa todavía no consta ejecutada. El impacto en seguridad es incierto."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Irak",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/",
+          "titular": "Retirada estadounidense prevista de las últimas bases",
+          "extracto": "Reportaje con testimonios y distintas perspectivas iraquíes sobre la seguridad.",
+          "enfoque": "Reportaje con testimonios y distintas perspectivas iraquíes sobre la seguridad.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-nigeria-secuestros",
+      "categoria": "Mundo",
+      "region": "África · Nigeria",
+      "fecha": "2026-09-29",
       "portada": true,
       "destacada": true,
       "etiquetas": [
         "África",
-        "Conflictos"
+        "Actualidad"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "El resurgimiento de los combates en Tigray amenaza el acuerdo de paz etíope",
-      "entradilla": "Una alianza de grupos armados se enfrenta a las fuerzas federales; la situación militar y política continúa evolucionando.",
-      "que_ha_pasado": "Al Jazeera documentó la intensificación de combates entre el ejército federal de Etiopía y fuerzas de Tigray después de que varios grupos se aliaran. Su explicación se publicó el sábado y recoge el temor a que el acuerdo de 2022 se debilite.",
-      "contexto": "El conflicto anterior produjo un enorme coste humano y dejó asuntos territoriales y políticos sin resolver. La cobertura explica reivindicaciones y riesgos sin tratar como hechos demostrados todas las versiones de los contendientes.",
-      "por_que_importa": "Un nuevo ciclo de violencia amenaza a población desplazada, comunicaciones y servicios básicos en la región.",
+      "titulo": "Nigeria investiga nuevos secuestros masivos y el hallazgo de restos humanos",
+      "entradilla": "Unas 87 personas figuran como desaparecidas según informes citados por AFP; la policía investiga por separado restos encontrados en Abia.",
+      "que_ha_pasado": "Según la información de AFP publicada por Al Jazeera, 47 agricultores fueron secuestrados el sábado en el estado de Niger y 40 mujeres el domingo en Zamfara. Por separado, la policía de Abia comunicó un hallazgo de restos humanos en campamentos vinculados a bandas.",
+      "contexto": "La inseguridad y los secuestros extorsivos afectan a diferentes regiones de Nigeria. Los dos sucesos descritos no deben confundirse ni considerarse necesariamente relacionados.",
+      "por_que_importa": "Las familias afectadas necesitan información contrastada y las investigaciones deben determinar el destino de las personas desaparecidas.",
       "que_se_sabe": [],
       "que_falta": [
-        "Es prematuro concluir que haya comenzado otra guerra civil generalizada."
+        "El total procede de informes de seguridad y fuentes locales; no consta identificación de los restos ni vínculo demostrado con estos secuestros."
       ],
       "fuentes": [
         {
-          "medio": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-09-26",
-          "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray",
-          "titular": "Explicación de la escalada en Tigray",
-          "extracto": "Reportaje con antecedentes de la guerra, nueva alianza y situación territorial.",
-          "enfoque": "Reportaje con antecedentes de la guerra, nueva alianza y situación territorial.",
+          "medio": "Al Jazeera / AFP",
+          "pais": "Catar / agencia francesa",
+          "fecha": "2026-09-29",
+          "url": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains",
+          "titular": "Denuncias de secuestros y hallazgo policial en Nigeria",
+          "extracto": "Al Jazeera cita información de AFP; se contabiliza como una cadena de información, no dos corroboraciones.",
+          "enfoque": "Al Jazeera cita información de AFP; se contabiliza como una cadena de información, no dos corroboraciones.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -45,140 +128,35 @@
       "posicion_portada": 1
     },
     {
-      "id": "20260925-sudan-chad-acnur",
-      "categoria": "Mundo",
-      "region": "África · Sudán y Chad",
-      "fecha": "2026-09-25",
+      "id": "20260929-kenia-lamu-refineria",
+      "categoria": "Economía",
+      "region": "África · Kenia",
+      "fecha": "2026-09-29",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "África",
-        "Humanitario"
+        "Actualidad"
       ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Más de 55.000 personas han huido de Sudán hacia Chad en 2026, según ACNUR",
-      "entradilla": "Las nuevas llegadas superan los recursos de acogida y la agencia de la ONU advierte de una importante falta de financiación.",
-      "que_ha_pasado": "ACNUR informó el viernes de que más de 55.000 personas habían cruzado a Chad desde Sudán este año. En algunos puestos fronterizos la llegada se ha acelerado a unos 400 refugiados diarios, mientras el llamamiento humanitario apenas está financiado en una quinta parte.",
-      "contexto": "Los combates y la inseguridad desplazan a familias sudanesas desde 2023. Chad ya acoge a una elevada población refugiada y la respuesta necesita alojamiento, agua y protección.",
-      "por_que_importa": "La falta de recursos puede empeorar las condiciones de las familias que llegan y de las comunidades anfitrionas.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "Una disputa sobre terrenos complica el proyecto de refinería previsto en Lamu",
+      "entradilla": "El promotor sostiene que una decisión judicial no impedirá el acto inicial programado para el 30 de septiembre.",
+      "que_ha_pasado": "Reuters informa de que el grupo Dangote mantiene su intención de presentar la refinería prevista en Lamu, pese a un fallo sobre derechos de la tierra que puede condicionar los trabajos en la ubicación.",
+      "contexto": "La instalación propuesta forma parte de los planes para ampliar la capacidad regional de refinado, pero la ceremonia de inicio no equivale a una planta construida.",
+      "por_que_importa": "El conflicto entre desarrollo industrial y derechos territoriales condicionará autorizaciones, inversión y calendario.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los recuentos y necesidades pueden cambiar con las nuevas llegadas."
+        "No se ha producido todavía la inauguración y no está aclarado el efecto completo de la resolución judicial sobre las obras."
       ],
       "fuentes": [
-        {
-          "medio": "ACNUR (UNHCR)",
-          "pais": "ONU",
-          "fecha": "2026-09-25",
-          "url": "https://www.unhcr.org/news/briefing-notes/unhcr-its-fourth-year-sudan-conflict-drives-new-displacement-chad-funding-falls",
-          "titular": "Informe sobre el desplazamiento de Sudán a Chad",
-          "extracto": "Fuente primaria de los datos de desplazamientos y financiación.",
-          "enfoque": "Fuente primaria de los datos de desplazamientos y financiación.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-09-25",
-          "url": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding",
-          "titular": "ACNUR advierte sobre el aumento de refugiados en Chad",
-          "extracto": "Cobertura periodística que explica el informe de ACNUR, no una segunda medición independiente.",
-          "enfoque": "Cobertura periodística que explica el informe de ACNUR, no una segunda medición independiente.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260925-rdc-ebola-oms",
-      "categoria": "Sociedad",
-      "region": "África · República Democrática del Congo",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Salud",
-        "África"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "La OMS confirma la extensión del brote de ébola a dos nuevas zonas sanitarias en la RDC",
-      "entradilla": "El virus Bundibugyo sigue afectando a comunidades y servicios médicos en siete provincias del país.",
-      "que_ha_pasado": "La Organización Mundial de la Salud comunicó el viernes que se han detectado casos en las zonas de Bulu y Dungu, elevando a 63 el número de zonas afectadas. Los 7.890 casos y 3.799 fallecimientos confirmados corresponden a su corte estadístico del 23 de septiembre, no al balance actual de hoy.",
-      "contexto": "El seguimiento es especialmente complejo donde coinciden desplazamientos, inseguridad y dificultades para llegar a centros sanitarios.",
-      "por_que_importa": "La expansión geográfica incrementa las necesidades de vigilancia, asistencia y cooperación sanitaria transfronteriza.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La cifra oficial es del 23 de septiembre; no extrapolarla a fechas posteriores."
-      ],
-      "fuentes": [
-        {
-          "medio": "Organización Mundial de la Salud",
-          "pais": "ONU",
-          "fecha": "2026-09-25",
-          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON618",
-          "titular": "Parte epidemiológico de ébola en la RDC",
-          "extracto": "Boletín sanitario primario con definición de casos y fecha de corte.",
-          "enfoque": "Boletín sanitario primario con definición de casos y fecha de corte.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-09-25",
-          "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says",
-          "titular": "El brote de ébola se extiende a otras dos zonas",
-          "extracto": "Recoge la actualización oficial y los obstáculos de la respuesta.",
-          "enfoque": "Recoge la actualización oficial y los obstáculos de la respuesta.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260925-sudsudan-dialogo",
-      "categoria": "Mundo",
-      "region": "África · Sudán del Sur",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Instituciones",
-        "África"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Sudán del Sur abre un diálogo entre partidos antes de las elecciones previstas",
-      "entradilla": "El Gobierno convoca conversaciones después de disolver la administración de transición; algunos grupos opositores rechazan el planteamiento.",
-      "que_ha_pasado": "Africanews informó el viernes de que el presidente Salva Kiir abrió un diálogo entre partidos en Yuba mientras el Ejecutivo mantiene en su calendario los comicios de diciembre. Partidos de oposición vinculados a Riek Machar han criticado el procedimiento.",
-      "contexto": "Reuters ya había informado de cambios en el marco electoral y de la disolución del Gobierno transitorio el 22 de septiembre. El calendario anunciado no garantiza por sí solo una votación efectivamente celebrada.",
-      "por_que_importa": "La discusión sobre normas, seguridad y participación afecta a la transición institucional del país.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "No existe aquí una evaluación independiente de la viabilidad del calendario."
-      ],
-      "fuentes": [
-        {
-          "medio": "Africanews / Associated Press",
-          "pais": "África",
-          "fecha": "2026-09-25",
-          "url": "https://www.africanews.com/2026/09/25/south-sudan-kiir-opens-political-dialogue-ahead-of-december-elections/",
-          "titular": "Kiir abre un diálogo político",
-          "extracto": "Cobertura desde África basada en información de AP y declaraciones de los participantes.",
-          "enfoque": "Cobertura desde África basada en información de AP y declaraciones de los participantes.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
         {
           "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/world/africa/south-sudans-president-signs-election-law-changes-ahead-december-vote-2026-09-22/",
-          "titular": "Cambios legales y disolución del Gobierno de transición",
-          "extracto": "Antecedente documental sobre el marco anunciado.",
-          "enfoque": "Antecedente documental sobre el marco anunciado.",
+          "pais": "Internacional / África oriental",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/business/energy/dangote-says-kenya-court-ruling-wont-halt-refinery-launch-may-affect-site-2026-09-29/",
+          "titular": "Disputa judicial en torno al proyecto de refinería de Lamu",
+          "extracto": "Reuters distingue la afirmación de la empresa del efecto todavía pendiente del fallo sobre el proyecto.",
+          "enfoque": "Reuters distingue la afirmación de la empresa del efecto todavía pendiente del fallo sobre el proyecto.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -186,71 +164,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260925-chad-buitres",
-      "categoria": "Ciencia",
-      "region": "África · Chad",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Biodiversidad",
-        "Investigación"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Un estudio localiza 113 buitres encapuchados en el entorno de Yamena",
-      "entradilla": "El trabajo combina recuentos de campo y entrevistas para identificar riesgos de una especie en peligro crítico.",
-      "que_ha_pasado": "Un investigador chadiano y sus colaboradores estudiaron once lugares de Yamena y alrededores y estimaron 113 individuos. El estudio detectó importantes diferencias de presencia entre zonas y señaló el envenenamiento y la caza furtiva entre las amenazas registradas.",
-      "contexto": "La especie ayuda a eliminar restos orgánicos, pero sus poblaciones han disminuido y los recursos alimentarios por sí solos no explican dónde sobrevive.",
-      "por_que_importa": "El mapa de campo ofrece información útil para diseñar protección focalizada; no demuestra todavía que la población esté recuperándose.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Hacen falta series temporales y medidas efectivas contra envenenamiento y comercio ilegal."
-      ],
-      "fuentes": [
-        {
-          "medio": "Phys.org / estudio de campo",
-          "pais": "Internacional / Chad",
-          "fecha": "2026-09-25",
-          "url": "https://phys.org/news/2026-09-critically-endangered-species-heart-africa.html",
-          "titular": "Investigación sobre buitres encapuchados en Chad",
-          "extracto": "Divulgación de los métodos, los datos y las amenazas detectadas.",
-          "enfoque": "Divulgación de los métodos, los datos y las amenazas detectadas.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260922-colombia-incendios",
+      "id": "20260929-ucrania-academia",
       "categoria": "Mundo",
-      "region": "América Latina · Colombia",
-      "fecha": "2026-09-22",
+      "region": "Europa · Ucrania",
+      "fecha": "2026-09-29",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Clima",
-        "América Latina"
+        "Europa",
+        "Actualidad"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Colombia declara la calamidad pública ante un incendio que amenaza Villa de Leyva",
-      "entradilla": "Equipos de emergencia afrontan un gran incendio forestal en un contexto regional de calor y sequedad.",
-      "que_ha_pasado": "Associated Press informó esta semana de la declaración de calamidad pública por el incendio próximo a Villa de Leyva y del despliegue de brigadas y aeronaves. Los datos de superficie quemada y evacuaciones corresponden al momento de publicación.",
-      "contexto": "El episodio coincide con una época seca exacerbada por El Niño. El riesgo de incendios también afecta a regiones vecinas, pero cada foco exige seguimiento local.",
-      "por_que_importa": "La respuesta inmediata protege a la población y patrimonio natural; la recuperación forestal y el origen del incendio siguen siendo asuntos pendientes.",
+      "titulo": "Nuevos ataques sobre Kyiv tras el impacto mortal en la Academia de Ciencias",
+      "entradilla": "Los servicios de emergencia ucranianos informaron de al menos dos muertos por el ataque del lunes al edificio científico.",
+      "que_ha_pasado": "Al Jazeera, con información de agencias, informa de nuevos ataques sobre Kyiv el martes tras el impacto de un dron el lunes sobre la Academia Nacional de Ciencias. Autoridades ucranianas describen daños y nuevas explosiones.",
+      "contexto": "La guerra iniciada con la invasión rusa de 2022 continúa afectando infraestructuras civiles y la vida urbana. Los balances pueden modificarse cuando terminan las operaciones de rescate.",
+      "por_que_importa": "La destrucción de centros científicos y los ataques sobre ciudades afectan tanto a víctimas inmediatas como a servicios e investigación.",
       "que_se_sabe": [],
       "que_falta": [
-        "No presentar el balance del 22 de septiembre como situación operativa actual; consultar autoridades colombianas para alertas."
+        "Los balances son provisionales y las autoridades locales deben consultarse para alertas operativas en tiempo real."
       ],
       "fuentes": [
         {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos",
-          "fecha": "2026-09-22",
-          "url": "https://apnews.com/article/8a280acc2c50b1877766dcc3a7f3d6b8",
-          "titular": "Emergencia por incendio junto a Villa de Leyva",
-          "extracto": "Datos de autoridades y trabajos de extinción recogidos por la agencia.",
-          "enfoque": "Datos de autoridades y trabajos de extinción recogidos por la agencia.",
+          "medio": "Al Jazeera / AFP / Reuters",
+          "pais": "Catar / agencias internacionales",
+          "fecha": "2026-09-29",
+          "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2",
+          "titular": "Daños y víctimas tras ataques sobre Kyiv",
+          "extracto": "Información conjunta de Al Jazeera y agencias; los balances y las alertas pueden cambiar.",
+          "enfoque": "Información conjunta de Al Jazeera y agencias; los balances y las alertas pueden cambiar.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -259,82 +201,35 @@
       "posicion_portada": 3
     },
     {
-      "id": "20260926-venezuela-ny",
-      "categoria": "Economía",
-      "region": "América Latina · Venezuela",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Diplomacia",
-        "Economía"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Venezuela concluye su visita a Nueva York sin anunciar los acuerdos económicos que buscaba",
-      "entradilla": "Los contactos sobre energía, minería y deuda no se tradujeron en anuncios cerrados durante el viaje, según un análisis de Reuters.",
-      "que_ha_pasado": "Reuters describió que la presidenta interina Delcy Rodríguez regresó de la Asamblea General después de reunirse con representantes internacionales y de buscar acuerdos sobre deuda y sectores extractivos. La agencia informó de la ausencia de compromisos económicos definitivos anunciados durante la visita.",
-      "contexto": "Los contactos se desarrollan mientras Venezuela busca financiación y discute su transición política. Las intenciones de cada Gobierno se presentan atribuidas y no como certezas sobre sus motivaciones.",
-      "por_que_importa": "Lo relevante será el contenido público de cualquier acuerdo futuro, las obligaciones financieras y el calendario institucional que llegue a confirmarse.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La evolución de las negociaciones y el contenido de futuros acuerdos requieren seguimiento."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters (publicado por Internazionale)",
-          "pais": "Internacional / Italia",
-          "fecha": "2026-09-26",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/26/analysis-venezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date",
-          "titular": "Análisis: la visita de Rodríguez concluye sin acuerdos anunciados",
-          "extracto": "Reproducción identificada de la información de Reuters; no es una segunda fuente.",
-          "enfoque": "Reproducción identificada de la información de Reuters; no es una segunda fuente.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://www.reuters.com/world/americas/venezuelan-delegation-led-by-rodriguez-discuss-debt-energy-us-sources-say-2026-09-21/",
-          "titular": "Los asuntos económicos que Venezuela llevó a Nueva York",
-          "extracto": "Información previa de la misma agencia sobre agenda energética, minería y deuda.",
-          "enfoque": "Información previa de la misma agencia sobre agenda energética, minería y deuda.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260922-brasil-onu",
+      "id": "20260929-hungria-inmunidad",
       "categoria": "Mundo",
-      "region": "América Latina · Brasil",
-      "fecha": "2026-09-22",
+      "region": "Europa · Hungría",
+      "fecha": "2026-09-29",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "ONU",
-        "Brasil"
+        "Europa",
+        "Actualidad"
       ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Lula denuncia ante la ONU posibles injerencias extranjeras en procesos electorales",
-      "entradilla": "El presidente brasileño defendió la soberanía electoral de su país y pidió cambios en la gobernanza internacional.",
-      "que_ha_pasado": "Durante la Asamblea General, Luiz Inácio Lula da Silva expresó críticas hacia lo que considera intentos externos de influir en la política de Brasil y defendió la capacidad de sus instituciones electorales. Son declaraciones de su intervención, no una conclusión independiente sobre la existencia de una injerencia concreta.",
-      "contexto": "El mensaje se produce en un periodo de tensiones diplomáticas y de debate brasileño sobre seguridad, comercio y las próximas elecciones.",
-      "por_que_importa": "Permite conocer la posición oficial brasileña; cualquier acusación específica necesitaría pruebas verificables por separado.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "El Parlamento húngaro levanta la inmunidad del primer ministro y de dos exministros",
+      "entradilla": "La decisión del lunes permite continuar investigaciones judiciales separadas; no constituye una declaración de culpabilidad.",
+      "que_ha_pasado": "Según la cobertura publicada el 29, el Parlamento votó el lunes retirar la inmunidad del primer ministro Peter Magyar, que había solicitado esa medida, y de dos ministros del anterior Ejecutivo de Viktor Orbán.",
+      "contexto": "Los procedimientos abarcan hechos y personas distintos. Las investigaciones y las defensas deben tratarse por separado.",
+      "por_que_importa": "El levantamiento de inmunidad abre una fase judicial que podrá examinar pruebas con garantías procesales.",
       "que_se_sabe": [],
       "que_falta": [
-        "No tomar afirmaciones políticas atribuidas como hechos demostrados sin evidencia adicional."
+        "Las investigaciones siguen abiertas; no hay sentencias por los hechos investigados en esta noticia."
       ],
       "fuentes": [
         {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos",
-          "fecha": "2026-09-22",
-          "url": "https://apnews.com/article/767e63e2ffd5a2898c84f290de816ff7",
-          "titular": "Discurso de Lula ante Naciones Unidas",
-          "extracto": "Cobertura de los argumentos del presidente brasileño y sus críticas.",
-          "enfoque": "Cobertura de los argumentos del presidente brasileño y sus críticas.",
+          "medio": "Al Jazeera / AFP / AP",
+          "pais": "Catar / agencias internacionales",
+          "fecha": "2026-09-29",
+          "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers",
+          "titular": "Votación sobre la inmunidad parlamentaria en Hungría",
+          "extracto": "El reportaje identifica las acusaciones como objeto de investigaciones, no como culpabilidades probadas.",
+          "enfoque": "El reportaje identifica las acusaciones como objeto de investigaciones, no como culpabilidades probadas.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -342,284 +237,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260922-latam-visita",
-      "categoria": "Sociedad",
-      "region": "América Latina · Uruguay, Argentina y Perú",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Sociedad",
-        "Cultura"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El Vaticano anuncia una gira de León XIV por Uruguay, Argentina y Perú",
-      "entradilla": "El viaje previsto para noviembre incluirá actos públicos y una vuelta del pontífice a localidades peruanas donde desarrolló su labor pastoral.",
-      "que_ha_pasado": "Associated Press informó de la agenda anunciada para el 6 al 17 de noviembre, con visitas a los tres países sudamericanos. El programa presta atención a encuentros comunitarios y celebraciones religiosas.",
-      "contexto": "El pontífice tiene vínculos personales con Perú. El viaje es futuro y puede experimentar cambios logísticos.",
-      "por_que_importa": "Los actos concentrarán atención cultural y social en varios países latinoamericanos; las repercusiones deberán evaluarse después de celebrarse.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Confirmación final de cada etapa y realización del viaje."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / América Latina",
-          "fecha": "2026-09-22",
-          "url": "https://apnews.com/article/61b5070aae066765003a87ea5a063af8",
-          "titular": "El papa programa visitas a Uruguay, Argentina y Perú",
-          "extracto": "Información sobre las fechas y el itinerario anunciado.",
-          "enfoque": "Información sobre las fechas y el itinerario anunciado.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260921-eeuu-control-aereo",
-      "categoria": "Tecnología",
-      "region": "América del Norte · Estados Unidos",
-      "fecha": "2026-09-21",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Infraestructura",
-        "Transporte"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Una avería en comunicaciones interrumpe cientos de vuelos en el noreste de EE. UU.",
-      "entradilla": "Las operaciones se recuperaron, pero el episodio expuso vulnerabilidades de sistemas aeronáuticos esenciales.",
-      "que_ha_pasado": "Reuters y Associated Press informaron de interrupciones en aeropuertos próximos a Nueva York y Filadelfia por la caída de una conexión principal y el daño accidental a una línea de respaldo. La circulación aérea fue recuperándose después de las reparaciones.",
-      "contexto": "El sistema de control aéreo depende de redundancias técnicas. Una incidencia de comunicaciones puede tener efectos sobre rutas y viajeros incluso después de la reparación.",
-      "por_que_importa": "El episodio aporta contexto al debate sobre mantenimiento y modernización, sin presentarlo como una interrupción activa hoy.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Impacto definitivo y resultados de las revisiones técnicas."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-          "titular": "Incidencia en comunicaciones de control aéreo",
-          "extracto": "Detalla las interrupciones y recuperación del sistema.",
-          "enfoque": "Detalla las interrupciones y recuperación del sistema.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos",
-          "fecha": "2026-09-22",
-          "url": "https://apnews.com/article/05e563809c8f954e175dfb93b9cf781d",
-          "titular": "La actividad aérea vuelve a normalizarse",
-          "extracto": "Seguimiento del día siguiente con explicación de las líneas afectadas.",
-          "enfoque": "Seguimiento del día siguiente con explicación de las líneas afectadas.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260923-indonesia-humo",
-      "categoria": "Sociedad",
-      "region": "Asia sudoriental · Indonesia",
-      "fecha": "2026-09-23",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Clima",
-        "Salud"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El humo de los incendios en Indonesia se relaciona con unas 175.000 afecciones respiratorias",
-      "entradilla": "Los incendios en Sumatra y Borneo afectan también a la calidad del aire de países vecinos.",
-      "que_ha_pasado": "Según datos de las autoridades sanitarias de Indonesia difundidos por BBC, desde agosto se habían registrado unas 175.000 afecciones respiratorias vinculadas al humo, más de 40.000 de ellas en niños muy pequeños. The Guardian publicó un reportaje visual sobre los incendios y su alcance transfronterizo.",
-      "contexto": "El fenómeno El Niño agrava la sequedad de terrenos donde también influyen actividades humanas y la quema de vegetación. Las cifras reflejan un corte temporal y no son un balance actualizado al domingo.",
-      "por_que_importa": "El daño respiratorio y la reducción de visibilidad requieren respuestas sanitarias y de prevención ambiental coordinadas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Balance actualizado de incendios y efectos médicos después del 23 de septiembre."
-      ],
-      "fuentes": [
-        {
-          "medio": "BBC (reproducido por MyJoyOnline)",
-          "pais": "Reino Unido / Ghana",
-          "fecha": "2026-09-23",
-          "url": "https://www.myjoyonline.com/more-than-170000-respiratory-cases-recorded-in-haze-choked-indonesia/",
-          "titular": "175.000 casos respiratorios en Indonesia",
-          "extracto": "Reproducción identificada de BBC con la cifra atribuida al ministerio de Salud.",
-          "enfoque": "Reproducción identificada de BBC con la cifra atribuida al ministerio de Salud.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-21",
-          "url": "https://www.theguardian.com/world/2026/sep/21/indonesia-borneo-sumatra-fires-smoke-toxic-air",
-          "titular": "Cómo el humo afecta a millones en Indonesia",
-          "extracto": "Reportaje visual sobre incendios, causas e impactos sobre comunidades.",
-          "enfoque": "Reportaje visual sobre incendios, causas e impactos sobre comunidades.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260923-india-redes",
-      "categoria": "Economía",
-      "region": "Asia meridional · India",
-      "fecha": "2026-09-23",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "India",
-        "Energía"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "India amplía su generación eléctrica de bajas emisiones, pero la red limita su aprovechamiento",
-      "entradilla": "El aumento de la capacidad instalada convive con problemas de evacuación de electricidad renovable.",
-      "que_ha_pasado": "BBC informa de que la generación procedente de fuentes no fósiles alcanzó brevemente más de la mitad de la demanda máxima india en julio. Sin embargo, los cuellos de botella de la red provocan vertidos de energía y el carbón sigue aportando la mayoría de la generación anual.",
-      "contexto": "Una potencia instalada mayor no se transforma automáticamente en la misma proporción de electricidad utilizada: cuentan el horario de producción, las redes y la flexibilidad del sistema.",
-      "por_que_importa": "Los resultados ilustran tanto los avances de instalación como el coste de retrasar las infraestructuras eléctricas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Planes y resultados de ampliación de la red y almacenamiento."
-      ],
-      "fuentes": [
-        {
-          "medio": "BBC News",
-          "pais": "Reino Unido / corresponsalía en India",
-          "fecha": "2026-09-23",
-          "url": "https://www.bbc.com/news/articles/c8xkvzlz0x4o",
-          "titular": "India produce más energía limpia, pero desperdicia parte",
-          "extracto": "Reportaje sobre datos de generación, capacidad instalada y límites de red.",
-          "enfoque": "Reportaje sobre datos de generación, capacidad instalada y límites de red.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260922-asia-nino",
-      "categoria": "Medioambiente",
-      "region": "Asia oriental y sudoriental",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Clima",
-        "Agricultura"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "El Niño eleva el riesgo de sequía e impactos sobre alimentos en Asia",
-      "entradilla": "Una evaluación periodística reúne previsiones agrícolas y condiciones meteorológicas en varias economías asiáticas.",
-      "que_ha_pasado": "Associated Press documentó el desarrollo de un fenómeno El Niño muy intenso y las preocupaciones por temperaturas, incendios y agua disponible para cultivos en varios países asiáticos. Algunas previsiones de precio o pérdidas son escenarios, no datos que ya hayan ocurrido.",
-      "contexto": "Una parte importante de la producción mundial de arroz, aceite de palma y otros alimentos procede de regiones sensibles a las lluvias monzónicas.",
-      "por_que_importa": "La evolución meteorológica puede afectar cosechas y precios internacionales, especialmente a hogares con recursos limitados.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La intensidad exacta, las pérdidas y las variaciones futuras de precios no están determinadas."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / Asia",
-          "fecha": "2026-09-22",
-          "url": "https://apnews.com/article/31c88df9ce8f67bcbfe3ea7f39431d57",
-          "titular": "El Niño agrava los riesgos climáticos y agrícolas en Asia",
-          "extracto": "Análisis con datos sobre las condiciones esperadas y los riesgos agrícolas.",
-          "enfoque": "Análisis con datos sobre las condiciones esperadas y los riesgos agrícolas.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260922-india-minerales",
-      "categoria": "Economía",
-      "region": "Asia · India, Indonesia y Filipinas",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Industria",
-        "Asia"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Una empresa india proyecta adquirir minas de níquel en Indonesia y Filipinas",
-      "entradilla": "Lohum quiere aumentar su suministro de minerales para baterías combinando reciclaje y extracción.",
-      "que_ha_pasado": "Reuters informó de que la compañía india busca adquirir activos mineros y multiplicar su producción de níquel. Son objetivos empresariales, no adquisiciones ya completadas.",
-      "contexto": "Los vehículos eléctricos y las redes de almacenamiento dependen de minerales cuya extracción tiene implicaciones económicas y ambientales.",
-      "por_que_importa": "El proyecto muestra nuevas alianzas industriales en Asia, pendientes de acuerdos, financiación y controles sobre impactos locales.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Negociación de las minas, impacto ambiental y capacidad productiva que se alcance."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / India",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/world/india/indias-lohum-seeks-buy-nickel-mines-indonesia-philippines-2026-09-22/",
-          "titular": "Lohum busca minas de níquel en Asia",
-          "extracto": "Informa de la estrategia y de las cifras comunicadas por la empresa.",
-          "enfoque": "Informa de la estrategia y de las cifras comunicadas por la empresa.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-ormuz-rechazo-internacional",
+      "id": "20260929-malasia-refugiados",
       "categoria": "Mundo",
-      "region": "Oriente Próximo · Irán y Estados Unidos",
-      "fecha": "2026-09-26",
+      "region": "Asia sudoriental · Malasia y Myanmar",
+      "fecha": "2026-09-29",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Diplomacia",
-        "Energía"
+        "Asia sudoriental",
+        "Actualidad"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Estados Unidos rechaza la propuesta iraní de siete días para reabrir Ormuz",
-      "entradilla": "El planteamiento comunicado por Irán a través de Catar no ha generado un acuerdo para normalizar el paso marítimo.",
-      "que_ha_pasado": "Al Jazeera documentó que Donald Trump comunicó el sábado su rechazo a la propuesta iraní. El día anterior, el ministro iraní de Exteriores había presentado en la ONU un plan condicionado que incluía medidas sobre bloqueo y sanciones estadounidenses, un alto el fuego regional y la reapertura del estrecho.",
-      "contexto": "Ormuz es una vía clave para el transporte energético. Las declaraciones de los dos gobiernos reflejan posiciones negociadoras que no equivalen a hechos ejecutados.",
-      "por_que_importa": "Sin acuerdo sobre condiciones y aplicación, los riesgos para abastecimiento energético y transporte continúan.",
+      "titulo": "Malasia inicia el retorno de unas 1.500 personas a Myanmar pese a las objeciones de ACNUR",
+      "entradilla": "Las autoridades lo describen como voluntario, mientras organizaciones humanitarias cuestionan la seguridad del retorno.",
+      "que_ha_pasado": "Reuters constató el comienzo del operativo de repatriación de un grupo de 1.476 nacionales de Myanmar identificado por ese Gobierno. ACNUR afirma que no participó en la selección de personas y considera que Myanmar no ofrece condiciones para retornos seguros y sostenibles.",
+      "contexto": "Myanmar atraviesa una guerra civil desde el golpe militar de 2021. Malasia alberga numerosos refugiados y solicitantes de protección procedentes del país vecino.",
+      "por_que_importa": "La diferencia entre el consentimiento declarado y las garantías efectivas afecta a obligaciones de protección internacional y a la seguridad de las personas trasladadas.",
       "que_se_sabe": [],
       "que_falta": [
-        "No existe acuerdo definitivo ni una reapertura verificada atribuible a este plan."
+        "No está confirmado si hay refugiados rohinyás entre las personas repatriadas ni cuáles serán sus condiciones de recepción."
       ],
       "fuentes": [
         {
-          "medio": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-09-26",
-          "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
-          "titular": "Trump rechaza la propuesta iraní",
-          "extracto": "Recoge la declaración del presidente estadounidense y la respuesta iraní.",
-          "enfoque": "Recoge la declaración del presidente estadounidense y la respuesta iraní.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-09-25",
-          "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
-          "titular": "El contenido del plan iraní de siete días",
-          "extracto": "Antecedente del mismo medio, no una corroboración independiente.",
-          "enfoque": "Antecedente del mismo medio, no una corroboración independiente.",
+          "medio": "Reuters",
+          "pais": "Internacional / Malasia",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/asia-pacific/malaysia-begins-sending-home-myanmar-refugees-despite-safety-concerns-2026-09-29/",
+          "titular": "Comienza la devolución de personas procedentes de Myanmar",
+          "extracto": "Incluye testigos de Reuters, declaraciones oficiales y objeciones de ACNUR.",
+          "enfoque": "Incluye testigos de Reuters, declaraciones oficiales y objeciones de ACNUR.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -628,35 +274,35 @@
       "posicion_portada": 2
     },
     {
-      "id": "20260921-yemen-huties",
-      "categoria": "Mundo",
-      "region": "Oriente Próximo · Yemen",
-      "fecha": "2026-09-21",
+      "id": "20260929-china-pmi-prevision",
+      "categoria": "Economía",
+      "region": "Asia oriental · China",
+      "fecha": "2026-09-29",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Conflictos",
-        "Humanitario"
+        "Asia oriental",
+        "Actualidad"
       ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Los hutíes avanzan hacia zonas montañosas estratégicas de Yemen",
-      "entradilla": "La ofensiva añade presión militar y humanitaria a la crisis de la península arábiga.",
-      "que_ha_pasado": "Reuters informó de un avance hutí para ganar posiciones en zonas montañosas de las provincias de Taiz y Lahj. La cobertura cita datos de desplazamiento de Naciones Unidas y diferentes versiones sobre la posible respuesta exterior.",
-      "contexto": "El conflicto en Yemen interactúa con las tensiones regionales y las rutas de navegación del mar Rojo. Las cifras y el control territorial pueden cambiar.",
-      "por_que_importa": "La seguridad de comunidades desplazadas y corredores comerciales depende de cómo evolucione la confrontación.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "Los economistas anticipan una recuperación limitada de la actividad manufacturera china",
+      "entradilla": "Una encuesta de Reuters prevé un PMI oficial de 50,1 en septiembre; el dato real se publicará el miércoles.",
+      "que_ha_pasado": "La consulta a 29 economistas anticipa que el indicador chino supere ligeramente el umbral de 50, que separa expansión de contracción, tras las perturbaciones meteorológicas de agosto.",
+      "contexto": "China combina exportaciones y manufactura avanzada resistentes con un consumo e inversión domésticos que muestran debilidad. El Gobierno ha planteado medidas adicionales.",
+      "por_que_importa": "Las cifras manufactureras influirán en las expectativas sobre producción, comercio internacional y demanda de materias primas.",
       "que_se_sabe": [],
       "que_falta": [
-        "Confirmar cualquier cambio territorial más reciente y la respuesta internacional."
+        "50,1 es una previsión, no el resultado oficial del mes; la publicación está prevista para el 30 de septiembre."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://www.reuters.com/world/middle-east/houthis-push-control-yemen-highlands-trump-reported-have-called-off-airstrikes-2026-09-21/",
-          "titular": "Ofensiva hutí hacia tierras altas de Yemen",
-          "extracto": "Explica posiciones estratégicas y cita fuentes humanitarias.",
-          "enfoque": "Explica posiciones estratégicas y cita fuentes humanitarias.",
+          "pais": "Internacional / China",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/business/china-factories-seen-rebounding-september-beijing-signals-more-aid-2026-09-29/",
+          "titular": "Encuesta de expectativas sobre la industria china",
+          "extracto": "Es una previsión de analistas previa a la publicación de los datos oficiales.",
+          "enfoque": "Es una previsión de analistas previa a la publicación de los datos oficiales.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -664,35 +310,658 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260923-australia-floracion",
+      "id": "20260929-corea-norte-onu",
+      "categoria": "Mundo",
+      "region": "Asia oriental · Corea del Norte",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia oriental",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Corea del Norte lleva a la ONU un discurso sobre la desconfianza internacional",
+      "entradilla": "El viceministro de Exteriores defendió las posiciones de Pyongyang y criticó las alianzas regionales lideradas por Estados Unidos.",
+      "que_ha_pasado": "Associated Press informa de que Kim Son Gyong pronunció en el debate general de Naciones Unidas un discurso centrado en soberanía, disuasión y relaciones internacionales, sin formular amenazas directas en esa intervención.",
+      "contexto": "La península de Corea sigue formalmente bajo un armisticio, y sus gobiernos mantienen desacuerdos profundos sobre seguridad y programas militares.",
+      "por_que_importa": "El discurso permite conocer la posición pública de Pyongyang durante las conversaciones multilaterales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las acusaciones del representante norcoreano son declaraciones de su Gobierno, no hechos contrastados por el mero hecho de pronunciarse en la ONU."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / corresponsalía Asia",
+          "fecha": "2026-09-29",
+          "url": "https://apnews.com/article/557ae95875686dea8df049914ef712cf",
+          "titular": "Intervención norcoreana en la Asamblea General",
+          "extracto": "Crónica de AP sobre el discurso; las denuncias del Gobierno norcoreano son afirmaciones atribuidas.",
+          "enfoque": "Crónica de AP sobre el discurso; las denuncias del Gobierno norcoreano son afirmaciones atribuidas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-australia-tipos",
+      "categoria": "Economía",
+      "region": "Oceanía · Australia",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oceanía",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Australia eleva su tipo oficial al 4,60 %, máximo de unos quince años",
+      "entradilla": "El banco central acuerda una subida de 0,25 puntos y mantiene el foco en la inflación.",
+      "que_ha_pasado": "Reuters informa de la decisión unánime del Banco de la Reserva de Australia, que identifica la inflación persistente, el coste energético y la debilidad de productividad entre sus preocupaciones.",
+      "contexto": "El encarecimiento internacional de la energía coincide con presiones económicas internas. La nueva tasa es la cuarta subida de 2026.",
+      "por_que_importa": "Las condiciones de financiación repercuten en hipotecas, gasto, empresas y comercio regional.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los próximos movimientos de tipos dependen de datos futuros; no deben presentarse como decisiones ya adoptadas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Australia",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/asia-pacific/australias-central-bank-raises-cash-rate-15-year-peak-2026-09-29/",
+          "titular": "El banco central australiano eleva los tipos al 4,60 %",
+          "extracto": "Agencia con la decisión comunicada y las motivaciones expresadas por el banco.",
+          "enfoque": "Agencia con la decisión comunicada y las motivaciones expresadas por el banco.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-brasil-apuestas",
+      "categoria": "Sociedad",
+      "region": "América Latina · Brasil",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América Latina",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Brasil aplica un decreto contra las apuestas en línea que todavía requiere tramitación",
+      "entradilla": "La prohibición temporal impulsada por Lula genera debate sobre adicción, economía y facultades del Ejecutivo.",
+      "que_ha_pasado": "Associated Press describe la puesta en marcha del decreto y sus primeras consecuencias. Reuters había informado del anuncio el 25 de septiembre junto con un programa gubernamental de alivio de deuda.",
+      "contexto": "El sector de apuestas digitales se expandió en Brasil y existen posiciones diferentes sobre la protección a consumidores y los efectos laborales y económicos de la prohibición.",
+      "por_que_importa": "La vigencia de la medida dependerá del marco jurídico y del examen parlamentario; su aplicación puede afectar a usuarios y trabajadores.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La medida no está consolidada como ley permanente y las posibles impugnaciones siguen pendientes."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / corresponsalía Brasil",
+          "fecha": "2026-09-29",
+          "url": "https://apnews.com/article/e7ea25e0920e76c78b40d6eeaa8f589d",
+          "titular": "Decreto brasileño sobre apuestas en línea",
+          "extracto": "AP distingue los efectos iniciales del decreto del debate legal y legislativo pendiente.",
+          "enfoque": "AP distingue los efectos iniciales del decreto del debate legal y legislativo pendiente.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Brasil",
+          "fecha": "2026-09-25",
+          "url": "https://www.reuters.com/world/americas/brazils-lula-bans-online-betting-operations-reelection-race-tightens-2026-09-25/",
+          "titular": "Anuncio del decreto y del plan de alivio de deuda",
+          "extracto": "Antecedente del anuncio gubernamental del 25 de septiembre, no actualización del día 29.",
+          "enfoque": "Antecedente del anuncio gubernamental del 25 de septiembre, no actualización del día 29.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-latam-visados",
+      "categoria": "Mundo",
+      "region": "América Latina · Bolivia, Colombia, Ecuador y Perú",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América Latina",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Washington revoca visados de responsables latinoamericanos y sus familiares",
+      "entradilla": "Estados Unidos alega motivos vinculados a la lucha contra la corrupción; varios afectados cuestionan la medida.",
+      "que_ha_pasado": "Associated Press informa de revocaciones que afectan a 27 personas entre funcionarios, exfuncionarios y familiares. El fiscal general de Bolivia, Roger Mariaca, rechaza las acusaciones y denuncia presiones políticas.",
+      "contexto": "Las sanciones migratorias son instrumentos diplomáticos, pero las alegaciones contra personas concretas deben atribuirse y contrastarse.",
+      "por_que_importa": "La decisión puede alterar la cooperación judicial y política entre Estados Unidos y varios países de la región.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las imputaciones citadas proceden de autoridades estadounidenses y están controvertidas; no constituyen condenas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / América Latina",
+          "fecha": "2026-09-29",
+          "url": "https://apnews.com/article/7815734706d2e758d14e11ccd8dbd8f3",
+          "titular": "Revocaciones de visados a funcionarios latinoamericanos",
+          "extracto": "Reportaje que recoge el argumento estadounidense y la respuesta del fiscal boliviano afectado.",
+          "enfoque": "Reportaje que recoge el argumento estadounidense y la respuesta del fiscal boliviano afectado.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-mexico-periodistas",
+      "categoria": "Sociedad",
+      "region": "América del Norte · México",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Organizaciones de prensa mexicanas alertan del aumento de demandas contra periodistas",
+      "entradilla": "Un reportaje documenta el uso de procedimientos judiciales junto a otros riesgos que afronta la profesión.",
+      "que_ha_pasado": "AP publica testimonios y casos sobre litigios contra medios mexicanos. Según cifras de Article 19 recogidas por la agencia, hubo 69 demandas dirigidas a periodistas o medios durante 2025.",
+      "contexto": "México registra desde hace años violencia contra comunicadores; las disputas judiciales plantean cuestiones adicionales sobre libertad de expresión, reputación y garantías procesales.",
+      "por_que_importa": "El fenómeno puede generar costes económicos y presión sobre el periodismo de investigación.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La cifra citada se refiere a 2025 y a los casos recogidos por Article 19, no al total verificado de procedimientos en 2026."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / corresponsalía México",
+          "fecha": "2026-09-29",
+          "url": "https://apnews.com/article/3ad70476773da1cb776d7984d11bcd0f",
+          "titular": "Demandas judiciales contra periodistas mexicanos",
+          "extracto": "AP recurre a casos documentados y a datos de la organización Article 19.",
+          "enfoque": "AP recurre a casos documentados y a datos de la organización Article 19.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-cuba-declaraciones",
+      "categoria": "Mundo",
+      "region": "América Latina y el Caribe · Cuba y Estados Unidos",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América Latina y el Caribe",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Estados Unidos mantiene su presión sobre Cuba mientras ambos gobiernos hablan de diálogo",
+      "entradilla": "Marco Rubio expresó sus expectativas de cambios políticos; el Ejecutivo cubano ha manifestado apertura a conversaciones.",
+      "que_ha_pasado": "Reuters recoge declaraciones del secretario de Estado estadounidense y referencias a intervenciones diplomáticas cubanas durante la Asamblea General de la ONU.",
+      "contexto": "Las sanciones y restricciones energéticas condicionan la situación cubana y forman parte de una relación bilateral prolongadamente conflictiva.",
+      "por_que_importa": "El alcance de eventuales conversaciones será relevante para el abastecimiento y las relaciones regionales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No existe en esta cobertura un acuerdo bilateral nuevo cerrado ni un calendario público de negociación."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Caribe",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/americas/rubio-says-us-is-hopeful-cuba-will-choose-different-path-2026-09-29/",
+          "titular": "Declaraciones estadounidenses sobre Cuba",
+          "extracto": "Las condiciones y expectativas de Washington están atribuidas a su secretario de Estado.",
+          "enfoque": "Las condiciones y expectativas de Washington están atribuidas a su secretario de Estado.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-ets-europa",
+      "categoria": "Economía",
+      "region": "Europa · Italia, Chequia y Unión Europea",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Italia y Chequia preparan una propuesta para flexibilizar reglas energéticas europeas",
+      "entradilla": "Ambos ejecutivos pretenden presentar cambios sobre derechos de emisión y abastecimiento en una cumbre comunitaria.",
+      "que_ha_pasado": "Reuters recoge la intención anunciada desde Roma de solicitar ajustes al sistema europeo de emisiones y aplazamientos en determinadas reglas energéticas, invocando costes de suministro.",
+      "contexto": "El mercado de CO₂ y las normas energéticas europeas combinan objetivos climáticos con preocupación por precios industriales y domésticos.",
+      "por_que_importa": "La discusión definirá compromisos y posibles cambios normativos entre gobiernos de la UE.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Es una propuesta política, no una modificación aprobada. Su diseño final y respaldo son todavía desconocidos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Unión Europea",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/business/energy/italy-czech-republic-call-softer-eu-rules-carbon-permits-energy-supply-2026-09-29/",
+          "titular": "Italia y Chequia plantean cambios en reglas energéticas europeas",
+          "extracto": "Se refiere a propuestas para una cumbre futura, no a cambios normativos aprobados.",
+          "enfoque": "Se refiere a propuestas para una cumbre futura, no a cambios normativos aprobados.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260927-china-eeuu-ia",
+      "categoria": "Tecnología",
+      "region": "Asia oriental y América del Norte · China y Estados Unidos",
+      "fecha": "2026-09-27",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia oriental y América del Norte",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "CONTEXTO RECIENTE",
+      "titulo": "China y Estados Unidos anuncian un canal para gestionar incidentes relacionados con IA",
+      "entradilla": "El acuerdo comunicado el fin de semana incluye avanzar en mecanismos de comunicación militar.",
+      "que_ha_pasado": "AP explica que ambos gobiernos anunciaron tras la reunión de sus presidentes la intención de crear un mecanismo específico para incidentes de inteligencia artificial y un diálogo previsto para noviembre.",
+      "contexto": "La gestión de riesgos tecnológicos y los contactos militares forman parte de una relación que también mantiene diferencias comerciales y estratégicas.",
+      "por_que_importa": "Los canales acordados podrían facilitar el intercambio de información durante incidentes, pero su utilidad se comprobará con su puesta en práctica.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El mecanismo está anunciado; no constan todavía resultados operativos ni su funcionamiento detallado."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / China",
+          "fecha": "2026-09-27",
+          "url": "https://apnews.com/article/china-us-agreement-xi-trump-visit-e8f858ed9094b99bc8d3d339f9899f31",
+          "titular": "Anuncio de un canal de incidentes de IA y diálogo militar",
+          "extracto": "AP informa de los comunicados de los dos gobiernos; aún faltan detalles de implementación.",
+          "enfoque": "AP informa de los comunicados de los dos gobiernos; aún faltan detalles de implementación.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-bonos-mundiales",
+      "categoria": "Economía",
+      "region": "Global · Mercados financieros",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Global",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Los mayores rendimientos de la deuda y el petróleo presionan a los mercados mundiales",
+      "entradilla": "Los inversores siguen pendientes de inflación, deuda pública y las tensiones energéticas en Oriente Próximo.",
+      "que_ha_pasado": "Reuters documenta el aumento de la rentabilidad de la deuda soberana estadounidense y europea y movimientos dispares de bolsas y materias primas durante la jornada.",
+      "contexto": "Una subida del rendimiento exigido a los bonos puede encarecer la financiación de estados, empresas y hogares. Las cotizaciones publicadas son instantáneas.",
+      "por_que_importa": "La combinación de energía cara y crédito más costoso condiciona presupuestos y actividad económica en diversas regiones.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los precios son intradía y pueden cambiar; no se extrapolan tendencias ni se dan recomendaciones de inversión."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-29/",
+          "titular": "Aumento de las rentabilidades de bonos y presión sobre bolsas",
+          "extracto": "Cotizaciones y expectativas sujetas a variaciones intradía; no constituye asesoramiento financiero.",
+          "enfoque": "Cotizaciones y expectativas sujetas a variaciones intradía; no constituye asesoramiento financiero.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-reino-unido-medicamentos",
+      "categoria": "Salud",
+      "region": "Europa · Reino Unido",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Un estudio detecta problemas de suministro de medicamentos comunes en hospitales ingleses",
+      "entradilla": "Los centros consultados notifican dificultades con algunos fármacos y carencias en sus planes de contingencia.",
+      "que_ha_pasado": "The Guardian publica una investigación basada en respuestas de trusts del servicio sanitario inglés, con casos relativos a aspirina, analgésicos y ramipril.",
+      "contexto": "Las cadenas internacionales de fabricación y distribución de medicamentos pueden interrumpirse por causas comerciales, logísticas y geopolíticas.",
+      "por_que_importa": "El suministro constante de medicamentos básicos es esencial para evitar retrasos y sobrecostes asistenciales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La muestra no representa automáticamente a todos los hospitales y el NHS mantiene su propia evaluación de riesgo."
+      ],
+      "fuentes": [
+        {
+          "medio": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-09-29",
+          "url": "https://www.theguardian.com/society/2026/sep/29/hospitals-shortages-medicine-paracetamol-nhs-england",
+          "titular": "Encuesta sobre escasez de medicamentos en hospitales ingleses",
+          "extracto": "Describe una muestra de centros y las respuestas sanitarias: no es un censo de todo el sistema.",
+          "enfoque": "Describe una muestra de centros y las respuestas sanitarias: no es un censo de todo el sistema.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-fao-bosques",
+      "categoria": "Medioambiente",
+      "region": "Global · Conservación y seguridad alimentaria",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Global",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La FAO advierte de que la restauración forestal no sigue el ritmo de los compromisos",
+      "entradilla": "Un nuevo informe distingue entre hectáreas comprometidas y superficies con trabajos efectivos de restauración.",
+      "que_ha_pasado": "The Guardian resume el informe de la FAO: desde 1990 se han eliminado más de 489 millones de hectáreas de bosques, y los trabajos efectivos de restauración abarcan una fracción de lo prometido.",
+      "contexto": "Los bosques intervienen en la biodiversidad, el ciclo del agua, la captura de carbono y el sustento de numerosas comunidades.",
+      "por_que_importa": "La distancia entre anuncios y restauraciones medibles será importante para evaluar las políticas forestales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las cifras son del informe internacional y no implican que todas las restauraciones tengan la misma calidad ecológica."
+      ],
+      "fuentes": [
+        {
+          "medio": "The Guardian / informe FAO",
+          "pais": "Reino Unido / Naciones Unidas",
+          "fecha": "2026-09-29",
+          "url": "https://www.theguardian.com/environment/2026/sep/29/un-warns-of-narrowing-window-to-restore-worlds-forests",
+          "titular": "Informe internacional sobre restauración forestal",
+          "extracto": "Divulgación de cifras de FAO; no es una medición independiente del mismo informe.",
+          "enfoque": "Divulgación de cifras de FAO; no es una medición independiente del mismo informe.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-aie-reservas",
+      "categoria": "Economía",
+      "region": "Global · Energía",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Global",
+        "Actualidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La Agencia Internacional de la Energía contempla debatir nuevas reservas de crudo si hiciera falta",
+      "entradilla": "Su director sigue especialmente los mercados de combustibles refinados en medio de la incertidumbre internacional.",
+      "que_ha_pasado": "Fatih Birol declaró a Reuters que los miembros de la AIE estudiarían nuevas medidas con sus gobiernos si el mercado lo exigiera. No anunció una liberación concreta.",
+      "contexto": "Las reservas estratégicas son uno de los instrumentos con los que los países miembros responden a interrupciones graves de oferta.",
+      "por_que_importa": "Cualquier decisión efectiva afectaría a la disponibilidad de crudo, aunque sus efectos finales sobre precios dependen de más factores.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No se han aprobado nuevas liberaciones en la declaración recogida y no hay un volumen ni fecha comprometidos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Europa",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/business/energy/iea-member-states-will-discuss-strategic-oil-reserve-releases-if-needed-birol-2026-09-29/",
+          "titular": "La AIE contempla debatir reservas de petróleo si hiciera falta",
+          "extracto": "Declaración condicional; no anuncia ninguna liberación ya acordada.",
+          "enfoque": "Declaración condicional; no anuncia ninguna liberación ya acordada.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-ghana-espacio",
+      "categoria": "Noticias positivas",
+      "region": "África · Ghana y Costa de Marfil",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "África",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "La tecnología espacial africana ya aporta herramientas concretas para agricultura y vigilancia ambiental",
+      "entradilla": "Una feria en Abiyán muestra iniciativas que combinan observación satelital, formación técnica y nuevos acuerdos.",
+      "que_ha_pasado": "Un reportaje de Al Jazeera muestra usos de datos satelitales para seguimiento de cultivos en Ghana, un radiotelescopio reconvertido y acuerdos alcanzados en la feria espacial africana.",
+      "contexto": "El sector combina organismos públicos y pequeñas empresas que quieren pasar de usar datos extranjeros a construir herramientas propias.",
+      "por_que_importa": "Son capacidades técnicas existentes y actividades demostradas, aunque el acceso a capital y fabricación local sigue siendo limitado.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No está demostrado que todos los prototipos o acuerdos se conviertan en proyectos comercialmente operativos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Al Jazeera (entrevistas en Ghana y Costa de Marfil)",
+          "pais": "Catar / África occidental",
+          "fecha": "2026-09-29",
+          "url": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice",
+          "titular": "Proyectos africanos que ya emplean observación espacial",
+          "extracto": "Reportaje regional con entrevistas a investigadores y emprendedores; separa logros de planes sin financiación.",
+          "enfoque": "Reportaje regional con entrevistas a investigadores y emprendedores; separa logros de planes sin financiación.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260928-gorila-virunga",
+      "categoria": "Noticias positivas",
+      "region": "África · República Democrática del Congo",
+      "fecha": "2026-09-28",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "África",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Una gorila reintroducida en Virunga tuvo una cría tras su rehabilitación",
+      "entradilla": "Los conservacionistas comunican que Lulingu y su cría se encuentran bien; el parto fue en mayo de 2026.",
+      "que_ha_pasado": "Mongabay publica el 28 de septiembre la historia de Lulingu, acogida en el centro GRACE desde pequeña y reintroducida en Virunga en 2024. Sus cuidadores confirmaron que dio a luz en mayo.",
+      "contexto": "La recuperación de gorilas exige rescate, rehabilitación y protección de hábitats, además de vigilancia de riesgos sanitarios.",
+      "por_que_importa": "El nacimiento es un resultado individual comprobable del trabajo de rehabilitación y reintroducción.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Un nacimiento no demuestra una recuperación general de la población; el seguimiento continúa."
+      ],
+      "fuentes": [
+        {
+          "medio": "Mongabay (Elodie Toto)",
+          "pais": "Cobertura local / República Democrática del Congo",
+          "fecha": "2026-09-28",
+          "url": "https://news.mongabay.com/short-article/2026/09/reintroduced-grauers-gorilla-gives-birth-in-drc-national-park-makes-us-happy/",
+          "titular": "Una gorila reintroducida tuvo una cría en Virunga",
+          "extracto": "Reportaje publicado el 28; el nacimiento se produjo en mayo, no ayer.",
+          "enfoque": "Reportaje publicado el 28; el nacimiento se produjo en mayo, no ayer.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260925-frutales-africa",
+      "categoria": "Noticias positivas",
+      "region": "África austral · Zimbabue, Malawi y Zambia",
+      "fecha": "2026-09-25",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "África austral",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Bancos genéticos africanos conservan y reproducen árboles frutales autóctonos",
+      "entradilla": "Equipos científicos mantienen ejemplares duplicados de especies valiosas para alimentación e ingresos rurales.",
+      "que_ha_pasado": "Mongabay describe el trabajo de investigadores que conservan y clonan variedades locales de frutales, incluido el níspero silvestre africano, con instalaciones de respaldo en varios países.",
+      "contexto": "Los frutos autóctonos son recursos alimentarios y económicos cuya pérdida puede acelerarse con la deforestación.",
+      "por_que_importa": "Las colecciones y las técnicas de multiplicación ya funcionan y facilitan conservar ejemplares de alto valor.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El robo de árboles y las necesidades de financiación impiden asegurar la conservación a largo plazo."
+      ],
+      "fuentes": [
+        {
+          "medio": "Mongabay (Ryan Truscott)",
+          "pais": "África austral",
+          "fecha": "2026-09-25",
+          "url": "https://news.mongabay.com/2026/09/scientists-clone-southern-africas-wild-fruit-trees-as-forests-disappear/",
+          "titular": "Bancos genéticos de frutales autóctonos en África austral",
+          "extracto": "Describe proyectos consolidados y los problemas de financiación y protección de las colecciones.",
+          "enfoque": "Describe proyectos consolidados y los problemas de financiación y protección de las colecciones.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260928-cacao-agroforestal",
+      "categoria": "Noticias positivas",
+      "region": "América Latina · Brasil",
+      "fecha": "2026-09-28",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América Latina",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Proyectos de cacao agroforestal recuperan antiguas tierras de pasto en Brasil",
+      "entradilla": "Una investigación documenta resultados de programas concretos y advierte del riesgo paralelo de nuevos monocultivos.",
+      "que_ha_pasado": "Reuters recoge programas que ayudaron a agricultores brasileños a introducir cacao con árboles nativos: uno de ellos apoyó a 650 productores, convirtió terrenos a agroforestería y restauró otras parcelas degradadas.",
+      "contexto": "La agroforestería permite combinar producción alimentaria y vegetación, pero su expansión no garantiza por sí misma ausencia de deforestación.",
+      "por_que_importa": "Existen intervenciones y restauraciones ya ejecutadas, no solo anuncios de un plan.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El artículo documenta también modelos intensivos de cacao que amenazan bosques; no debe describirse todo el sector como sostenible."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Brasil",
+          "fecha": "2026-09-28",
+          "url": "https://www.reuters.com/sustainability/land-use-biodiversity/sweet-spot-or-new-threat-brazil-bets-cocoa-save-amazon--ecmii-2026-09-28/",
+          "titular": "Resultados y riesgos de la agroforestería del cacao brasileño",
+          "extracto": "Presenta resultados de programas concretos y también alertas sobre nuevos monocultivos.",
+          "enfoque": "Presenta resultados de programas concretos y también alertas sobre nuevos monocultivos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260923-nepal-escuelas",
+      "categoria": "Noticias positivas",
+      "region": "Asia meridional · Nepal",
+      "fecha": "2026-09-23",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia meridional",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Aulas temporales permiten reanudar las clases a menores afectados por inundaciones en Nepal",
+      "entradilla": "UNICEF describe cómo se han habilitado espacios de aprendizaje mientras continúan las reparaciones.",
+      "que_ha_pasado": "La organización documentó el 23 de septiembre que algunos niños estaban retomando las clases en centros provisionales de distritos afectados por las inundaciones del mes anterior.",
+      "contexto": "Las avenidas destruyeron o inutilizaron escuelas y afectaron a más de 14.000 estudiantes, según las evaluaciones iniciales de UNICEF.",
+      "por_que_importa": "La reapertura de espacios protegidos es un resultado tangible de la respuesta educativa.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Muchos menores siguen con la enseñanza interrumpida; la recuperación total de escuelas no se ha completado."
+      ],
+      "fuentes": [
+        {
+          "medio": "UNICEF",
+          "pais": "Naciones Unidas / Nepal",
+          "fecha": "2026-09-23",
+          "url": "https://www.unicef.org/press-releases/one-month-after-floods-efforts-restore-education-are-helping-children-return",
+          "titular": "Aulas temporales para recuperar la enseñanza tras inundaciones",
+          "extracto": "Fuente primaria del programa de apoyo, con datos del alcance y necesidades pendientes.",
+          "enfoque": "Fuente primaria del programa de apoyo, con datos del alcance y necesidades pendientes.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260928-delfines-sidney",
       "categoria": "Noticias positivas",
       "region": "Oceanía · Australia",
-      "fecha": "2026-09-23",
+      "fecha": "2026-09-28",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Naturaleza",
-        "Australia"
+        "Oceanía",
+        "Avance documentado"
       ],
       "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Las lluvias provocan extensas floraciones silvestres en áreas áridas de Australia",
-      "entradilla": "Imágenes de satélite muestran cómo cambió el paisaje del oeste australiano respecto al año anterior.",
-      "que_ha_pasado": "NASA Earth Observatory publicó imágenes captadas por Landsat 8 que comparan agosto de 2025 con agosto de 2026 en Murchison. Tras varios meses lluviosos aparecieron grandes extensiones de flores y vegetación.",
-      "contexto": "Las semillas de especies propias de zonas áridas pueden permanecer latentes hasta que llegan condiciones favorables de humedad.",
-      "por_que_importa": "Es un fenómeno natural documentado con evidencia visual. La floración no demuestra por sí sola una recuperación ecológica permanente.",
+      "titulo": "Un grupo de delfines aparece en una zona poco habitual de la bahía de Sídney",
+      "entradilla": "Unos diez ejemplares fueron avistados al oeste del puente durante una salida en kayak.",
+      "que_ha_pasado": "ABC News recoge el avistamiento y consulta a una científica marina, que interpreta la presencia como una señal compatible con la mejora ambiental del puerto.",
+      "contexto": "Los cetáceos responden a disponibilidad de alimento y otras condiciones costeras; los encuentros cerca de áreas urbanas son poco frecuentes en algunas zonas.",
+      "por_que_importa": "El avistamiento está documentado y aporta interés para la observación y el seguimiento ambiental.",
       "que_se_sabe": [],
       "que_falta": [
-        "Se desconoce cuánto durará el fenómeno y sus impactos ecológicos a largo plazo."
+        "Es un episodio puntual: no prueba por sí solo cambios poblacionales permanentes ni una recuperación completa del ecosistema."
       ],
       "fuentes": [
         {
-          "medio": "NASA Earth Observatory",
-          "pais": "Estados Unidos / datos de Australia",
-          "fecha": "2026-09-23",
-          "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
-          "titular": "Gran floración en el oeste australiano",
-          "extracto": "Imágenes y explicación meteorológica basadas en satélites y datos australianos.",
-          "enfoque": "Imágenes y explicación meteorológica basadas en satélites y datos australianos.",
+          "medio": "ABC News Australia",
+          "pais": "Australia",
+          "fecha": "2026-09-28",
+          "url": "https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526",
+          "titular": "Delfines observados en una zona inusual de Sídney",
+          "extracto": "ABC entrevista a testigos y a una científica marina; un avistamiento no confirma una recuperación poblacional.",
+          "enfoque": "ABC entrevista a testigos y a una científica marina; un avistamiento no confirma una recuperación poblacional.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -700,35 +969,107 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260925-eeuu-fagos",
+      "id": "20260928-polillas-bogong",
+      "categoria": "Noticias positivas",
+      "region": "Oceanía · Australia",
+      "fecha": "2026-09-28",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oceanía",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Aumentan los avistamientos de polillas bogong tras años de desplome poblacional",
+      "entradilla": "Investigadores registran grandes concentraciones y piden mantener el seguimiento ciudadano.",
+      "que_ha_pasado": "The Guardian documenta numerosos registros recientes de polillas migratorias bogong en Nueva Gales del Sur y el territorio de la capital australiana. Investigadores destacan el contraste con años de muy baja presencia.",
+      "contexto": "La especie es alimento de otros animales y su abundancia ha sufrido grandes oscilaciones por presiones ambientales.",
+      "por_que_importa": "Los registros y las observaciones actuales son datos positivos para los programas de seguimiento.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los científicos no pueden concluir todavía que exista una recuperación sostenida y advierten de amenazas climáticas."
+      ],
+      "fuentes": [
+        {
+          "medio": "The Guardian (Donna Lu)",
+          "pais": "Australia",
+          "fecha": "2026-09-28",
+          "url": "https://www.theguardian.com/science/2026/sep/28/thrilled-huge-swarms-of-bogong-moths-surprise-nsw-residents-and-may-point-to-species-recovery",
+          "titular": "Avistamientos de polillas bogong tras años de declive",
+          "extracto": "Entrevistas científicas y registros ciudadanos; la recuperación a largo plazo no está demostrada.",
+          "enfoque": "Entrevistas científicas y registros ciudadanos; la recuperación a largo plazo no está demostrada.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260927-bali-luciernagas",
+      "categoria": "Noticias positivas",
+      "region": "Asia sudoriental · Indonesia",
+      "fecha": "2026-09-27",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia sudoriental",
+        "Avance documentado"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Una iniciativa de Bali combina cría de luciérnagas y cambios en las prácticas agrícolas",
+      "entradilla": "El proyecto trabaja con científicos y agricultores para reducir amenazas sobre estos insectos.",
+      "que_ha_pasado": "Mongabay presenta Bring Back the Light, iniciativa iniciada en 2020 para criar luciérnagas y promover prácticas agrícolas menos dependientes de productos químicos.",
+      "contexto": "La pérdida de hábitat, la contaminación lumínica y los pesticidas perjudican a las luciérnagas en distintas regiones asiáticas.",
+      "por_que_importa": "Existe una intervención local en marcha y colaboración con propietarios agrícolas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No hay datos en la pieza que permitan afirmar una recuperación de las poblaciones silvestres en toda Bali."
+      ],
+      "fuentes": [
+        {
+          "medio": "Mongabay (R. Maulana Yanuar y Sam Lee)",
+          "pais": "Indonesia",
+          "fecha": "2026-09-27",
+          "url": "https://news.mongabay.com/short-article/2026/09/bringing-back-balis-lost-fireflies/",
+          "titular": "Un proyecto comunitario cría luciérnagas en Bali",
+          "extracto": "Iniciativa activa desde 2020, no evidencia de retorno generalizado de la especie.",
+          "enfoque": "Iniciativa activa desde 2020, no evidencia de retorno generalizado de la especie.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-starship-orbita",
       "categoria": "Noticias positivas",
       "region": "América del Norte · Estados Unidos",
-      "fecha": "2026-09-25",
+      "fecha": "2026-09-29",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Investigación",
-        "Salud"
+        "América del Norte",
+        "Avance documentado"
       ],
       "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Investigadores reúnen una biblioteca de virus que infectan bacterias resistentes",
-      "entradilla": "Un equipo de la Universidad de Colorado lleva años conservando bacteriófagos para explorar tratamientos complementarios.",
-      "que_ha_pasado": "Investigadores de la Universidad de Colorado Anschutz han reunido y caracterizado bacteriófagos que infectan bacterias intestinales difíciles de tratar. El proyecto busca ampliar opciones de investigación en combinación con antibióticos.",
-      "contexto": "Los fagos son virus que infectan bacterias; su especificidad exige conocer cada combinación fago-bacteria. Las bacterias también pueden desarrollar resistencia.",
-      "por_que_importa": "La colección es infraestructura científica útil para futuros estudios, no un tratamiento universal ya validado.",
+      "titulo": "Starship alcanza por primera vez la órbita, pero acorta su misión por un fallo técnico",
+      "entradilla": "El vuelo de prueba del 28 de septiembre desplegó satélites y terminó antes de lo previsto.",
+      "que_ha_pasado": "ABC News relata que la nave Starship logró una inserción orbital después de dificultades con un motor y liberó 26 satélites. La misión se redujo de unas diez a tres horas y concluyó con un descenso controlado en el Pacífico.",
+      "contexto": "El programa de pruebas busca certificar capacidades espaciales todavía en desarrollo y se vincula a futuras misiones lunares.",
+      "por_que_importa": "La inserción orbital fue un hito técnico efectivamente alcanzado durante esta prueba.",
       "que_se_sabe": [],
       "que_falta": [
-        "Resultados de tratamientos específicos en pacientes y pruebas de seguridad."
+        "El problema de motor y el acortamiento de la misión impiden tratar el ensayo como éxito total del sistema."
       ],
       "fuentes": [
         {
-          "medio": "Phys.org / Universidad de Colorado",
-          "pais": "Estados Unidos",
-          "fecha": "2026-09-25",
-          "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
-          "titular": "Biblioteca de bacteriófagos contra bacterias difíciles",
-          "extracto": "Comunicado universitario divulgado por Phys.org.",
-          "enfoque": "Comunicado universitario divulgado por Phys.org.",
+          "medio": "ABC News Australia / AP",
+          "pais": "Australia / agencia internacional",
+          "fecha": "2026-09-29",
+          "url": "https://www.abc.net.au/news/2026-09-29/spacex-rocket-engine-fails-during-test-flight/107205586",
+          "titular": "Starship alcanzó la órbita y redujo su misión por un fallo",
+          "extracto": "ABC publica cobertura de AP; éxito orbital y limitaciones técnicas constan en la misma crónica.",
+          "enfoque": "ABC publica cobertura de AP; éxito orbital y limitaciones técnicas constan en la misma crónica.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -736,447 +1077,37 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260926-ucrania-digital",
-      "categoria": "Mundo",
-      "region": "Ucrania",
-      "fecha": "2026-09-26",
+      "id": "20260929-a350f-primer-vuelo",
+      "categoria": "Noticias positivas",
+      "region": "Europa · Francia",
+      "fecha": "2026-09-29",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Infraestructura",
-        "Guerra"
+        "Europa",
+        "Avance documentado"
       ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Los ataques rusos alcanzan centros de datos y operadores de Internet en Ucrania",
-      "entradilla": "Las redes digitales ucranianas se enfrentan a daños adicionales antes del invierno.",
-      "que_ha_pasado": "The Guardian documentó ataques ocurridos esta semana contra varios centros de datos y proveedores de conexión en Kyiv. La cobertura señala preocupación por el efecto sobre comunicaciones y servicios dependientes de estas redes.",
-      "contexto": "El suministro eléctrico y la infraestructura digital forman parte del funcionamiento de bancos, pagos y servicios públicos. Una interrupción sostenida puede extender los efectos del conflicto más allá de los lugares atacados.",
-      "por_que_importa": "La disponibilidad de comunicaciones es esencial para servicios civiles. Por ahora, el artículo describe el riesgo y los daños documentados, no un colapso general del sistema.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-26",
-          "url": "https://www.theguardian.com/world/2026/sep/26/russia-strikes-ukraine-digital-economy-attacks-isps-datacentres",
-          "titular": "Ataques contra el núcleo de la economía digital ucraniana",
-          "extracto": "Reportaje desde Kyiv sobre centros de datos e infraestructura de operadores.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-ue-ayuda-ucrania",
-      "categoria": "Mundo",
-      "region": "Unión Europea",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Unión Europea",
-        "Defensa"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "La UE acuerda desbloquear un programa de ayuda militar de 6.600 millones para Ucrania",
-      "entradilla": "El acuerdo político permitirá reactivar fondos antes bloqueados, aunque quedan trámites por completar.",
-      "que_ha_pasado": "Los países de la UE alcanzaron el 25 de septiembre un acuerdo político sobre un programa de 6.600 millones de euros de ayuda militar para Ucrania que llevaba paralizado desde 2023. La financiación incluye reembolsos, compras conjuntas y formación, según Euronews.",
-      "contexto": "Se trata del Fondo Europeo de Apoyo a la Paz. El acuerdo político no significa que todos los fondos se hayan transferido ya.",
-      "por_que_importa": "Afecta al apoyo europeo a Ucrania, que debe financiar necesidades de defensa y suministros en un contexto de guerra prolongada.",
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "El nuevo avión de carga A350F despega por primera vez en Francia",
+      "entradilla": "El fabricante inicia una campaña de ensayos de certificación prevista antes de su entrada en servicio.",
+      "que_ha_pasado": "Reuters informa del primer vuelo del nuevo carguero A350F desde Toulouse el 29 de septiembre, inicio de una fase de ensayos y certificación.",
+      "contexto": "El transporte aéreo de mercancías es un sector industrial internacional que requiere pruebas prolongadas antes de comercializar nuevos modelos.",
+      "por_que_importa": "El despegue inaugural es una prueba concreta, no simplemente el anuncio del programa.",
       "que_se_sabe": [],
       "que_falta": [
-        "La adopción de los actos necesarios y la transferencia efectiva de los recursos."
+        "Al publicarse la noticia el proceso de certificación no había terminado y la entrada en servicio estaba prevista para 2027."
       ],
-      "fuentes": [
-        {
-          "medio": "Euronews",
-          "pais": "Europa",
-          "fecha": "2026-09-25",
-          "url": "https://www.euronews.com/2026/09/25/eu-countries-agree-to-release-long-stalled-66-billion-in-military-aid-for-ukraine",
-          "titular": "Países de la UE acuerdan liberar 6.600 millones de ayuda militar",
-          "extracto": "Detalla el acuerdo político, su distribución y los pasos pendientes.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-alibaba-ia",
-      "categoria": "Tecnología",
-      "region": "China",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Inteligencia artificial",
-        "China"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Alibaba presenta un nuevo chip y planes para ampliar sus modelos de IA",
-      "entradilla": "La compañía expone una estrategia que combina hardware, modelos y centros de datos.",
-      "que_ha_pasado": "Reuters informó de que Alibaba anunció un chip nuevo desarrollado por su unidad de semiconductores y planes para modelos de IA de mayor escala. Algunos plazos y capacidades comunicados corresponden a objetivos empresariales futuros.",
-      "contexto": "La expansión de la IA incrementa la demanda de procesamiento y energía. Las grandes plataformas están buscando integrar componentes de su infraestructura.",
-      "por_que_importa": "La evolución del proyecto puede influir en la competencia tecnológica y en las cadenas de suministro, pero los resultados dependerán del despliegue real de la tecnología anunciada.",
-      "que_se_sabe": [],
-      "que_falta": [],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
-          "titular": "Alibaba muestra un nuevo chip y prepara modelos de IA más grandes",
-          "extracto": "Informa del anuncio corporativo y distingue entre producto mostrado y planes.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-renovables",
-      "categoria": "Medioambiente",
-      "region": "Global",
-      "fecha": "2026-09-21",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Energía",
-        "Clima"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Un informe advierte que debe acelerarse el despliegue renovable para cumplir la meta de 2030",
-      "entradilla": "El crecimiento registrado no basta, por sí solo, para alcanzar los objetivos internacionales acordados.",
-      "que_ha_pasado": "Un análisis de organizaciones del sector recogido por Reuters estima que, pese al incremento de nueva potencia renovable, sería necesario acelerar considerablemente su despliegue para llegar a los objetivos climáticos pactados para 2030.",
-      "contexto": "Los objetivos internacionales son compromisos agregados: su cumplimiento requiere instalación efectiva, redes eléctricas y mecanismos nacionales de ejecución.",
-      "por_que_importa": "La distancia entre compromisos y despliegue es importante para emisiones, seguridad energética y planificación de inversiones.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-21",
-          "url": "https://www.reuters.com/sustainability/cop/global-renewable-deployment-must-double-hit-2030-climate-target-report-says-2026-09-21/",
-          "titular": "Un informe reclama duplicar el ritmo de despliegue renovable",
-          "extracto": "Resume el diagnóstico del sector y su distancia respecto a los objetivos.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-cop31",
-      "categoria": "Medioambiente",
-      "region": "Global",
-      "fecha": "2026-09-22",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Clima",
-        "ONU"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Turquía presenta prioridades de implementación para la COP31",
-      "entradilla": "La próxima cumbre climática quiere transformar compromisos generales en proyectos y financiación.",
-      "que_ha_pasado": "El responsable de la presidencia turca de la COP31 expuso en Naciones Unidas una agenda con áreas como energía limpia, ciudades resistentes al cambio climático, residuos y apoyo a la industrialización verde. Los mecanismos presentados son propuestas de trabajo, no resultados ejecutados.",
-      "contexto": "La cumbre está prevista para noviembre en Turquía. La cuestión práctica es cómo trasladar los compromisos climáticos a inversión y aplicación nacional.",
-      "por_que_importa": "El alcance se comprobará por los acuerdos adoptados y su aplicación posterior.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-22",
-          "url": "https://www.reuters.com/sustainability/cop/turkeys-cop31-president-lays-out-summits-agenda-un-2026-09-22/",
-          "titular": "Turquía explica en la ONU la agenda de la COP31",
-          "extracto": "Recoge las líneas prioritarias y los mecanismos propuestos por la presidencia.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-limites-planeta",
-      "categoria": "Ciencia",
-      "region": "Global",
-      "fecha": "2026-09-21",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Investigación",
-        "Clima"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Un informe científico alerta del deterioro de varios límites planetarios",
-      "entradilla": "La evaluación sitúa siete de nueve procesos ambientales esenciales fuera de los rangos que considera seguros.",
-      "que_ha_pasado": "The Guardian recogió una nueva evaluación de investigadores sobre los llamados límites planetarios. El informe sitúa siete de nueve dimensiones evaluadas fuera de sus rangos de referencia, incluidas variables relacionadas con el clima y la biodiversidad.",
-      "contexto": "El marco de límites planetarios es una herramienta científica para analizar presiones sobre sistemas terrestres. Sus indicadores no equivalen a un calendario exacto de consecuencias.",
-      "por_que_importa": "El seguimiento conjunto de varios indicadores ayuda a identificar riesgos ambientales que no se aprecian al estudiar problemas aislados.",
-      "que_se_sabe": [],
-      "que_falta": [],
-      "fuentes": [
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-21",
-          "url": "https://www.theguardian.com/environment/2026/sep/21/planetary-boundaries-breached-scientists-warn-climate-crisis",
-          "titular": "Un informe advierte de límites planetarios sobrepasados",
-          "extracto": "Explica el marco científico y las dimensiones evaluadas.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-encelado",
-      "categoria": "Ciencia",
-      "region": "Espacio",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Astrobiología",
-        "Espacio"
-      ],
-      "etiqueta_editorial": "ACTUALIDAD",
-      "titulo": "Microorganismos terrestres sobreviven en condiciones que simulan el océano de Encélado",
-      "entradilla": "Un experimento aporta nuevas pistas sobre la posible habitabilidad de esta luna de Saturno.",
-      "que_ha_pasado": "Investigadores consiguieron que microorganismos terrestres sobrevivieran y crecieran en una mezcla de laboratorio que recrea algunas condiciones químicas propuestas para el océano subterráneo de Encélado.",
-      "contexto": "Las observaciones de la luna sugieren un océano bajo su capa helada. Que microbios terrestres vivan en condiciones simuladas no demuestra que haya vida extraterrestre.",
-      "por_que_importa": "El estudio permite delimitar hipótesis y pruebas útiles para futuras investigaciones planetarias.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Evidencia directa de organismos fuera de la Tierra; el resultado solo demuestra viabilidad en laboratorio."
-      ],
-      "fuentes": [
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-25",
-          "url": "https://www.theguardian.com/science/2026/sep/25/earth-microbes-survive-conditions-enceladus-saturn-moon-ocean-study",
-          "titular": "Microbios terrestres sobreviven en un océano simulado de Encélado",
-          "extracto": "Describe el diseño del experimento, los microorganismos y sus limitaciones.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-kosovo-minas",
-      "categoria": "Noticias positivas",
-      "region": "Kosovo",
-      "fecha": "2026-09-23",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Seguridad",
-        "Reconstrucción"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "HALO concluye su programa de retirada humanitaria de minas en Kosovo",
-      "entradilla": "La organización cierra 27 años de operaciones y transfiere la gestión de riesgos residuales a las autoridades.",
-      "que_ha_pasado": "HALO Trust comunicó el 23 de septiembre que termina su programa de limpieza humanitaria de minas en Kosovo tras 27 años. La organización describe tierras recuperadas para viviendas, caminos y agricultura.",
-      "contexto": "El cierre de un programa humanitario no significa que sea imposible encontrar artefactos residuales: su gestión pasa a las autoridades nacionales.",
-      "por_que_importa": "La reducción de peligros permite a comunidades utilizar espacios que durante años representaban un riesgo.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Seguimiento independiente de los riesgos residuales y mantenimiento de la capacidad local."
-      ],
-      "fuentes": [
-        {
-          "medio": "HALO Trust",
-          "pais": "Reino Unido / Kosovo",
-          "fecha": "2026-09-23",
-          "url": "https://www.halotrust.org/news/halo-concludes-humanitarian-landmine-clearance-in-kosovo/",
-          "titular": "HALO concluye la retirada humanitaria de minas en Kosovo",
-          "extracto": "Comunicado de la organización que realizó los trabajos; fuente primaria.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        },
-        {
-          "medio": "Positive News",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-25",
-          "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
-          "titular": "Balance de avances de la semana: limpieza de minas en Kosovo",
-          "extracto": "Recopilación periodística que contextualiza el anuncio de HALO.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-fibrosis-infantil",
-      "categoria": "Noticias positivas",
-      "region": "Alemania",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Salud",
-        "Investigación"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Una terapia muestra una recuperación casi normal de una función celular en niños con fibrosis quística",
-      "entradilla": "Un pequeño estudio aporta evidencia funcional favorable, aunque no significa que la enfermedad esté curada.",
-      "que_ha_pasado": "Investigadores de la Charité estudiaron a 26 niños de entre 2 y 11 años y midieron el funcionamiento de canales CFTR antes y después de una terapia triple. En las muestras analizadas describieron una recuperación de la función hasta valores del 90-100 % de referencia.",
-      "contexto": "La fibrosis quística es una enfermedad genética y este tratamiento ya existe. El trabajo estudia por qué empezar pronto podría favorecer resultados; la muestra es reducida.",
-      "por_que_importa": "Los resultados ayudan a comprender el efecto molecular del tratamiento y justifican estudiar su impacto a largo plazo.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Seguimiento clínico de más años y validación en grupos amplios y diversos."
-      ],
-      "fuentes": [
-        {
-          "medio": "Medical Xpress / Charité",
-          "pais": "Alemania",
-          "fecha": "2026-09-25",
-          "url": "https://medicalxpress.com/news/2026-09-cystic-fibrosis-triple-therapy-effective.html",
-          "titular": "La terapia triple es especialmente eficaz a edades tempranas",
-          "extracto": "Información facilitada por los investigadores; estudio de 26 niños.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-tumores-rapido",
-      "categoria": "Noticias positivas",
-      "region": "Reino Unido",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Salud",
-        "Diagnóstico"
-      ],
-      "etiqueta_editorial": "AVANCE VERIFICADO",
-      "titulo": "Un test piloto reduce el tiempo de diagnóstico de algunos tumores cerebrales",
-      "entradilla": "El NHS prueba una técnica que puede proporcionar resultados mientras el paciente continúa en quirófano.",
-      "que_ha_pasado": "The Guardian informa de una prueba diagnóstica rápida para ciertos tumores cerebrales que el servicio sanitario británico está ensayando en cinco centros. Los responsables describen una reducción de los tiempos de diagnóstico de semanas a unas horas en los casos contemplados.",
-      "contexto": "El artículo se refiere a una técnica piloto y a aplicaciones concretas. No supone que todos los tumores puedan diagnosticarse así o que el procedimiento esté disponible en todo el sistema sanitario.",
-      "por_que_importa": "Conocer antes el tipo de tumor puede ayudar a orientar las decisiones de tratamiento cuando la técnica esté validada.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Resultados publicados de validación, criterios de aplicación y despliegue fuera de los cinco centros."
-      ],
-      "fuentes": [
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-25",
-          "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
-          "titular": "Un test acorta el diagnóstico de tumores cerebrales de ocho semanas a dos horas",
-          "extracto": "Describe el programa piloto del NHS y su alcance.",
-          "enfoque": "Cobertura del acontecimiento según la información publicada.",
-          "orientacion": null,
-          "titular_traducido": true
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-praderas-marinas",
-      "categoria": "Noticias positivas",
-      "region": "Reino Unido",
-      "fecha": "2026-09-26",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Conservación",
-        "Biodiversidad"
-      ],
-      "etiqueta_editorial": "AVANCE COMPROBADO",
-      "titulo": "Los amarres ecológicos ayudan a recuperar praderas marinas en una bahía británica",
-      "entradilla": "Un estudio observa la reducción de las cicatrices que dejaban las anclas tradicionales.",
-      "que_ha_pasado": "Una investigación realizada con datos de Studland Bay, Dorset, ha observado que algunas zonas dañadas de las praderas de fanerógamas marinas redujeron sus cicatrices más del 90 % tras la instalación de amarres que evitan arrastrar cadenas por el fondo.",
-      "contexto": "Las praderas proporcionan hábitat para especies como los caballitos de mar y contribuyen al almacenamiento de carbono y la protección costera. El resultado corresponde a un lugar y periodo específicos.",
-      "por_que_importa": "Es un ejemplo documentado de una intervención de conservación con mejoras medibles, aunque no prueba que todas las bahías respondan igual.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Estudiar la evolución más allá de cuatro años y la aplicabilidad en otros lugares."
-      ],
-      "fuentes": [
-        {
-          "medio": "National Trust",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-21",
-          "url": "https://www.nationaltrust.org.uk/services/media/2026/september/first-clear-evidence-eco-moorings-restore-seagrass",
-          "titular": "Primera evidencia de recuperación de praderas con ecoamarres",
-          "extracto": "Comunicado que describe el estudio, sus métodos y el resultado observado.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
+          "pais": "Internacional / Francia",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/business/aerospace-defense/airbus-stages-maiden-flight-new-a350f-freighter-2026-09-29/",
+          "titular": "Despega el primer A350F de carga",
+          "extracto": "Primer vuelo de prueba: la certificación y la entrada comercial todavía están pendientes.",
+          "enfoque": "Primer vuelo de prueba: la certificación y la entrada comercial todavía están pendientes.",
           "orientacion": null,
           "titular_traducido": false
-        },
-        {
-          "medio": "BBC (reproducido por Yahoo)",
-          "pais": "Reino Unido",
-          "fecha": "2026-09-26",
-          "url": "https://currently.att.yahoo.com/att/seahorse-habitats-healing-thanks-eco-061042334.html",
-          "titular": "Mejora de hábitats de caballitos de mar gracias a amarres",
-          "extracto": "Información de BBC reproducida por Yahoo sobre el estudio y los límites de su alcance.",
-          "enfoque": "Fuente enlazada para consultar el texto original y sus matices.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260926-croacia-disolventes",
-      "categoria": "Noticias positivas",
-      "region": "Europa · Croacia",
-      "fecha": "2026-09-25",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Reciclaje",
-        "Industria"
-      ],
-      "etiqueta_editorial": "PROYECTO EN OPERACIÓN",
-      "titulo": "Una planta croata recupera disolventes contaminados para reutilizarlos en la industria",
-      "entradilla": "Euronews documenta cómo una instalación devuelve disolventes purificados a clientes industriales.",
-      "que_ha_pasado": "Un reportaje de Euronews muestra una planta de Ivanić-Grad donde se analizan, destilan y vuelven a verificar disolventes usados. La empresa afirma que procesa unos tres millones de kilogramos anuales, con una tasa de recuperación del 90 % sobre el material recibido.",
-      "contexto": "La recuperación evita fabricar una parte de los disolventes desde materias primas nuevas. Los restos del proceso y su consumo energético también deben considerarse en un balance completo.",
-      "por_que_importa": "Hay una instalación operativa y un proceso observado, aunque las cifras de rendimiento y huella ambiental comunicadas por la compañía requieren auditoría independiente.",
-      "que_se_sabe": [
-        "Euronews visitó la planta y documentó la destilación y retorno a un cliente."
-      ],
-      "que_falta": [
-        "Auditoría del balance neto de emisiones y residuos, independiente de la empresa."
-      ],
-      "fuentes": [
-        {
-          "medio": "Euronews (edición internacional)",
-          "pais": "Europa",
-          "fecha": "2026-09-25",
-          "url": "https://www.euronews.com/2026/09/25/from-croatia-without-waste-truly-circular-process-offers-hazardous-chemicals-a-second-life",
-          "titular": "A Croatian process offers contaminated industrial solvents a second life",
-          "extracto": "Reportaje realizado en la planta: explica el proceso y atribuye a la empresa las cifras de recuperación y emisiones.",
-          "enfoque": "Separa lo observado en las instalaciones de las cifras y proyecciones declaradas por la empresa.",
-          "orientacion": null,
-          "titular_traducido": true
         }
       ],
       "analisis_verificado": false
