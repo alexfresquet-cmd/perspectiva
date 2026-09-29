@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-29-internacional-v1",
-  "titulo": "Perspectiva · Edición internacional del 29 de septiembre",
+  "edicion_id": "2026-09-29-internacional-local-v1",
+  "titulo": "Perspectiva · Internacional y local · 29 de septiembre",
   "fecha_edicion": "2026-09-29",
-  "actualizado_en": "2026-09-29T11:02:40+02:00",
+  "actualizado_en": "2026-09-29T19:59:27+02:00",
   "tipo": "real",
-  "nota_editorial": "Cierre editorial de la mañana del 29/09/2026 (hora de Barcelona). Selección internacional en español, sin prioridad para medios de España ni deportes: África, Asia, Oriente Próximo, Europa, América Latina, América del Norte, Oceanía y asuntos globales. La edición combina información publicada el 29 con reportajes y avances documentados del 23 al 28, siempre con la fecha individual visible. Tres historias de portada de regiones distintas. Las 10 noticias positivas distinguen resultados observados de planes, expectativas y casos aislados. Se consultaron agencias, medios regionales, periodismo especializado y un organismo de la ONU; las republicaciones de agencias no se cuentan como confirmaciones independientes. No se asignan orientaciones ideológicas ni se generan comparaciones formales de coberturas sin los requisitos de verificación. Las alertas sobre conflictos, salud, mercados y seguridad pueden cambiar después del cierre.",
+  "nota_editorial": "Cierre editorial de la mañana del 29/09/2026 (hora de Barcelona). Selección internacional en español, sin prioridad para medios de España ni deportes: África, Asia, Oriente Próximo, Europa, América Latina, América del Norte, Oceanía y asuntos globales. La edición combina información publicada el 29 con reportajes y avances documentados del 23 al 28, siempre con la fecha individual visible. Tres historias de portada de regiones distintas. Las 10 noticias positivas distinguen resultados observados de planes, expectativas y casos aislados. Se consultaron agencias, medios regionales, periodismo especializado y un organismo de la ONU; las republicaciones de agencias no se cuentan como confirmaciones independientes. No se asignan orientaciones ideológicas ni se generan comparaciones formales de coberturas sin los requisitos de verificación. Las alertas sobre conflictos, salud, mercados y seguridad pueden cambiar después del cierre. Se añade un bloque LOCAL separado de la selección internacional: España, Catalunya, Barcelona y distrito de Sant Andreu (Barcelona). Ocho historias de interés próximo con prioridad visual de Sant Andreu, incluidas actividades vecinales y un reportaje social de días anteriores con sus fechas explícitas. No se confunde el distrito de Barcelona con el municipio de Sant Andreu de la Barca. Los eventos futuros deben comprobarse en su fuente antes de acudir y las incidencias meteorológicas no son alertas en tiempo real.",
   "noticias": [
     {
       "id": "20260929-iran-mediadores",
@@ -1106,6 +1106,323 @@
           "titular": "Despega el primer A350F de carga",
           "extracto": "Primer vuelo de prueba: la certificación y la entrada comercial todavía están pendientes.",
           "enfoque": "Primer vuelo de prueba: la certificación y la entrada comercial todavía están pendientes.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    }
+  ],
+  "noticias_locales": [
+    {
+      "id": "20260928-local-santandreu-congres",
+      "categoria": "Local",
+      "ambito_local": "Sant Andreu",
+      "tema_local": "Agenda",
+      "region": "Barcelona · Sant Andreu · el Congrés i els Indians",
+      "fecha": "2026-09-28",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Sant Andreu",
+        "Agenda"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD DE BARRIO",
+      "titulo": "El Congrés prepara su fiesta mayor del 3 al 11 de octubre",
+      "entradilla": "La plaza del Congrés concentrará una programación vecinal de música, cultura popular, talleres y actividades para familias.",
+      "que_ha_pasado": "La agenda publicada por betevé detalla que la fiesta mayor de el Congrés, barrio del distrito barcelonés de Sant Andreu, se celebrará del sábado 3 al domingo 11 de octubre de 2026. Entre las actividades anunciadas figuran actuaciones, actividades infantiles, comidas populares y un correfoc.",
+      "contexto": "La programación se organiza a escala de barrio y cuenta con distintas actividades concentradas en la plaza del Congrés. No debe confundirse con la fiesta mayor del núcleo de Sant Andreu, prevista para finales de noviembre.",
+      "por_que_importa": "Es información cercana y práctica para vecinos del distrito, con fechas que permiten planificar actividades familiares y culturales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los horarios pueden sufrir modificaciones; el programa enlazado es la referencia y deben revisarse cambios tras el temporal del 29 de septiembre."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-09-28",
+          "url": "https://beteve.cat/agenda/festa-major-congres-programa/",
+          "titular": "Programa y fechas de la Festa Major del Congrés 2026",
+          "extracto": "Agenda local con fechas y selección de actividades por jornada.",
+          "enfoque": "Agenda local con fechas y selección de actividades por jornada.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260916-local-navas-ong",
+      "categoria": "Local",
+      "ambito_local": "Sant Andreu",
+      "tema_local": "Comunidad",
+      "region": "Barcelona · Sant Andreu · Navas",
+      "fecha": "2026-09-16",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Sant Andreu",
+        "Comunidad"
+      ],
+      "etiqueta_editorial": "ACTUALIDAD DE BARRIO",
+      "titulo": "Una entidad de Navas ayuda cada año a 1.500 personas recién llegadas",
+      "entradilla": "T’acompanyem ofrece clases de catalán, orientación laboral y actividades de integración; recibió la Creu de Sant Jordi en 2026.",
+      "que_ha_pasado": "betevé visitó T’acompanyem, entidad sin ánimo de lucro del barrio de Navas, y recogió que atiende cada año a más de 1.500 personas procedentes de 45 países. Ofrece clases de lengua, competencias digitales, acompañamiento para buscar empleo y otras actividades.",
+      "contexto": "La organización nació en 2009 y ha ampliado su actividad desde la orientación laboral. Según el testimonio de su fundador recogido por el medio, había apoyado la inserción laboral de más de 60 personas en lo que iba de año.",
+      "por_que_importa": "Muestra un recurso social concreto situado dentro del distrito de Sant Andreu y sus actividades cotidianas de acompañamiento.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La noticia se publicó el 16 de septiembre; las cifras proceden de la entidad y del reportaje y no son nuevas estadísticas publicadas el día de esta edición."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-09-16",
+          "url": "https://beteve.cat/societat/acompanyem-ong-navas-trenca-barreres/",
+          "titular": "T’acompanyem, entidad de Navas reconocida con la Creu de Sant Jordi",
+          "extracto": "Reportaje con visita a la entidad y testimonios de trabajadores y usuarios.",
+          "enfoque": "Reportaje con visita a la entidad y testimonios de trabajadores y usuarios.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-local-barcelona-lluvias",
+      "categoria": "Local",
+      "ambito_local": "Barcelona",
+      "tema_local": "Movilidad",
+      "region": "Barcelona · ciudad y área metropolitana",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Barcelona",
+        "Movilidad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Las fuertes lluvias provocan interrupciones del metro y cortes de tráfico en Barcelona",
+      "entradilla": "El temporal afectó a varias líneas de transporte, estaciones y el aeropuerto durante el martes.",
+      "que_ha_pasado": "La cobertura de EL PAÍS del 29 de septiembre documenta cortes temporales en tramos de las líneas L3, L4, L5 y L11, problemas en Rodalies y alta velocidad, inundaciones y restricciones en la Ronda de Dalt; el aeropuerto de El Prat también registró retrasos.",
+      "contexto": "Protección Civil emitió alertas ante lluvias torrenciales que afectaron a varias comarcas catalanas. Las incidencias fueron cambiando durante la jornada.",
+      "por_que_importa": "Los efectos sobre la movilidad repercuten directamente en desplazamientos por la ciudad y en conexiones con el resto de Cataluña.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La ficha resume incidencias del 29/09 y no garantiza cortes vigentes ahora. Para desplazamientos, consultar canales operativos de TMB, Rodalies y Protección Civil."
+      ],
+      "fuentes": [
+        {
+          "medio": "EL PAÍS",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/espana/catalunya/2026-09-29/la-alerta-roja-por-lluvia-en-cataluna-obliga-a-suspender-varios-trenes-ave-y-de-media-distancia.html",
+          "titular": "El temporal en Cataluña afecta a la movilidad",
+          "extracto": "Crónica actualizada en la tarde del 29/09 sobre incidencias de transporte y alertas.",
+          "enfoque": "Crónica actualizada en la tarde del 29/09 sobre incidencias de transporte y alertas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-local-barcelona-supermercado",
+      "categoria": "Local",
+      "ambito_local": "Barcelona",
+      "tema_local": "Ciudad",
+      "region": "Barcelona · la Marina del Prat Vermell",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Barcelona",
+        "Ciudad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Barcelona debate su primer supermercado de iniciativa municipal",
+      "entradilla": "El piloto anunciado para 2027 se situaría en la Marina del Prat Vermell y aún tiene aspectos de funcionamiento por definir.",
+      "que_ha_pasado": "EL PAÍS recoge que el Ayuntamiento anunció un primer supermercado piloto en un local municipal, gestionado por una entidad social y vinculado a la formación profesional. La propuesta suscita apoyos y objeciones de asociaciones de comerciantes, con diferencias sobre cómo podría funcionar.",
+      "contexto": "La subida de precios alimentarios ha reabierto el debate sobre la distribución y los modelos de supermercados sociales. La información publicada diferencia la intención del consistorio del diseño final de la iniciativa.",
+      "por_que_importa": "La forma de gestión y el acceso a los productos podrían afectar al consumo familiar, la formación profesional y el comercio de proximidad.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Es un proyecto anunciado para 2027, no un supermercado ya abierto. Su modelo económico y las condiciones de acceso todavía requieren concreción."
+      ],
+      "fuentes": [
+        {
+          "medio": "EL PAÍS",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/economia/2026-09-29/barcelona-abre-el-debate-de-los-supermercados-publicos-en-plena-subida-de-precios.html",
+          "titular": "Debate sobre supermercados públicos en Barcelona",
+          "extracto": "Reportaje con argumentos de la administración, comerciantes y expertos.",
+          "enfoque": "Reportaje con argumentos de la administración, comerciantes y expertos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-local-catalunya-vivienda",
+      "categoria": "Local",
+      "ambito_local": "Catalunya",
+      "tema_local": "Vivienda",
+      "region": "Catalunya · Parlament",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Catalunya",
+        "Vivienda"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El Govern catalán anuncia dos instrumentos de vivienda por 125 millones de euros",
+      "entradilla": "Salvador Illa presenta un fondo de emergencia de 25 millones y otro de 100 millones para fórmulas de compra compartida.",
+      "que_ha_pasado": "Durante el Debate de Política General, el presidente de la Generalitat anunció un fondo de 25 millones para comprar viviendas y evitar desahucios en situaciones de vulnerabilidad y otro de 100 millones para fórmulas de compra compartida destinadas a personas con dificultades de financiación.",
+      "contexto": "El acceso a la vivienda es un asunto central del debate político catalán. Partidos de la oposición cuestionaron la planificación y el alcance presupuestario de los anuncios; sus objeciones no equivalen a una evaluación definitiva de los resultados.",
+      "por_que_importa": "El diseño, aprobación presupuestaria y ejecución determinarán a quién alcanzan estas medidas y en qué plazos.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Son anuncios gubernamentales, no viviendas adquiridas ni ayudas concedidas; deben precisarse los requisitos y mecanismos legales."
+      ],
+      "fuentes": [
+        {
+          "medio": "EL PAÍS",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/espana/catalunya/2026-09-29/illa-redobla-su-apuesta-por-la-vivienda-con-dos-fondos-dotados-con-125-millones.html",
+          "titular": "Illa anuncia dos fondos de vivienda por 125 millones",
+          "extracto": "Información sobre propuestas gubernamentales anunciadas en el Parlament.",
+          "enfoque": "Información sobre propuestas gubernamentales anunciadas en el Parlament.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "EL PAÍS",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/espana/catalunya/2026-09-29/la-oposicion-reprocha-a-illa-falta-de-prevision-en-vivienda-por-que-no-incluyo-las-medidas-en-los-presupuestos.html",
+          "titular": "Reacciones de los grupos opositores",
+          "extracto": "Artículo del mismo medio con declaraciones críticas; no cuenta como verificación editorial independiente.",
+          "enfoque": "Artículo del mismo medio con declaraciones críticas; no cuenta como verificación editorial independiente.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-local-catalunya-mataro",
+      "categoria": "Local",
+      "ambito_local": "Catalunya",
+      "tema_local": "Vivienda",
+      "region": "Catalunya · Mataró",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Catalunya",
+        "Vivienda"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Un desahucio en Mataró reabre el debate sobre la protección de hogares vulnerables",
+      "entradilla": "El desalojo de una familia se produjo mientras se negocian cambios en las medidas de vivienda.",
+      "que_ha_pasado": "EL PAÍS documentó el desahucio de una familia en el barrio de Cerdanyola de Mataró y las protestas de organizaciones de vivienda. La información recoge dificultades económicas de los inquilinos y la respuesta temporal del Ayuntamiento.",
+      "contexto": "Los procedimientos de alquiler y las medidas extraordinarias de protección son objeto de discusión legislativa. Este caso es una situación particular y no representa por sí mismo todos los procesos de desahucio.",
+      "por_que_importa": "El caso ilustra las consecuencias inmediatas de una ejecución judicial y las preguntas sobre el alcance temporal de nuevas políticas habitacionales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los datos personales y circunstancias médicas de la familia no se reproducen; cualquier solución habitacional posterior necesita confirmación."
+      ],
+      "fuentes": [
+        {
+          "medio": "EL PAÍS",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/espana/catalunya/2026-09-29/desahucio-ejecutado-en-mataro-en-plena-negociacion-del-decreto-antidesahucios-es-gravisimo.html",
+          "titular": "Desahucio ejecutado en Mataró",
+          "extracto": "Reportaje sobre hechos del día y reacciones de afectados y colectivos.",
+          "enfoque": "Reportaje sobre hechos del día y reacciones de afectados y colectivos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-local-espana-ipc",
+      "categoria": "Local",
+      "ambito_local": "España",
+      "tema_local": "Economía",
+      "region": "España · economía",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "España",
+        "Economía"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El indicador adelantado sitúa la inflación española de septiembre en el 4,9 %",
+      "entradilla": "El encarecimiento de combustibles y alimentos contribuye al repunte de precios; el IPC definitivo aún está pendiente.",
+      "que_ha_pasado": "Según el indicador adelantado del INE publicado este martes y difundido por EL PAÍS, la tasa interanual de septiembre se sitúa provisionalmente en el 4,9 %, mientras que la subyacente alcanza el 3,1 %.",
+      "contexto": "La comparación es respecto al mismo mes del año anterior. Un índice adelantado está sujeto a confirmación y no mide de igual manera la cesta concreta de cada hogar.",
+      "por_que_importa": "La evolución de precios afecta al poder adquisitivo, la financiación familiar y los debates sobre medidas energéticas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los datos son un avance estadístico y no deben confundirse con el resultado definitivo del IPC."
+      ],
+      "fuentes": [
+        {
+          "medio": "EL PAÍS (datos del INE)",
+          "pais": "España",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/economia/2026-09-29/la-inflacion-se-dispara-al-49-en-septiembre-empujada-por-los-carburantes.html",
+          "titular": "Indicador adelantado del IPC de septiembre",
+          "extracto": "Cobertura periodística del dato difundido por el INE.",
+          "enfoque": "Cobertura periodística del dato difundido por el INE.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-local-espana-energia",
+      "categoria": "Local",
+      "ambito_local": "España",
+      "tema_local": "Consumo",
+      "region": "España · energía y consumo",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "España",
+        "Consumo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El Gobierno aprueba un nuevo paquete de medidas ante los precios energéticos",
+      "entradilla": "Incluye un límite para la tarifa regulada del gas y condiciones para aplicar una rebaja temporal del IVA eléctrico.",
+      "que_ha_pasado": "El Consejo de Ministros aprobó el martes medidas para amortiguar el encarecimiento energético. La cobertura recoge un tope de la tarifa de último recurso del gas, la aplicación condicionada del IVA eléctrico del 10 % y un límite de 19,55 euros a la bombona de butano hasta junio de 2027.",
+      "contexto": "Las medidas responden al aumento internacional de costes energéticos. Algunas disposiciones dependen de condiciones que deben cumplirse para aplicarse a la factura.",
+      "por_que_importa": "Las normas pueden incidir en el gasto doméstico en gas, electricidad y butano, con efectos distintos según contrato y consumo.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La cobertura resume la aprobación política; verificar texto oficial publicado y vigencia efectiva antes de usarlo para calcular facturas."
+      ],
+      "fuentes": [
+        {
+          "medio": "EL PAÍS",
+          "pais": "España",
+          "fecha": "2026-09-29",
+          "url": "https://elpais.com/economia/2026-09-29/el-gobierno-renueva-el-escudo-anticrisis-reforzado-con-el-tope-al-gas-con-la-vista-puesta-en-la-calefaccion-del-otono.html",
+          "titular": "El Consejo de Ministros renueva medidas energéticas",
+          "extracto": "Desglose periodístico del paquete aprobado y sus condiciones.",
+          "enfoque": "Desglose periodístico del paquete aprobado y sus condiciones.",
           "orientacion": null,
           "titular_traducido": false
         }
