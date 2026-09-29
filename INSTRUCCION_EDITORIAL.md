@@ -12,6 +12,16 @@ Cuando Alex pida actualizar Perspectiva, investigar noticias verificables y actu
 - Los resúmenes son **propios**, no traducciones literales: explicar qué pasó, contexto, qué se sabe, límites y por qué importa; identificar qué afirmaciones proceden de gobiernos, empresas o estudios. No deducir hechos de titulares o snippets incompletos.
 - Cada edición lleva fecha de cierre y fecha individual de cada noticia. **No atribuir a hoy noticias de días anteriores**; identificar explícitamente qué es actualidad del día y qué es contexto relevante. Corregir o retirar versiones superadas.
 
+## Decisión confirmada: bloque local separado y prioridad del distrito de Sant Andreu
+
+- Mantener **dos ámbitos claramente separados**: las ~30 noticias mundiales en `noticias[]` (sin sesgo hacia España) y una sección **Local** en `noticias_locales[]` dentro del mismo JSON. Las noticias de interés español pueden aparecer en ambas únicamente si lo justifica su alcance internacional, sin duplicar artificialmente fichas.
+- En Local usar `categoria: "Local"` y `ambito_local` exactamente **"Sant Andreu"**, **"Barcelona"**, **"Catalunya"** o **"España"**. Cada historia conserva su fecha, sus enlaces concretos y los campos explicativos del esquema existente. Puede usar `tema_local` para indicar Agenda, Movilidad, Comunidad, Economía u otros asuntos.
+- **Sant Andreu se refiere al distrito de Barcelona**, que incluye Sant Andreu, la Sagrera, Navas, el Congrés i els Indians, el Bon Pastor, Trinitat Vella y Baró de Viver. Nunca mezclarlo con **Sant Andreu de la Barca**, municipio distinto.
+- Al preparar cada edición, **buscar primero novedades verificables en Sant Andreu**, después Barcelona, Catalunya y España. Dar prioridad de visualización al distrito pero **no inventar noticias diarias** ni convertir comunicados antiguos en novedades del día. Incluir agendas futuras solo si fecha y lugar están claros; evitar eventos ya pasados salvo que haya un resultado reciente comprobado.
+- Referencias locales prioritarias: **betevé**, medios de proximidad y publicaciones oficiales de Ajuntament de Barcelona, Generalitat, emergencias, movilidad u otros organismos cuando sus documentos específicos sean verificables. No enlazar una portada general en lugar del artículo al que se refiere la ficha.
+- Si no hay noticias actuales verificadas de Sant Andreu, mostrar un vacío explícito y continuar con Barcelona y demás ámbitos. La edición local es **manual, no alertas en directo**; las incidencias de transporte, alertas meteorológicas o trámites exigen verificar canales operativos antes de actuar.
+- La actualización de rutina sigue siendo exclusivamente en `docs/data/edicion.json`. Las pestañas y filtros Local ya están implementados en `App.js` y `docs/index.html`; no modificar el diseño en cada edición.
+
 ## Otras reglas editoriales vigentes
 
 - Preferir alrededor de 30 historias bien documentadas y heterogéneas; cantidad flexible ante escasez de verificación. Tres destacadas de **regiones diferentes cuando sea posible**, sin sesgo de origen de medios.
@@ -24,4 +34,4 @@ Cuando Alex pida actualizar Perspectiva, investigar noticias verificables y actu
 
 ## Próximo hito
 
-Validar en el móvil una edición internacional con fuentes regionales variadas. Si gusta, mantener este mismo criterio en todas las actualizaciones posteriores.
+Validar en Expo Go la pestaña Local con una edición internacional y próxima, comprobar los filtros Sant Andreu/Barcelona/Catalunya/España y la permanencia del diseño. Mantener el método manual hasta decidir si conviene automatizar la ingesta.
