@@ -7,6 +7,7 @@ const COLORS={bg:'#F7F5EF',card:'#FFFDF9',ink:'#172525',green:'#286559',muted:'#
 const GROUPS=[
  {name:'Todas',cats:[]},
  {name:'Mundo',cats:['Mundo','España y Europa','Geopolítica']},
+ {name:'Local',cats:[]},
  {name:'Economía',cats:['Economía']},
  {name:'Ciencia y tecnología',cats:['Ciencia','Tecnología','Salud','Medioambiente']},
  {name:'Sociedad',cats:['Sociedad','Cultura']},
@@ -16,7 +17,7 @@ const colorFor=(cat)=>({
  'Mundo':'#2E6A68','España y Europa':'#666B99','Geopolítica':'#606E64',
  'Ciencia':'#3F7590','Tecnología':'#6F648D','Medioambiente':'#648B54',
  'Noticias positivas':'#73944B','Economía':'#98764F','Sociedad':'#A66A61',
- 'Cultura':'#A77F59','Salud':'#668B7B'
+ 'Cultura':'#A77F59','Salud':'#668B7B','Local':'#8A663E'
 }[cat]||COLORS.green);
 const validLink=(url)=>typeof url==='string'&&/^https:\/\//i.test(url);
 const touch=(fn)=>({onPress:fn,activeOpacity:0.78});
@@ -34,6 +35,7 @@ export default function App(){
  const [loading,setLoading]=useState(true);
  const [err,setErr]=useState('');
  const [category,setCategory]=useState('Todas');
+ const [localScope,setLocalScope]=useState('Todas');
  const [view,setView]=useState('home');
  const [selected,setSelected]=useState(null);
  const [query,setQuery]=useState('');
@@ -53,10 +55,15 @@ export default function App(){
  useEffect(()=>{reload()},[]);
  const news=(edition?.noticias||[]).filter(n=>n.categoria!=='Deportes');
  const positive=news.filter(n=>n.categoria==='Noticias positivas');
+ const localNews=(edition?.noticias_locales||[]).filter(n=>n.categoria==='Local');
+ const localScopes=['Todas','Sant Andreu','Barcelona','Catalunya','España'];
+ const scopedLocal=localNews.filter(n=>(localScope==='Todas'||n.ambito_local===localScope)&&(!query||[n.titulo,n.entradilla,n.region,n.ambito_local,n.tema_local].join(' ').toLowerCase().includes(query.toLowerCase())));
+ const localPriority=['Sant Andreu','Barcelona','Catalunya','España'];
  const featured=[...news].filter(n=>n.portada).sort((a,b)=>(a.posicion_portada||99)-(b.posicion_portada||99)).slice(0,3);
  const filtered=useMemo(()=>{
   const cats=GROUPS.find(g=>g.name===category)?.cats||[];
-  return news.filter(n=>(!cats.length||cats.includes(n.categoria))&&(!savedOnly||favorites.includes(n.id))&&(!query||[n.titulo,n.entradilla,n.categoria,n.region].join(' ').toLowerCase().includes(query.toLowerCase())));
+  const source=category==='Local'?localNews:news;
+  return source.filter(n=>(category==='Local'||!cats.length||cats.includes(n.categoria))&&(!savedOnly||favorites.includes(n.id))&&(!query||[n.titulo,n.entradilla,n.categoria,n.region,n.ambito_local,n.tema_local].join(' ').toLowerCase().includes(query.toLowerCase())));
  },[edition,category,query,savedOnly,favorites]);
  const open=(n)=>{setSelected(n);setView('detail')};
  const back=()=>{setView('home');setSelected(null)};
@@ -67,7 +74,7 @@ export default function App(){
   <TouchableOpacity {...touch(reload)} style={s.refresh}><Text style={{color:COLORS.green,fontWeight:'800'}}>{loading?'…':'↻'}</Text></TouchableOpacity></View>
   {view==='detail'&&selected?
     <ScrollView contentContainerStyle={s.body}><TouchableOpacity {...touch(back)}><Text style={s.back}>← Volver a las noticias</Text></TouchableOpacity>
-    <Text style={[s.small,{color:colorFor(selected.categoria),marginTop:23}]}>{selected.categoria.toUpperCase()}  ·  {selected.fecha||''}</Text>
+    <Text style={[s.small,{color:colorFor(selected.categoria),marginTop:23}]}>{selected.ambito_local?('LOCAL · '+selected.ambito_local.toUpperCase()):selected.categoria.toUpperCase()}  ·  {selected.fecha||''}</Text>
     <Text style={s.detailTitle}>{selected.titulo}</Text><Text style={s.lede}>{selected.entradilla}</Text>
     <Button label={favorites.includes(selected.id)?'♥ Guardada':'♡ Guardar noticia'} onPress={toggle}/>
     <Section title="Qué ha pasado"><Text style={s.paragraph}>{selected.que_ha_pasado}</Text></Section>
@@ -107,6 +114,18 @@ export default function App(){
           {featured.slice(1).map(n=><Story key={n.id} news={n} onPress={()=>open(n)}/>)}</Section>
          <Section title="Más actualidad">{news.filter(n=>!featured.includes(n)&&n.categoria!=='Noticias positivas').map(n=><Story key={n.id} news={n} onPress={()=>open(n)}/>)}</Section>
          <Section title={'Noticias positivas · '+positive.length}>{positive.map(n=><Story key={n.id} news={n} onPress={()=>open(n)}/>)}</Section>
+        </>:
+        category==='Local'&&!savedOnly?
+        <>
+         <Text style={[s.paragraph,{marginTop:6,marginBottom:12}]}>Noticias próximas, separadas de la edición internacional. Damos prioridad al distrito de Sant Andreu sin incluir noticias de otros municipios con el mismo nombre.</Text>
+         <ScrollView horizontal showsHorizontalScrollIndicator={false} style={s.pills}>
+          {localScopes.map(scope=><TouchableOpacity {...touch(()=>setLocalScope(scope))} key={scope} style={[s.pill,localScope===scope&&s.pillActive]}><Text style={[s.pillText,localScope===scope&&{color:'white'}]}>{scope}</Text></TouchableOpacity>)}
+         </ScrollView>
+         {localScope==='Todas'?localPriority.map(scope=>{
+          const items=scopedLocal.filter(n=>n.ambito_local===scope).sort((a,b)=>(b.fecha||'').localeCompare(a.fecha||''));
+          return <Section key={scope} title={scope+' · '+items.length}>{items.length?items.map(n=><Story key={n.id} news={n} onPress={()=>open(n)}/>):<Text style={s.paragraph}>Sin noticias recientes verificadas para esta zona.</Text>}</Section>
+         }):<Section title={localScope+' · '+scopedLocal.length}>{scopedLocal.length?scopedLocal.map(n=><Story key={n.id} news={n} onPress={()=>open(n)}/>):<Text style={s.paragraph}>No hay noticias recientes verificadas en esta selección.</Text>}</Section>}
+         <Text style={s.foot}>La edición local se prepara manualmente y no sustituye a las alertas oficiales en tiempo real.</Text>
         </>:
         <Section title={savedOnly?'Guardadas':category}>{filtered.length?filtered.map(n=><Story key={n.id} news={n} onPress={()=>open(n)}/>):<Text style={s.paragraph}>No hay noticias en esta selección.</Text>}</Section>}
        <Text style={s.foot}>Edición seleccionada y actualizada desde Perspectiva. Los artículos originales pertenecen a sus respectivos medios.</Text>
