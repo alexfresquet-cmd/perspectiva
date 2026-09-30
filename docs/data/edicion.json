@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-30-internacional-v1",
-  "titulo": "Perspectiva · Edición internacional del 30 de septiembre",
+  "edicion_id": "2026-09-30-internacional-local-v2",
+  "titulo": "Perspectiva · Internacional y local · 30 de septiembre",
   "fecha_edicion": "2026-09-30",
-  "actualizado_en": "2026-09-30T08:02:00+02:00",
+  "actualizado_en": "2026-09-30T08:21:00+02:00",
   "tipo": "real",
-  "nota_editorial": "Edición internacional cerrada la mañana del 30/09/2026 (hora de Barcelona). 30 historias sin deportes: 20 de actualidad y 10 noticias positivas recientes. La selección cubre África, Asia, Oriente Próximo, Europa, Oceanía, América Latina y asuntos globales, con menor presencia latinoamericana en las noticias estrictamente publicadas hoy por falta de material suficientemente contrastado en el cierre. Se distinguen hechos de declaraciones, previsiones y proyectos; las cifras de mercados son instantáneas y no asesoramiento financiero. Las noticias positivas mantienen resultados observables y límites explícitos, sin convertir avances parciales en éxitos definitivos. Se han usado Reuters, Associated Press, Al Jazeera, ABC Australia, The Guardian y fuentes recientes ya verificadas de la edición anterior. No se asignan orientaciones ideológicas ni se generan comparaciones formales sin tres fuentes editoriales independientes.",
+  "nota_editorial": "Edición internacional cerrada la mañana del 30/09/2026 (hora de Barcelona). 30 historias sin deportes: 20 de actualidad y 10 noticias positivas recientes. La selección cubre África, Asia, Oriente Próximo, Europa, Oceanía, América Latina y asuntos globales, con menor presencia latinoamericana en las noticias estrictamente publicadas hoy por falta de material suficientemente contrastado en el cierre. Se distinguen hechos de declaraciones, previsiones y proyectos; las cifras de mercados son instantáneas y no asesoramiento financiero. Las noticias positivas mantienen resultados observables y límites explícitos, sin convertir avances parciales en éxitos definitivos. Se han usado Reuters, Associated Press, Al Jazeera, ABC Australia, The Guardian y fuentes recientes ya verificadas de la edición anterior. No se asignan orientaciones ideológicas ni se generan comparaciones formales sin tres fuentes editoriales independientes. Se restablece y mantiene el bloque Local separado con España, Catalunya, Barcelona y el distrito de Sant Andreu (Barcelona). La edición local incluye 8 historias recientes, dos por ámbito, y prioriza fuentes de proximidad y enlaces concretos. Las incidencias operativas y alertas no sustituyen a los canales oficiales en tiempo real.",
   "noticias": [
     {
       "id": "20260930-iraq-retirada-eeuu",
@@ -1117,6 +1117,342 @@
           "titular": "Despega el primer A350F de carga",
           "extracto": "Primer vuelo de prueba: la certificación y la entrada comercial todavía están pendientes.",
           "enfoque": "Primer vuelo de prueba: la certificación y la entrada comercial todavía están pendientes.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    }
+  ],
+  "noticias_locales": [
+    {
+      "id": "20260929-espana-vivienda-decretos",
+      "categoria": "Local",
+      "ambito_local": "España",
+      "tema_local": "Vivienda",
+      "region": "España · Vivienda",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "España",
+        "Vivienda"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "El Gobierno plantea ampliar la protección frente a desahucios hasta 2030",
+      "entradilla": "El acuerdo entre PSOE y Sumar incluye medidas sobre alquileres y vivienda que todavía necesitan tramitación parlamentaria.",
+      "que_ha_pasado": "Reuters y Associated Press informaron el 29 de septiembre de un paquete de medidas anunciado por el Gobierno tras las protestas por la vivienda y el caso de una mujer de 87 años desahuciada en Madrid.",
+      "contexto": "Las medidas se plantean mediante decretos y necesitan apoyos parlamentarios. Distintas organizaciones de inquilinos y propietarios han expresado posiciones diferentes sobre su alcance.",
+      "por_que_importa": "El resultado legislativo puede afectar a contratos de alquiler, desahucios y políticas de vivienda en toda España.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Son propuestas y acuerdos políticos pendientes de aprobación y desarrollo; no deben presentarse como legislación definitiva."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / España",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/octagenarian-whose-eviction-sparked-spain-protests-considering-offer-return-home-2026-09-29/",
+          "titular": "España propone nuevas medidas sobre vivienda tras las protestas",
+          "extracto": "Reuters describe el acuerdo gubernamental, el caso que impulsó las protestas y la tramitación pendiente.",
+          "enfoque": "Reuters describe el acuerdo gubernamental, el caso que impulsó las protestas y la tramitación pendiente.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / España",
+          "fecha": "2026-09-29",
+          "url": "https://apnews.com/article/4b8b9fbbf55a2d22cfdbca450df0459b",
+          "titular": "Una mujer de 87 años vuelve a su casa tras un acuerdo",
+          "extracto": "AP contextualiza el caso y las medidas de vivienda anunciadas.",
+          "enfoque": "AP contextualiza el caso y las medidas de vivienda anunciadas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-espana-ceuta-asilo",
+      "categoria": "Local",
+      "ambito_local": "España",
+      "tema_local": "Migración",
+      "region": "España · Ceuta",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "España",
+        "Migración"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "España estudia cambios en la tramitación de asilo tras la llegada masiva a Ceuta",
+      "entradilla": "Un borrador citado por Reuters contempla procedimientos más rápidos y ha recibido críticas de organizaciones de derechos humanos.",
+      "que_ha_pasado": "Reuters informó de un borrador de decreto que modificaría procedimientos de asilo y retorno tras la llegada masiva registrada en Ceuta a finales de julio.",
+      "contexto": "La gestión de fronteras exteriores combina normativa española, derecho europeo y obligaciones internacionales de protección.",
+      "por_que_importa": "Los cambios podrían afectar a miles de personas y abrir un debate jurídico y político sobre garantías de asilo y control fronterizo.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El documento citado es un borrador; el Ministerio del Interior no había confirmado su aprobación al publicarse la información."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / España",
+          "fecha": "2026-09-29",
+          "url": "https://www.reuters.com/world/africa/spain-plans-stricter-rules-asylum-seekers-ceuta-draft-decree-shows-2026-09-29/",
+          "titular": "España estudia normas más estrictas de asilo en Ceuta",
+          "extracto": "Reuters informa del borrador y recoge críticas de juristas y ONG.",
+          "enfoque": "Reuters informa del borrador y recoge críticas de juristas y ONG.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-catalunya-temporal",
+      "categoria": "Local",
+      "ambito_local": "Catalunya",
+      "tema_local": "Meteorología y movilidad",
+      "region": "Catalunya · Área metropolitana y litoral",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Catalunya",
+        "Meteorología y movilidad"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "El temporal deja incidencias en trenes, metro y carreteras del área de Barcelona",
+      "entradilla": "Las lluvias intensas provocaron cortes y restricciones de movilidad, además de rescates en el área metropolitana.",
+      "que_ha_pasado": "La Vanguardia y ARA documentaron incidencias ferroviarias, cortes viarios y rescates durante el episodio de lluvias del martes 29 de septiembre.",
+      "contexto": "Protecció Civil había activado el plan INUNCAT y enviado avisos preventivos por riesgo de precipitaciones intensas.",
+      "por_que_importa": "El episodio muestra el impacto inmediato de lluvias fuertes sobre transporte e infraestructuras metropolitanas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las incidencias descritas corresponden al 29 de septiembre; para desplazamientos actuales hay que consultar los canales operativos de transporte y emergencias."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Vanguardia",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://www.lavanguardia.com/local/catalunya/20260929/11646408/temporal-lluvia-catalunya-suspendida-circulacion-trenes-alta-velocidad-y-regionales-trafico-incidencias-rodalies-ultima-hora-hoy-en-directo.html",
+          "titular": "Incidencias del temporal en Catalunya",
+          "extracto": "Seguimiento de transporte, rescates y evolución del episodio.",
+          "enfoque": "Seguimiento de transporte, rescates y evolución del episodio.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "ARA",
+          "pais": "España / Catalunya",
+          "fecha": "2026-09-29",
+          "url": "https://es.ara.cat/sociedad/sucesos/lluvias-torrenciales-dejan-buena-parte-barcelona-metro-ronda-continua-cortada_1_5863520.html",
+          "titular": "Lluvias torrenciales afectan metro y carreteras",
+          "extracto": "Cobertura de los efectos en Barcelona y el área metropolitana.",
+          "enfoque": "Cobertura de los efectos en Barcelona y el área metropolitana.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260928-catalunya-ratpenats",
+      "categoria": "Local",
+      "ambito_local": "Catalunya",
+      "tema_local": "Salud",
+      "region": "Catalunya · Salud pública",
+      "fecha": "2026-09-28",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Catalunya",
+        "Salud"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "Salut pide evitar el contacto con murciélagos tras aumentar las agresiones notificadas",
+      "entradilla": "El departamento catalán registra 86 agresiones de murciélagos hasta agosto y recuerda las medidas de prevención frente a la rabia.",
+      "que_ha_pasado": "betevé publicó los datos difundidos por el Departament de Salut: hasta el 12 de agosto se habían notificado 198 agresiones de animales, 86 de ellas de murciélagos.",
+      "contexto": "Catalunya está libre de rabia endémica terrestre, pero se detecta de forma esporádica el virus europeo de la rabia en murciélagos.",
+      "por_que_importa": "La recomendación afecta a prevención sanitaria: evitar manipular animales y buscar atención médica tras una exposición de riesgo.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los datos corresponden a notificaciones acumuladas hasta agosto y no significan que todos los murciélagos estén infectados."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona / Catalunya",
+          "fecha": "2026-09-28",
+          "url": "https://beteve.cat/societat/agressions-ratpenats-creixen-23-per-cent-demana-evitar-contacte/",
+          "titular": "Aumentan las agresiones de murciélagos notificadas en Catalunya",
+          "extracto": "Resume los datos y recomendaciones del Departament de Salut.",
+          "enfoque": "Resume los datos y recomendaciones del Departament de Salut.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-barcelona-rambla-transit",
+      "categoria": "Local",
+      "ambito_local": "Barcelona",
+      "tema_local": "Movilidad y urbanismo",
+      "region": "Barcelona · Ciutat Vella",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Barcelona",
+        "Movilidad y urbanismo"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "La Rambla recupera la circulación de vehículos en ambos sentidos",
+      "entradilla": "El tráfico en sentido mar vuelve tras dos años de obras en el lateral del Raval.",
+      "que_ha_pasado": "betevé informa de la reapertura del sentido descendente de la Rambla, lo que permite de nuevo circulación tanto de subida como de bajada.",
+      "contexto": "La remodelación del paseo continúa y entra en una fase centrada en el tramo central.",
+      "por_que_importa": "El cambio modifica recorridos de tráfico y marca un avance visible en una de las mayores obras urbanas del centro de Barcelona.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La reapertura de este sentido no significa que todas las obras de la Rambla hayan terminado."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-09-29",
+          "url": "https://beteve.cat/societat/rambla-reobre-circulacio-vehicles-sentit-mar/",
+          "titular": "La Rambla reabre al tráfico en sentido mar",
+          "extracto": "Información local sobre la reapertura y el estado de las obras.",
+          "enfoque": "Información local sobre la reapertura y el estado de las obras.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-barcelona-llogateres",
+      "categoria": "Local",
+      "ambito_local": "Barcelona",
+      "tema_local": "Vivienda",
+      "region": "Barcelona · Vivienda",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Barcelona",
+        "Vivienda"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "El Sindicat de Llogateres recibe con cautela el acuerdo estatal sobre vivienda",
+      "entradilla": "La organización considera que las movilizaciones han influido en el acuerdo, pero pide conocer el texto definitivo antes de valorarlo.",
+      "que_ha_pasado": "betevé recoge la reacción de la portavoz Carme Arcarazo al acuerdo entre PSOE y Sumar anunciado tras varios días de protestas por la vivienda.",
+      "contexto": "Barcelona ha vivido movilizaciones recientes por alquileres, desahucios y acceso a vivienda, mientras el Gobierno central negocia nuevas medidas.",
+      "por_que_importa": "La respuesta de organizaciones locales ayuda a entender cómo puede aterrizar en Barcelona una política estatal de vivienda.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La valoración corresponde a una organización concreta y no representa por sí sola a todos los inquilinos ni a todos los actores del sector."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-09-29",
+          "url": "https://beteve.cat/societat/sindicat-llogateres-prudent-acord-habitatge-lluitarem-mes/",
+          "titular": "El Sindicat de Llogateres valora el acuerdo de vivienda",
+          "extracto": "Recoge la posición de la organización y sus reservas sobre la tramitación.",
+          "enfoque": "Recoge la posición de la organización y sus reservas sobre la tramitación.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260929-santandreu-sagrera-pols",
+      "categoria": "Local",
+      "ambito_local": "Sant Andreu",
+      "tema_local": "Obras y salud ambiental",
+      "region": "Barcelona · Sant Andreu · la Sagrera",
+      "fecha": "2026-09-29",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Sant Andreu",
+        "Obras y salud ambiental"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "Vecinos de la Sagrera denuncian polvo y contaminación por las obras de la futura estación",
+      "entradilla": "Residentes de calles próximas a los trabajos reclaman medidas adicionales para reducir el polvo que llega a viviendas y comercios.",
+      "que_ha_pasado": "betevé recoge quejas vecinales en el entorno de la futura estación de la Sagrera y la respuesta del distrito, que afirma haber aplicado medidas paliativas.",
+      "contexto": "Las obras ferroviarias y urbanas de la Sagrera son de larga duración y afectan a diferentes calles del distrito de Sant Andreu.",
+      "por_que_importa": "Es un problema de proximidad con posibles efectos sobre calidad de vida y salud percibida de quienes viven junto a las obras.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El reportaje documenta testimonios y medidas municipales, pero no aporta una medición epidemiológica que permita atribuir problemas de salud concretos a la obra."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona · Sant Andreu",
+          "fecha": "2026-09-29",
+          "url": "https://beteve.cat/societat/veinat-estacio-sagrera-fart-contaminacio-obra-visc-amb-inhalador/",
+          "titular": "Quejas vecinales por el polvo de las obras de la Sagrera",
+          "extracto": "Reportaje de proximidad con testimonios de residentes y respuesta del distrito.",
+          "enfoque": "Reportaje de proximidad con testimonios de residentes y respuesta del distrito.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20260928-santandreu-festa-congres",
+      "categoria": "Local",
+      "ambito_local": "Sant Andreu",
+      "tema_local": "Agenda",
+      "region": "Barcelona · Sant Andreu · el Congrés i els Indians",
+      "fecha": "2026-09-28",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Sant Andreu",
+        "Agenda"
+      ],
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "La Festa Major del Congrés se celebrará del 3 al 11 de octubre",
+      "entradilla": "El programa incluye música, danza, talleres, actividades infantiles y comidas populares en torno a la plaza del Congrés.",
+      "que_ha_pasado": "betevé ha publicado el programa de la Festa Major del Congrés 2026, que se celebrará durante nueve días en el distrito de Sant Andreu.",
+      "contexto": "El Congrés i els Indians forma parte del distrito de Sant Andreu. La plaza del Congrés concentrará buena parte de las actividades.",
+      "por_que_importa": "Es información útil de agenda vecinal y una de las actividades comunitarias próximas del distrito.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Los horarios pueden sufrir cambios; conviene consultar el programa actualizado antes de desplazarse."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona · Sant Andreu",
+          "fecha": "2026-09-28",
+          "url": "https://beteve.cat/agenda/festa-major-congres-programa/",
+          "titular": "Programa de la Festa Major del Congrés 2026",
+          "extracto": "Agenda con fechas, horarios y actividades de la fiesta mayor.",
+          "enfoque": "Agenda con fechas, horarios y actividades de la fiesta mayor.",
           "orientacion": null,
           "titular_traducido": false
         }
