@@ -21,6 +21,7 @@ Cuando Alex pida actualizar Perspectiva, investigar noticias verificables y actu
 - Referencias locales prioritarias: **betevé**, medios de proximidad y publicaciones oficiales de Ajuntament de Barcelona, Generalitat, emergencias, movilidad u otros organismos cuando sus documentos específicos sean verificables. No enlazar una portada general en lugar del artículo al que se refiere la ficha.
 - Si no hay noticias actuales verificadas de Sant Andreu, mostrar un vacío explícito y continuar con Barcelona y demás ámbitos. La edición local es **manual, no alertas en directo**; las incidencias de transporte, alertas meteorológicas o trámites exigen verificar canales operativos antes de actuar.
 - La actualización de rutina sigue siendo exclusivamente en `docs/data/edicion.json`. Las pestañas y filtros Local ya están implementados en `App.js` y `docs/index.html`; no modificar el diseño en cada edición.
+- **Regla de integridad:** no publicar una actualización ordinaria si elimina `noticias_locales[]` o alguno de los cuatro ámbitos configurados. Si temporalmente no hay material verificable para un ámbito, conservar el bloque y dejarlo vacío o indicar esa ausencia; nunca borrar la estructura Local al regenerar `noticias[]`.
 
 ## Otras reglas editoriales vigentes
 
