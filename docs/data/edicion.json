@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-09-30-internacional-local-v2",
-  "titulo": "Perspectiva · Internacional y local · 30 de septiembre",
-  "fecha_edicion": "2026-09-30",
-  "actualizado_en": "2026-09-30T08:21:00+02:00",
+  "edicion_id": "2026-10-02-internacional-local-v1",
+  "titulo": "Perspectiva · Internacional y local · 2 de octubre",
+  "fecha_edicion": "2026-10-02",
+  "actualizado_en": "2026-10-02T09:05:00+02:00",
   "tipo": "real",
-  "nota_editorial": "Edición internacional cerrada la mañana del 30/09/2026 (hora de Barcelona). 30 historias sin deportes: 20 de actualidad y 10 noticias positivas recientes. La selección cubre África, Asia, Oriente Próximo, Europa, Oceanía, América Latina y asuntos globales, con menor presencia latinoamericana en las noticias estrictamente publicadas hoy por falta de material suficientemente contrastado en el cierre. Se distinguen hechos de declaraciones, previsiones y proyectos; las cifras de mercados son instantáneas y no asesoramiento financiero. Las noticias positivas mantienen resultados observables y límites explícitos, sin convertir avances parciales en éxitos definitivos. Se han usado Reuters, Associated Press, Al Jazeera, ABC Australia, The Guardian y fuentes recientes ya verificadas de la edición anterior. No se asignan orientaciones ideológicas ni se generan comparaciones formales sin tres fuentes editoriales independientes. Se restablece y mantiene el bloque Local separado con España, Catalunya, Barcelona y el distrito de Sant Andreu (Barcelona). La edición local incluye 8 historias recientes, dos por ámbito, y prioriza fuentes de proximidad y enlaces concretos. Las incidencias operativas y alertas no sustituyen a los canales oficiales en tiempo real.",
+  "nota_editorial": "Edición cerrada la mañana del 02/10/2026 (hora de Barcelona). Perspectiva mantiene dos ámbitos separados: 30 historias internacionales y 8 noticias Local. La parte internacional contiene 20 historias de actualidad publicadas el 1–2 de octubre y 10 avances positivos recientes, sin deportes. La selección cubre África, Asia, Oriente Próximo, Europa, América del Norte, Oceanía y asuntos globales; América Latina tiene menor presencia en la actualidad de este cierre y sí aparece en la sección positiva. Las noticias políticas, militares y diplomáticas distinguen hechos observables de declaraciones y posiciones de las partes. Los datos de mercados son instantáneos y no asesoramiento financiero. Local conserva dos historias por ámbito: España, Catalunya, Barcelona y distrito de Sant Andreu. Las alertas meteorológicas y de movilidad no sustituyen canales oficiales en tiempo real. No se asignan orientaciones ideológicas ni se generan comparaciones formales sin tres fuentes editoriales independientes.",
   "noticias": [
     {
-      "id": "20260930-iraq-retirada-eeuu",
+      "id": "20261002-eeuu-tercer-portaaviones",
       "categoria": "Mundo",
-      "region": "Oriente Próximo · Irak",
-      "fecha": "2026-09-30",
+      "region": "Oriente Próximo · Estados Unidos e Irán",
+      "fecha": "2026-10-02",
       "portada": true,
       "destacada": true,
       "etiquetas": [
@@ -19,35 +19,35 @@
         "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Estados Unidos completa la salida de sus últimas bases militares en Irak",
-      "entradilla": "La retirada pactada pone fin a la presencia en bases iraquíes, mientras continúan interrogantes sobre seguridad y equilibrio regional.",
-      "que_ha_pasado": "Reuters informa este 30 de septiembre de la retirada de las últimas fuerzas estadounidenses de sus bases en Irak. La salida estaba prevista en el acuerdo bilateral anunciado en 2024.",
-      "contexto": "La presencia estadounidense se amplió de nuevo en 2014 para combatir al Estado Islámico. Irak mantiene relaciones simultáneas con Washington y Teherán, y distintos actores iraquíes valoran la retirada de forma diferente.",
-      "por_que_importa": "El cambio modifica responsabilidades de seguridad y la presencia militar extranjera en un país clave para el equilibrio regional.",
+      "titulo": "Estados Unidos envía un tercer portaaviones hacia Oriente Próximo en plena tensión con Irán",
+      "entradilla": "El despliegue amplía de forma inusual la presencia naval estadounidense mientras las negociaciones siguen estancadas.",
+      "que_ha_pasado": "Al Jazeera y The Guardian informan de que Estados Unidos ha ordenado el envío de un tercer grupo de portaaviones hacia Oriente Próximo. El movimiento se produce mientras Washington y Teherán mantienen fuertes desacuerdos sobre las condiciones para reducir la escalada.",
+      "contexto": "La guerra y las restricciones en torno al estrecho de Ormuz han afectado al transporte energético y a la seguridad regional durante 2026.",
+      "por_que_importa": "Una concentración militar de esta magnitud eleva la capacidad operativa estadounidense y aumenta la importancia de los canales diplomáticos para evitar una nueva escalada.",
       "que_se_sabe": [],
       "que_falta": [
-        "La retirada de bases no permite concluir por sí sola cómo evolucionarán el Estado Islámico, las milicias o la influencia de países vecinos."
+        "El despliegue no demuestra que se haya decidido una nueva ofensiva; las intenciones militares futuras siguen sin confirmarse."
       ],
       "fuentes": [
         {
-          "medio": "Reuters",
-          "pais": "Internacional / Irak",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/",
-          "titular": "Estados Unidos retira sus fuerzas de las bases iraquíes",
-          "extracto": "Cobertura del cierre de la retirada y de las distintas evaluaciones de seguridad.",
-          "enfoque": "Cobertura del cierre de la retirada y de las distintas evaluaciones de seguridad.",
+          "medio": "Al Jazeera",
+          "pais": "Catar / Estados Unidos",
+          "fecha": "2026-10-02",
+          "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera",
+          "titular": "Estados Unidos enviará un tercer portaaviones hacia Irán",
+          "extracto": "Cobertura basada en un funcionario estadounidense sobre el nuevo despliegue.",
+          "enfoque": "Cobertura basada en un funcionario estadounidense sobre el nuevo despliegue.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / Irak",
-          "fecha": "2026-08-01",
-          "url": "https://apnews.com/article/iraq-us-withdrawal-7d050ff17a0c52298207bd9e60851fcd",
-          "titular": "Calendario pactado para la retirada estadounidense",
-          "extracto": "Antecedente del acuerdo y del calendario previsto; no es una segunda medición del movimiento de hoy.",
-          "enfoque": "Antecedente del acuerdo y del calendario previsto; no es una segunda medición del movimiento de hoy.",
+          "medio": "The Guardian / Associated Press",
+          "pais": "Reino Unido / agencia internacional",
+          "fecha": "2026-10-02",
+          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+          "titular": "Estados Unidos envía un tercer portaaviones a Oriente Próximo",
+          "extracto": "Cobertura de AP publicada por The Guardian; no se cuenta como una tercera fuente independiente.",
+          "enfoque": "Cobertura de AP publicada por The Guardian; no se cuenta como una tercera fuente independiente.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -56,35 +56,35 @@
       "posicion_portada": 1
     },
     {
-      "id": "20260930-china-manufacturas",
-      "categoria": "Economía",
-      "region": "Asia oriental · China",
-      "fecha": "2026-09-30",
+      "id": "20261002-china-antelope-reef",
+      "categoria": "Mundo",
+      "region": "Asia oriental · Mar de China Meridional",
+      "fecha": "2026-10-02",
       "portada": true,
       "destacada": true,
       "etiquetas": [
         "Asia oriental",
-        "Economía"
+        "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "La actividad manufacturera china vuelve a crecer en septiembre",
-      "entradilla": "Los indicadores oficiales y privados muestran expansión tras la debilidad del mes anterior, con apoyo de sectores ligados a tecnología.",
-      "que_ha_pasado": "Reuters informa de que los sondeos de actividad fabril publicados el miércoles volvieron a terreno expansivo en septiembre.",
-      "contexto": "La economía china combina fortaleza exportadora y tecnológica con menor dinamismo en inversión y consumo interno.",
-      "por_que_importa": "La producción industrial china influye en comercio, materias primas y cadenas de suministro mundiales.",
+      "titulo": "Imágenes de satélite muestran que China acelera una pista en un arrecife disputado",
+      "entradilla": "Los trabajos en Antelope Reef avanzan en las islas Paracel, una zona reclamada por varios gobiernos de la región.",
+      "que_ha_pasado": "Reuters analizó nuevas imágenes de satélite que muestran avances en una pista y otras obras sobre Antelope Reef, dentro del archipiélago de las Paracel.",
+      "contexto": "El mar de China Meridional concentra reivindicaciones territoriales superpuestas y es una ruta comercial estratégica. China controla las Paracel, que también son reclamadas por Vietnam y Taiwán.",
+      "por_que_importa": "La ampliación de infraestructura puede modificar capacidades logísticas y militares en una zona de fuerte competencia regional.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los índices de gestores de compras son indicadores mensuales y no equivalen por sí solos al crecimiento total de la economía."
+        "Las imágenes permiten observar construcción física, pero no determinan por sí solas el uso final de todas las instalaciones."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / China",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/china/chinese-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30/",
-          "titular": "La actividad fabril china vuelve a expansión",
-          "extracto": "Reuters resume las encuestas oficiales y privadas de septiembre.",
-          "enfoque": "Reuters resume las encuestas oficiales y privadas de septiembre.",
+          "pais": "Internacional / Asia",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/china/chinese-work-gathering-pace-antelope-reef-south-china-sea-latest-satellite-2026-10-02/",
+          "titular": "Avanza la construcción china en Antelope Reef",
+          "extracto": "Análisis de Reuters a partir de imágenes satelitales recientes y especialistas.",
+          "enfoque": "Análisis de Reuters a partir de imágenes satelitales recientes y especialistas.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -93,35 +93,35 @@
       "posicion_portada": 2
     },
     {
-      "id": "20260930-kenia-refineria-lamu",
-      "categoria": "Economía",
-      "region": "África · Kenia",
-      "fecha": "2026-09-30",
+      "id": "20261002-au-cuerno-africa",
+      "categoria": "Mundo",
+      "region": "África · Etiopía, Eritrea y Egipto",
+      "fecha": "2026-10-02",
       "portada": true,
       "destacada": true,
       "etiquetas": [
         "África",
-        "Economía"
+        "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Kenia y Dangote ponen en marcha el proyecto de una gran refinería en Lamu",
-      "entradilla": "El inicio formal del proyecto de 16.000 millones de dólares llega con una disputa sobre terrenos aún abierta.",
-      "que_ha_pasado": "Reuters informa de que el presidente William Ruto y Aliko Dangote tienen previsto colocar la primera piedra del proyecto de refinería este miércoles en Lamu.",
-      "contexto": "África oriental importa gran parte de sus combustibles refinados. El proyecto aspira a ampliar capacidad regional, pero su ejecución depende de permisos, financiación y cuestiones territoriales.",
-      "por_que_importa": "Una instalación de esta escala podría alterar flujos energéticos y actividad industrial en África oriental.",
+      "titulo": "La Unión Africana pide contención a Etiopía, Eritrea y Egipto tras nuevas tensiones diplomáticas",
+      "entradilla": "Expulsiones de diplomáticos y el deterioro de relaciones elevan la preocupación por la estabilidad del Cuerno de África.",
+      "que_ha_pasado": "Reuters informa de un llamamiento de la Comisión de la Unión Africana a evitar acciones y declaraciones que agraven las tensiones entre Etiopía, Eritrea y Egipto.",
+      "contexto": "Etiopía y Eritrea han deteriorado rápidamente sus relaciones en paralelo a los combates en Tigray. Addis Abeba y El Cairo mantienen además desacuerdos históricos sobre seguridad regional y recursos hídricos.",
+      "por_que_importa": "Una escalada entre Estados tendría consecuencias más amplias que el actual conflicto interno etíope y afectaría a una región ya sometida a graves crisis humanitarias.",
       "que_se_sabe": [],
       "que_falta": [
-        "El acto inicial no equivale a una planta construida ni garantiza el calendario final; la disputa judicial sobre terrenos sigue siendo relevante."
+        "El llamamiento de la Unión Africana no implica que exista un enfrentamiento militar directo entre los tres países."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Kenia",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/business/energy/dangote-begin-construction-16-billion-east-africa-refinery-kenya-2026-09-30/",
-          "titular": "Inicio del proyecto de refinería de Lamu",
-          "extracto": "Cobertura del acto previsto y de las condiciones del proyecto.",
-          "enfoque": "Cobertura del acto previsto y de las condiciones del proyecto.",
+          "pais": "Internacional / África",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/africa/african-union-urges-ethiopia-eritrea-egypt-refrain-actions-that-could-undermine-2026-10-02/",
+          "titular": "La Unión Africana pide contención en el Cuerno de África",
+          "extracto": "Reuters recoge el comunicado de la organización continental y los antecedentes diplomáticos.",
+          "enfoque": "Reuters recoge el comunicado de la organización continental y los antecedentes diplomáticos.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -130,129 +130,10 @@
       "posicion_portada": 3
     },
     {
-      "id": "20260930-australia-inflacion",
-      "categoria": "Economía",
-      "region": "Oceanía · Australia",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Oceanía",
-        "Economía"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "La inflación australiana vuelve a acelerarse en agosto",
-      "entradilla": "El combustible y otras presiones de precios mantienen la inflación elevada pese a las subidas de tipos.",
-      "que_ha_pasado": "Reuters informa de una aceleración de la inflación australiana en agosto. ABC Australia señala que la lectura quedó por debajo de algunas expectativas del mercado, reduciendo las apuestas por otra subida inmediata de tipos.",
-      "contexto": "El Banco de la Reserva ha endurecido su política durante 2026 para contener precios.",
-      "por_que_importa": "La evolución de la inflación condiciona hipotecas, consumo, salarios y futuras decisiones monetarias.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La próxima decisión de tipos no está decidida por este único dato y dependerá de más indicadores."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Australia",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/asia-pacific/australia-inflation-stubbornly-high-august-defying-run-rate-hikes-2026-09-30/",
-          "titular": "La inflación australiana permanece alta",
-          "extracto": "Cobertura de los datos oficiales y su contexto monetario.",
-          "enfoque": "Cobertura de los datos oficiales y su contexto monetario.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "ABC News Australia",
-          "pais": "Australia",
-          "fecha": "2026-09-30",
-          "url": "https://www.abc.net.au/news/2026-09-30/inflation-august-2026-australia-bureau-of-statistics/107210688",
-          "titular": "Lectura australiana de los datos de inflación",
-          "extracto": "Explica cómo cambió la expectativa de una subida en noviembre.",
-          "enfoque": "Explica cómo cambió la expectativa de una subida en noviembre.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-bonos-globales",
-      "categoria": "Economía",
-      "region": "Global · Mercados financieros",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Global",
-        "Economía"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Los bonos mundiales cierran un septiembre especialmente duro mientras las bolsas resisten mejor",
-      "entradilla": "Inflación, energía y mayores necesidades de financiación han elevado las rentabilidades de la deuda soberana.",
-      "que_ha_pasado": "Reuters describe septiembre como uno de los peores meses recientes para los bonos, con rendimientos en Estados Unidos y Japón cerca de máximos de muchos años, mientras las bolsas han mostrado más resistencia.",
-      "contexto": "Las rentabilidades de los bonos suben cuando los inversores exigen más compensación por inflación, riesgo fiscal o tipos altos.",
-      "por_que_importa": "Un coste mayor de la deuda puede trasladarse a gobiernos, empresas y hogares.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las cotizaciones cambian durante la jornada; esta ficha no es una recomendación de inversión ni una predicción."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-30/",
-          "titular": "Septiembre castiga a los bonos globales",
-          "extracto": "Balance de mercados y factores económicos al cierre del mes.",
-          "enfoque": "Balance de mercados y factores económicos al cierre del mes.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-dolar-septiembre",
-      "categoria": "Economía",
-      "region": "Global · Divisas",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Global",
-        "Economía"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "El dólar se encamina a su mayor subida mensual frente al euro en más de un año",
-      "entradilla": "La diferencia entre tipos, crecimiento y riesgos energéticos ha favorecido a la divisa estadounidense en septiembre.",
-      "que_ha_pasado": "Reuters informa de una apreciación mensual cercana al 2 % del dólar y de una caída del euro hasta niveles no vistos desde mayo de 2025.",
-      "contexto": "Los tipos de interés, expectativas de crecimiento y riesgos políticos y energéticos afectan a las divisas.",
-      "por_que_importa": "Los movimientos cambiarios repercuten en importaciones, deuda, viajes y resultados de empresas internacionales.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Los tipos de cambio varían continuamente y pueden cambiar tras nuevos datos macroeconómicos."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/africa/dollar-set-september-rise-mainly-euros-expense-2026-09-30/",
-          "titular": "El dólar avanza en septiembre, especialmente frente al euro",
-          "extracto": "Cobertura de los movimientos mensuales en los principales cruces de divisas.",
-          "enfoque": "Cobertura de los movimientos mensuales en los principales cruces de divisas.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-noruega-epstein-audiencias",
+      "id": "20261002-francia-colegios-protestas",
       "categoria": "Sociedad",
-      "region": "Europa · Noruega",
-      "fecha": "2026-09-30",
+      "region": "Europa · Francia",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -260,24 +141,24 @@
         "Sociedad"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El Parlamento noruego abre audiencias públicas sobre vínculos de figuras nacionales con Jeffrey Epstein",
-      "entradilla": "La comisión parlamentaria examina contactos de políticos y diplomáticos con el financiero estadounidense fallecido.",
-      "que_ha_pasado": "Reuters informa de que el Parlamento noruego comienza este miércoles audiencias públicas sobre relaciones documentadas entre Epstein y determinadas figuras públicas noruegas.",
-      "contexto": "El objetivo de una audiencia parlamentaria es esclarecer conductas institucionales y eventuales conflictos; los contactos sociales no prueban por sí solos delitos.",
-      "por_que_importa": "La transparencia pública exige distinguir relaciones documentadas, responsabilidades administrativas y acusaciones penales.",
+      "titulo": "Unas 400 escuelas francesas permanecen cerradas tras protestas estudiantiles",
+      "entradilla": "Las movilizaciones han derivado en incidentes en algunos lugares y mantienen centros cerrados este viernes.",
+      "que_ha_pasado": "Reuters informa de que alrededor de 400 centros educativos franceses permanecen cerrados el 2 de octubre tras protestas iniciadas por estudiantes y episodios de violencia en parte de las movilizaciones.",
+      "contexto": "Las protestas estudiantiles pueden agrupar reivindicaciones diferentes y las autoridades francesas están respondiendo tanto en el ámbito educativo como de seguridad.",
+      "por_que_importa": "Los cierres afectan a alumnado y familias y obligan a distinguir entre protesta pacífica, daños e intervenciones policiales.",
       "que_se_sabe": [],
       "que_falta": [
-        "No debe inferirse culpabilidad por asociación; cada caso requiere hechos y procedimientos propios."
+        "La cifra de centros cerrados es una estimación de la jornada y puede variar conforme reabran instalaciones."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Noruega",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/norway-parliament-probes-epstein-links-politicians-diplomats-2026-09-30/",
-          "titular": "Noruega investiga vínculos con Epstein",
-          "extracto": "Reuters describe el inicio de las audiencias y su alcance.",
-          "enfoque": "Reuters describe el inicio de las audiencias y su alcance.",
+          "pais": "Internacional / Francia",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/about-400-french-schools-closed-some-student-protests-turn-violent-2026-10-02/",
+          "titular": "Unas 400 escuelas francesas cerradas por las protestas",
+          "extracto": "Cobertura del alcance de los cierres y de los incidentes reportados.",
+          "enfoque": "Cobertura del alcance de los cierres y de los incidentes reportados.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -285,82 +166,46 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-coreas-frontera",
+      "id": "20261002-corea-ucrania-prisioneros",
       "categoria": "Mundo",
-      "region": "Asia oriental · Corea del Sur y Corea del Norte",
-      "fecha": "2026-09-30",
+      "region": "Asia y Europa · Corea del Sur y Ucrania",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Asia oriental",
+        "Asia y Europa",
         "Mundo"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Seúl exige a Pyongyang detener nuevas fortificaciones cerca de la frontera",
-      "entradilla": "El Estado Mayor surcoreano considera que las obras aumentan la tensión en una de las zonas más militarizadas del mundo.",
-      "que_ha_pasado": "Reuters informa de que las Fuerzas Armadas de Corea del Sur pidieron el 30 de septiembre a Corea del Norte detener trabajos de fortificación próximos a la frontera.",
-      "contexto": "Las dos Coreas siguen técnicamente en guerra desde el armisticio de 1953 y mantienen una fuerte presencia militar en la zona desmilitarizada.",
-      "por_que_importa": "Cambios físicos y despliegues cerca de la frontera pueden aumentar el riesgo de incidentes y errores de cálculo.",
+      "titulo": "Seúl eleva la presión sobre Ucrania por el traslado de prisioneros norcoreanos",
+      "entradilla": "El presidente surcoreano amenaza con medidas no especificadas si Kyiv no atiende sus objeciones.",
+      "que_ha_pasado": "Reuters informa de una advertencia del presidente Lee Jae Myung a Ucrania en relación con el tratamiento y posible traslado de militares norcoreanos capturados.",
+      "contexto": "Corea del Norte ha apoyado militarmente a Rusia, mientras Corea del Sur mantiene una política específica respecto a ciudadanos norcoreanos que desean llegar al Sur.",
+      "por_que_importa": "El caso conecta la guerra de Ucrania con la política intercoreana y puede afectar a las relaciones entre Seúl y Kyiv.",
       "que_se_sabe": [],
       "que_falta": [
-        "La advertencia surcoreana expresa su evaluación; no demuestra por sí sola la intención estratégica de Corea del Norte."
+        "Las medidas anunciadas por Lee no han sido concretadas y las posiciones jurídicas de las partes siguen en discusión."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Corea",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korea-demands-north-korea-stop-border-fortification-work-immediately-2026-09-30/",
-          "titular": "Corea del Sur reclama el fin de las fortificaciones fronterizas",
-          "extracto": "Cobertura de la declaración del Estado Mayor surcoreano.",
-          "enfoque": "Cobertura de la declaración del Estado Mayor surcoreano.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260929-marruecos-primera-ministra",
-      "categoria": "Mundo",
-      "region": "África · Marruecos",
-      "fecha": "2026-09-29",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "África",
-        "Mundo"
-      ],
-      "etiqueta_editorial": "CONTEXTO RECIENTE",
-      "titulo": "Marruecos nombra a Fatima Ezzahra El Mansouri como primera mujer al frente del Gobierno",
-      "entradilla": "La dirigente del partido más votado debe formar una coalición después de las elecciones legislativas del 23 de septiembre.",
-      "que_ha_pasado": "El rey Mohammed VI nombró el martes a Fatima Ezzahra El Mansouri primera ministra y le encargó formar gobierno tras la victoria relativa del Partido Autenticidad y Modernidad.",
-      "contexto": "El PAM obtuvo 97 de los 395 escaños y necesita acuerdos con otras fuerzas para una mayoría parlamentaria.",
-      "por_que_importa": "El nombramiento supone un cambio histórico en la representación femenina en el poder ejecutivo marroquí.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "El Gobierno de coalición todavía debe formarse; el nombramiento no implica acuerdo cerrado entre los partidos."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Marruecos",
-          "fecha": "2026-09-29",
-          "url": "https://www.reuters.com/world/africa/moroccos-king-appoints-first-woman-pm-following-sept-23-election-2026-09-29/",
-          "titular": "Marruecos nombra a su primera mujer primera ministra",
-          "extracto": "Cobertura de Reuters sobre el nombramiento y la aritmética parlamentaria.",
-          "enfoque": "Cobertura de Reuters sobre el nombramiento y la aritmética parlamentaria.",
+          "pais": "Internacional / Corea del Sur",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-threatens-action-against-ukraine-over-transfer-north-korean-2026-10-02/",
+          "titular": "Seúl amenaza con actuar por los prisioneros norcoreanos",
+          "extracto": "Reuters recoge las declaraciones del presidente surcoreano.",
+          "enfoque": "Reuters recoge las declaraciones del presidente surcoreano.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / Marruecos",
-          "fecha": "2026-09-30",
-          "url": "https://apnews.com/article/8456b759e417876f008d8c49c2a729c3",
-          "titular": "Primera mujer primera ministra de Marruecos",
-          "extracto": "AP confirma el nombramiento y el encargo de formar coalición.",
-          "enfoque": "AP confirma el nombramiento y el encargo de formar coalición.",
+          "medio": "Al Jazeera",
+          "pais": "Catar / Asia",
+          "fecha": "2026-10-02",
+          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows",
+          "titular": "Aumenta la disputa entre Ucrania y Corea del Sur",
+          "extracto": "Cobertura adicional del desacuerdo diplomático.",
+          "enfoque": "Cobertura adicional del desacuerdo diplomático.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -368,71 +213,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-indonesia-prision-lujo",
-      "categoria": "Sociedad",
-      "region": "Asia sudoriental · Indonesia",
-      "fecha": "2026-09-30",
+      "id": "20261002-myanmar-retornados-malasia",
+      "categoria": "Mundo",
+      "region": "Asia sudoriental · Myanmar y Malasia",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Asia sudoriental",
-        "Sociedad"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Indonesia suspende a cinco funcionarios tras hallar alojamientos de lujo para presos",
-      "entradilla": "La investigación se abrió después de descubrir un complejo con condiciones privilegiadas en la prisión de Cibinong.",
-      "que_ha_pasado": "Al Jazeera informa de la suspensión del director de la prisión y otros cuatro responsables mientras se investigan las instalaciones y posibles privilegios concedidos a reclusos.",
-      "contexto": "Las autoridades penitenciarias indonesias han afrontado previamente denuncias por corrupción y trato desigual.",
-      "por_que_importa": "La investigación afecta a la integridad del sistema penitenciario y a la igualdad ante las normas carcelarias.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las suspensiones son medidas administrativas mientras se investiga; no equivalen a condenas penales."
-      ],
-      "fuentes": [
-        {
-          "medio": "Al Jazeera",
-          "pais": "Catar / Indonesia",
-          "fecha": "2026-09-30",
-          "url": "https://www.aljazeera.com/news/2026/9/30/indonesia-suspends-five-officials-over-luxury-apartments-for-inmates",
-          "titular": "Indonesia suspende a funcionarios por alojamientos privilegiados",
-          "extracto": "Cobertura del anuncio oficial y de la investigación abierta.",
-          "enfoque": "Cobertura del anuncio oficial y de la investigación abierta.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-somalia-pirateria",
-      "categoria": "Mundo",
-      "region": "África oriental · Somalia y océano Índico",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "África oriental",
         "Mundo"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Cinco tripulantes mueren tras el secuestro de un petrolero atribuido a piratas somalíes",
-      "entradilla": "Autoridades citadas por Al Jazeera investigan un episodio que podría ser el primero con víctimas mortales por piratería somalí en más de una década.",
-      "que_ha_pasado": "Al Jazeera informa de cinco muertes entre la tripulación de un petrolero secuestrado y de operaciones posteriores sobre el buque.",
-      "contexto": "La piratería somalí cayó con fuerza durante años gracias a patrullas, protección a bordo y cambios operativos, pero ha registrado reapariciones puntuales.",
-      "por_que_importa": "El episodio afecta a seguridad marítima y seguros en rutas comerciales cercanas al Cuerno de África.",
+      "titulo": "Los barcos con casi 1.500 personas devueltas desde Malasia llegan a aguas de Myanmar",
+      "entradilla": "El retorno continúa pese a las objeciones de organismos humanitarios sobre la seguridad en un país en guerra.",
+      "que_ha_pasado": "Reuters informa de que los buques con personas enviadas de vuelta por Malasia han entrado en aguas de Myanmar y se espera su llegada a puerto.",
+      "contexto": "Malasia ha descrito el proceso como voluntario. ACNUR ha cuestionado las condiciones de seguridad para retornos sostenibles a Myanmar.",
+      "por_que_importa": "El desembarco convierte un debate sobre política migratoria en una cuestión inmediata de protección y seguimiento de las personas retornadas.",
       "que_se_sabe": [],
       "que_falta": [
-        "La atribución y el balance proceden de autoridades y pueden actualizarse conforme avance la investigación."
+        "No está verificada de forma independiente la situación individual de cada retornado ni sus condiciones tras el desembarco."
       ],
       "fuentes": [
         {
-          "medio": "Al Jazeera",
-          "pais": "Catar / Somalia",
-          "fecha": "2026-09-30",
-          "url": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say",
-          "titular": "Cinco tripulantes muertos tras el secuestro de un petrolero",
-          "extracto": "Cobertura basada en autoridades sobre el ataque y la investigación.",
-          "enfoque": "Cobertura basada en autoridades sobre el ataque y la investigación.",
+          "medio": "Reuters",
+          "pais": "Internacional / Asia",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmar-ships-with-returnees-malaysia-enter-home-waters-state-media-says-2026-10-02/",
+          "titular": "Los buques con retornados entran en aguas de Myanmar",
+          "extracto": "Reuters cita medios estatales y antecedentes del operativo de retorno.",
+          "enfoque": "Reuters cita medios estatales y antecedentes del operativo de retorno.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -440,82 +249,10 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-sudafrica-violencia-mujeres",
-      "categoria": "Sociedad",
-      "region": "África · Sudáfrica",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "África",
-        "Sociedad"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Sudáfrica anuncia nuevas medidas contra la violencia de género tras una serie de asesinatos",
-      "entradilla": "El Gobierno ordena revisar zonas inseguras y casos pendientes mientras la policía investiga homicidios recientes en Ekurhuleni.",
-      "que_ha_pasado": "Associated Press informa de un plan con una auditoría nacional de espacios públicos inseguros durante 60 días y una revisión policial y fiscal de casos pendientes durante 90 días.",
-      "contexto": "Sudáfrica registra tasas elevadas de violencia contra mujeres y una investigación abierta por varias muertes recientes en la zona de Johannesburgo.",
-      "por_que_importa": "Las medidas pueden mejorar prevención, investigación y respuesta institucional si se traducen en recursos y actuaciones verificables.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "El anuncio no demuestra aún que las medidas reduzcan la violencia; será necesario evaluar su ejecución y resultados."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / Sudáfrica",
-          "fecha": "2026-09-30",
-          "url": "https://apnews.com/article/ff4cd905ba31c393e878a37408cd24c7",
-          "titular": "Sudáfrica anuncia medidas contra la violencia de género",
-          "extracto": "AP detalla las auditorías anunciadas y las investigaciones en curso.",
-          "enfoque": "AP detalla las auditorías anunciadas y las investigaciones en curso.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-nigerianos-sudafrica",
+      "id": "20261002-flydubai-investigacion",
       "categoria": "Mundo",
-      "region": "África · Nigeria y Sudáfrica",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "África",
-        "Mundo"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Nigeria pide investigar la muerte de tres de sus ciudadanos en Sudáfrica",
-      "entradilla": "Las muertes, ocurridas en incidentes separados, agravan las tensiones por la violencia contra inmigrantes.",
-      "que_ha_pasado": "Associated Press informa de que autoridades nigerianas han comunicado tres muertes de ciudadanos del país en Sudáfrica en las últimas semanas y reclaman investigaciones completas.",
-      "contexto": "Las relaciones bilaterales atraviesan tensión por episodios de violencia y protestas contra inmigrantes en Sudáfrica.",
-      "por_que_importa": "La protección de migrantes y la respuesta policial pueden afectar a la cooperación entre dos de las mayores economías africanas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las circunstancias de cada muerte son distintas y deben investigarse individualmente; no se establece aquí un autor común."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / África",
-          "fecha": "2026-09-30",
-          "url": "https://apnews.com/article/241fb64fa4b2978f4407b327682538c9",
-          "titular": "Nigeria reclama investigaciones por tres muertes en Sudáfrica",
-          "extracto": "Cobertura de las muertes y la respuesta diplomática nigeriana.",
-          "enfoque": "Cobertura de las muertes y la respuesta diplomática nigeriana.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-yemen-mediacion-onu",
-      "categoria": "Mundo",
-      "region": "Oriente Próximo · Yemen y Omán",
-      "fecha": "2026-09-30",
+      "region": "Oriente Próximo · Aviación",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -523,60 +260,107 @@
         "Mundo"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El enviado de la ONU retoma contactos para frenar la escalada en Yemen",
-      "entradilla": "Hans Grundberg se reúne con negociadores hutíes en Mascate y mantiene contactos regionales ante el aumento de la violencia.",
-      "que_ha_pasado": "Associated Press informa de reuniones del enviado de Naciones Unidas con representantes hutíes en Omán y responsables saudíes para intentar reducir la escalada.",
-      "contexto": "La guerra yemení se ha entrelazado con tensiones regionales y con la seguridad del mar Rojo y Bab el-Mandeb.",
-      "por_que_importa": "Una reducción de hostilidades sería relevante para la población civil, desplazados y rutas marítimas internacionales.",
+      "titulo": "La investigación del incidente de flydubai mantiene abiertas varias hipótesis",
+      "entradilla": "El intento de desviar o hacer caer un vuelo a Tel Aviv sigue bajo investigación después de que pasajeros y tripulación redujeran al copiloto.",
+      "que_ha_pasado": "Reuters informa de que el episodio ha generado preocupación en las aerolíneas regionales. La investigación intenta establecer el motivo del copiloto, que presuntamente apuñaló al comandante antes de ser reducido.",
+      "contexto": "El vuelo consiguió aterrizar en Arabia Saudí. Autoridades de varios países participan en una investigación que se desarrolla en un contexto de tensión regional.",
+      "por_que_importa": "El caso tiene implicaciones para seguridad aérea, protocolos de cabina y percepción de riesgo en las rutas de Oriente Próximo.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las conversaciones no equivalen a un alto el fuego ni garantizan un acuerdo entre las partes."
+        "No se ha probado públicamente una vinculación con ningún Estado u organización; cualquier atribución debe tratarse como hipótesis."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Oriente Próximo",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/middle-east/foiled-flydubai-attack-clouds-regional-airline-revival-2026-10-02/",
+          "titular": "El incidente de flydubai pesa sobre la recuperación aérea regional",
+          "extracto": "Reuters analiza el caso y su impacto en las aerolíneas de la zona.",
+          "enfoque": "Reuters analiza el caso y su impacto en las aerolíneas de la zona.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-chagos-acuerdo",
+      "categoria": "Mundo",
+      "region": "Océano Índico · Reino Unido y Mauricio",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Océano Índico",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El acuerdo sobre la soberanía de Chagos vuelve a atascarse",
+      "entradilla": "Las nuevas demoras mantienen la incertidumbre para la población chagosiana que espera poder regresar a parte del archipiélago.",
+      "que_ha_pasado": "Al Jazeera informa de nuevas conversaciones entre Reino Unido y Mauricio para intentar desbloquear el acuerdo de soberanía sobre las islas Chagos.",
+      "contexto": "El pacto prevé transferir soberanía a Mauricio mientras se mantiene el uso estratégico de Diego García bajo un acuerdo de largo plazo.",
+      "por_que_importa": "La demora afecta tanto a intereses geopolíticos como a las reclamaciones de comunidades desplazadas durante décadas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las conversaciones continúan y no hay una nueva fecha definitiva de entrada en vigor del acuerdo."
+      ],
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "pais": "Catar / Océano Índico",
+          "fecha": "2026-10-02",
+          "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays",
+          "titular": "Se retrasa el acuerdo de soberanía sobre Chagos",
+          "extracto": "Cobertura del estancamiento y de las expectativas de la comunidad chagosiana.",
+          "enfoque": "Cobertura del estancamiento y de las expectativas de la comunidad chagosiana.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-nepal-avalancha",
+      "categoria": "Mundo",
+      "region": "Asia meridional · Nepal",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia meridional",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La cifra de muertos por la avalancha del Himlung asciende a 15",
+      "entradilla": "Los equipos de rescate han recuperado ocho cuerpos adicionales en la zona de la expedición.",
+      "que_ha_pasado": "AP y Al Jazeera informan de que el balance de la avalancha en el monte Himlung ha aumentado a 15 víctimas mortales tras nuevos trabajos de recuperación.",
+      "contexto": "Las expediciones de gran altitud dependen de ventanas meteorológicas muy estrechas y de equipos locales que asumen una parte sustancial del riesgo.",
+      "por_que_importa": "El balance pone el foco en la seguridad de trabajadores y expedicionarios en las montañas del Himalaya.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las operaciones de recuperación continúan y el balance puede modificarse si aparecen nuevas personas desaparecidas."
       ],
       "fuentes": [
         {
           "medio": "Associated Press",
-          "pais": "Estados Unidos / Yemen",
-          "fecha": "2026-09-30",
-          "url": "https://apnews.com/article/049d586b6e8ca0a0394bc013e3322da3",
-          "titular": "El enviado de la ONU se reúne con negociadores hutíes",
-          "extracto": "AP describe los contactos diplomáticos y el deterioro humanitario.",
-          "enfoque": "AP describe los contactos diplomáticos y el deterioro humanitario.",
+          "pais": "Estados Unidos / Nepal",
+          "fecha": "2026-10-02",
+          "url": "https://www.clickorlando.com/news/world/2026/10/02/nepal-avalanche-toll-rises-to-15-deaths-with-discovery-of-8-bodies-on-mount-himlung/",
+          "titular": "La avalancha del Himlung deja al menos 15 muertos",
+          "extracto": "Republicación de AP con el balance actualizado de rescate.",
+          "enfoque": "Republicación de AP con el balance actualizado de rescate.",
           "orientacion": null,
           "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-antartida-hielo",
-      "categoria": "Medioambiente",
-      "region": "Antártida · Clima global",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Antártida",
-        "Medioambiente"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "El hielo marino antártico registra el tercer máximo invernal más bajo de la serie satelital",
-      "entradilla": "La extensión máxima de 2026 quedó aproximadamente un millón de kilómetros cuadrados por debajo del promedio de largo plazo.",
-      "que_ha_pasado": "The Guardian informa, a partir de datos científicos por satélite, de que el hielo marino alcanzó su máximo anual el 14 de septiembre con 17,59 millones de kilómetros cuadrados.",
-      "contexto": "La extensión del hielo marino antártico varía de forma natural, pero varios años recientes han mostrado valores excepcionalmente bajos.",
-      "por_que_importa": "El hielo marino influye en ecosistemas, absorción de calor oceánico y estabilidad de plataformas de hielo.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Un solo año no define una tendencia por sí mismo; los científicos evalúan series largas y múltiples factores climáticos."
-      ],
-      "fuentes": [
+        },
         {
-          "medio": "The Guardian",
-          "pais": "Reino Unido / ciencia polar",
-          "fecha": "2026-09-30",
-          "url": "https://www.theguardian.com/world/2026/sep/30/antarctic-winter-sea-ice-falls-to-third-lowest-level-on-record-as-scientists-warn-of-now-problem",
-          "titular": "Tercer máximo invernal más bajo del hielo marino antártico",
-          "extracto": "Reportaje basado en observaciones por satélite y análisis de científicos polares.",
-          "enfoque": "Reportaje basado en observaciones por satélite y análisis de científicos polares.",
+          "medio": "Al Jazeera",
+          "pais": "Catar / Nepal",
+          "fecha": "2026-10-02",
+          "url": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers",
+          "titular": "Al menos 15 trabajadores de expedición muertos",
+          "extracto": "Cobertura del rescate y del nuevo balance.",
+          "enfoque": "Cobertura del rescate y del nuevo balance.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -584,71 +368,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-tokio-lluvia-record",
-      "categoria": "Medioambiente",
-      "region": "Asia oriental · Japón",
-      "fecha": "2026-09-30",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Asia oriental",
-        "Medioambiente"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Tokio encadena un récord de 35 días consecutivos con lluvia",
-      "entradilla": "La persistencia de las precipitaciones afecta cultivos, vida diaria y horas de sol en la capital japonesa.",
-      "que_ha_pasado": "The Guardian informa de 35 días consecutivos con precipitaciones registradas en Tokio, un récord en la serie meteorológica iniciada en 1886.",
-      "contexto": "Japón atraviesa un periodo de tiempo anómalo influido por patrones atmosféricos asociados a El Niño y por un clima más cálido.",
-      "por_que_importa": "La lluvia persistente repercute en agricultura, precios, movilidad y bienestar urbano.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La atribución de un episodio concreto al cambio climático requiere análisis específicos; la noticia describe factores plausibles y tendencias más amplias."
-      ],
-      "fuentes": [
-        {
-          "medio": "The Guardian",
-          "pais": "Reino Unido / Japón",
-          "fecha": "2026-09-30",
-          "url": "https://www.theguardian.com/world/2026/sep/30/tokyo-japan-record-rain-35-consecutive-days-el-nino-weather",
-          "titular": "Tokio registra 35 días consecutivos de lluvia",
-          "extracto": "Reportaje con datos meteorológicos japoneses y entrevistas a especialistas.",
-          "enfoque": "Reportaje con datos meteorológicos japoneses y entrevistas a especialistas.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260930-china-brasil-carne",
+      "id": "20261002-petroleo-suministro",
       "categoria": "Economía",
-      "region": "Asia y América Latina · China y Brasil",
-      "fecha": "2026-09-30",
+      "region": "Global · Energía",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Asia y América Latina",
+        "Global",
         "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "China aplica un arancel adicional del 55 % a la carne brasileña al agotarse la cuota anual",
-      "entradilla": "La medida entra en vigor el 1 de octubre después de que las importaciones brasileñas alcancen el volumen pactado para 2026.",
-      "que_ha_pasado": "Reuters informa de que el Ministerio de Comercio chino aplicará el recargo al superar Brasil su cuota anual de 1,1 millones de toneladas.",
-      "contexto": "China es un mercado fundamental para la carne brasileña y utiliza cuotas y aranceles para regular determinados flujos de importación.",
-      "por_que_importa": "El cambio puede afectar precios, márgenes de exportadores y decisiones comerciales de ambos países.",
+      "titulo": "El petróleo retrocede mientras el mercado sopesa señales contradictorias de oferta",
+      "entradilla": "El Brent se mantiene alrededor de los 100 dólares en un contexto de tensión geopolítica y movimientos en exportaciones.",
+      "que_ha_pasado": "Reuters informa de caídas moderadas del crudo este viernes tras la fuerte subida previa. El mercado combina señales de recuperación de exportaciones saudíes con riesgos en Oriente Próximo y restricciones chinas a productos refinados.",
+      "contexto": "Los precios energéticos han sido uno de los principales canales económicos de la guerra con Irán y de las tensiones en las rutas marítimas.",
+      "por_que_importa": "La energía repercute en inflación, transporte, industria y decisiones de política monetaria.",
       "que_se_sabe": [],
       "que_falta": [
-        "El impacto final dependerá de volúmenes, precios y posibles ajustes comerciales posteriores."
+        "Los precios son intradía y pueden cambiar con rapidez; no constituyen una previsión ni asesoramiento financiero."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / China y Brasil",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/china/china-adds-55-tariff-brazil-beef-imports-2026-09-30/",
-          "titular": "China eleva el arancel sobre carne brasileña al superar la cuota",
-          "extracto": "Cobertura del anuncio del Ministerio de Comercio chino.",
-          "enfoque": "Cobertura del anuncio del Ministerio de Comercio chino.",
+          "pais": "Internacional",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-market-weighs-mixed-supply-signals-2026-10-02/",
+          "titular": "El petróleo baja mientras el mercado evalúa la oferta",
+          "extracto": "Reuters resume precios y factores de suministro de la jornada.",
+          "enfoque": "Reuters resume precios y factores de suministro de la jornada.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -656,35 +404,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-asia-financiacion-ia",
-      "categoria": "Tecnología",
-      "region": "Asia-Pacífico · Mercados tecnológicos",
-      "fecha": "2026-09-30",
+      "id": "20261002-mercados-bonos",
+      "categoria": "Economía",
+      "region": "Global · Mercados",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Asia-Pacífico",
-        "Tecnología"
+        "Global",
+        "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "La financiación mediante acciones en Asia se acerca a máximos históricos impulsada por la IA",
-      "entradilla": "Empresas de chips, centros de datos y energía concentran una parte creciente de las operaciones de capital.",
-      "que_ha_pasado": "Reuters, con datos de LSEG, informa de 327.100 millones de dólares captados mediante acciones y bonos convertibles en Asia-Pacífico en lo que va de 2026, un 53 % más interanual.",
-      "contexto": "La expansión de infraestructura para inteligencia artificial exige grandes inversiones en computación, memoria, centros de datos y electricidad.",
-      "por_que_importa": "El volumen de financiación muestra cómo la IA está reorientando capital empresarial en la región.",
+      "titulo": "Las bolsas asiáticas caen tras nuevas sacudidas en bonos y divisas",
+      "entradilla": "Los inversores esperan el informe de empleo de Estados Unidos después de un fuerte movimiento de las rentabilidades soberanas.",
+      "que_ha_pasado": "Reuters informa de descensos en varias bolsas asiáticas mientras los mercados digieren la volatilidad en deuda pública y monedas antes de los datos laborales estadounidenses.",
+      "contexto": "La inflación, el precio de la energía y las expectativas sobre tipos de interés han elevado la volatilidad en los mercados globales.",
+      "por_que_importa": "Los movimientos de bonos y divisas afectan al coste de financiación de Estados, empresas y hogares.",
       "que_se_sabe": [],
       "que_falta": [
-        "Superar el récord de 2021 es una posibilidad, no un hecho; depende de operaciones que todavía deben completarse."
+        "Los mercados se mueven continuamente; los niveles de la mañana no deben interpretarse como cierre diario."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Asia-Pacífico",
-          "fecha": "2026-09-30",
-          "url": "https://www.reuters.com/world/asia-pacific/asia-share-sales-poised-test-2021-record-ai-boom-fuels-deal-pipeline-2026-09-30/",
-          "titular": "Las ampliaciones de capital asiáticas crecen con la inversión en IA",
-          "extracto": "Reuters utiliza datos de LSEG y una cartera de operaciones previstas.",
-          "enfoque": "Reuters utiliza datos de LSEG y una cartera de operaciones previstas.",
+          "pais": "Internacional",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-02/",
+          "titular": "Bolsas asiáticas caen antes del informe de empleo de EE. UU.",
+          "extracto": "Resumen de mercados globales en la sesión asiática.",
+          "enfoque": "Resumen de mercados globales en la sesión asiática.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -692,35 +440,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-tripulaciones-radiacion",
-      "categoria": "Salud",
-      "region": "Global · Aviación",
-      "fecha": "2026-09-30",
+      "id": "20261002-dolar-17-meses",
+      "categoria": "Economía",
+      "region": "Global · Divisas",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Global",
-        "Salud"
+        "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Un estudio encuentra mayor mortalidad por algunos cánceres entre pilotos y tripulaciones aéreas",
-      "entradilla": "El análisis estadounidense compara registros laborales y abre nuevas preguntas sobre exposición acumulada a radiación ionizante.",
-      "que_ha_pasado": "ABC Australia informa de un estudio de mortalidad que compara cientos de ocupaciones en Estados Unidos y detecta tasas superiores de ciertos cánceres entre pilotos y auxiliares de vuelo.",
-      "contexto": "Las tripulaciones pasan más tiempo a gran altitud, donde la exposición a radiación cósmica es mayor que a nivel del suelo.",
-      "por_que_importa": "Los resultados pueden orientar investigación sobre exposición laboral, seguimiento sanitario y límites de seguridad.",
+      "titulo": "El dólar alcanza su nivel más alto en 17 meses mientras el euro sufre por la tensión fiscal francesa",
+      "entradilla": "La venta de bonos y las diferencias de expectativas económicas refuerzan temporalmente a la divisa estadounidense.",
+      "que_ha_pasado": "Reuters informa de que el índice del dólar alcanzó máximos de 17 meses y el euro siguió presionado por las preocupaciones fiscales en Francia y el movimiento de los bonos.",
+      "contexto": "Las divisas responden a tipos de interés, inflación, riesgo fiscal y búsqueda de activos considerados refugio.",
+      "por_que_importa": "Los tipos de cambio afectan a importaciones, turismo, deuda y resultados empresariales transfronterizos.",
       "que_se_sabe": [],
       "que_falta": [
-        "Es una asociación observacional y no prueba que la radiación sea la causa única; los resultados estadounidenses no se trasladan automáticamente a otros países."
+        "Los cambios son de mercado y pueden revertirse; esta ficha no contiene recomendaciones de inversión."
       ],
       "fuentes": [
         {
-          "medio": "ABC News Australia",
-          "pais": "Australia / salud",
-          "fecha": "2026-09-30",
-          "url": "https://www.abc.net.au/news/health/2026-09-30/pilots-flight-attendants-radiation-cancer-death/107175724",
-          "titular": "Estudio sobre mortalidad por cáncer en personal aéreo",
-          "extracto": "ABC explica el diseño del estudio y las cautelas planteadas por expertos.",
-          "enfoque": "ABC explica el diseño del estudio y las cautelas planteadas por expertos.",
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-17-month-high-global-bond-rout-hits-euro-2026-10-02/",
+          "titular": "El dólar toca máximos de 17 meses",
+          "extracto": "Reuters analiza el movimiento frente al euro y otras divisas.",
+          "enfoque": "Reuters analiza el movimiento frente al euro y otras divisas.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -728,35 +476,287 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260930-tiktok-anticoncepcion",
-      "categoria": "Salud",
-      "region": "Global · Salud digital",
-      "fecha": "2026-09-30",
+      "id": "20261002-calor-europa",
+      "categoria": "Medioambiente",
+      "region": "Europa · Clima",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Medioambiente"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Más de la mitad de Europa sufrió episodios de estrés térmico muy fuerte este verano",
+      "entradilla": "Datos científicos de la Unión Europea muestran una exposición extensa a condiciones de calor peligrosas.",
+      "que_ha_pasado": "Reuters informa de que algo más de la mitad del territorio europeo experimentó en algún momento niveles de estrés térmico clasificados como muy fuertes durante el verano de 2026.",
+      "contexto": "El estrés térmico combina temperatura, humedad, viento y radiación para estimar el impacto fisiológico del calor sobre las personas.",
+      "por_que_importa": "La exposición tiene implicaciones para salud pública, trabajo al aire libre, ciudades y adaptación climática.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El indicador no significa que todo el continente estuviera simultáneamente bajo el mismo nivel de riesgo ni mide por sí solo mortalidad."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Unión Europea",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/sustainability/cop/half-europe-faced-very-strong-heat-stress-this-summer-eu-scientists-say-2026-10-02/",
+          "titular": "Más de la mitad de Europa afrontó estrés térmico muy fuerte",
+          "extracto": "Cobertura basada en científicos y datos europeos.",
+          "enfoque": "Cobertura basada en científicos y datos europeos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-empleo-eeuu-previo",
+      "categoria": "Economía",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Economía"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El mercado espera una desaceleración del empleo estadounidense en septiembre",
+      "entradilla": "El informe oficial se publica hoy y podría influir en las expectativas sobre los próximos movimientos de la Reserva Federal.",
+      "que_ha_pasado": "Reuters recoge previsiones de economistas que apuntan a un menor crecimiento del empleo y una tasa de paro cercana al 4,1 %.",
+      "contexto": "Los datos laborales son una de las referencias principales de la Reserva Federal para valorar inflación y actividad.",
+      "por_que_importa": "Una sorpresa al alza o a la baja puede alterar rápidamente expectativas de tipos, bonos, dólar y bolsas.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las cifras citadas son previsiones previas al dato oficial y no deben confundirse con el resultado que se publicará después."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Estados Unidos",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/business/us-job-growth-expected-slow-september-unemployment-rate-likely-steady-2026-10-02/",
+          "titular": "Se espera menor crecimiento del empleo en septiembre",
+          "extracto": "Reuters recopila las previsiones antes del informe oficial.",
+          "enfoque": "Reuters recopila las previsiones antes del informe oficial.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-oro-nominas",
+      "categoria": "Economía",
+      "region": "Global · Materias primas",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Global",
-        "Salud"
+        "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Especialistas alertan de desinformación sobre anticoncepción en TikTok",
-      "entradilla": "Vídeos con afirmaciones no respaldadas pueden recibir gran difusión y condicionar decisiones sanitarias.",
-      "que_ha_pasado": "ABC Australia analiza contenidos de TikTok sobre anticoncepción hormonal y recoge la preocupación de profesionales de salud por afirmaciones falsas o descontextualizadas amplificadas por el algoritmo.",
-      "contexto": "Las redes sociales mezclan experiencias personales, publicidad, activismo y consejo médico sin que el usuario siempre pueda distinguir la calidad de cada fuente.",
-      "por_que_importa": "La información errónea puede influir en decisiones sobre anticoncepción, embarazo y salud sexual.",
+      "titulo": "El oro se estabiliza antes de los datos laborales de Estados Unidos",
+      "entradilla": "El metal sigue camino de su segunda caída semanal consecutiva, presionado por el dólar.",
+      "que_ha_pasado": "Reuters informa de una sesión estable para el oro antes de conocerse el empleo estadounidense, tras varias jornadas condicionadas por el fortalecimiento del dólar.",
+      "contexto": "El oro suele reaccionar a expectativas de tipos de interés, inflación, riesgo geopolítico y movimientos de la divisa estadounidense.",
+      "por_que_importa": "Es un indicador útil del cambio en expectativas financieras, aunque no determina por sí solo la dirección de los mercados.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las experiencias individuales pueden ser reales sin demostrar riesgos generales; las decisiones médicas deben basarse en evidencia y asesoramiento clínico individual."
+        "La cotización puede cambiar tras los datos laborales; no se presenta como recomendación de inversión."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/",
+          "titular": "El oro se estabiliza antes de las nóminas de EE. UU.",
+          "extracto": "Cobertura de precio y factores financieros de la sesión.",
+          "enfoque": "Cobertura de precio y factores financieros de la sesión.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261001-ucrania-escuela-kyiv",
+      "categoria": "Mundo",
+      "region": "Europa · Ucrania",
+      "fecha": "2026-10-01",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "CONTEXTO RECIENTE",
+      "titulo": "Un dron ruso alcanza una escuela de Kyiv sin causar víctimas",
+      "entradilla": "El personal y el alumnado estaban refugiados y la carga del aparato no llegó a explotar.",
+      "que_ha_pasado": "Associated Press informa de que un dron ruso impactó el jueves en una escuela de Kyiv. No hubo heridos porque estudiantes y trabajadores estaban en refugios.",
+      "contexto": "Rusia ha intensificado ataques aéreos contra Kyiv y otras ciudades mientras Ucrania insiste en la necesidad de más sistemas de defensa aérea.",
+      "por_que_importa": "El episodio muestra el riesgo para infraestructuras civiles y la importancia de protocolos de refugio en zonas sometidas a ataques frecuentes.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las afirmaciones sobre objetivos y estrategia militar de las partes deben atribuirse; el hecho directamente documentado es el impacto y la ausencia de víctimas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Ucrania",
+          "fecha": "2026-10-01",
+          "url": "https://apnews.com/article/1c4ea39898c03a432c8f005cb6b1f32c",
+          "titular": "Un dron ruso impacta en una escuela de Kyiv",
+          "extracto": "AP documenta daños, refugio del alumnado y contexto de los ataques aéreos.",
+          "enfoque": "AP documenta daños, refugio del alumnado y contexto de los ataques aéreos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-permafrost-artico",
+      "categoria": "Ciencia",
+      "region": "Ártico · Clima global",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Ártico",
+        "Ciencia"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El deshielo del permafrost libera más gases de efecto invernadero y desestabiliza terrenos",
+      "entradilla": "Investigadores advierten de que una parte del carbono almacenado durante milenios ya está pasando a la atmósfera.",
+      "que_ha_pasado": "Associated Press resume evidencias científicas sobre emisiones de metano y dióxido de carbono procedentes del permafrost en deshielo y sus efectos físicos sobre el terreno.",
+      "contexto": "El Ártico se calienta mucho más rápido que el promedio mundial. El permafrost contiene enormes reservas de carbono orgánico congelado.",
+      "por_que_importa": "Estas emisiones pueden amplificar el calentamiento y complicar infraestructuras, ecosistemas y planificación climática.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las estimaciones sobre la magnitud futura de las emisiones contienen incertidumbre y dependen de la trayectoria global de calentamiento."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Ártico",
+          "fecha": "2026-10-02",
+          "url": "https://apnews.com/article/91fcc04d32a1d7522afe2f6a456ac0eb",
+          "titular": "El permafrost libera gases que calientan el planeta",
+          "extracto": "Reportaje científico sobre mecanismos, observaciones y proyecciones del deshielo.",
+          "enfoque": "Reportaje científico sobre mecanismos, observaciones y proyecciones del deshielo.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261001-epa-emisiones-demanda",
+      "categoria": "Medioambiente",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-10-01",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Medioambiente"
+      ],
+      "etiqueta_editorial": "CONTEXTO RECIENTE",
+      "titulo": "Estados y ciudades demandan a la EPA por retirar límites de emisiones de centrales eléctricas",
+      "entradilla": "La coalición impugna la decisión federal y la administración defiende que reducirá costes para el sector energético.",
+      "que_ha_pasado": "Associated Press informa de una demanda de 21 estados, varias ciudades y el Distrito de Columbia contra la retirada de una norma federal que limitaba emisiones de gases de efecto invernadero de centrales de carbón y gas.",
+      "contexto": "La EPA sostiene que la derogación reduce costes y flexibiliza el sistema eléctrico; los demandantes alegan daños climáticos y sanitarios.",
+      "por_que_importa": "El litigio puede definir el alcance regulatorio de Estados Unidos sobre una de sus mayores fuentes de emisiones.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La demanda abre un proceso judicial; no implica que los argumentos de ninguna de las partes hayan sido aceptados por un tribunal."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-01",
+          "url": "https://apnews.com/article/d8ab79989f8b021d79c58105d23ee461",
+          "titular": "Estados y ciudades demandan a la EPA por la retirada de límites",
+          "extracto": "AP recoge las posiciones de los demandantes y de la agencia federal.",
+          "enfoque": "AP recoge las posiciones de los demandantes y de la agencia federal.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-australia-lluvias",
+      "categoria": "Medioambiente",
+      "region": "Oceanía · Australia",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oceanía",
+        "Medioambiente"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El sureste de Australia afronta riesgo de inundaciones tras un septiembre excepcionalmente seco",
+      "entradilla": "Un sistema lento de bajas presiones puede dejar lluvias intensas y tormentas en Victoria y Nueva Gales del Sur.",
+      "que_ha_pasado": "ABC Australia informa de avisos por inundaciones y tormentas para las próximas 48 horas en amplias zonas del sureste del país.",
+      "contexto": "El episodio llega después de un septiembre muy cálido y seco en gran parte de Australia, con contrastes fuertes entre regiones.",
+      "por_que_importa": "La combinación de suelos con condiciones distintas y lluvias intensas puede provocar crecidas rápidas, daños y cortes de transporte.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La distribución exacta de las precipitaciones depende de la evolución del sistema; deben consultarse los avisos meteorológicos locales."
       ],
       "fuentes": [
         {
           "medio": "ABC News Australia",
-          "pais": "Australia / salud digital",
-          "fecha": "2026-09-30",
-          "url": "https://www.abc.net.au/news/2026-09-30/birth-control-contraception-misinformation-tiktok/107205480",
-          "titular": "Desinformación sobre anticoncepción en TikTok",
-          "extracto": "Reportaje con análisis de contenidos y entrevistas a especialistas.",
-          "enfoque": "Reportaje con análisis de contenidos y entrevistas a especialistas.",
+          "pais": "Australia",
+          "fecha": "2026-10-02",
+          "url": "https://www.abc.net.au/news/2026-10-02/floods-storms-forecast-south-east-australia-after-dry-spetember/107217872",
+          "titular": "Riesgo de inundaciones y tormentas en el sureste australiano",
+          "extracto": "Pronóstico de ABC basado en datos meteorológicos y avisos oficiales.",
+          "enfoque": "Pronóstico de ABC basado en datos meteorológicos y avisos oficiales.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-filipinas-mynt-ipo",
+      "categoria": "Economía",
+      "region": "Asia sudoriental · Filipinas",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia sudoriental",
+        "Economía"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La matriz de GCash fija el precio de una salida a bolsa de 845 millones de dólares",
+      "entradilla": "La operación de Mynt se perfila como una de las mayores ofertas recientes del mercado filipino.",
+      "que_ha_pasado": "Reuters informa de que Mynt, empresa matriz del monedero digital GCash, ha fijado el precio de su oferta pública inicial en unos 845 millones de dólares.",
+      "contexto": "Los pagos digitales han crecido con rapidez en Filipinas y otras economías del sudeste asiático.",
+      "por_que_importa": "La operación aporta una referencia sobre el acceso a capital de empresas tecnológicas de la región y sobre el mercado bursátil filipino.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El precio de salida no garantiza el comportamiento posterior de la acción ni el éxito a largo plazo de la empresa."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Filipinas",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/world/asia-pacific/gcash-parent-mynt-prices-845-million-ipo-set-bolster-philippine-share-market-2026-10-02/",
+          "titular": "Mynt fija el precio de su salida a bolsa",
+          "extracto": "Reuters detalla el tamaño de la operación y su contexto de mercado.",
+          "enfoque": "Reuters detalla el tamaño de la operación y su contexto de mercado.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1126,12 +1126,51 @@
   ],
   "noticias_locales": [
     {
-      "id": "20260929-espana-vivienda-decretos",
+      "id": "20261002-espana-temporal",
+      "categoria": "Local",
+      "ambito_local": "España",
+      "tema_local": "Meteorología",
+      "region": "España · Mediterráneo",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "España",
+        "Meteorología"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Diez comunidades mantienen avisos por el temporal, con riesgo extremo en zonas del Mediterráneo",
+      "entradilla": "Tarragona y partes de la Comunidad Valenciana siguen bajo avisos rojos por lluvias torrenciales.",
+      "que_ha_pasado": "El País informa, con datos de Aemet y Protección Civil, de fuertes lluvias y tormentas este viernes en buena parte de España, con especial riesgo en el Mediterráneo.",
+      "contexto": "El episodio comenzó el jueves y ha dejado precipitaciones muy intensas en Tarragona, Castellón y otras zonas.",
+      "por_que_importa": "Las alertas afectan a movilidad, colegios, carreteras y seguridad personal en numerosas comunidades.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Es una situación operativa cambiante; antes de desplazarse hay que consultar Aemet, Protección Civil y autoridades locales."
+      ],
+      "fuentes": [
+        {
+          "medio": "El País / Aemet",
+          "pais": "España",
+          "fecha": "2026-10-02",
+          "url": "https://elpais.com/espana/2026-10-02/ultima-hora-del-temporal-en-espana-en-directo.html",
+          "titular": "Seguimiento del temporal en España",
+          "extracto": "Cobertura en directo basada en alertas meteorológicas y de Protección Civil.",
+          "enfoque": "Cobertura en directo basada en alertas meteorológicas y de Protección Civil.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-espana-vivienda-congreso",
       "categoria": "Local",
       "ambito_local": "España",
       "tema_local": "Vivienda",
-      "region": "España · Vivienda",
-      "fecha": "2026-09-29",
+      "region": "España · Congreso",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1139,36 +1178,25 @@
         "España",
         "Vivienda"
       ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "El Gobierno plantea ampliar la protección frente a desahucios hasta 2030",
-      "entradilla": "El acuerdo entre PSOE y Sumar incluye medidas sobre alquileres y vivienda que todavía necesitan tramitación parlamentaria.",
-      "que_ha_pasado": "Reuters y Associated Press informaron el 29 de septiembre de un paquete de medidas anunciado por el Gobierno tras las protestas por la vivienda y el caso de una mujer de 87 años desahuciada en Madrid.",
-      "contexto": "Las medidas se plantean mediante decretos y necesitan apoyos parlamentarios. Distintas organizaciones de inquilinos y propietarios han expresado posiciones diferentes sobre su alcance.",
-      "por_que_importa": "El resultado legislativo puede afectar a contratos de alquiler, desahucios y políticas de vivienda en toda España.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "El Congreso vota hoy los decretos de vivienda con su aprobación en duda",
+      "entradilla": "Junts rechaza los textos del Gobierno y propone un documento alternativo como punto de partida.",
+      "que_ha_pasado": "El País informa de que la votación de los decretos de vivienda está prevista para este viernes y que el Gobierno no tiene asegurada la mayoría necesaria.",
+      "contexto": "El paquete incluye medidas sobre desahucios y contratos de alquiler y ha generado posiciones diferentes entre partidos, organizaciones de inquilinos y propietarios.",
+      "por_que_importa": "El resultado determinará qué medidas entran en vigor o decaen y afectará directamente a la política de vivienda estatal.",
       "que_se_sabe": [],
       "que_falta": [
-        "Son propuestas y acuerdos políticos pendientes de aprobación y desarrollo; no deben presentarse como legislación definitiva."
+        "A la hora de cierre de Perspectiva la votación todavía no se ha producido; no se anticipa su resultado."
       ],
       "fuentes": [
         {
-          "medio": "Reuters",
-          "pais": "Internacional / España",
-          "fecha": "2026-09-29",
-          "url": "https://www.reuters.com/world/octagenarian-whose-eviction-sparked-spain-protests-considering-offer-return-home-2026-09-29/",
-          "titular": "España propone nuevas medidas sobre vivienda tras las protestas",
-          "extracto": "Reuters describe el acuerdo gubernamental, el caso que impulsó las protestas y la tramitación pendiente.",
-          "enfoque": "Reuters describe el acuerdo gubernamental, el caso que impulsó las protestas y la tramitación pendiente.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / España",
-          "fecha": "2026-09-29",
-          "url": "https://apnews.com/article/4b8b9fbbf55a2d22cfdbca450df0459b",
-          "titular": "Una mujer de 87 años vuelve a su casa tras un acuerdo",
-          "extracto": "AP contextualiza el caso y las medidas de vivienda anunciadas.",
-          "enfoque": "AP contextualiza el caso y las medidas de vivienda anunciadas.",
+          "medio": "El País",
+          "pais": "España",
+          "fecha": "2026-10-02",
+          "url": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
+          "titular": "El Congreso afronta la votación de los decretos de vivienda",
+          "extracto": "Seguimiento de apoyos parlamentarios y protestas por vivienda.",
+          "enfoque": "Seguimiento de apoyos parlamentarios y protestas por vivienda.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1176,88 +1204,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260929-espana-ceuta-asilo",
-      "categoria": "Local",
-      "ambito_local": "España",
-      "tema_local": "Migración",
-      "region": "España · Ceuta",
-      "fecha": "2026-09-29",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Local",
-        "España",
-        "Migración"
-      ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "España estudia cambios en la tramitación de asilo tras la llegada masiva a Ceuta",
-      "entradilla": "Un borrador citado por Reuters contempla procedimientos más rápidos y ha recibido críticas de organizaciones de derechos humanos.",
-      "que_ha_pasado": "Reuters informó de un borrador de decreto que modificaría procedimientos de asilo y retorno tras la llegada masiva registrada en Ceuta a finales de julio.",
-      "contexto": "La gestión de fronteras exteriores combina normativa española, derecho europeo y obligaciones internacionales de protección.",
-      "por_que_importa": "Los cambios podrían afectar a miles de personas y abrir un debate jurídico y político sobre garantías de asilo y control fronterizo.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "El documento citado es un borrador; el Ministerio del Interior no había confirmado su aprobación al publicarse la información."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / España",
-          "fecha": "2026-09-29",
-          "url": "https://www.reuters.com/world/africa/spain-plans-stricter-rules-asylum-seekers-ceuta-draft-decree-shows-2026-09-29/",
-          "titular": "España estudia normas más estrictas de asilo en Ceuta",
-          "extracto": "Reuters informa del borrador y recoge críticas de juristas y ONG.",
-          "enfoque": "Reuters informa del borrador y recoge críticas de juristas y ONG.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260929-catalunya-temporal",
+      "id": "20261002-catalunya-ebre-temporal",
       "categoria": "Local",
       "ambito_local": "Catalunya",
-      "tema_local": "Meteorología y movilidad",
-      "region": "Catalunya · Área metropolitana y litoral",
-      "fecha": "2026-09-29",
+      "tema_local": "Meteorología y emergencias",
+      "region": "Catalunya · Terres de l'Ebre",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
         "Catalunya",
-        "Meteorología y movilidad"
+        "Meteorología y emergencias"
       ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "El temporal deja incidencias en trenes, metro y carreteras del área de Barcelona",
-      "entradilla": "Las lluvias intensas provocaron cortes y restricciones de movilidad, además de rescates en el área metropolitana.",
-      "que_ha_pasado": "La Vanguardia y ARA documentaron incidencias ferroviarias, cortes viarios y rescates durante el episodio de lluvias del martes 29 de septiembre.",
-      "contexto": "Protecció Civil había activado el plan INUNCAT y enviado avisos preventivos por riesgo de precipitaciones intensas.",
-      "por_que_importa": "El episodio muestra el impacto inmediato de lluvias fuertes sobre transporte e infraestructuras metropolitanas.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "El temporal se reactiva en el Ebro tras dejar cerca de 200 litros durante la noche",
+      "entradilla": "Protecció Civil ha enviado avisos a Baix Ebre y Montsià y pide limitar los desplazamientos.",
+      "que_ha_pasado": "ARA informa de acumulaciones muy elevadas durante la noche y de nuevas inundaciones en puntos del sur de Catalunya.",
+      "contexto": "Meteocat y Protección Civil mantienen una vigilancia especial tras varios días de lluvias fuertes en el litoral y prelitoral.",
+      "por_que_importa": "El agua acumulada aumenta el riesgo de inundaciones súbitas, cortes de carreteras y problemas en zonas bajas.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las incidencias descritas corresponden al 29 de septiembre; para desplazamientos actuales hay que consultar los canales operativos de transporte y emergencias."
+        "Las cifras y restricciones pueden cambiar durante la mañana; deben seguirse los avisos oficiales en tiempo real."
       ],
       "fuentes": [
-        {
-          "medio": "La Vanguardia",
-          "pais": "España / Catalunya",
-          "fecha": "2026-09-29",
-          "url": "https://www.lavanguardia.com/local/catalunya/20260929/11646408/temporal-lluvia-catalunya-suspendida-circulacion-trenes-alta-velocidad-y-regionales-trafico-incidencias-rodalies-ultima-hora-hoy-en-directo.html",
-          "titular": "Incidencias del temporal en Catalunya",
-          "extracto": "Seguimiento de transporte, rescates y evolución del episodio.",
-          "enfoque": "Seguimiento de transporte, rescates y evolución del episodio.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
         {
           "medio": "ARA",
-          "pais": "España / Catalunya",
-          "fecha": "2026-09-29",
-          "url": "https://es.ara.cat/sociedad/sucesos/lluvias-torrenciales-dejan-buena-parte-barcelona-metro-ronda-continua-cortada_1_5863520.html",
-          "titular": "Lluvias torrenciales afectan metro y carreteras",
-          "extracto": "Cobertura de los efectos en Barcelona y el área metropolitana.",
-          "enfoque": "Cobertura de los efectos en Barcelona y el área metropolitana.",
+          "pais": "Catalunya",
+          "fecha": "2026-10-02",
+          "url": "https://www.ara.cat/societat/avis-vermell-pluges-garraf-penedes-camp-tarragona-l-ebre_1_5866092.html",
+          "titular": "Se reactiva el temporal en las Terres de l'Ebre",
+          "extracto": "Seguimiento de precipitaciones, inundaciones y alertas de Protecció Civil.",
+          "enfoque": "Seguimiento de precipitaciones, inundaciones y alertas de Protecció Civil.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1265,38 +1243,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260928-catalunya-ratpenats",
+      "id": "20261001-catalunya-llogaters",
       "categoria": "Local",
       "ambito_local": "Catalunya",
-      "tema_local": "Salud",
-      "region": "Catalunya · Salud pública",
-      "fecha": "2026-09-28",
+      "tema_local": "Vivienda",
+      "region": "Catalunya · Vivienda",
+      "fecha": "2026-10-01",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
         "Catalunya",
-        "Salud"
+        "Vivienda"
       ],
       "etiqueta_editorial": "RECIENTE",
-      "titulo": "Salut pide evitar el contacto con murciélagos tras aumentar las agresiones notificadas",
-      "entradilla": "El departamento catalán registra 86 agresiones de murciélagos hasta agosto y recuerda las medidas de prevención frente a la rabia.",
-      "que_ha_pasado": "betevé publicó los datos difundidos por el Departament de Salut: hasta el 12 de agosto se habían notificado 198 agresiones de animales, 86 de ellas de murciélagos.",
-      "contexto": "Catalunya está libre de rabia endémica terrestre, pero se detecta de forma esporádica el virus europeo de la rabia en murciélagos.",
-      "por_que_importa": "La recomendación afecta a prevención sanitaria: evitar manipular animales y buscar atención médica tras una exposición de riesgo.",
+      "titulo": "Casi la mitad de las personas de 30 a 44 años viven de alquiler en Catalunya",
+      "entradilla": "La proporción alcanza el 47,7 %, unos veinte puntos más que en 2013 según datos de condiciones de vida.",
+      "que_ha_pasado": "betevé, a partir de ACN, Idescat e INE, informa del aumento de la población arrendataria en las franjas de edad centrales.",
+      "contexto": "La evolución coincide con un periodo de encarecimiento de la vivienda y cambios en el acceso a la propiedad.",
+      "por_que_importa": "El dato ayuda a dimensionar qué población puede verse afectada por reformas de alquiler y políticas de vivienda.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los datos corresponden a notificaciones acumuladas hasta agosto y no significan que todos los murciélagos estén infectados."
+        "La cifra procede de la Encuesta de Condiciones de Vida y describe una proporción estadística, no la situación económica individual de todos los hogares."
       ],
       "fuentes": [
         {
-          "medio": "betevé",
-          "pais": "Barcelona / Catalunya",
-          "fecha": "2026-09-28",
-          "url": "https://beteve.cat/societat/agressions-ratpenats-creixen-23-per-cent-demana-evitar-contacte/",
-          "titular": "Aumentan las agresiones de murciélagos notificadas en Catalunya",
-          "extracto": "Resume los datos y recomendaciones del Departament de Salut.",
-          "enfoque": "Resume los datos y recomendaciones del Departament de Salut.",
+          "medio": "betevé / ACN",
+          "pais": "Catalunya",
+          "fecha": "2026-10-01",
+          "url": "https://beteve.cat/economia/meitat-30-44-anys-llogaters-20-per-cent-mes-fa-20-anys/",
+          "titular": "Casi la mitad de las personas de 30 a 44 años son inquilinas",
+          "extracto": "Datos de Idescat e INE difundidos por ACN y betevé.",
+          "enfoque": "Datos de Idescat e INE difundidos por ACN y betevé.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1304,38 +1282,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260929-barcelona-rambla-transit",
+      "id": "20261002-barcelona-temps",
       "categoria": "Local",
       "ambito_local": "Barcelona",
-      "tema_local": "Movilidad y urbanismo",
-      "region": "Barcelona · Ciutat Vella",
-      "fecha": "2026-09-29",
+      "tema_local": "Meteorología",
+      "region": "Barcelona · Área metropolitana",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
         "Barcelona",
-        "Movilidad y urbanismo"
+        "Meteorología"
       ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "La Rambla recupera la circulación de vehículos en ambos sentidos",
-      "entradilla": "El tráfico en sentido mar vuelve tras dos años de obras en el lateral del Raval.",
-      "que_ha_pasado": "betevé informa de la reapertura del sentido descendente de la Rambla, lo que permite de nuevo circulación tanto de subida como de bajada.",
-      "contexto": "La remodelación del paseo continúa y entra en una fase centrada en el tramo central.",
-      "por_que_importa": "El cambio modifica recorridos de tráfico y marca un avance visible en una de las mayores obras urbanas del centro de Barcelona.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "Barcelona queda al margen del núcleo más severo del temporal, aunque tendrá cielo muy cubierto",
+      "entradilla": "La previsión apunta a alguna lluvia breve mientras las precipitaciones más intensas se concentran al sur de Catalunya.",
+      "que_ha_pasado": "betevé publica la previsión para este viernes: mucha nubosidad en Barcelona y posibilidad de algún chubasco corto, con el episodio más severo desplazado hacia Tarragona y el Ebro.",
+      "contexto": "La ciudad venía de varios días con episodios de lluvia que causaron incidencias en transporte e inundaciones puntuales.",
+      "por_que_importa": "La previsión diferencia el riesgo de Barcelona del de las zonas catalanas que sí mantienen alertas máximas.",
       "que_se_sabe": [],
       "que_falta": [
-        "La reapertura de este sentido no significa que todas las obras de la Rambla hayan terminado."
+        "El tiempo puede cambiar localmente; para decisiones operativas deben consultarse Meteocat y los avisos municipales."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona",
-          "fecha": "2026-09-29",
-          "url": "https://beteve.cat/societat/rambla-reobre-circulacio-vehicles-sentit-mar/",
-          "titular": "La Rambla reabre al tráfico en sentido mar",
-          "extracto": "Información local sobre la reapertura y el estado de las obras.",
-          "enfoque": "Información local sobre la reapertura y el estado de las obras.",
+          "fecha": "2026-10-02",
+          "url": "https://beteve.cat/medi-ambient/temps-barcelona-divendres-2-octubre-divendres-insegur/",
+          "titular": "Viernes nuboso con poca lluvia en Barcelona",
+          "extracto": "Previsión meteorológica local para el 2 de octubre.",
+          "enfoque": "Previsión meteorológica local para el 2 de octubre.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1343,12 +1321,12 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260929-barcelona-llogateres",
+      "id": "20261001-barcelona-habitatge",
       "categoria": "Local",
       "ambito_local": "Barcelona",
       "tema_local": "Vivienda",
       "region": "Barcelona · Vivienda",
-      "fecha": "2026-09-29",
+      "fecha": "2026-10-01",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1357,24 +1335,24 @@
         "Vivienda"
       ],
       "etiqueta_editorial": "RECIENTE",
-      "titulo": "El Sindicat de Llogateres recibe con cautela el acuerdo estatal sobre vivienda",
-      "entradilla": "La organización considera que las movilizaciones han influido en el acuerdo, pero pide conocer el texto definitivo antes de valorarlo.",
-      "que_ha_pasado": "betevé recoge la reacción de la portavoz Carme Arcarazo al acuerdo entre PSOE y Sumar anunciado tras varios días de protestas por la vivienda.",
-      "contexto": "Barcelona ha vivido movilizaciones recientes por alquileres, desahucios y acceso a vivienda, mientras el Gobierno central negocia nuevas medidas.",
-      "por_que_importa": "La respuesta de organizaciones locales ayuda a entender cómo puede aterrizar en Barcelona una política estatal de vivienda.",
+      "titulo": "La acampada por la vivienda mantiene la presión en el centro de Barcelona",
+      "entradilla": "Colectivos de inquilinos y participantes reclaman medidas mientras el Congreso se prepara para votar los decretos estatales.",
+      "que_ha_pasado": "betevé documentó el 1 de octubre concentraciones y una cacerolada vinculadas a la acampada por el derecho a la vivienda en Barcelona.",
+      "contexto": "Las movilizaciones se producen en paralelo al debate estatal sobre desahucios, renovaciones de alquiler y protección de hogares vulnerables.",
+      "por_que_importa": "Barcelona es uno de los focos de una protesta que conecta problemas locales de alquiler con decisiones legislativas estatales.",
       "que_se_sabe": [],
       "que_falta": [
-        "La valoración corresponde a una organización concreta y no representa por sí sola a todos los inquilinos ni a todos los actores del sector."
+        "Las reivindicaciones corresponden a los colectivos participantes y no representan necesariamente a toda la población de la ciudad."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona",
-          "fecha": "2026-09-29",
-          "url": "https://beteve.cat/societat/sindicat-llogateres-prudent-acord-habitatge-lluitarem-mes/",
-          "titular": "El Sindicat de Llogateres valora el acuerdo de vivienda",
-          "extracto": "Recoge la posición de la organización y sus reservas sobre la tramitación.",
-          "enfoque": "Recoge la posición de la organización y sus reservas sobre la tramitación.",
+          "fecha": "2026-10-01",
+          "url": "https://beteve.cat/societat/",
+          "titular": "Movilizaciones por el derecho a la vivienda en Barcelona",
+          "extracto": "Portada temática de sociedad de betevé con las protestas y la acampada del 1 de octubre.",
+          "enfoque": "Portada temática de sociedad de betevé con las protestas y la acampada del 1 de octubre.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1382,38 +1360,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260929-santandreu-sagrera-pols",
+      "id": "20261001-santandreu-desnonament",
       "categoria": "Local",
       "ambito_local": "Sant Andreu",
-      "tema_local": "Obras y salud ambiental",
-      "region": "Barcelona · Sant Andreu · la Sagrera",
-      "fecha": "2026-09-29",
+      "tema_local": "Vivienda",
+      "region": "Barcelona · Sant Andreu",
+      "fecha": "2026-10-01",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
         "Sant Andreu",
-        "Obras y salud ambiental"
+        "Vivienda"
       ],
       "etiqueta_editorial": "RECIENTE",
-      "titulo": "Vecinos de la Sagrera denuncian polvo y contaminación por las obras de la futura estación",
-      "entradilla": "Residentes de calles próximas a los trabajos reclaman medidas adicionales para reducir el polvo que llega a viviendas y comercios.",
-      "que_ha_pasado": "betevé recoge quejas vecinales en el entorno de la futura estación de la Sagrera y la respuesta del distrito, que afirma haber aplicado medidas paliativas.",
-      "contexto": "Las obras ferroviarias y urbanas de la Sagrera son de larga duración y afectan a diferentes calles del distrito de Sant Andreu.",
-      "por_que_importa": "Es un problema de proximidad con posibles efectos sobre calidad de vida y salud percibida de quienes viven junto a las obras.",
+      "titulo": "Un juzgado suspende el desahucio de una vecina vulnerable de Sant Andreu aplicando el nuevo decreto",
+      "entradilla": "El caso de una residente de la calle Otger es el primero que betevé identifica como suspendido al amparo de la nueva norma.",
+      "que_ha_pasado": "betevé informa de que el juzgado aceptó cancelar el lanzamiento de una vecina vulnerable tras un escrito basado en el decreto estatal recién publicado.",
+      "contexto": "La medida forma parte del nuevo marco estatal de protección frente a determinados desahucios, que todavía está sometido a debate parlamentario.",
+      "por_que_importa": "Es una aplicación concreta de una norma estatal en el distrito y permite observar sus efectos inmediatos sobre un caso real.",
       "que_se_sabe": [],
       "que_falta": [
-        "El reportaje documenta testimonios y medidas municipales, pero no aporta una medición epidemiológica que permita atribuir problemas de salud concretos a la obra."
+        "La información describe este procedimiento judicial concreto y no garantiza el resultado de otros desahucios con circunstancias distintas."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona · Sant Andreu",
-          "fecha": "2026-09-29",
-          "url": "https://beteve.cat/societat/veinat-estacio-sagrera-fart-contaminacio-obra-visc-amb-inhalador/",
-          "titular": "Quejas vecinales por el polvo de las obras de la Sagrera",
-          "extracto": "Reportaje de proximidad con testimonios de residentes y respuesta del distrito.",
-          "enfoque": "Reportaje de proximidad con testimonios de residentes y respuesta del distrito.",
+          "fecha": "2026-10-01",
+          "url": "https://beteve.cat/societat/primer-desnonament-suspes-decret-maricarmen-sant-andreu/",
+          "titular": "Primer desahucio suspendido en Sant Andreu con el nuevo decreto",
+          "extracto": "Información de proximidad sobre la resolución judicial y la situación de la vecina.",
+          "enfoque": "Información de proximidad sobre la resolución judicial y la situación de la vecina.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1421,12 +1399,12 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260928-santandreu-festa-congres",
+      "id": "20261002-santandreu-festa-congres",
       "categoria": "Local",
       "ambito_local": "Sant Andreu",
       "tema_local": "Agenda",
       "region": "Barcelona · Sant Andreu · el Congrés i els Indians",
-      "fecha": "2026-09-28",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1434,25 +1412,25 @@
         "Sant Andreu",
         "Agenda"
       ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "La Festa Major del Congrés se celebrará del 3 al 11 de octubre",
-      "entradilla": "El programa incluye música, danza, talleres, actividades infantiles y comidas populares en torno a la plaza del Congrés.",
-      "que_ha_pasado": "betevé ha publicado el programa de la Festa Major del Congrés 2026, que se celebrará durante nueve días en el distrito de Sant Andreu.",
-      "contexto": "El Congrés i els Indians forma parte del distrito de Sant Andreu. La plaza del Congrés concentrará buena parte de las actividades.",
-      "por_que_importa": "Es información útil de agenda vecinal y una de las actividades comunitarias próximas del distrito.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "El Congrés empieza mañana nueve días de fiesta mayor en el distrito de Sant Andreu",
+      "entradilla": "El programa del 3 al 11 de octubre incluye música, actividades infantiles, comidas populares, cultura y deporte.",
+      "que_ha_pasado": "betevé mantiene actualizado el programa de la Festa Major del Congrés, que comienza el sábado 3 de octubre y se extiende hasta el día 11.",
+      "contexto": "El Congrés i els Indians es uno de los siete barrios del distrito de Sant Andreu y celebra una de las fiestas vecinales del calendario de otoño.",
+      "por_que_importa": "Es una referencia práctica de agenda para el fin de semana y los próximos días en el distrito.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los horarios pueden sufrir cambios; conviene consultar el programa actualizado antes de desplazarse."
+        "Los horarios pueden cambiar; conviene consultar el programa actualizado antes de acudir a una actividad."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona · Sant Andreu",
-          "fecha": "2026-09-28",
+          "fecha": "2026-10-02",
           "url": "https://beteve.cat/agenda/festa-major-congres-programa/",
           "titular": "Programa de la Festa Major del Congrés 2026",
-          "extracto": "Agenda con fechas, horarios y actividades de la fiesta mayor.",
-          "enfoque": "Agenda con fechas, horarios y actividades de la fiesta mayor.",
+          "extracto": "Agenda actualizada con fechas, lugares y actividades de la fiesta mayor.",
+          "enfoque": "Agenda actualizada con fechas, lugares y actividades de la fiesta mayor.",
           "orientacion": null,
           "titular_traducido": false
         }
