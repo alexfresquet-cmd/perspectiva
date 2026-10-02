@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-10-02-internacional-local-v1",
-  "titulo": "Perspectiva · Internacional y local · 2 de octubre",
+  "edicion_id": "2026-10-02-internacional-local-noche-v2",
+  "titulo": "Perspectiva · Edición nocturna internacional y local · 2 de octubre",
   "fecha_edicion": "2026-10-02",
-  "actualizado_en": "2026-10-02T09:05:00+02:00",
+  "actualizado_en": "2026-10-02T23:20:00+02:00",
   "tipo": "real",
-  "nota_editorial": "Edición cerrada la mañana del 02/10/2026 (hora de Barcelona). Perspectiva mantiene dos ámbitos separados: 30 historias internacionales y 8 noticias Local. La parte internacional contiene 20 historias de actualidad publicadas el 1–2 de octubre y 10 avances positivos recientes, sin deportes. La selección cubre África, Asia, Oriente Próximo, Europa, América del Norte, Oceanía y asuntos globales; América Latina tiene menor presencia en la actualidad de este cierre y sí aparece en la sección positiva. Las noticias políticas, militares y diplomáticas distinguen hechos observables de declaraciones y posiciones de las partes. Los datos de mercados son instantáneos y no asesoramiento financiero. Local conserva dos historias por ámbito: España, Catalunya, Barcelona y distrito de Sant Andreu. Las alertas meteorológicas y de movilidad no sustituyen canales oficiales en tiempo real. No se asignan orientaciones ideológicas ni se generan comparaciones formales sin tres fuentes editoriales independientes.",
+  "nota_editorial": "Segunda edición del 02/10/2026, cerrada por la noche (hora de Barcelona). Se han sustituido previsiones de la edición matinal por resultados confirmados: el informe de empleo de Estados Unidos, el cierre de Wall Street, la liberación coordinada de reservas energéticas del G7 y la votación de los decretos de vivienda en España. Perspectiva mantiene 30 historias internacionales, incluidas 10 noticias positivas recientes, y 8 noticias Local repartidas entre España, Catalunya, Barcelona y Sant Andreu. El bloque de Catalunya incorpora el balance nocturno del temporal en las Terres de l'Ebre. Las noticias políticas, diplomáticas y militares distinguen hechos documentados de declaraciones y posiciones de las partes. Las cifras de mercados no son asesoramiento financiero; las alertas operativas no sustituyen a los canales oficiales.",
   "noticias": [
     {
       "id": "20261002-eeuu-tercer-portaaviones",
@@ -368,7 +368,7 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-petroleo-suministro",
+      "id": "20261002-g7-reservas-energia",
       "categoria": "Economía",
       "region": "Global · Energía",
       "fecha": "2026-10-02",
@@ -379,24 +379,24 @@
         "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El petróleo retrocede mientras el mercado sopesa señales contradictorias de oferta",
-      "entradilla": "El Brent se mantiene alrededor de los 100 dólares en un contexto de tensión geopolítica y movimientos en exportaciones.",
-      "que_ha_pasado": "Reuters informa de caídas moderadas del crudo este viernes tras la fuerte subida previa. El mercado combina señales de recuperación de exportaciones saudíes con riesgos en Oriente Próximo y restricciones chinas a productos refinados.",
-      "contexto": "Los precios energéticos han sido uno de los principales canales económicos de la guerra con Irán y de las tensiones en las rutas marítimas.",
-      "por_que_importa": "La energía repercute en inflación, transporte, industria y decisiones de política monetaria.",
+      "titulo": "El G7 acuerda liberar 100 millones de barriles de reservas de petróleo y diésel",
+      "entradilla": "La medida coordinada se aplicará durante cuatro meses para aliviar la tensión del mercado energético.",
+      "que_ha_pasado": "Los países del G7 acordaron este viernes una liberación coordinada de 100 millones de barriles de reservas estratégicas a través de la Agencia Internacional de la Energía.",
+      "contexto": "Los mercados energéticos se han tensionado por la guerra con Irán, las restricciones en rutas de transporte y la volatilidad del suministro.",
+      "por_que_importa": "La decisión puede aumentar temporalmente la oferta disponible y reducir presión sobre combustibles, aunque el efecto final dependerá de demanda, logística y evolución geopolítica.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los precios son intradía y pueden cambiar con rapidez; no constituyen una previsión ni asesoramiento financiero."
+        "La liberación de reservas no garantiza una caída sostenida de precios y no elimina los riesgos de suministro a medio plazo."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional",
+          "pais": "Internacional / G7",
           "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-market-weighs-mixed-supply-signals-2026-10-02/",
-          "titular": "El petróleo baja mientras el mercado evalúa la oferta",
-          "extracto": "Reuters resume precios y factores de suministro de la jornada.",
-          "enfoque": "Reuters resume precios y factores de suministro de la jornada.",
+          "url": "https://www.reuters.com/business/energy/g7-release-100-million-barrels-diesel-other-reserves-through-iea-2026-10-02/",
+          "titular": "El G7 libera 100 millones de barriles de reservas",
+          "extracto": "Cobertura del acuerdo conjunto, calendario y objetivos comunicados por los gobiernos.",
+          "enfoque": "Cobertura del acuerdo conjunto, calendario y objetivos comunicados por los gobiernos.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -404,7 +404,7 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-mercados-bonos",
+      "id": "20261002-mercados-cierre-empleo",
       "categoria": "Economía",
       "region": "Global · Mercados",
       "fecha": "2026-10-02",
@@ -415,24 +415,24 @@
         "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Las bolsas asiáticas caen tras nuevas sacudidas en bonos y divisas",
-      "entradilla": "Los inversores esperan el informe de empleo de Estados Unidos después de un fuerte movimiento de las rentabilidades soberanas.",
-      "que_ha_pasado": "Reuters informa de descensos en varias bolsas asiáticas mientras los mercados digieren la volatilidad en deuda pública y monedas antes de los datos laborales estadounidenses.",
-      "contexto": "La inflación, el precio de la energía y las expectativas sobre tipos de interés han elevado la volatilidad en los mercados globales.",
-      "por_que_importa": "Los movimientos de bonos y divisas afectan al coste de financiación de Estados, empresas y hogares.",
+      "titulo": "Wall Street cierra al alza tras un informe de empleo estadounidense más débil de lo esperado",
+      "entradilla": "El S&P 500, el Nasdaq y el Dow avanzaron después de que el dato laboral redujera expectativas de una subida de tipos en octubre.",
+      "que_ha_pasado": "Los principales índices estadounidenses cerraron en positivo este viernes: el Nasdaq ganó un 1,19 %, el S&P 500 un 0,73 % y el Dow un 0,49 %.",
+      "contexto": "Los inversores ajustaron sus expectativas de política monetaria después de conocerse una creación de empleo muy inferior a la prevista.",
+      "por_que_importa": "Las expectativas sobre tipos afectan a financiación, divisas, renta fija y valoración de empresas en todo el mundo.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los mercados se mueven continuamente; los niveles de la mañana no deben interpretarse como cierre diario."
+        "Un cierre bursátil refleja una sesión concreta y no permite anticipar rendimientos futuros."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional",
+          "pais": "Internacional / Estados Unidos",
           "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-02/",
-          "titular": "Bolsas asiáticas caen antes del informe de empleo de EE. UU.",
-          "extracto": "Resumen de mercados globales en la sesión asiática.",
-          "enfoque": "Resumen de mercados globales en la sesión asiática.",
+          "url": "https://www.reuters.com/business/wall-st-futures-gain-yields-oil-prices-ease-ahead-jobs-report-2026-10-02/",
+          "titular": "Wall Street sube tras el dato de empleo",
+          "extracto": "Cierre de mercado y reacción a las cifras laborales estadounidenses.",
+          "enfoque": "Cierre de mercado y reacción a las cifras laborales estadounidenses.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -440,35 +440,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-dolar-17-meses",
+      "id": "20261002-inflacion-eurozona",
       "categoria": "Economía",
-      "region": "Global · Divisas",
+      "region": "Europa · Zona euro",
       "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Global",
+        "Europa",
         "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El dólar alcanza su nivel más alto en 17 meses mientras el euro sufre por la tensión fiscal francesa",
-      "entradilla": "La venta de bonos y las diferencias de expectativas económicas refuerzan temporalmente a la divisa estadounidense.",
-      "que_ha_pasado": "Reuters informa de que el índice del dólar alcanzó máximos de 17 meses y el euro siguió presionado por las preocupaciones fiscales en Francia y el movimiento de los bonos.",
-      "contexto": "Las divisas responden a tipos de interés, inflación, riesgo fiscal y búsqueda de activos considerados refugio.",
-      "por_que_importa": "Los tipos de cambio afectan a importaciones, turismo, deuda y resultados empresariales transfronterizos.",
+      "titulo": "La inflación de la zona euro sube más de lo esperado en septiembre",
+      "entradilla": "El nuevo dato mantiene abierto el debate sobre los próximos movimientos del Banco Central Europeo.",
+      "que_ha_pasado": "La inflación de la zona euro aceleró en septiembre más de lo previsto por los analistas, según los datos publicados este viernes.",
+      "contexto": "El encarecimiento energético y las presiones de precios conviven con un crecimiento económico desigual entre los países del euro.",
+      "por_que_importa": "La inflación condiciona tipos de interés, hipotecas, crédito empresarial y poder adquisitivo de los hogares.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los cambios son de mercado y pueden revertirse; esta ficha no contiene recomendaciones de inversión."
+        "El dato mensual no determina por sí solo la próxima decisión del BCE, que también evalúa actividad, salarios y perspectivas futuras."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional",
+          "pais": "Internacional / Zona euro",
           "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/asia-pacific/dollar-17-month-high-global-bond-rout-hits-euro-2026-10-02/",
-          "titular": "El dólar toca máximos de 17 meses",
-          "extracto": "Reuters analiza el movimiento frente al euro y otras divisas.",
-          "enfoque": "Reuters analiza el movimiento frente al euro y otras divisas.",
+          "url": "https://www.reuters.com/business/euro-zone-inflation-surges-keeping-pressure-ecb-hike-2026-10-02/",
+          "titular": "La inflación de la zona euro acelera más de lo esperado",
+          "extracto": "Reuters recoge el dato publicado y sus implicaciones para la política monetaria.",
+          "enfoque": "Reuters recoge el dato publicado y sus implicaciones para la política monetaria.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -512,7 +512,7 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-empleo-eeuu-previo",
+      "id": "20261002-empleo-eeuu",
       "categoria": "Economía",
       "region": "América del Norte · Estados Unidos",
       "fecha": "2026-10-02",
@@ -523,24 +523,24 @@
         "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El mercado espera una desaceleración del empleo estadounidense en septiembre",
-      "entradilla": "El informe oficial se publica hoy y podría influir en las expectativas sobre los próximos movimientos de la Reserva Federal.",
-      "que_ha_pasado": "Reuters recoge previsiones de economistas que apuntan a un menor crecimiento del empleo y una tasa de paro cercana al 4,1 %.",
-      "contexto": "Los datos laborales son una de las referencias principales de la Reserva Federal para valorar inflación y actividad.",
-      "por_que_importa": "Una sorpresa al alza o a la baja puede alterar rápidamente expectativas de tipos, bonos, dólar y bolsas.",
+      "titulo": "Estados Unidos crea 29.000 empleos en septiembre, muy por debajo de lo previsto",
+      "entradilla": "La tasa de paro sube al 4,2 % y las revisiones de meses anteriores muestran un mercado laboral más débil.",
+      "que_ha_pasado": "El informe oficial de empleo mostró un aumento de 29.000 puestos no agrícolas, frente a una previsión cercana a 90.000. Las cifras de meses anteriores también fueron revisadas a la baja.",
+      "contexto": "La Reserva Federal había elevado tipos recientemente, pero los datos laborales más suaves reducen la presión para repetir una subida en octubre.",
+      "por_que_importa": "El empleo es una referencia clave para el consumo, la actividad económica y las decisiones de la Reserva Federal.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las cifras citadas son previsiones previas al dato oficial y no deben confundirse con el resultado que se publicará después."
+        "Un solo informe mensual puede revisarse posteriormente y no demuestra por sí solo que la economía esté entrando en recesión."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
           "pais": "Internacional / Estados Unidos",
           "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/business/us-job-growth-expected-slow-september-unemployment-rate-likely-steady-2026-10-02/",
-          "titular": "Se espera menor crecimiento del empleo en septiembre",
-          "extracto": "Reuters recopila las previsiones antes del informe oficial.",
-          "enfoque": "Reuters recopila las previsiones antes del informe oficial.",
+          "url": "https://www.reuters.com/business/us-job-growth-slows-sharply-september-unemployment-rate-rises-42-2026-10-02/",
+          "titular": "El crecimiento del empleo se frena en septiembre",
+          "extracto": "Datos oficiales, revisiones y primeras implicaciones para la Reserva Federal.",
+          "enfoque": "Datos oficiales, revisiones y primeras implicaciones para la Reserva Federal.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -548,35 +548,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-oro-nominas",
-      "categoria": "Economía",
-      "region": "Global · Materias primas",
+      "id": "20261002-meta-gafas-privacidad",
+      "categoria": "Tecnología",
+      "region": "Europa · Países Bajos y Bélgica",
       "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Global",
-        "Economía"
+        "Europa",
+        "Tecnología"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El oro se estabiliza antes de los datos laborales de Estados Unidos",
-      "entradilla": "El metal sigue camino de su segunda caída semanal consecutiva, presionado por el dólar.",
-      "que_ha_pasado": "Reuters informa de una sesión estable para el oro antes de conocerse el empleo estadounidense, tras varias jornadas condicionadas por el fortalecimiento del dólar.",
-      "contexto": "El oro suele reaccionar a expectativas de tipos de interés, inflación, riesgo geopolítico y movimientos de la divisa estadounidense.",
-      "por_que_importa": "Es un indicador útil del cambio en expectativas financieras, aunque no determina por sí solo la dirección de los mercados.",
+      "titulo": "Una gran cadena óptica suspende la venta de las gafas inteligentes de Meta por dudas de privacidad",
+      "entradilla": "Hans Anders retira temporalmente las Ray-Ban Meta de sus tiendas neerlandesas y belgas mientras continúa el debate regulatorio.",
+      "que_ha_pasado": "Hans Anders suspendió la venta de las gafas inteligentes de Meta en Países Bajos y Bélgica por preocupaciones sobre grabaciones de personas identificables sin consentimiento.",
+      "contexto": "Las gafas incorporan cámara y funciones de inteligencia artificial. Reguladores y organizaciones de consumidores han planteado dudas sobre información, consentimiento y uso de grabaciones en espacios públicos.",
+      "por_que_importa": "El caso muestra cómo los productos de IA integrados en dispositivos cotidianos pueden encontrar barreras comerciales antes incluso de una prohibición regulatoria.",
       "que_se_sabe": [],
       "que_falta": [
-        "La cotización puede cambiar tras los datos laborales; no se presenta como recomendación de inversión."
+        "La suspensión es una decisión de un minorista y no equivale a una prohibición general de las gafas en Europa."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional",
+          "pais": "Internacional / Países Bajos",
           "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/",
-          "titular": "El oro se estabiliza antes de las nóminas de EE. UU.",
-          "extracto": "Cobertura de precio y factores financieros de la sesión.",
-          "enfoque": "Cobertura de precio y factores financieros de la sesión.",
+          "url": "https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/",
+          "titular": "Hans Anders suspende las ventas de gafas Meta",
+          "extracto": "Reuters recoge la decisión de la cadena, las objeciones de privacidad y la respuesta de Meta.",
+          "enfoque": "Reuters recoge la decisión de la cadena, las objeciones de privacidad y la respuesta de Meta.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -584,35 +584,46 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261001-ucrania-escuela-kyiv",
+      "id": "20261002-ucrania-puentes-kyiv",
       "categoria": "Mundo",
       "region": "Europa · Ucrania",
-      "fecha": "2026-10-01",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Europa",
         "Mundo"
       ],
-      "etiqueta_editorial": "CONTEXTO RECIENTE",
-      "titulo": "Un dron ruso alcanza una escuela de Kyiv sin causar víctimas",
-      "entradilla": "El personal y el alumnado estaban refugiados y la carga del aparato no llegó a explotar.",
-      "que_ha_pasado": "Associated Press informa de que un dron ruso impactó el jueves en una escuela de Kyiv. No hubo heridos porque estudiantes y trabajadores estaban en refugios.",
-      "contexto": "Rusia ha intensificado ataques aéreos contra Kyiv y otras ciudades mientras Ucrania insiste en la necesidad de más sistemas de defensa aérea.",
-      "por_que_importa": "El episodio muestra el riesgo para infraestructuras civiles y la importancia de protocolos de refugio en zonas sometidas a ataques frecuentes.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "Ataques rusos obligan a restringir tres puentes de Kyiv y provocan grandes atascos",
+      "entradilla": "Ucrania acusa a Rusia de buscar disrupciones urbanas mientras reclama nuevas sanciones internacionales.",
+      "que_ha_pasado": "Ataques aéreos obligaron a limitar parcialmente la circulación en tres puentes sobre el Dniéper en Kyiv, generando fuertes problemas de tráfico.",
+      "contexto": "Rusia ha intensificado ataques con drones y misiles contra ciudades e infraestructuras ucranianas. Kyiv sostiene que parte de la estrategia busca dificultar transporte y servicios civiles.",
+      "por_que_importa": "Los puentes son arterias esenciales para movilidad, emergencias y funcionamiento de la capital.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las afirmaciones sobre objetivos y estrategia militar de las partes deben atribuirse; el hecho directamente documentado es el impacto y la ausencia de víctimas."
+        "Las afirmaciones sobre la finalidad estratégica de los ataques corresponden a las autoridades ucranianas; los efectos físicos sobre los puentes y el tráfico sí están documentados."
       ],
       "fuentes": [
         {
           "medio": "Associated Press",
           "pais": "Estados Unidos / Ucrania",
-          "fecha": "2026-10-01",
-          "url": "https://apnews.com/article/1c4ea39898c03a432c8f005cb6b1f32c",
-          "titular": "Un dron ruso impacta en una escuela de Kyiv",
-          "extracto": "AP documenta daños, refugio del alumnado y contexto de los ataques aéreos.",
-          "enfoque": "AP documenta daños, refugio del alumnado y contexto de los ataques aéreos.",
+          "fecha": "2026-10-02",
+          "url": "https://www.wgauradio.com/news/world/russian-aerial/X6LR4SW6DI2I3IOWSFEK3FANKQ/?outputType=amp",
+          "titular": "Ataques rusos alteran el tráfico en tres puentes de Kyiv",
+          "extracto": "Republicación de AP sobre daños, cierres parciales y respuesta ucraniana.",
+          "enfoque": "Republicación de AP sobre daños, cierres parciales y respuesta ucraniana.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Al Jazeera",
+          "pais": "Catar / Ucrania",
+          "fecha": "2026-10-02",
+          "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock",
+          "titular": "Ucrania pide más sanciones tras los ataques",
+          "extracto": "Cobertura adicional de los ataques y la reacción del Gobierno ucraniano.",
+          "enfoque": "Cobertura adicional de los ataques y la reacción del Gobierno ucraniano.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -908,42 +919,6 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260923-nepal-escuelas",
-      "categoria": "Noticias positivas",
-      "region": "Asia meridional · Nepal",
-      "fecha": "2026-09-23",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Asia meridional",
-        "Avance documentado"
-      ],
-      "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Aulas temporales permiten reanudar las clases a menores afectados por inundaciones en Nepal",
-      "entradilla": "UNICEF describe cómo se han habilitado espacios de aprendizaje mientras continúan las reparaciones.",
-      "que_ha_pasado": "La organización documentó el 23 de septiembre que algunos niños estaban retomando las clases en centros provisionales de distritos afectados por las inundaciones del mes anterior.",
-      "contexto": "Las avenidas destruyeron o inutilizaron escuelas y afectaron a más de 14.000 estudiantes, según las evaluaciones iniciales de UNICEF.",
-      "por_que_importa": "La reapertura de espacios protegidos es un resultado tangible de la respuesta educativa.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Muchos menores siguen con la enseñanza interrumpida; la recuperación total de escuelas no se ha completado."
-      ],
-      "fuentes": [
-        {
-          "medio": "UNICEF",
-          "pais": "Naciones Unidas / Nepal",
-          "fecha": "2026-09-23",
-          "url": "https://www.unicef.org/press-releases/one-month-after-floods-efforts-restore-education-are-helping-children-return",
-          "titular": "Aulas temporales para recuperar la enseñanza tras inundaciones",
-          "extracto": "Fuente primaria del programa de apoyo, con datos del alcance y necesidades pendientes.",
-          "enfoque": "Fuente primaria del programa de apoyo, con datos del alcance y necesidades pendientes.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
       "id": "20260928-delfines-sidney",
       "categoria": "Noticias positivas",
       "region": "Oceanía · Australia",
@@ -1009,42 +984,6 @@
           "titular": "Avistamientos de polillas bogong tras años de declive",
           "extracto": "Entrevistas científicas y registros ciudadanos; la recuperación a largo plazo no está demostrada.",
           "enfoque": "Entrevistas científicas y registros ciudadanos; la recuperación a largo plazo no está demostrada.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260927-bali-luciernagas",
-      "categoria": "Noticias positivas",
-      "region": "Asia sudoriental · Indonesia",
-      "fecha": "2026-09-27",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Asia sudoriental",
-        "Avance documentado"
-      ],
-      "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Una iniciativa de Bali combina cría de luciérnagas y cambios en las prácticas agrícolas",
-      "entradilla": "El proyecto trabaja con científicos y agricultores para reducir amenazas sobre estos insectos.",
-      "que_ha_pasado": "Mongabay presenta Bring Back the Light, iniciativa iniciada en 2020 para criar luciérnagas y promover prácticas agrícolas menos dependientes de productos químicos.",
-      "contexto": "La pérdida de hábitat, la contaminación lumínica y los pesticidas perjudican a las luciérnagas en distintas regiones asiáticas.",
-      "por_que_importa": "Existe una intervención local en marcha y colaboración con propietarios agrícolas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "No hay datos en la pieza que permitan afirmar una recuperación de las poblaciones silvestres en toda Bali."
-      ],
-      "fuentes": [
-        {
-          "medio": "Mongabay (R. Maulana Yanuar y Sam Lee)",
-          "pais": "Indonesia",
-          "fecha": "2026-09-27",
-          "url": "https://news.mongabay.com/short-article/2026/09/bringing-back-balis-lost-fireflies/",
-          "titular": "Un proyecto comunitario cría luciérnagas en Bali",
-          "extracto": "Iniciativa activa desde 2020, no evidencia de retorno generalizado de la especie.",
-          "enfoque": "Iniciativa activa desde 2020, no evidencia de retorno generalizado de la especie.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1122,6 +1061,78 @@
         }
       ],
       "analisis_verificado": false
+    },
+    {
+      "id": "20261002-rumania-eolica",
+      "categoria": "Noticias positivas",
+      "region": "Europa · Rumanía",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Noticias positivas"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Rumanía inaugura la primera fase de un gran parque eólico y estudia añadir baterías",
+      "entradilla": "Vifor ya aporta 192 MW y su promotor proyecta almacenamiento y una posible combinación con energía solar.",
+      "que_ha_pasado": "Rezolv Energy inauguró esta semana la primera fase del parque Vifor, en el condado de Buzău, y prepara un gran sistema de baterías.",
+      "contexto": "Rumanía afrontó tensiones eléctricas este verano por menor producción nuclear, hidroeléctrica y solar y ha acelerado nuevas incorporaciones renovables y de almacenamiento.",
+      "por_que_importa": "La combinación de generación eólica y almacenamiento puede aportar capacidad adicional y flexibilidad a una red sometida a episodios de escasez.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La ampliación a 461 MW y las baterías aún deben completarse; el proyecto inaugurado es solo la primera fase."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Rumanía",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/business/energy/romanias-newest-wind-farm-may-add-solar-storage-country-faces-energy-crunch-2026-10-02/",
+          "titular": "Rumanía estrena una nueva fase eólica y estudia almacenamiento",
+          "extracto": "Reuters describe la capacidad instalada y los planes de ampliación.",
+          "enfoque": "Reuters describe la capacidad instalada y los planes de ampliación.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-galleri-cancer",
+      "categoria": "Noticias positivas",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Noticias positivas"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Un análisis de sangre para detectar múltiples cánceres se acerca a una decisión regulatoria en Estados Unidos",
+      "entradilla": "El test Galleri ha recibido una valoración favorable de un comité asesor de la FDA, aunque quedan dudas sobre resultados clínicos y cobertura.",
+      "que_ha_pasado": "El test de Grail, diseñado para buscar señales de más de 50 tipos de cáncer, se encuentra más cerca de una posible aprobación de la FDA tras la revisión de su panel asesor.",
+      "contexto": "Las pruebas multicáncer buscan detectar tumores mediante señales en sangre antes de que aparezcan síntomas, pero deben demostrar suficiente precisión y utilidad clínica.",
+      "por_que_importa": "Una aprobación regulatoria podría ampliar el acceso a una tecnología de detección temprana potencialmente relevante.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La FDA todavía debe tomar una decisión y los expertos siguen debatiendo falsos positivos, costes de seguimiento y si la prueba reduce la mortalidad."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Estados Unidos",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/legal/litigation/grails-cancer-blood-test-nears-landmark-fda-approval-insurance-coverage-looms-2026-10-02/",
+          "titular": "El test Galleri se acerca a una decisión de la FDA",
+          "extracto": "Reuters explica el estado regulatorio, los datos disponibles y las limitaciones pendientes.",
+          "enfoque": "Reuters explica el estado regulatorio, los datos disponibles y las limitaciones pendientes.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
     }
   ],
   "noticias_locales": [
@@ -1165,7 +1176,7 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-espana-vivienda-congreso",
+      "id": "20261002-espana-vivienda-rechazo",
       "categoria": "Local",
       "ambito_local": "España",
       "tema_local": "Vivienda",
@@ -1179,24 +1190,35 @@
         "Vivienda"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El Congreso vota hoy los decretos de vivienda con su aprobación en duda",
-      "entradilla": "Junts rechaza los textos del Gobierno y propone un documento alternativo como punto de partida.",
-      "que_ha_pasado": "El País informa de que la votación de los decretos de vivienda está prevista para este viernes y que el Gobierno no tiene asegurada la mayoría necesaria.",
-      "contexto": "El paquete incluye medidas sobre desahucios y contratos de alquiler y ha generado posiciones diferentes entre partidos, organizaciones de inquilinos y propietarios.",
-      "por_que_importa": "El resultado determinará qué medidas entran en vigor o decaen y afectará directamente a la política de vivienda estatal.",
+      "titulo": "El Congreso rechaza los dos decretos de vivienda del Gobierno",
+      "entradilla": "Las medidas sobre protección frente a desahucios, alquileres y fiscalidad decaen tras no lograr los apoyos necesarios.",
+      "que_ha_pasado": "El Congreso rechazó este viernes los dos decretos de vivienda. Junts, PP y Vox votaron en contra de ambos textos; otros grupos también rechazaron algunas de las medidas.",
+      "contexto": "Los decretos habían entrado en vigor tras su publicación, pero necesitaban convalidación parlamentaria. Incluían medidas distintas sobre desahucios, prórrogas de alquiler y ayudas o incentivos.",
+      "por_que_importa": "El rechazo altera de forma inmediata el marco de medidas que el Gobierno había presentado para responder a la crisis de vivienda.",
       "que_se_sabe": [],
       "que_falta": [
-        "A la hora de cierre de Perspectiva la votación todavía no se ha producido; no se anticipa su resultado."
+        "Las fuerzas políticas pueden negociar nuevos textos en el futuro; esta noticia describe únicamente el resultado de las votaciones de hoy."
       ],
       "fuentes": [
         {
-          "medio": "El País",
-          "pais": "España",
+          "medio": "Reuters",
+          "pais": "Internacional / España",
           "fecha": "2026-10-02",
-          "url": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
-          "titular": "El Congreso afronta la votación de los decretos de vivienda",
-          "extracto": "Seguimiento de apoyos parlamentarios y protestas por vivienda.",
-          "enfoque": "Seguimiento de apoyos parlamentarios y protestas por vivienda.",
+          "url": "https://www.reuters.com/world/ally-spanish-pm-threatens-derail-housing-decree-fury-over-evictions-grows-2026-10-02/",
+          "titular": "El Parlamento rechaza los decretos de vivienda",
+          "extracto": "Reuters informa del resultado y de la reacción social.",
+          "enfoque": "Reuters informa del resultado y de la reacción social.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "betevé",
+          "pais": "Barcelona / España",
+          "fecha": "2026-10-02",
+          "url": "https://beteve.cat/politica/congres-tomba-decrets-habitatge-no-junts-pp-vox/",
+          "titular": "El Congreso tumba los decretos de vivienda",
+          "extracto": "Cobertura del resultado de las votaciones y las medidas afectadas.",
+          "enfoque": "Cobertura del resultado de las votaciones y las medidas afectadas.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1204,7 +1226,7 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-catalunya-ebre-temporal",
+      "id": "20261002-catalunya-ebre-temporal-nit",
       "categoria": "Local",
       "ambito_local": "Catalunya",
       "tema_local": "Meteorología y emergencias",
@@ -1218,24 +1240,35 @@
         "Meteorología y emergencias"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El temporal se reactiva en el Ebro tras dejar cerca de 200 litros durante la noche",
-      "entradilla": "Protecció Civil ha enviado avisos a Baix Ebre y Montsià y pide limitar los desplazamientos.",
-      "que_ha_pasado": "ARA informa de acumulaciones muy elevadas durante la noche y de nuevas inundaciones en puntos del sur de Catalunya.",
-      "contexto": "Meteocat y Protección Civil mantienen una vigilancia especial tras varios días de lluvias fuertes en el litoral y prelitoral.",
-      "por_que_importa": "El agua acumulada aumenta el riesgo de inundaciones súbitas, cortes de carreteras y problemas en zonas bajas.",
+      "titulo": "El temporal deja desalojos, rescates y más de 270 litros por metro cuadrado en puntos del Ebre",
+      "entradilla": "Protecció Civil mantiene restricciones de movilidad pese a levantar algunas medidas de confinamiento.",
+      "que_ha_pasado": "3Cat informa de una treintena de personas desalojadas y 19 conductores rescatados en el Baix Ebre y el Montsià. En l'Ametlla de Mar se han registrado hasta 273 litros por metro cuadrado.",
+      "contexto": "Las lluvias persistentes han provocado barrancos desbordados, inundaciones de viviendas y comercios y cortes en carreteras del sur de Catalunya.",
+      "por_que_importa": "La acumulación de agua mantiene riesgos de crecidas y daños incluso después de que baje la intensidad de la lluvia.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las cifras y restricciones pueden cambiar durante la mañana; deben seguirse los avisos oficiales en tiempo real."
+        "Las restricciones y balances siguen cambiando; para desplazamientos hay que consultar Protecció Civil, Meteocat y Trànsit."
       ],
       "fuentes": [
+        {
+          "medio": "3Cat",
+          "pais": "Catalunya",
+          "fecha": "2026-10-02",
+          "url": "https://www.3cat.cat/3catinfo/pluges-persistents-a-les-terres-de-lebre-amb-carrers-inundats-al-baix-ebre-i-el-montsia/noticia/3431791/",
+          "titular": "Desalojos y rescates por las lluvias en el Ebre",
+          "extracto": "Balance actualizado de precipitaciones, personas evacuadas y rescates.",
+          "enfoque": "Balance actualizado de precipitaciones, personas evacuadas y rescates.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
         {
           "medio": "ARA",
           "pais": "Catalunya",
           "fecha": "2026-10-02",
           "url": "https://www.ara.cat/societat/avis-vermell-pluges-garraf-penedes-camp-tarragona-l-ebre_1_5866092.html",
-          "titular": "Se reactiva el temporal en las Terres de l'Ebre",
-          "extracto": "Seguimiento de precipitaciones, inundaciones y alertas de Protecció Civil.",
-          "enfoque": "Seguimiento de precipitaciones, inundaciones y alertas de Protecció Civil.",
+          "titular": "Barrancos desbordados e inundaciones en el Ebre",
+          "extracto": "Seguimiento actualizado por la noche de daños y acumulaciones.",
+          "enfoque": "Seguimiento actualizado por la noche de daños y acumulaciones.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1282,38 +1315,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-barcelona-temps",
+      "id": "20261002-barcelona-festes-octubre",
       "categoria": "Local",
       "ambito_local": "Barcelona",
-      "tema_local": "Meteorología",
-      "region": "Barcelona · Área metropolitana",
+      "tema_local": "Agenda",
+      "region": "Barcelona · Barrios",
       "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
         "Barcelona",
-        "Meteorología"
+        "Agenda"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Barcelona queda al margen del núcleo más severo del temporal, aunque tendrá cielo muy cubierto",
-      "entradilla": "La previsión apunta a alguna lluvia breve mientras las precipitaciones más intensas se concentran al sur de Catalunya.",
-      "que_ha_pasado": "betevé publica la previsión para este viernes: mucha nubosidad en Barcelona y posibilidad de algún chubasco corto, con el episodio más severo desplazado hacia Tarragona y el Ebro.",
-      "contexto": "La ciudad venía de varios días con episodios de lluvia que causaron incidencias en transporte e inundaciones puntuales.",
-      "por_que_importa": "La previsión diferencia el riesgo de Barcelona del de las zonas catalanas que sí mantienen alertas máximas.",
+      "titulo": "Barcelona entra en un fin de semana con varias fiestas mayores simultáneas",
+      "entradilla": "Les Corts, Sarrià, Hostafrancs, la Esquerra de l'Eixample y otros barrios inician hoy o mañana sus programas de octubre.",
+      "que_ha_pasado": "betevé actualiza el calendario de fiestas mayores de Barcelona: varias celebraciones arrancan este 2 de octubre y otras, como la del Congrés, comienzan el día 3.",
+      "contexto": "Octubre concentra una parte importante del calendario vecinal de la ciudad, con actos de cultura popular, conciertos, actividades familiares y comidas comunitarias.",
+      "por_que_importa": "Es información práctica para organizar el fin de semana y muestra la actividad asociativa de distintos barrios.",
       "que_se_sabe": [],
       "que_falta": [
-        "El tiempo puede cambiar localmente; para decisiones operativas deben consultarse Meteocat y los avisos municipales."
+        "Horarios y actos al aire libre pueden cambiar, especialmente con meteorología adversa; conviene consultar cada programa antes de acudir."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona",
           "fecha": "2026-10-02",
-          "url": "https://beteve.cat/medi-ambient/temps-barcelona-divendres-2-octubre-divendres-insegur/",
-          "titular": "Viernes nuboso con poca lluvia en Barcelona",
-          "extracto": "Previsión meteorológica local para el 2 de octubre.",
-          "enfoque": "Previsión meteorológica local para el 2 de octubre.",
+          "url": "https://beteve.cat/agenda/festes-majors-barcelona-barris/",
+          "titular": "Calendario de fiestas mayores de Barcelona",
+          "extracto": "Guía actualizada por barrios con fechas y programas de octubre.",
+          "enfoque": "Guía actualizada por barrios con fechas y programas de octubre.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1321,12 +1354,12 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261001-barcelona-habitatge",
+      "id": "20261002-barcelona-acampada-habitatge",
       "categoria": "Local",
       "ambito_local": "Barcelona",
       "tema_local": "Vivienda",
-      "region": "Barcelona · Vivienda",
-      "fecha": "2026-10-01",
+      "region": "Barcelona · Plaça de Catalunya",
+      "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1334,25 +1367,25 @@
         "Barcelona",
         "Vivienda"
       ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "La acampada por la vivienda mantiene la presión en el centro de Barcelona",
-      "entradilla": "Colectivos de inquilinos y participantes reclaman medidas mientras el Congreso se prepara para votar los decretos estatales.",
-      "que_ha_pasado": "betevé documentó el 1 de octubre concentraciones y una cacerolada vinculadas a la acampada por el derecho a la vivienda en Barcelona.",
-      "contexto": "Las movilizaciones se producen en paralelo al debate estatal sobre desahucios, renovaciones de alquiler y protección de hogares vulnerables.",
-      "por_que_importa": "Barcelona es uno de los focos de una protesta que conecta problemas locales de alquiler con decisiones legislativas estatales.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "La acampada por la vivienda en plaça de Catalunya crece tras el rechazo de los decretos",
+      "entradilla": "El movimiento mantiene la protesta y ha convocado nuevas acciones después de las votaciones del Congreso.",
+      "que_ha_pasado": "betevé informa de que la acampada ha crecido y de que organizaciones de inquilinos han intensificado sus convocatorias en Barcelona coincidiendo con el rechazo parlamentario de los decretos.",
+      "contexto": "La protesta forma parte de una movilización más amplia por alquileres, desahucios y acceso a vivienda que también se desarrolla en otras ciudades.",
+      "por_que_importa": "La evolución de la acampada muestra la reacción local inmediata a una decisión legislativa estatal con efectos sobre la vivienda.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las reivindicaciones corresponden a los colectivos participantes y no representan necesariamente a toda la población de la ciudad."
+        "Las demandas expresadas pertenecen a los colectivos participantes y no representan automáticamente a todos los residentes de Barcelona."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona",
-          "fecha": "2026-10-01",
-          "url": "https://beteve.cat/societat/",
-          "titular": "Movilizaciones por el derecho a la vivienda en Barcelona",
-          "extracto": "Portada temática de sociedad de betevé con las protestas y la acampada del 1 de octubre.",
-          "enfoque": "Portada temática de sociedad de betevé con las protestas y la acampada del 1 de octubre.",
+          "fecha": "2026-10-02",
+          "url": "https://beteve.cat/societat/acampada-placa-catalunya-creix-no-junts-decret-habitatge/",
+          "titular": "Crece la acampada de plaça de Catalunya",
+          "extracto": "Cobertura de la movilización y de las convocatorias en Barcelona.",
+          "enfoque": "Cobertura de la movilización y de las convocatorias en Barcelona.",
           "orientacion": null,
           "titular_traducido": false
         }
