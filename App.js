@@ -137,7 +137,7 @@ const s=StyleSheet.create({
  safe:{flex:1,backgroundColor:COLORS.bg},header:{height:70,borderBottomWidth:1,borderBottomColor:COLORS.border,paddingHorizontal:17,alignItems:'center',justifyContent:'space-between',flexDirection:'row'},
  brand:{alignItems:'center',flexDirection:'row'},logo:{height:39,width:39,overflow:'hidden',backgroundColor:COLORS.ink,color:'white',textAlign:'center',fontFamily:'serif',fontSize:28,borderRadius:10,marginRight:10},
  brandName:{fontFamily:'serif',fontSize:24,color:COLORS.ink,fontWeight:'700'},tagline:{fontSize:9,color:COLORS.muted,letterSpacing:1},
- refresh:{padding:12},body:{padding:18,paddingBottom:65},small:{fontSize:11,fontWeight:'800',letterSpacing:.7,color:COLORS.muted},
+ refresh:{padding:12},body:{padding:18,paddingBottom:125},small:{fontSize:11,fontWeight:'800',letterSpacing:.7,color:COLORS.muted},
  headline:{fontFamily:'serif',fontSize:33,color:COLORS.ink,marginTop:7,marginBottom:10},
  pills:{flexGrow:0,marginVertical:12},pill:{paddingHorizontal:15,paddingVertical:10,borderWidth:1,borderColor:COLORS.border,borderRadius:23,marginRight:8},pillActive:{backgroundColor:COLORS.ink},
  pillText:{fontSize:12,fontWeight:'700',color:COLORS.ink},
