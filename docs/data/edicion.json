@@ -1,53 +1,42 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-10-02-internacional-local-noche-v2",
-  "titulo": "Perspectiva · Edición nocturna internacional y local · 2 de octubre",
-  "fecha_edicion": "2026-10-02",
-  "actualizado_en": "2026-10-02T23:20:00+02:00",
+  "edicion_id": "2026-10-03-internacional-local-v1",
+  "titulo": "Perspectiva · Internacional y local · 3 de octubre",
+  "fecha_edicion": "2026-10-03",
+  "actualizado_en": "2026-10-03T12:48:00+02:00",
   "tipo": "real",
-  "nota_editorial": "Segunda edición del 02/10/2026, cerrada por la noche (hora de Barcelona). Se han sustituido previsiones de la edición matinal por resultados confirmados: el informe de empleo de Estados Unidos, el cierre de Wall Street, la liberación coordinada de reservas energéticas del G7 y la votación de los decretos de vivienda en España. Perspectiva mantiene 30 historias internacionales, incluidas 10 noticias positivas recientes, y 8 noticias Local repartidas entre España, Catalunya, Barcelona y Sant Andreu. El bloque de Catalunya incorpora el balance nocturno del temporal en las Terres de l'Ebre. Las noticias políticas, diplomáticas y militares distinguen hechos documentados de declaraciones y posiciones de las partes. Las cifras de mercados no son asesoramiento financiero; las alertas operativas no sustituyen a los canales oficiales.",
+  "nota_editorial": "Edición del 03/10/2026 cerrada al mediodía, hora de Barcelona. Perspectiva mantiene 30 historias internacionales y 8 Local, sin deportes. La portada cubre Etiopía/Tigray, seguridad marítima en Ormuz y Brasil antes de las elecciones. La edición incorpora noticias de África, Asia, Oriente Próximo, Europa, América Latina, América del Norte y Oceanía, además de economía, tecnología, salud y medioambiente. Las elecciones de Letonia y Brasil se describen sin predicciones ni recomendaciones. Las cifras de bajas en Yemen se atribuyen expresamente a la parte que las comunica. Las 10 noticias positivas distinguen avances comprobados de ensayos, proyectos y señales todavía preliminares. Local mantiene España, Catalunya, Barcelona y distrito de Sant Andreu, con prioridad a información verificable del día y agenda útil de proximidad. Las previsiones meteorológicas y alertas no sustituyen a los canales oficiales en tiempo real.",
   "noticias": [
     {
-      "id": "20261002-eeuu-tercer-portaaviones",
+      "id": "20261003-etiopia-mekelle-aeropuerto",
       "categoria": "Mundo",
-      "region": "Oriente Próximo · Estados Unidos e Irán",
-      "fecha": "2026-10-02",
+      "region": "África · Etiopía",
+      "fecha": "2026-10-03",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Oriente Próximo",
+        "África",
         "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Estados Unidos envía un tercer portaaviones hacia Oriente Próximo en plena tensión con Irán",
-      "entradilla": "El despliegue amplía de forma inusual la presencia naval estadounidense mientras las negociaciones siguen estancadas.",
-      "que_ha_pasado": "Al Jazeera y The Guardian informan de que Estados Unidos ha ordenado el envío de un tercer grupo de portaaviones hacia Oriente Próximo. El movimiento se produce mientras Washington y Teherán mantienen fuertes desacuerdos sobre las condiciones para reducir la escalada.",
-      "contexto": "La guerra y las restricciones en torno al estrecho de Ormuz han afectado al transporte energético y a la seguridad regional durante 2026.",
-      "por_que_importa": "Una concentración militar de esta magnitud eleva la capacidad operativa estadounidense y aumenta la importancia de los canales diplomáticos para evitar una nueva escalada.",
+      "titulo": "Las fuerzas federales etíopes recuperan el aeropuerto de Mekelle en plena escalada en Tigray",
+      "entradilla": "La toma del principal aeropuerto de la capital regional supone un revés para la alianza opositora, pero no cierra el conflicto.",
+      "que_ha_pasado": "Reuters informa de que fuerzas federales recuperaron el aeropuerto Alula Aba Nega, a unos diez kilómetros del centro de Mekelle, mientras continuaban los combates en la región de Tigray.",
+      "contexto": "Los enfrentamientos reanudados a finales de septiembre son los más graves desde la guerra de 2020-2022. Etiopía también ha roto relaciones con Eritrea y acusa a varios países vecinos de apoyar a la oposición, algo que éstos niegan.",
+      "por_que_importa": "La evolución militar aumenta el riesgo humanitario y de una expansión regional del conflicto en el Cuerno de África.",
       "que_se_sabe": [],
       "que_falta": [
-        "El despliegue no demuestra que se haya decidido una nueva ofensiva; las intenciones militares futuras siguen sin confirmarse."
+        "Reuters no pudo verificar de forma independiente todas las afirmaciones sobre control territorial; la situación puede cambiar rápidamente."
       ],
       "fuentes": [
         {
-          "medio": "Al Jazeera",
-          "pais": "Catar / Estados Unidos",
-          "fecha": "2026-10-02",
-          "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera",
-          "titular": "Estados Unidos enviará un tercer portaaviones hacia Irán",
-          "extracto": "Cobertura basada en un funcionario estadounidense sobre el nuevo despliegue.",
-          "enfoque": "Cobertura basada en un funcionario estadounidense sobre el nuevo despliegue.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "The Guardian / Associated Press",
-          "pais": "Reino Unido / agencia internacional",
-          "fecha": "2026-10-02",
-          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-          "titular": "Estados Unidos envía un tercer portaaviones a Oriente Próximo",
-          "extracto": "Cobertura de AP publicada por The Guardian; no se cuenta como una tercera fuente independiente.",
-          "enfoque": "Cobertura de AP publicada por The Guardian; no se cuenta como una tercera fuente independiente.",
+          "medio": "Reuters",
+          "pais": "Internacional / Etiopía",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/africa/pro-government-forces-say-they-retake-airport-ethiopias-tigray-region-2026-10-03/",
+          "titular": "Las fuerzas federales recuperan el aeropuerto de Mekelle",
+          "extracto": "Cobertura basada en varias fuentes locales y humanitarias, con límites de verificación explícitos.",
+          "enfoque": "Cobertura basada en varias fuentes locales y humanitarias, con límites de verificación explícitos.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -56,35 +45,35 @@
       "posicion_portada": 1
     },
     {
-      "id": "20261002-china-antelope-reef",
+      "id": "20261003-hormuz-petrolero",
       "categoria": "Mundo",
-      "region": "Asia oriental · Mar de China Meridional",
-      "fecha": "2026-10-02",
+      "region": "Oriente Próximo · Estrecho de Ormuz",
+      "fecha": "2026-10-03",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "Asia oriental",
+        "Oriente Próximo",
         "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Imágenes de satélite muestran que China acelera una pista en un arrecife disputado",
-      "entradilla": "Los trabajos en Antelope Reef avanzan en las islas Paracel, una zona reclamada por varios gobiernos de la región.",
-      "que_ha_pasado": "Reuters analizó nuevas imágenes de satélite que muestran avances en una pista y otras obras sobre Antelope Reef, dentro del archipiélago de las Paracel.",
-      "contexto": "El mar de China Meridional concentra reivindicaciones territoriales superpuestas y es una ruta comercial estratégica. China controla las Paracel, que también son reclamadas por Vietnam y Taiwán.",
-      "por_que_importa": "La ampliación de infraestructura puede modificar capacidades logísticas y militares en una zona de fuerte competencia regional.",
+      "titulo": "Un petrolero recibe el impacto de un proyectil desconocido cerca de Omán",
+      "entradilla": "La tripulación está a salvo y no se ha informado de contaminación, mientras sigue sin conocerse el origen del ataque.",
+      "que_ha_pasado": "UKMTO comunicó que un petrolero de crudo fue alcanzado por un proyectil no identificado a pocas millas de la costa de Omán.",
+      "contexto": "El estrecho de Ormuz es una de las rutas energéticas más importantes del mundo y ha sufrido varios incidentes en las últimas semanas.",
+      "por_que_importa": "Cualquier deterioro de la seguridad marítima puede afectar a seguros, rutas comerciales y oferta energética.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las imágenes permiten observar construcción física, pero no determinan por sí solas el uso final de todas las instalaciones."
+        "No existe atribución confirmada del proyectil ni evidencia pública suficiente para señalar a un responsable."
       ],
       "fuentes": [
         {
-          "medio": "Reuters",
-          "pais": "Internacional / Asia",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/china/chinese-work-gathering-pace-antelope-reef-south-china-sea-latest-satellite-2026-10-02/",
-          "titular": "Avanza la construcción china en Antelope Reef",
-          "extracto": "Análisis de Reuters a partir de imágenes satelitales recientes y especialistas.",
-          "enfoque": "Análisis de Reuters a partir de imágenes satelitales recientes y especialistas.",
+          "medio": "Reuters / UKMTO",
+          "pais": "Internacional / Omán",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/business/energy/crude-oil-tanker-struck-by-unknown-projectile-off-oman-ukmto-says-2026-10-02/",
+          "titular": "Petrolero alcanzado por un proyectil frente a Omán",
+          "extracto": "Reuters recoge el aviso de UKMTO y confirma que la tripulación está a salvo.",
+          "enfoque": "Reuters recoge el aviso de UKMTO y confirma que la tripulación está a salvo.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -93,35 +82,46 @@
       "posicion_portada": 2
     },
     {
-      "id": "20261002-au-cuerno-africa",
+      "id": "20261003-brasil-servicios-consulares",
       "categoria": "Mundo",
-      "region": "África · Etiopía, Eritrea y Egipto",
-      "fecha": "2026-10-02",
+      "region": "América Latina · Brasil",
+      "fecha": "2026-10-03",
       "portada": true,
       "destacada": true,
       "etiquetas": [
-        "África",
+        "América Latina",
         "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "La Unión Africana pide contención a Etiopía, Eritrea y Egipto tras nuevas tensiones diplomáticas",
-      "entradilla": "Expulsiones de diplomáticos y el deterioro de relaciones elevan la preocupación por la estabilidad del Cuerno de África.",
-      "que_ha_pasado": "Reuters informa de un llamamiento de la Comisión de la Unión Africana a evitar acciones y declaraciones que agraven las tensiones entre Etiopía, Eritrea y Egipto.",
-      "contexto": "Etiopía y Eritrea han deteriorado rápidamente sus relaciones en paralelo a los combates en Tigray. Addis Abeba y El Cairo mantienen además desacuerdos históricos sobre seguridad regional y recursos hídricos.",
-      "por_que_importa": "Una escalada entre Estados tendría consecuencias más amplias que el actual conflicto interno etíope y afectaría a una región ya sometida a graves crisis humanitarias.",
+      "titulo": "Estados Unidos y Australia suspenden servicios consulares en Brasil antes de las elecciones",
+      "entradilla": "Las medidas se adoptan por alertas de seguridad mientras la policía brasileña investiga posibles amenazas contra instalaciones diplomáticas.",
+      "que_ha_pasado": "Estados Unidos suspendió servicios consulares y Australia cerró temporalmente su embajada en Brasilia antes de las elecciones presidenciales del domingo.",
+      "contexto": "La policía brasileña ha realizado registros y confiscado equipos de comunicación en una investigación sobre amenazas. No se ha probado públicamente la existencia de un plan concreto.",
+      "por_que_importa": "La decisión añade una dimensión de seguridad diplomática a una jornada electoral ya sometida a fuerte atención internacional.",
       "que_se_sabe": [],
       "que_falta": [
-        "El llamamiento de la Unión Africana no implica que exista un enfrentamiento militar directo entre los tres países."
+        "Las medidas preventivas no prueban que exista una amenaza materializada ni deben interpretarse como una valoración del proceso electoral brasileño."
       ],
       "fuentes": [
         {
-          "medio": "Reuters",
-          "pais": "Internacional / África",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/africa/african-union-urges-ethiopia-eritrea-egypt-refrain-actions-that-could-undermine-2026-10-02/",
-          "titular": "La Unión Africana pide contención en el Cuerno de África",
-          "extracto": "Reuters recoge el comunicado de la organización continental y los antecedentes diplomáticos.",
-          "enfoque": "Reuters recoge el comunicado de la organización continental y los antecedentes diplomáticos.",
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Brasil",
+          "fecha": "2026-10-03",
+          "url": "https://apnews.com/article/b413b79e9b75feb84a56d1a0440b6330",
+          "titular": "EE. UU. y Australia suspenden servicios diplomáticos en Brasil",
+          "extracto": "AP detalla las medidas, la investigación policial y el contexto electoral.",
+          "enfoque": "AP detalla las medidas, la investigación policial y el contexto electoral.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Al Jazeera / AP / Reuters",
+          "pais": "Catar / Brasil",
+          "fecha": "2026-10-03",
+          "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+          "titular": "Suspensión de operaciones diplomáticas antes de la votación",
+          "extracto": "Cobertura adicional que identifica las medidas como preventivas.",
+          "enfoque": "Cobertura adicional que identifica las medidas como preventivas.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -130,35 +130,35 @@
       "posicion_portada": 3
     },
     {
-      "id": "20261002-francia-colegios-protestas",
-      "categoria": "Sociedad",
-      "region": "Europa · Francia",
-      "fecha": "2026-10-02",
+      "id": "20261003-vietnam-pib",
+      "categoria": "Economía",
+      "region": "Asia sudoriental · Vietnam",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Europa",
-        "Sociedad"
+        "Asia sudoriental",
+        "Economía"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Unas 400 escuelas francesas permanecen cerradas tras protestas estudiantiles",
-      "entradilla": "Las movilizaciones han derivado en incidentes en algunos lugares y mantienen centros cerrados este viernes.",
-      "que_ha_pasado": "Reuters informa de que alrededor de 400 centros educativos franceses permanecen cerrados el 2 de octubre tras protestas iniciadas por estudiantes y episodios de violencia en parte de las movilizaciones.",
-      "contexto": "Las protestas estudiantiles pueden agrupar reivindicaciones diferentes y las autoridades francesas están respondiendo tanto en el ámbito educativo como de seguridad.",
-      "por_que_importa": "Los cierres afectan a alumnado y familias y obligan a distinguir entre protesta pacífica, daños e intervenciones policiales.",
+      "titulo": "Vietnam registra su mayor crecimiento trimestral en cuatro años",
+      "entradilla": "El PIB aumenta un 9,95 % interanual en el tercer trimestre, impulsado por exportaciones e inversión en infraestructuras.",
+      "que_ha_pasado": "Datos oficiales publicados este sábado muestran una aceleración del crecimiento vietnamita respecto al trimestre anterior.",
+      "contexto": "Vietnam combina una fuerte expansión exportadora con mayores costes de importación energética y un déficit comercial acumulado elevado.",
+      "por_que_importa": "La evolución del país es relevante para cadenas de suministro, manufactura asiática e inversión regional.",
       "que_se_sabe": [],
       "que_falta": [
-        "La cifra de centros cerrados es una estimación de la jornada y puede variar conforme reabran instalaciones."
+        "El crecimiento trimestral no elimina riesgos de inflación, energía y demanda externa; además, no alcanza por sí solo el objetivo anual del Gobierno."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Francia",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/about-400-french-schools-closed-some-student-protests-turn-violent-2026-10-02/",
-          "titular": "Unas 400 escuelas francesas cerradas por las protestas",
-          "extracto": "Cobertura del alcance de los cierres y de los incidentes reportados.",
-          "enfoque": "Cobertura del alcance de los cierres y de los incidentes reportados.",
+          "pais": "Internacional / Vietnam",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/asia-pacific/vietnam-q3-economic-growth-up-995-yy-2026-10-03/",
+          "titular": "Vietnam acelera su crecimiento trimestral",
+          "extracto": "Reuters resume los datos oficiales de PIB, comercio e inflación.",
+          "enfoque": "Reuters resume los datos oficiales de PIB, comercio e inflación.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -166,57 +166,10 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-corea-ucrania-prisioneros",
+      "id": "20261003-myanmar-ataque-aereo",
       "categoria": "Mundo",
-      "region": "Asia y Europa · Corea del Sur y Ucrania",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Asia y Europa",
-        "Mundo"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Seúl eleva la presión sobre Ucrania por el traslado de prisioneros norcoreanos",
-      "entradilla": "El presidente surcoreano amenaza con medidas no especificadas si Kyiv no atiende sus objeciones.",
-      "que_ha_pasado": "Reuters informa de una advertencia del presidente Lee Jae Myung a Ucrania en relación con el tratamiento y posible traslado de militares norcoreanos capturados.",
-      "contexto": "Corea del Norte ha apoyado militarmente a Rusia, mientras Corea del Sur mantiene una política específica respecto a ciudadanos norcoreanos que desean llegar al Sur.",
-      "por_que_importa": "El caso conecta la guerra de Ucrania con la política intercoreana y puede afectar a las relaciones entre Seúl y Kyiv.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las medidas anunciadas por Lee no han sido concretadas y las posiciones jurídicas de las partes siguen en discusión."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Corea del Sur",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-threatens-action-against-ukraine-over-transfer-north-korean-2026-10-02/",
-          "titular": "Seúl amenaza con actuar por los prisioneros norcoreanos",
-          "extracto": "Reuters recoge las declaraciones del presidente surcoreano.",
-          "enfoque": "Reuters recoge las declaraciones del presidente surcoreano.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Al Jazeera",
-          "pais": "Catar / Asia",
-          "fecha": "2026-10-02",
-          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows",
-          "titular": "Aumenta la disputa entre Ucrania y Corea del Sur",
-          "extracto": "Cobertura adicional del desacuerdo diplomático.",
-          "enfoque": "Cobertura adicional del desacuerdo diplomático.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-myanmar-retornados-malasia",
-      "categoria": "Mundo",
-      "region": "Asia sudoriental · Myanmar y Malasia",
-      "fecha": "2026-10-02",
+      "region": "Asia sudoriental · Myanmar",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -224,24 +177,24 @@
         "Mundo"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Los barcos con casi 1.500 personas devueltas desde Malasia llegan a aguas de Myanmar",
-      "entradilla": "El retorno continúa pese a las objeciones de organismos humanitarios sobre la seguridad en un país en guerra.",
-      "que_ha_pasado": "Reuters informa de que los buques con personas enviadas de vuelta por Malasia han entrado en aguas de Myanmar y se espera su llegada a puerto.",
-      "contexto": "Malasia ha descrito el proceso como voluntario. ACNUR ha cuestionado las condiciones de seguridad para retornos sostenibles a Myanmar.",
-      "por_que_importa": "El desembarco convierte un debate sobre política migratoria en una cuestión inmediata de protección y seguimiento de las personas retornadas.",
+      "titulo": "Filipinas expresa preocupación por las víctimas de un ataque aéreo en Myanmar",
+      "entradilla": "Manila, que preside ASEAN, se ofrece a facilitar conversaciones regionales sobre posibles respuestas.",
+      "que_ha_pasado": "El Gobierno filipino manifestó su preocupación por un ataque aéreo en el estado de Rakhine que causó muertos, heridos y daños importantes.",
+      "contexto": "Myanmar sigue inmerso en una guerra civil y ASEAN ha tenido dificultades para impulsar una solución política efectiva.",
+      "por_que_importa": "La posición filipina puede influir en la respuesta regional y en la presión diplomática sobre las partes.",
       "que_se_sabe": [],
       "que_falta": [
-        "No está verificada de forma independiente la situación individual de cada retornado ni sus condiciones tras el desembarco."
+        "Los detalles del ataque y su autoría deben seguir contrastándose con fuentes independientes y con las partes implicadas."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Asia",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/asia-pacific/myanmar-ships-with-returnees-malaysia-enter-home-waters-state-media-says-2026-10-02/",
-          "titular": "Los buques con retornados entran en aguas de Myanmar",
-          "extracto": "Reuters cita medios estatales y antecedentes del operativo de retorno.",
-          "enfoque": "Reuters cita medios estatales y antecedentes del operativo de retorno.",
+          "pais": "Internacional / Filipinas y Myanmar",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/asia-pacific/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-2026-10-03/",
+          "titular": "Filipinas expresa preocupación por el ataque en Myanmar",
+          "extracto": "Reuters recoge la posición del Gobierno filipino como presidente de ASEAN.",
+          "enfoque": "Reuters recoge la posición del Gobierno filipino como presidente de ASEAN.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -249,10 +202,82 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-flydubai-investigacion",
+      "id": "20261003-francia-estudiantes",
+      "categoria": "Sociedad",
+      "region": "Europa · Francia",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Sociedad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Estudiantes de institutos de suburbios parisinos impulsan una protesta de alcance nacional",
+      "entradilla": "Las movilizaciones por condiciones educativas y recortes han provocado cierres y bloqueos en distintos puntos de Francia.",
+      "que_ha_pasado": "Reuters documenta cómo protestas iniciadas en zonas desfavorecidas del área de París se han extendido a otros centros del país.",
+      "contexto": "Las protestas coinciden con tensiones presupuestarias y un debate más amplio sobre desigualdades territoriales y educación pública.",
+      "por_que_importa": "El movimiento muestra cómo demandas locales pueden escalar hasta afectar al sistema educativo nacional.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las motivaciones y formas de protesta varían entre centros; no todas las movilizaciones han sido violentas."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Francia",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/high-school-students-paris-deprived-suburbs-spark-national-protest-movement-2026-10-03/",
+          "titular": "Estudiantes de suburbios parisinos impulsan protestas nacionales",
+          "extracto": "Reportaje sobre participantes, motivos y extensión de las movilizaciones.",
+          "enfoque": "Reportaje sobre participantes, motivos y extensión de las movilizaciones.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-gaza-ayuda-oms",
+      "categoria": "Salud",
+      "region": "Oriente Próximo · Gaza",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oriente Próximo",
+        "Salud"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La OMS advierte de consecuencias graves por los retrasos en la entrada de suministros médicos a Gaza",
+      "entradilla": "Medicamentos, prótesis y otros materiales aprobados siguen acumulando demoras de entrada.",
+      "que_ha_pasado": "La Organización Mundial de la Salud ha alertado de que los retrasos en el acceso de material sanitario pueden tener consecuencias devastadoras para pacientes y hospitales.",
+      "contexto": "La ayuda autorizada entra principalmente por Kerem Shalom, mientras Rafah mantiene un funcionamiento limitado para determinados movimientos de personas.",
+      "por_que_importa": "La disponibilidad de insumos médicos condiciona cirugías, rehabilitación, tratamientos crónicos y supervivencia de pacientes.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las cifras y tiempos de entrada cambian con frecuencia y dependen de decisiones operativas de las autoridades y organismos humanitarios."
+      ],
+      "fuentes": [
+        {
+          "medio": "Al Jazeera / OMS",
+          "pais": "Catar / Palestina",
+          "fecha": "2026-10-03",
+          "url": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza",
+          "titular": "La OMS alerta sobre retrasos de ayuda médica",
+          "extracto": "Cobertura basada en declaraciones de la representación de la OMS en Palestina.",
+          "enfoque": "Cobertura basada en declaraciones de la representación de la OMS en Palestina.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-gaza-ataque-edificio",
       "categoria": "Mundo",
-      "region": "Oriente Próximo · Aviación",
-      "fecha": "2026-10-02",
+      "region": "Oriente Próximo · Gaza",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -260,107 +285,35 @@
         "Mundo"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "La investigación del incidente de flydubai mantiene abiertas varias hipótesis",
-      "entradilla": "El intento de desviar o hacer caer un vuelo a Tel Aviv sigue bajo investigación después de que pasajeros y tripulación redujeran al copiloto.",
-      "que_ha_pasado": "Reuters informa de que el episodio ha generado preocupación en las aerolíneas regionales. La investigación intenta establecer el motivo del copiloto, que presuntamente apuñaló al comandante antes de ser reducido.",
-      "contexto": "El vuelo consiguió aterrizar en Arabia Saudí. Autoridades de varios países participan en una investigación que se desarrolla en un contexto de tensión regional.",
-      "por_que_importa": "El caso tiene implicaciones para seguridad aérea, protocolos de cabina y percepción de riesgo en las rutas de Oriente Próximo.",
+      "titulo": "Un ataque israelí contra un edificio residencial en Gaza mata al menos a cinco personas",
+      "entradilla": "Equipos de rescate trabajaron entre los escombros tras el impacto en el oeste de Ciudad de Gaza.",
+      "que_ha_pasado": "Fuentes locales y material gráfico verificado por agencias muestran un ataque contra un edificio residencial que dejó al menos cinco muertos y varios heridos.",
+      "contexto": "El episodio se produce durante un frágil alto el fuego, con acusaciones recíprocas de incumplimientos entre Israel y Hamás.",
+      "por_que_importa": "Cada ataque durante una tregua aumenta el riesgo de deterioro del acuerdo y agrava la situación de la población civil.",
       "que_se_sabe": [],
       "que_falta": [
-        "No se ha probado públicamente una vinculación con ningún Estado u organización; cualquier atribución debe tratarse como hipótesis."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Oriente Próximo",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/middle-east/foiled-flydubai-attack-clouds-regional-airline-revival-2026-10-02/",
-          "titular": "El incidente de flydubai pesa sobre la recuperación aérea regional",
-          "extracto": "Reuters analiza el caso y su impacto en las aerolíneas de la zona.",
-          "enfoque": "Reuters analiza el caso y su impacto en las aerolíneas de la zona.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-chagos-acuerdo",
-      "categoria": "Mundo",
-      "region": "Océano Índico · Reino Unido y Mauricio",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Océano Índico",
-        "Mundo"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "El acuerdo sobre la soberanía de Chagos vuelve a atascarse",
-      "entradilla": "Las nuevas demoras mantienen la incertidumbre para la población chagosiana que espera poder regresar a parte del archipiélago.",
-      "que_ha_pasado": "Al Jazeera informa de nuevas conversaciones entre Reino Unido y Mauricio para intentar desbloquear el acuerdo de soberanía sobre las islas Chagos.",
-      "contexto": "El pacto prevé transferir soberanía a Mauricio mientras se mantiene el uso estratégico de Diego García bajo un acuerdo de largo plazo.",
-      "por_que_importa": "La demora afecta tanto a intereses geopolíticos como a las reclamaciones de comunidades desplazadas durante décadas.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las conversaciones continúan y no hay una nueva fecha definitiva de entrada en vigor del acuerdo."
+        "El ejército israelí no había aportado todavía una explicación detallada del objetivo al cierre de esta edición."
       ],
       "fuentes": [
         {
           "medio": "Al Jazeera",
-          "pais": "Catar / Océano Índico",
-          "fecha": "2026-10-02",
-          "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays",
-          "titular": "Se retrasa el acuerdo de soberanía sobre Chagos",
-          "extracto": "Cobertura del estancamiento y de las expectativas de la comunidad chagosiana.",
-          "enfoque": "Cobertura del estancamiento y de las expectativas de la comunidad chagosiana.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-nepal-avalancha",
-      "categoria": "Mundo",
-      "region": "Asia meridional · Nepal",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Asia meridional",
-        "Mundo"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "La cifra de muertos por la avalancha del Himlung asciende a 15",
-      "entradilla": "Los equipos de rescate han recuperado ocho cuerpos adicionales en la zona de la expedición.",
-      "que_ha_pasado": "AP y Al Jazeera informan de que el balance de la avalancha en el monte Himlung ha aumentado a 15 víctimas mortales tras nuevos trabajos de recuperación.",
-      "contexto": "Las expediciones de gran altitud dependen de ventanas meteorológicas muy estrechas y de equipos locales que asumen una parte sustancial del riesgo.",
-      "por_que_importa": "El balance pone el foco en la seguridad de trabajadores y expedicionarios en las montañas del Himalaya.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las operaciones de recuperación continúan y el balance puede modificarse si aparecen nuevas personas desaparecidas."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / Nepal",
-          "fecha": "2026-10-02",
-          "url": "https://www.clickorlando.com/news/world/2026/10/02/nepal-avalanche-toll-rises-to-15-deaths-with-discovery-of-8-bodies-on-mount-himlung/",
-          "titular": "La avalancha del Himlung deja al menos 15 muertos",
-          "extracto": "Republicación de AP con el balance actualizado de rescate.",
-          "enfoque": "Republicación de AP con el balance actualizado de rescate.",
+          "pais": "Catar / Gaza",
+          "fecha": "2026-10-03",
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five",
+          "titular": "Ataque contra un apartamento en Ciudad de Gaza",
+          "extracto": "Cobertura de víctimas, rescate y contexto del alto el fuego.",
+          "enfoque": "Cobertura de víctimas, rescate y contexto del alto el fuego.",
           "orientacion": null,
           "titular_traducido": false
         },
         {
-          "medio": "Al Jazeera",
-          "pais": "Catar / Nepal",
-          "fecha": "2026-10-02",
-          "url": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers",
-          "titular": "Al menos 15 trabajadores de expedición muertos",
-          "extracto": "Cobertura del rescate y del nuevo balance.",
-          "enfoque": "Cobertura del rescate y del nuevo balance.",
+          "medio": "Reuters Connect",
+          "pais": "Internacional / Gaza",
+          "fecha": "2026-10-03",
+          "url": "https://www.reutersconnect.com/item/palestinians-inspect-the-site-of-an-israeli-strike-on-an-apartment-building-in-gaza-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkhWTkFZRkFFVA",
+          "titular": "Imágenes del edificio alcanzado",
+          "extracto": "Material gráfico de Reuters del lugar del ataque.",
+          "enfoque": "Material gráfico de Reuters del lugar del ataque.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -368,7 +321,425 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-g7-reservas-energia",
+      "id": "20261003-yemen-bajas-afirmacion",
+      "categoria": "Mundo",
+      "region": "Oriente Próximo · Yemen",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oriente Próximo",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "El ejército yemení afirma haber causado más de 1.500 bajas hutíes en 24 horas",
+      "entradilla": "La cifra procede del Gobierno reconocido internacionalmente y no ha sido verificada de forma independiente.",
+      "que_ha_pasado": "Fuerzas gubernamentales yemeníes aseguran que una serie de combates y ataques ha causado 1.540 muertos o heridos entre combatientes hutíes.",
+      "contexto": "La guerra de Yemen se ha intensificado de nuevo y el conflicto está conectado con tensiones regionales y rutas marítimas.",
+      "por_que_importa": "La magnitud alegada, si se confirmara, señalaría una escalada importante de la violencia.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La cifra es una afirmación de una parte del conflicto; debe tratarse como no verificada hasta disponer de confirmación independiente."
+      ],
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "pais": "Catar / Yemen",
+          "fecha": "2026-10-03",
+          "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says",
+          "titular": "El ejército yemení comunica más de 1.500 bajas hutíes",
+          "extracto": "La noticia atribuye explícitamente el balance a las fuerzas gubernamentales.",
+          "enfoque": "La noticia atribuye explícitamente el balance a las fuerzas gubernamentales.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-reino-unido-iranies",
+      "categoria": "Mundo",
+      "region": "Europa · Reino Unido",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Dos iraníes son acusados en Reino Unido de preparar un ataque contra la comunidad judía",
+      "entradilla": "La Fiscalía británica los acusa de preparar actos terroristas en Manchester; la investigación continúa.",
+      "que_ha_pasado": "La policía británica ha acusado a dos ciudadanos iraníes de preparar o asistir un acto terrorista que presuntamente habría tenido como objetivo a la comunidad judía de Manchester.",
+      "contexto": "Las autoridades señalan contactos con una tercera persona en el extranjero, posiblemente en Irán, pero no han establecido públicamente una responsabilidad del Estado iraní.",
+      "por_que_importa": "El caso afecta a seguridad comunitaria y a las relaciones diplomáticas en un momento de fuerte tensión con Irán.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Son acusaciones penales aún no juzgadas; los acusados conservan la presunción de inocencia."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Reino Unido",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/uk/two-uk-men-charged-over-alleged-terrorism-plot-targeting-jewish-community-2026-10-02/",
+          "titular": "Dos hombres acusados por un supuesto complot terrorista",
+          "extracto": "Reuters detalla los cargos y las cautelas sobre la investigación.",
+          "enfoque": "Reuters detalla los cargos y las cautelas sobre la investigación.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Al Jazeera / AFP / Reuters",
+          "pais": "Catar / Reino Unido",
+          "fecha": "2026-10-03",
+          "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk",
+          "titular": "Dos iraníes acusados por un supuesto complot en Manchester",
+          "extracto": "Cobertura adicional con los cargos y los límites de lo conocido.",
+          "enfoque": "Cobertura adicional con los cargos y los límites de lo conocido.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-letonia-elecciones",
+      "categoria": "Mundo",
+      "region": "Europa · Letonia",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Letonia celebra elecciones parlamentarias bajo una fuerte atención a seguridad y defensa",
+      "entradilla": "Los votantes eligen hoy los 100 escaños del Saeima en un contexto marcado por la guerra de Ucrania y las amenazas híbridas.",
+      "que_ha_pasado": "Las urnas están abiertas este sábado para elegir un nuevo parlamento letón.",
+      "contexto": "Letonia, miembro de la OTAN y fronterizo con Rusia y Bielorrusia, ha reforzado la protección del espacio aéreo durante el periodo electoral.",
+      "por_que_importa": "El resultado determinará la composición del próximo parlamento y las negociaciones para formar gobierno.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "No se hacen predicciones sobre el resultado; los datos definitivos deben esperar al recuento oficial."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Letonia",
+          "fecha": "2026-10-03",
+          "url": "https://apnews.com/article/6026bf32a75acf1f671da1e6f34bb520",
+          "titular": "Letonia vota en elecciones parlamentarias",
+          "extracto": "AP explica el proceso electoral, el contexto de seguridad y la composición del parlamento.",
+          "enfoque": "AP explica el proceso electoral, el contexto de seguridad y la composición del parlamento.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-flydubai-terrorismo",
+      "categoria": "Mundo",
+      "region": "Oriente Próximo · Emiratos Árabes Unidos",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oriente Próximo",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Emiratos califica de intento terrorista el ataque del copiloto en el vuelo de Flydubai",
+      "entradilla": "La Fiscalía afirma que el copiloto atacó al comandante con un hacha de emergencia e intentó tomar el control del avión.",
+      "que_ha_pasado": "La Fiscalía emiratí ha descrito por primera vez el incidente del vuelo FZ1073 como un intento de acto terrorista. La investigación busca determinar motivos, conexiones y pruebas digitales.",
+      "contexto": "El avión viajaba de Dubái a Tel Aviv y realizó un aterrizaje de emergencia en Arabia Saudí después de que pasajeros y tripulación redujeran al copiloto.",
+      "por_que_importa": "El caso plantea cuestiones sobre seguridad interna de cabina, procesos de selección de personal y coordinación internacional.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La calificación procede de la Fiscalía emiratí; todavía no se ha celebrado juicio ni se han establecido todas las conexiones del acusado."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Emiratos",
+          "fecha": "2026-10-03",
+          "url": "https://apnews.com/article/cf64a228799e6e788e834cac2a489ab2",
+          "titular": "El copiloto de Flydubai había sido señalado por preocupaciones de extremismo",
+          "extracto": "AP recoge el nuevo relato oficial y antecedentes de seguridad.",
+          "enfoque": "AP recoge el nuevo relato oficial y antecedentes de seguridad.",
+          "orientacion": null,
+          "titular_traducido": false
+        },
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Emiratos",
+          "fecha": "2026-10-03",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says",
+          "titular": "Emiratos describe el incidente como intento terrorista",
+          "extracto": "Reproducción de Reuters con la declaración de la Fiscalía emiratí.",
+          "enfoque": "Reproducción de Reuters con la declaración de la Fiscalía emiratí.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-australia-atropello",
+      "categoria": "Sociedad",
+      "region": "Oceanía · Australia",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Oceanía",
+        "Sociedad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Un coche arrolla a una multitud de aficionados al rugby en Newcastle y deja diez heridos",
+      "entradilla": "Entre las personas heridas hay varios menores; la policía no considera el incidente relacionado con terrorismo.",
+      "que_ha_pasado": "Un vehículo conducido por un joven de 18 años se salió de control y alcanzó a una multitud reunida para despedir a un equipo de rugby en Newcastle.",
+      "contexto": "La policía ha detenido al conductor y realiza pruebas obligatorias mientras investiga la dinámica del accidente.",
+      "por_que_importa": "El episodio afecta a seguridad pública y ha dejado personas hospitalizadas, algunas inicialmente en estado crítico.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La investigación está abierta y no debe atribuirse una intención delictiva concreta hasta que la policía determine los hechos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Australia",
+          "fecha": "2026-10-03",
+          "url": "https://apnews.com/article/3227cc83e514028c19a5806291664fb5",
+          "titular": "Diez heridos tras un atropello de una multitud en Australia",
+          "extracto": "AP recoge el balance hospitalario y la investigación policial.",
+          "enfoque": "AP recoge el balance hospitalario y la investigación policial.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-ia-inversion",
+      "categoria": "Tecnología",
+      "region": "Global · Inteligencia artificial",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Global",
+        "Tecnología"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La carrera inversora en IA eleva las dudas sobre cuándo llegarán retornos económicos suficientes",
+      "entradilla": "Las inversiones proyectadas en centros de datos y computación alcanzan magnitudes históricas mientras los beneficios de productividad siguen siendo difíciles de medir.",
+      "que_ha_pasado": "Reuters analiza el fuerte crecimiento de la inversión en infraestructura de inteligencia artificial y las exigencias de ingresos que necesitaría para sostenerse.",
+      "contexto": "Empresas tecnológicas y fondos están financiando centros de datos, chips y electricidad a gran escala, con expectativas de transformar múltiples sectores.",
+      "por_que_importa": "El equilibrio entre inversión, productividad y demanda real condicionará empleo, energía y estabilidad financiera en los próximos años.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Las proyecciones a largo plazo son escenarios de consultoras y empresas, no resultados garantizados."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
+          "titular": "La IA compite por transformar la economía antes de agotar el capital",
+          "extracto": "Análisis de inversión, productividad y riesgos financieros del auge de la IA.",
+          "enfoque": "Análisis de inversión, productividad y riesgos financieros del auge de la IA.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-ia-salvaguardas-eeuu",
+      "categoria": "Tecnología",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Tecnología"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La Casa Blanca apuesta por compromisos voluntarios de seguridad en IA frente a una regulación obligatoria",
+      "entradilla": "El acuerdo anunciado con grandes compañías incluye controles internos y auditorías, pero carece de sanciones regulatorias específicas.",
+      "que_ha_pasado": "La administración estadounidense ha presentado un pacto voluntario con varias grandes tecnológicas para reforzar prácticas de seguridad y auditoría de sistemas de inteligencia artificial.",
+      "contexto": "La propuesta llega mientras crece la preocupación pública por riesgos de IA y varios estados estudian reglas más vinculantes.",
+      "por_que_importa": "El modelo estadounidense puede influir en el equilibrio entre innovación, supervisión y responsabilidad empresarial.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Al tratarse de compromisos voluntarios, su eficacia dependerá de implementación, auditoría y transparencia; no equivalen a una ley."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Estados Unidos",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/legal/litigation/public-fears-ai-grow-trump-digs-voluntary-safeguards-2026-10-03/",
+          "titular": "EE. UU. mantiene un enfoque voluntario de seguridad en IA",
+          "extracto": "Reuters describe el pacto, las críticas y las preocupaciones públicas.",
+          "enfoque": "Reuters describe el pacto, las críticas y las preocupaciones públicas.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-japon-mensaje-economico",
+      "categoria": "Economía",
+      "region": "Asia oriental · Japón",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Asia oriental",
+        "Economía"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Japón ajusta su comunicación económica para evitar que los mercados interpreten su política como excesivamente expansiva",
+      "entradilla": "La ministra de Finanzas afirma que el Gobierno quiere explicar mejor su estrategia a inversores y socios internacionales.",
+      "que_ha_pasado": "La ministra Satsuki Katayama explicó que el Ejecutivo ha modificado desde agosto la forma de comunicar sus políticas económicas para reducir malentendidos sobre su orientación.",
+      "contexto": "Los mercados siguen de cerca el yen, los tipos del Banco de Japón y la política fiscal del Gobierno de Sanae Takaichi.",
+      "por_que_importa": "La comunicación económica puede afectar expectativas de tipos, bonos y divisas incluso sin cambios normativos inmediatos.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Se trata de una estrategia de comunicación; no implica por sí sola una modificación de la política fiscal o monetaria."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Japón",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-shifts-messaging-counter-view-its-policies-are-reflationary-katayama-says-2026-10-03/",
+          "titular": "Japón ajusta el mensaje de su política económica",
+          "extracto": "Entrevista con la ministra de Finanzas sobre comunicación y percepción de mercado.",
+          "enfoque": "Entrevista con la ministra de Finanzas sobre comunicación y percepción de mercado.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-eeuu-medicare-pago",
+      "categoria": "Sociedad",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Sociedad"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Estados Unidos enviará un pago único de 90 dólares a más de 20 millones de afiliados a Medicare",
+      "entradilla": "La administración afirma que el objetivo es compensar parte del coste mensual de las primas médicas.",
+      "que_ha_pasado": "El presidente Donald Trump anunció un pago extraordinario de 90 dólares financiado con el Medicare Improvement Fund para más de 20 millones de personas.",
+      "contexto": "La medida llega pocas semanas antes de las elecciones legislativas de noviembre y en un contexto de fuerte preocupación por coste de vida y atención sanitaria.",
+      "por_que_importa": "El programa tendrá un impacto directo aunque limitado sobre millones de hogares mayores y abre debate sobre el uso de fondos federales.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "El pago es puntual y no modifica estructuralmente las primas futuras de Medicare."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Estados Unidos",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/world/trump-says-us-send-one-time-90-payment-20-million-seniors-enrolled-medicare-2026-10-03/",
+          "titular": "Pago único de 90 dólares para afiliados a Medicare",
+          "extracto": "Reuters detalla alcance, financiación y calendario anunciado.",
+          "enfoque": "Reuters detalla alcance, financiación y calendario anunciado.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-kyiv-puente",
+      "categoria": "Mundo",
+      "region": "Europa · Ucrania",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Europa",
+        "Mundo"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Un nuevo ataque ruso daña el puente norte de Kyiv y vuelve a interrumpir el tráfico",
+      "entradilla": "La infraestructura sufre una nueva afectación tras varios días de ataques contra los accesos a la capital.",
+      "que_ha_pasado": "Associated Press informa de que un ataque ruso alcanzó el puente norte de Kyiv este sábado, obligando a suspender el tráfico y generando nuevas colas.",
+      "contexto": "Los ataques sobre puentes y accesos urbanos se han intensificado y Ucrania sostiene que buscan alterar la vida cotidiana y la logística de la capital.",
+      "por_que_importa": "Los puentes son esenciales para emergencias, movilidad y abastecimiento en una ciudad de millones de habitantes.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La intención estratégica atribuida a Rusia procede de autoridades ucranianas; el daño físico y las restricciones de tráfico sí están documentados."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Ucrania",
+          "fecha": "2026-10-03",
+          "url": "https://www.ksat.com/news/world/2026/10/03/russia-strikes-kyivs-northern-bridge-in-a-new-tactic-to-disrupt-life-in-the-ukrainian-capital/",
+          "titular": "Rusia daña el puente norte de Kyiv",
+          "extracto": "Republicación de AP sobre daños, tráfico y contexto militar.",
+          "enfoque": "Republicación de AP sobre daños, tráfico y contexto militar.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-brasil-amazonia-elecciones",
+      "categoria": "Medioambiente",
+      "region": "América Latina · Brasil",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América Latina",
+        "Medioambiente"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Las elecciones brasileñas enfrentan políticas ambientales muy diferentes para la Amazonia",
+      "entradilla": "Los principales candidatos presentan enfoques distintos sobre deforestación, regulación ambiental y uso económico del territorio.",
+      "que_ha_pasado": "Associated Press compara las propuestas ambientales del presidente Luiz Inácio Lula da Silva y del senador Flávio Bolsonaro antes de la votación del 4 de octubre.",
+      "contexto": "Brasil alberga la mayor parte de la Amazonia y sus decisiones sobre deforestación, minería y agricultura tienen impacto climático global.",
+      "por_que_importa": "La política del próximo Gobierno influirá en aplicación de leyes ambientales, derechos territoriales y compromisos climáticos.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Esta ficha describe posiciones y registros documentados sin recomendar candidato ni anticipar el resultado electoral."
+      ],
+      "fuentes": [
+        {
+          "medio": "Associated Press",
+          "pais": "Estados Unidos / Brasil",
+          "fecha": "2026-10-03",
+          "url": "https://apnews.com/article/eacb0832cd11cf40b0b2a24481439d1f",
+          "titular": "La política amazónica ante las elecciones brasileñas",
+          "extracto": "AP compara propuestas ambientales y antecedentes de los principales candidatos.",
+          "enfoque": "AP compara propuestas ambientales y antecedentes de los principales candidatos.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-g7-reservas",
       "categoria": "Economía",
       "region": "Global · Energía",
       "fecha": "2026-10-02",
@@ -378,15 +749,15 @@
         "Global",
         "Economía"
       ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "El G7 acuerda liberar 100 millones de barriles de reservas de petróleo y diésel",
-      "entradilla": "La medida coordinada se aplicará durante cuatro meses para aliviar la tensión del mercado energético.",
-      "que_ha_pasado": "Los países del G7 acordaron este viernes una liberación coordinada de 100 millones de barriles de reservas estratégicas a través de la Agencia Internacional de la Energía.",
-      "contexto": "Los mercados energéticos se han tensionado por la guerra con Irán, las restricciones en rutas de transporte y la volatilidad del suministro.",
-      "por_que_importa": "La decisión puede aumentar temporalmente la oferta disponible y reducir presión sobre combustibles, aunque el efecto final dependerá de demanda, logística y evolución geopolítica.",
+      "etiqueta_editorial": "CONTEXTO RECIENTE",
+      "titulo": "El G7 inicia una liberación coordinada de 100 millones de barriles de reservas energéticas",
+      "entradilla": "El plan, acordado ayer, se ejecutará durante cuatro meses y adelanta una parte significativa del diésel.",
+      "que_ha_pasado": "Los países del G7 acordaron una liberación coordinada de crudo, diésel y otros productos a través de la Agencia Internacional de la Energía.",
+      "contexto": "La medida responde a la tensión en los mercados energéticos por la guerra con Irán y los riesgos de suministro.",
+      "por_que_importa": "Las reservas estratégicas pueden aliviar temporalmente la escasez y moderar shocks de precio.",
       "que_se_sabe": [],
       "que_falta": [
-        "La liberación de reservas no garantiza una caída sostenida de precios y no elimina los riesgos de suministro a medio plazo."
+        "No garantiza precios bajos de forma sostenida y su impacto dependerá del mercado y de la logística de distribución."
       ],
       "fuentes": [
         {
@@ -394,9 +765,9 @@
           "pais": "Internacional / G7",
           "fecha": "2026-10-02",
           "url": "https://www.reuters.com/business/energy/g7-release-100-million-barrels-diesel-other-reserves-through-iea-2026-10-02/",
-          "titular": "El G7 libera 100 millones de barriles de reservas",
-          "extracto": "Cobertura del acuerdo conjunto, calendario y objetivos comunicados por los gobiernos.",
-          "enfoque": "Cobertura del acuerdo conjunto, calendario y objetivos comunicados por los gobiernos.",
+          "titular": "El G7 coordina una liberación de reservas",
+          "extracto": "Reuters recoge el volumen, calendario y objetivos del acuerdo.",
+          "enfoque": "Reuters recoge el volumen, calendario y objetivos del acuerdo.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -404,226 +775,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-mercados-cierre-empleo",
-      "categoria": "Economía",
-      "region": "Global · Mercados",
-      "fecha": "2026-10-02",
+      "id": "20261003-ebola-ensayo",
+      "categoria": "Noticias positivas",
+      "region": "África · República Democrática del Congo",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Global",
-        "Economía"
+        "África",
+        "Noticias positivas"
       ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Wall Street cierra al alza tras un informe de empleo estadounidense más débil de lo esperado",
-      "entradilla": "El S&P 500, el Nasdaq y el Dow avanzaron después de que el dato laboral redujera expectativas de una subida de tipos en octubre.",
-      "que_ha_pasado": "Los principales índices estadounidenses cerraron en positivo este viernes: el Nasdaq ganó un 1,19 %, el S&P 500 un 0,73 % y el Dow un 0,49 %.",
-      "contexto": "Los inversores ajustaron sus expectativas de política monetaria después de conocerse una creación de empleo muy inferior a la prevista.",
-      "por_que_importa": "Las expectativas sobre tipos afectan a financiación, divisas, renta fija y valoración de empresas en todo el mundo.",
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Un ensayo clínico prueba una nueva vía para prevenir el ébola tras la exposición",
+      "entradilla": "Más de 250 personas participan ya en un estudio de obeldesivir frente a la variante Bundibugyo.",
+      "que_ha_pasado": "Un ensayo iniciado en julio estudia si el antiviral obeldesivir puede evitar que personas recientemente expuestas desarrollen la enfermedad.",
+      "contexto": "El actual brote de Bundibugyo carece de una vacuna o tratamiento aprobado específico y ha provocado miles de casos y muertes.",
+      "por_que_importa": "La profilaxis tras la exposición podría añadir una herramienta importante para proteger a sanitarios, familiares y contactos estrechos.",
       "que_se_sabe": [],
       "que_falta": [
-        "Un cierre bursátil refleja una sesión concreta y no permite anticipar rendimientos futuros."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Estados Unidos",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/business/wall-st-futures-gain-yields-oil-prices-ease-ahead-jobs-report-2026-10-02/",
-          "titular": "Wall Street sube tras el dato de empleo",
-          "extracto": "Cierre de mercado y reacción a las cifras laborales estadounidenses.",
-          "enfoque": "Cierre de mercado y reacción a las cifras laborales estadounidenses.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-inflacion-eurozona",
-      "categoria": "Economía",
-      "region": "Europa · Zona euro",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Europa",
-        "Economía"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "La inflación de la zona euro sube más de lo esperado en septiembre",
-      "entradilla": "El nuevo dato mantiene abierto el debate sobre los próximos movimientos del Banco Central Europeo.",
-      "que_ha_pasado": "La inflación de la zona euro aceleró en septiembre más de lo previsto por los analistas, según los datos publicados este viernes.",
-      "contexto": "El encarecimiento energético y las presiones de precios conviven con un crecimiento económico desigual entre los países del euro.",
-      "por_que_importa": "La inflación condiciona tipos de interés, hipotecas, crédito empresarial y poder adquisitivo de los hogares.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "El dato mensual no determina por sí solo la próxima decisión del BCE, que también evalúa actividad, salarios y perspectivas futuras."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Zona euro",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/business/euro-zone-inflation-surges-keeping-pressure-ecb-hike-2026-10-02/",
-          "titular": "La inflación de la zona euro acelera más de lo esperado",
-          "extracto": "Reuters recoge el dato publicado y sus implicaciones para la política monetaria.",
-          "enfoque": "Reuters recoge el dato publicado y sus implicaciones para la política monetaria.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-calor-europa",
-      "categoria": "Medioambiente",
-      "region": "Europa · Clima",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Europa",
-        "Medioambiente"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Más de la mitad de Europa sufrió episodios de estrés térmico muy fuerte este verano",
-      "entradilla": "Datos científicos de la Unión Europea muestran una exposición extensa a condiciones de calor peligrosas.",
-      "que_ha_pasado": "Reuters informa de que algo más de la mitad del territorio europeo experimentó en algún momento niveles de estrés térmico clasificados como muy fuertes durante el verano de 2026.",
-      "contexto": "El estrés térmico combina temperatura, humedad, viento y radiación para estimar el impacto fisiológico del calor sobre las personas.",
-      "por_que_importa": "La exposición tiene implicaciones para salud pública, trabajo al aire libre, ciudades y adaptación climática.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "El indicador no significa que todo el continente estuviera simultáneamente bajo el mismo nivel de riesgo ni mide por sí solo mortalidad."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Unión Europea",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/sustainability/cop/half-europe-faced-very-strong-heat-stress-this-summer-eu-scientists-say-2026-10-02/",
-          "titular": "Más de la mitad de Europa afrontó estrés térmico muy fuerte",
-          "extracto": "Cobertura basada en científicos y datos europeos.",
-          "enfoque": "Cobertura basada en científicos y datos europeos.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-empleo-eeuu",
-      "categoria": "Economía",
-      "region": "América del Norte · Estados Unidos",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "América del Norte",
-        "Economía"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Estados Unidos crea 29.000 empleos en septiembre, muy por debajo de lo previsto",
-      "entradilla": "La tasa de paro sube al 4,2 % y las revisiones de meses anteriores muestran un mercado laboral más débil.",
-      "que_ha_pasado": "El informe oficial de empleo mostró un aumento de 29.000 puestos no agrícolas, frente a una previsión cercana a 90.000. Las cifras de meses anteriores también fueron revisadas a la baja.",
-      "contexto": "La Reserva Federal había elevado tipos recientemente, pero los datos laborales más suaves reducen la presión para repetir una subida en octubre.",
-      "por_que_importa": "El empleo es una referencia clave para el consumo, la actividad económica y las decisiones de la Reserva Federal.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Un solo informe mensual puede revisarse posteriormente y no demuestra por sí solo que la economía esté entrando en recesión."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Estados Unidos",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/business/us-job-growth-slows-sharply-september-unemployment-rate-rises-42-2026-10-02/",
-          "titular": "El crecimiento del empleo se frena en septiembre",
-          "extracto": "Datos oficiales, revisiones y primeras implicaciones para la Reserva Federal.",
-          "enfoque": "Datos oficiales, revisiones y primeras implicaciones para la Reserva Federal.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-meta-gafas-privacidad",
-      "categoria": "Tecnología",
-      "region": "Europa · Países Bajos y Bélgica",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Europa",
-        "Tecnología"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Una gran cadena óptica suspende la venta de las gafas inteligentes de Meta por dudas de privacidad",
-      "entradilla": "Hans Anders retira temporalmente las Ray-Ban Meta de sus tiendas neerlandesas y belgas mientras continúa el debate regulatorio.",
-      "que_ha_pasado": "Hans Anders suspendió la venta de las gafas inteligentes de Meta en Países Bajos y Bélgica por preocupaciones sobre grabaciones de personas identificables sin consentimiento.",
-      "contexto": "Las gafas incorporan cámara y funciones de inteligencia artificial. Reguladores y organizaciones de consumidores han planteado dudas sobre información, consentimiento y uso de grabaciones en espacios públicos.",
-      "por_que_importa": "El caso muestra cómo los productos de IA integrados en dispositivos cotidianos pueden encontrar barreras comerciales antes incluso de una prohibición regulatoria.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La suspensión es una decisión de un minorista y no equivale a una prohibición general de las gafas en Europa."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Países Bajos",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/",
-          "titular": "Hans Anders suspende las ventas de gafas Meta",
-          "extracto": "Reuters recoge la decisión de la cadena, las objeciones de privacidad y la respuesta de Meta.",
-          "enfoque": "Reuters recoge la decisión de la cadena, las objeciones de privacidad y la respuesta de Meta.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-ucrania-puentes-kyiv",
-      "categoria": "Mundo",
-      "region": "Europa · Ucrania",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Europa",
-        "Mundo"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Ataques rusos obligan a restringir tres puentes de Kyiv y provocan grandes atascos",
-      "entradilla": "Ucrania acusa a Rusia de buscar disrupciones urbanas mientras reclama nuevas sanciones internacionales.",
-      "que_ha_pasado": "Ataques aéreos obligaron a limitar parcialmente la circulación en tres puentes sobre el Dniéper en Kyiv, generando fuertes problemas de tráfico.",
-      "contexto": "Rusia ha intensificado ataques con drones y misiles contra ciudades e infraestructuras ucranianas. Kyiv sostiene que parte de la estrategia busca dificultar transporte y servicios civiles.",
-      "por_que_importa": "Los puentes son arterias esenciales para movilidad, emergencias y funcionamiento de la capital.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las afirmaciones sobre la finalidad estratégica de los ataques corresponden a las autoridades ucranianas; los efectos físicos sobre los puentes y el tráfico sí están documentados."
+        "El estudio sigue en marcha, utiliza grupo placebo y todavía no ha demostrado eficacia clínica definitiva."
       ],
       "fuentes": [
         {
           "medio": "Associated Press",
-          "pais": "Estados Unidos / Ucrania",
-          "fecha": "2026-10-02",
-          "url": "https://www.wgauradio.com/news/world/russian-aerial/X6LR4SW6DI2I3IOWSFEK3FANKQ/?outputType=amp",
-          "titular": "Ataques rusos alteran el tráfico en tres puentes de Kyiv",
-          "extracto": "Republicación de AP sobre daños, cierres parciales y respuesta ucraniana.",
-          "enfoque": "Republicación de AP sobre daños, cierres parciales y respuesta ucraniana.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "Al Jazeera",
-          "pais": "Catar / Ucrania",
-          "fecha": "2026-10-02",
-          "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock",
-          "titular": "Ucrania pide más sanciones tras los ataques",
-          "extracto": "Cobertura adicional de los ataques y la reacción del Gobierno ucraniano.",
-          "enfoque": "Cobertura adicional de los ataques y la reacción del Gobierno ucraniano.",
+          "pais": "Estados Unidos / RDC",
+          "fecha": "2026-10-03",
+          "url": "https://apnews.com/article/c26811775d539c94b0221fda7c62b254",
+          "titular": "Ensayo de un antiviral frente al ébola Bundibugyo",
+          "extracto": "AP visita el centro del estudio y explica diseño, participantes y limitaciones.",
+          "enfoque": "AP visita el centro del estudio y explica diseño, participantes y limitaciones.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -631,107 +811,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-permafrost-artico",
-      "categoria": "Ciencia",
-      "region": "Ártico · Clima global",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Ártico",
-        "Ciencia"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "El deshielo del permafrost libera más gases de efecto invernadero y desestabiliza terrenos",
-      "entradilla": "Investigadores advierten de que una parte del carbono almacenado durante milenios ya está pasando a la atmósfera.",
-      "que_ha_pasado": "Associated Press resume evidencias científicas sobre emisiones de metano y dióxido de carbono procedentes del permafrost en deshielo y sus efectos físicos sobre el terreno.",
-      "contexto": "El Ártico se calienta mucho más rápido que el promedio mundial. El permafrost contiene enormes reservas de carbono orgánico congelado.",
-      "por_que_importa": "Estas emisiones pueden amplificar el calentamiento y complicar infraestructuras, ecosistemas y planificación climática.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las estimaciones sobre la magnitud futura de las emisiones contienen incertidumbre y dependen de la trayectoria global de calentamiento."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos / Ártico",
-          "fecha": "2026-10-02",
-          "url": "https://apnews.com/article/91fcc04d32a1d7522afe2f6a456ac0eb",
-          "titular": "El permafrost libera gases que calientan el planeta",
-          "extracto": "Reportaje científico sobre mecanismos, observaciones y proyecciones del deshielo.",
-          "enfoque": "Reportaje científico sobre mecanismos, observaciones y proyecciones del deshielo.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261001-epa-emisiones-demanda",
-      "categoria": "Medioambiente",
-      "region": "América del Norte · Estados Unidos",
-      "fecha": "2026-10-01",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "América del Norte",
-        "Medioambiente"
-      ],
-      "etiqueta_editorial": "CONTEXTO RECIENTE",
-      "titulo": "Estados y ciudades demandan a la EPA por retirar límites de emisiones de centrales eléctricas",
-      "entradilla": "La coalición impugna la decisión federal y la administración defiende que reducirá costes para el sector energético.",
-      "que_ha_pasado": "Associated Press informa de una demanda de 21 estados, varias ciudades y el Distrito de Columbia contra la retirada de una norma federal que limitaba emisiones de gases de efecto invernadero de centrales de carbón y gas.",
-      "contexto": "La EPA sostiene que la derogación reduce costes y flexibiliza el sistema eléctrico; los demandantes alegan daños climáticos y sanitarios.",
-      "por_que_importa": "El litigio puede definir el alcance regulatorio de Estados Unidos sobre una de sus mayores fuentes de emisiones.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La demanda abre un proceso judicial; no implica que los argumentos de ninguna de las partes hayan sido aceptados por un tribunal."
-      ],
-      "fuentes": [
-        {
-          "medio": "Associated Press",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-01",
-          "url": "https://apnews.com/article/d8ab79989f8b021d79c58105d23ee461",
-          "titular": "Estados y ciudades demandan a la EPA por la retirada de límites",
-          "extracto": "AP recoge las posiciones de los demandantes y de la agencia federal.",
-          "enfoque": "AP recoge las posiciones de los demandantes y de la agencia federal.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-australia-lluvias",
-      "categoria": "Medioambiente",
+      "id": "20261003-bogong-recuperacion",
+      "categoria": "Noticias positivas",
       "region": "Oceanía · Australia",
-      "fecha": "2026-10-02",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Oceanía",
-        "Medioambiente"
+        "Noticias positivas"
       ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "El sureste de Australia afronta riesgo de inundaciones tras un septiembre excepcionalmente seco",
-      "entradilla": "Un sistema lento de bajas presiones puede dejar lluvias intensas y tormentas en Victoria y Nueva Gales del Sur.",
-      "que_ha_pasado": "ABC Australia informa de avisos por inundaciones y tormentas para las próximas 48 horas en amplias zonas del sureste del país.",
-      "contexto": "El episodio llega después de un septiembre muy cálido y seco en gran parte de Australia, con contrastes fuertes entre regiones.",
-      "por_que_importa": "La combinación de suelos con condiciones distintas y lluvias intensas puede provocar crecidas rápidas, daños y cortes de transporte.",
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Grandes enjambres de polillas bogong refuerzan la esperanza de recuperación de la especie",
+      "entradilla": "Autoridades y científicos registran una presencia mucho mayor tras años de fuerte declive.",
+      "que_ha_pasado": "Reuters informa de grandes concentraciones de polillas bogong en el sureste de Australia, incluida la costa oriental y Sídney.",
+      "contexto": "La especie realiza migraciones de miles de kilómetros y es importante para la alimentación de fauna nativa como el pequeño possum pigmeo.",
+      "por_que_importa": "El aumento observado aporta una señal positiva para biodiversidad y seguimiento de una especie amenazada.",
       "que_se_sabe": [],
       "que_falta": [
-        "La distribución exacta de las precipitaciones depende de la evolución del sistema; deben consultarse los avisos meteorológicos locales."
+        "Un buen año no demuestra por sí solo una recuperación sostenida; la población sigue expuesta a clima, sequía y pérdida de hábitat."
       ],
       "fuentes": [
         {
-          "medio": "ABC News Australia",
-          "pais": "Australia",
-          "fecha": "2026-10-02",
-          "url": "https://www.abc.net.au/news/2026-10-02/floods-storms-forecast-south-east-australia-after-dry-spetember/107217872",
-          "titular": "Riesgo de inundaciones y tormentas en el sureste australiano",
-          "extracto": "Pronóstico de ABC basado en datos meteorológicos y avisos oficiales.",
-          "enfoque": "Pronóstico de ABC basado en datos meteorológicos y avisos oficiales.",
+          "medio": "Reuters",
+          "pais": "Internacional / Australia",
+          "fecha": "2026-10-03",
+          "url": "https://www.reuters.com/business/environment/swarms-moths-australia-lift-hopes-recovery-endangered-species-2026-10-03/",
+          "titular": "Enjambres de bogong alimentan esperanzas de recuperación",
+          "extracto": "Reuters recoge observaciones de autoridades y científicos australianos.",
+          "enfoque": "Reuters recoge observaciones de autoridades y científicos australianos.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -739,35 +847,71 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-filipinas-mynt-ipo",
-      "categoria": "Economía",
-      "region": "Asia sudoriental · Filipinas",
+      "id": "20261002-rumania-eolica",
+      "categoria": "Noticias positivas",
+      "region": "Europa · Rumanía",
       "fecha": "2026-10-02",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Asia sudoriental",
-        "Economía"
+        "Europa",
+        "Noticias positivas"
       ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "La matriz de GCash fija el precio de una salida a bolsa de 845 millones de dólares",
-      "entradilla": "La operación de Mynt se perfila como una de las mayores ofertas recientes del mercado filipino.",
-      "que_ha_pasado": "Reuters informa de que Mynt, empresa matriz del monedero digital GCash, ha fijado el precio de su oferta pública inicial en unos 845 millones de dólares.",
-      "contexto": "Los pagos digitales han crecido con rapidez en Filipinas y otras economías del sudeste asiático.",
-      "por_que_importa": "La operación aporta una referencia sobre el acceso a capital de empresas tecnológicas de la región y sobre el mercado bursátil filipino.",
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Rumanía inaugura la primera fase de un gran parque eólico y estudia añadir baterías",
+      "entradilla": "Vifor ya aporta 192 MW y su promotor proyecta almacenamiento y una posible combinación con energía solar.",
+      "que_ha_pasado": "Rezolv Energy inauguró esta semana la primera fase del parque Vifor, en el condado de Buzău, y prepara un gran sistema de baterías.",
+      "contexto": "Rumanía afrontó tensiones eléctricas este verano por menor producción nuclear, hidroeléctrica y solar y ha acelerado nuevas incorporaciones renovables y de almacenamiento.",
+      "por_que_importa": "La combinación de generación eólica y almacenamiento puede aportar capacidad adicional y flexibilidad a una red sometida a episodios de escasez.",
       "que_se_sabe": [],
       "que_falta": [
-        "El precio de salida no garantiza el comportamiento posterior de la acción ni el éxito a largo plazo de la empresa."
+        "La ampliación a 461 MW y las baterías aún deben completarse; el proyecto inaugurado es solo la primera fase."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Filipinas",
+          "pais": "Internacional / Rumanía",
           "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/asia-pacific/gcash-parent-mynt-prices-845-million-ipo-set-bolster-philippine-share-market-2026-10-02/",
-          "titular": "Mynt fija el precio de su salida a bolsa",
-          "extracto": "Reuters detalla el tamaño de la operación y su contexto de mercado.",
-          "enfoque": "Reuters detalla el tamaño de la operación y su contexto de mercado.",
+          "url": "https://www.reuters.com/business/energy/romanias-newest-wind-farm-may-add-solar-storage-country-faces-energy-crunch-2026-10-02/",
+          "titular": "Rumanía estrena una nueva fase eólica y estudia almacenamiento",
+          "extracto": "Reuters describe la capacidad instalada y los planes de ampliación.",
+          "enfoque": "Reuters describe la capacidad instalada y los planes de ampliación.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261002-galleri-cancer",
+      "categoria": "Noticias positivas",
+      "region": "América del Norte · Estados Unidos",
+      "fecha": "2026-10-02",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "América del Norte",
+        "Noticias positivas"
+      ],
+      "etiqueta_editorial": "AVANCE DOCUMENTADO",
+      "titulo": "Un análisis de sangre para detectar múltiples cánceres se acerca a una decisión regulatoria en Estados Unidos",
+      "entradilla": "El test Galleri ha recibido una valoración favorable de un comité asesor de la FDA, aunque quedan dudas sobre resultados clínicos y cobertura.",
+      "que_ha_pasado": "El test de Grail, diseñado para buscar señales de más de 50 tipos de cáncer, se encuentra más cerca de una posible aprobación de la FDA tras la revisión de su panel asesor.",
+      "contexto": "Las pruebas multicáncer buscan detectar tumores mediante señales en sangre antes de que aparezcan síntomas, pero deben demostrar suficiente precisión y utilidad clínica.",
+      "por_que_importa": "Una aprobación regulatoria podría ampliar el acceso a una tecnología de detección temprana potencialmente relevante.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La FDA todavía debe tomar una decisión y los expertos siguen debatiendo falsos positivos, costes de seguimiento y si la prueba reduce la mortalidad."
+      ],
+      "fuentes": [
+        {
+          "medio": "Reuters",
+          "pais": "Internacional / Estados Unidos",
+          "fecha": "2026-10-02",
+          "url": "https://www.reuters.com/legal/litigation/grails-cancer-blood-test-nears-landmark-fda-approval-insurance-coverage-looms-2026-10-02/",
+          "titular": "El test Galleri se acerca a una decisión de la FDA",
+          "extracto": "Reuters explica el estado regulatorio, los datos disponibles y las limitaciones pendientes.",
+          "enfoque": "Reuters explica el estado regulatorio, los datos disponibles y las limitaciones pendientes.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -919,78 +1063,6 @@
       "analisis_verificado": false
     },
     {
-      "id": "20260928-delfines-sidney",
-      "categoria": "Noticias positivas",
-      "region": "Oceanía · Australia",
-      "fecha": "2026-09-28",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Oceanía",
-        "Avance documentado"
-      ],
-      "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Un grupo de delfines aparece en una zona poco habitual de la bahía de Sídney",
-      "entradilla": "Unos diez ejemplares fueron avistados al oeste del puente durante una salida en kayak.",
-      "que_ha_pasado": "ABC News recoge el avistamiento y consulta a una científica marina, que interpreta la presencia como una señal compatible con la mejora ambiental del puerto.",
-      "contexto": "Los cetáceos responden a disponibilidad de alimento y otras condiciones costeras; los encuentros cerca de áreas urbanas son poco frecuentes en algunas zonas.",
-      "por_que_importa": "El avistamiento está documentado y aporta interés para la observación y el seguimiento ambiental.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Es un episodio puntual: no prueba por sí solo cambios poblacionales permanentes ni una recuperación completa del ecosistema."
-      ],
-      "fuentes": [
-        {
-          "medio": "ABC News Australia",
-          "pais": "Australia",
-          "fecha": "2026-09-28",
-          "url": "https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526",
-          "titular": "Delfines observados en una zona inusual de Sídney",
-          "extracto": "ABC entrevista a testigos y a una científica marina; un avistamiento no confirma una recuperación poblacional.",
-          "enfoque": "ABC entrevista a testigos y a una científica marina; un avistamiento no confirma una recuperación poblacional.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20260928-polillas-bogong",
-      "categoria": "Noticias positivas",
-      "region": "Oceanía · Australia",
-      "fecha": "2026-09-28",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Oceanía",
-        "Avance documentado"
-      ],
-      "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Aumentan los avistamientos de polillas bogong tras años de desplome poblacional",
-      "entradilla": "Investigadores registran grandes concentraciones y piden mantener el seguimiento ciudadano.",
-      "que_ha_pasado": "The Guardian documenta numerosos registros recientes de polillas migratorias bogong en Nueva Gales del Sur y el territorio de la capital australiana. Investigadores destacan el contraste con años de muy baja presencia.",
-      "contexto": "La especie es alimento de otros animales y su abundancia ha sufrido grandes oscilaciones por presiones ambientales.",
-      "por_que_importa": "Los registros y las observaciones actuales son datos positivos para los programas de seguimiento.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Los científicos no pueden concluir todavía que exista una recuperación sostenida y advierten de amenazas climáticas."
-      ],
-      "fuentes": [
-        {
-          "medio": "The Guardian (Donna Lu)",
-          "pais": "Australia",
-          "fecha": "2026-09-28",
-          "url": "https://www.theguardian.com/science/2026/sep/28/thrilled-huge-swarms-of-bogong-moths-surprise-nsw-residents-and-may-point-to-species-recovery",
-          "titular": "Avistamientos de polillas bogong tras años de declive",
-          "extracto": "Entrevistas científicas y registros ciudadanos; la recuperación a largo plazo no está demostrada.",
-          "enfoque": "Entrevistas científicas y registros ciudadanos; la recuperación a largo plazo no está demostrada.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
       "id": "20260929-starship-orbita",
       "categoria": "Noticias positivas",
       "region": "América del Norte · Estados Unidos",
@@ -1061,127 +1133,16 @@
         }
       ],
       "analisis_verificado": false
-    },
-    {
-      "id": "20261002-rumania-eolica",
-      "categoria": "Noticias positivas",
-      "region": "Europa · Rumanía",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Europa",
-        "Noticias positivas"
-      ],
-      "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Rumanía inaugura la primera fase de un gran parque eólico y estudia añadir baterías",
-      "entradilla": "Vifor ya aporta 192 MW y su promotor proyecta almacenamiento y una posible combinación con energía solar.",
-      "que_ha_pasado": "Rezolv Energy inauguró esta semana la primera fase del parque Vifor, en el condado de Buzău, y prepara un gran sistema de baterías.",
-      "contexto": "Rumanía afrontó tensiones eléctricas este verano por menor producción nuclear, hidroeléctrica y solar y ha acelerado nuevas incorporaciones renovables y de almacenamiento.",
-      "por_que_importa": "La combinación de generación eólica y almacenamiento puede aportar capacidad adicional y flexibilidad a una red sometida a episodios de escasez.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La ampliación a 461 MW y las baterías aún deben completarse; el proyecto inaugurado es solo la primera fase."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Rumanía",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/business/energy/romanias-newest-wind-farm-may-add-solar-storage-country-faces-energy-crunch-2026-10-02/",
-          "titular": "Rumanía estrena una nueva fase eólica y estudia almacenamiento",
-          "extracto": "Reuters describe la capacidad instalada y los planes de ampliación.",
-          "enfoque": "Reuters describe la capacidad instalada y los planes de ampliación.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-galleri-cancer",
-      "categoria": "Noticias positivas",
-      "region": "América del Norte · Estados Unidos",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "América del Norte",
-        "Noticias positivas"
-      ],
-      "etiqueta_editorial": "AVANCE DOCUMENTADO",
-      "titulo": "Un análisis de sangre para detectar múltiples cánceres se acerca a una decisión regulatoria en Estados Unidos",
-      "entradilla": "El test Galleri ha recibido una valoración favorable de un comité asesor de la FDA, aunque quedan dudas sobre resultados clínicos y cobertura.",
-      "que_ha_pasado": "El test de Grail, diseñado para buscar señales de más de 50 tipos de cáncer, se encuentra más cerca de una posible aprobación de la FDA tras la revisión de su panel asesor.",
-      "contexto": "Las pruebas multicáncer buscan detectar tumores mediante señales en sangre antes de que aparezcan síntomas, pero deben demostrar suficiente precisión y utilidad clínica.",
-      "por_que_importa": "Una aprobación regulatoria podría ampliar el acceso a una tecnología de detección temprana potencialmente relevante.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La FDA todavía debe tomar una decisión y los expertos siguen debatiendo falsos positivos, costes de seguimiento y si la prueba reduce la mortalidad."
-      ],
-      "fuentes": [
-        {
-          "medio": "Reuters",
-          "pais": "Internacional / Estados Unidos",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/legal/litigation/grails-cancer-blood-test-nears-landmark-fda-approval-insurance-coverage-looms-2026-10-02/",
-          "titular": "El test Galleri se acerca a una decisión de la FDA",
-          "extracto": "Reuters explica el estado regulatorio, los datos disponibles y las limitaciones pendientes.",
-          "enfoque": "Reuters explica el estado regulatorio, los datos disponibles y las limitaciones pendientes.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
     }
   ],
   "noticias_locales": [
     {
-      "id": "20261002-espana-temporal",
-      "categoria": "Local",
-      "ambito_local": "España",
-      "tema_local": "Meteorología",
-      "region": "España · Mediterráneo",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Local",
-        "España",
-        "Meteorología"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "Diez comunidades mantienen avisos por el temporal, con riesgo extremo en zonas del Mediterráneo",
-      "entradilla": "Tarragona y partes de la Comunidad Valenciana siguen bajo avisos rojos por lluvias torrenciales.",
-      "que_ha_pasado": "El País informa, con datos de Aemet y Protección Civil, de fuertes lluvias y tormentas este viernes en buena parte de España, con especial riesgo en el Mediterráneo.",
-      "contexto": "El episodio comenzó el jueves y ha dejado precipitaciones muy intensas en Tarragona, Castellón y otras zonas.",
-      "por_que_importa": "Las alertas afectan a movilidad, colegios, carreteras y seguridad personal en numerosas comunidades.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Es una situación operativa cambiante; antes de desplazarse hay que consultar Aemet, Protección Civil y autoridades locales."
-      ],
-      "fuentes": [
-        {
-          "medio": "El País / Aemet",
-          "pais": "España",
-          "fecha": "2026-10-02",
-          "url": "https://elpais.com/espana/2026-10-02/ultima-hora-del-temporal-en-espana-en-directo.html",
-          "titular": "Seguimiento del temporal en España",
-          "extracto": "Cobertura en directo basada en alertas meteorológicas y de Protección Civil.",
-          "enfoque": "Cobertura en directo basada en alertas meteorológicas y de Protección Civil.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-espana-vivienda-rechazo",
+      "id": "20261003-espana-protestas-vivienda",
       "categoria": "Local",
       "ambito_local": "España",
       "tema_local": "Vivienda",
-      "region": "España · Congreso",
-      "fecha": "2026-10-02",
+      "region": "España · Varias ciudades",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1190,35 +1151,24 @@
         "Vivienda"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El Congreso rechaza los dos decretos de vivienda del Gobierno",
-      "entradilla": "Las medidas sobre protección frente a desahucios, alquileres y fiscalidad decaen tras no lograr los apoyos necesarios.",
-      "que_ha_pasado": "El Congreso rechazó este viernes los dos decretos de vivienda. Junts, PP y Vox votaron en contra de ambos textos; otros grupos también rechazaron algunas de las medidas.",
-      "contexto": "Los decretos habían entrado en vigor tras su publicación, pero necesitaban convalidación parlamentaria. Incluían medidas distintas sobre desahucios, prórrogas de alquiler y ayudas o incentivos.",
-      "por_que_importa": "El rechazo altera de forma inmediata el marco de medidas que el Gobierno había presentado para responder a la crisis de vivienda.",
+      "titulo": "Las protestas por la vivienda se extienden este sábado por decenas de ciudades",
+      "entradilla": "Las movilizaciones llegan después de que el Congreso rechazara los dos decretos de vivienda del Gobierno.",
+      "que_ha_pasado": "Organizaciones de inquilinos han convocado movilizaciones en alrededor de 50 ciudades españolas este sábado para reclamar alquileres más asequibles y mayor protección frente a desahucios.",
+      "contexto": "El rechazo parlamentario de los decretos del 2 de octubre ha intensificado una protesta que ya llevaba días con acampadas en Madrid y Barcelona.",
+      "por_que_importa": "La movilización convierte la vivienda en uno de los principales asuntos sociales y políticos del momento en España.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las fuerzas políticas pueden negociar nuevos textos en el futuro; esta noticia describe únicamente el resultado de las votaciones de hoy."
+        "Las demandas pertenecen a los colectivos convocantes; el tamaño final de las protestas debe evaluarse con datos posteriores."
       ],
       "fuentes": [
         {
-          "medio": "Reuters",
-          "pais": "Internacional / España",
-          "fecha": "2026-10-02",
-          "url": "https://www.reuters.com/world/ally-spanish-pm-threatens-derail-housing-decree-fury-over-evictions-grows-2026-10-02/",
-          "titular": "El Parlamento rechaza los decretos de vivienda",
-          "extracto": "Reuters informa del resultado y de la reacción social.",
-          "enfoque": "Reuters informa del resultado y de la reacción social.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "betevé",
-          "pais": "Barcelona / España",
-          "fecha": "2026-10-02",
-          "url": "https://beteve.cat/politica/congres-tomba-decrets-habitatge-no-junts-pp-vox/",
-          "titular": "El Congreso tumba los decretos de vivienda",
-          "extracto": "Cobertura del resultado de las votaciones y las medidas afectadas.",
-          "enfoque": "Cobertura del resultado de las votaciones y las medidas afectadas.",
+          "medio": "El País",
+          "pais": "España",
+          "fecha": "2026-10-03",
+          "url": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
+          "titular": "Protestas por la vivienda en varias ciudades",
+          "extracto": "Seguimiento de movilizaciones y reacciones tras el rechazo de los decretos.",
+          "enfoque": "Seguimiento de movilizaciones y reacciones tras el rechazo de los decretos.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1226,49 +1176,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-catalunya-ebre-temporal-nit",
+      "id": "20261003-espana-ceuta-testimonios",
       "categoria": "Local",
-      "ambito_local": "Catalunya",
-      "tema_local": "Meteorología y emergencias",
-      "region": "Catalunya · Terres de l'Ebre",
-      "fecha": "2026-10-02",
+      "ambito_local": "España",
+      "tema_local": "Migración",
+      "region": "España · Ceuta",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
-        "Catalunya",
-        "Meteorología y emergencias"
+        "España",
+        "Migración"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El temporal deja desalojos, rescates y más de 270 litros por metro cuadrado en puntos del Ebre",
-      "entradilla": "Protecció Civil mantiene restricciones de movilidad pese a levantar algunas medidas de confinamiento.",
-      "que_ha_pasado": "3Cat informa de una treintena de personas desalojadas y 19 conductores rescatados en el Baix Ebre y el Montsià. En l'Ametlla de Mar se han registrado hasta 273 litros por metro cuadrado.",
-      "contexto": "Las lluvias persistentes han provocado barrancos desbordados, inundaciones de viviendas y comercios y cortes en carreteras del sur de Catalunya.",
-      "por_que_importa": "La acumulación de agua mantiene riesgos de crecidas y daños incluso después de que baje la intensidad de la lluvia.",
+      "titulo": "Dos migrantes afirman que fueron obligados a salir de Ceuta; Interior sostiene que se marcharon voluntariamente",
+      "entradilla": "Los testimonios y la versión oficial discrepan sobre lo ocurrido tras el desalojo de un asentamiento en playa Benítez.",
+      "que_ha_pasado": "Dos jóvenes marroquíes relataron a El País que fueron trasladados hasta la frontera sin opción a solicitar asilo. El Ministerio del Interior rechaza esa versión y afirma que salieron de forma voluntaria.",
+      "contexto": "La gestión de llegadas a Ceuta está sometida a normas de extranjería, asilo y obligaciones internacionales de protección.",
+      "por_que_importa": "La discrepancia plantea cuestiones sobre garantías procedimentales y transparencia en devoluciones y salidas fronterizas.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las restricciones y balances siguen cambiando; para desplazamientos hay que consultar Protecció Civil, Meteocat y Trànsit."
+        "Los hechos están controvertidos y requieren investigación adicional; no se adopta como cierta una de las dos versiones."
       ],
       "fuentes": [
         {
-          "medio": "3Cat",
-          "pais": "Catalunya",
-          "fecha": "2026-10-02",
-          "url": "https://www.3cat.cat/3catinfo/pluges-persistents-a-les-terres-de-lebre-amb-carrers-inundats-al-baix-ebre-i-el-montsia/noticia/3431791/",
-          "titular": "Desalojos y rescates por las lluvias en el Ebre",
-          "extracto": "Balance actualizado de precipitaciones, personas evacuadas y rescates.",
-          "enfoque": "Balance actualizado de precipitaciones, personas evacuadas y rescates.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
-          "medio": "ARA",
-          "pais": "Catalunya",
-          "fecha": "2026-10-02",
-          "url": "https://www.ara.cat/societat/avis-vermell-pluges-garraf-penedes-camp-tarragona-l-ebre_1_5866092.html",
-          "titular": "Barrancos desbordados e inundaciones en el Ebre",
-          "extracto": "Seguimiento actualizado por la noche de daños y acumulaciones.",
-          "enfoque": "Seguimiento actualizado por la noche de daños y acumulaciones.",
+          "medio": "El País",
+          "pais": "España / Ceuta",
+          "fecha": "2026-10-03",
+          "url": "https://elpais.com/expres/2026-10-03/dos-migrantes-denuncian-que-la-policia-los-forzo-a-salir-de-ceuta-pero-interior-asegura-que-se-fueron-por-voluntad-propia.html",
+          "titular": "Dos migrantes denuncian una devolución forzada; Interior lo niega",
+          "extracto": "Reportaje que contrapone testimonios y versión oficial.",
+          "enfoque": "Reportaje que contrapone testimonios y versión oficial.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1276,12 +1215,12 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261001-catalunya-llogaters",
+      "id": "20261003-catalunya-fondos-vivienda",
       "categoria": "Local",
       "ambito_local": "Catalunya",
       "tema_local": "Vivienda",
       "region": "Catalunya · Vivienda",
-      "fecha": "2026-10-01",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1289,64 +1228,25 @@
         "Catalunya",
         "Vivienda"
       ],
-      "etiqueta_editorial": "RECIENTE",
-      "titulo": "Casi la mitad de las personas de 30 a 44 años viven de alquiler en Catalunya",
-      "entradilla": "La proporción alcanza el 47,7 %, unos veinte puntos más que en 2013 según datos de condiciones de vida.",
-      "que_ha_pasado": "betevé, a partir de ACN, Idescat e INE, informa del aumento de la población arrendataria en las franjas de edad centrales.",
-      "contexto": "La evolución coincide con un periodo de encarecimiento de la vivienda y cambios en el acceso a la propiedad.",
-      "por_que_importa": "El dato ayuda a dimensionar qué población puede verse afectada por reformas de alquiler y políticas de vivienda.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "La cifra procede de la Encuesta de Condiciones de Vida y describe una proporción estadística, no la situación económica individual de todos los hogares."
-      ],
-      "fuentes": [
-        {
-          "medio": "betevé / ACN",
-          "pais": "Catalunya",
-          "fecha": "2026-10-01",
-          "url": "https://beteve.cat/economia/meitat-30-44-anys-llogaters-20-per-cent-mes-fa-20-anys/",
-          "titular": "Casi la mitad de las personas de 30 a 44 años son inquilinas",
-          "extracto": "Datos de Idescat e INE difundidos por ACN y betevé.",
-          "enfoque": "Datos de Idescat e INE difundidos por ACN y betevé.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261002-barcelona-festes-octubre",
-      "categoria": "Local",
-      "ambito_local": "Barcelona",
-      "tema_local": "Agenda",
-      "region": "Barcelona · Barrios",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Local",
-        "Barcelona",
-        "Agenda"
-      ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Barcelona entra en un fin de semana con varias fiestas mayores simultáneas",
-      "entradilla": "Les Corts, Sarrià, Hostafrancs, la Esquerra de l'Eixample y otros barrios inician hoy o mañana sus programas de octubre.",
-      "que_ha_pasado": "betevé actualiza el calendario de fiestas mayores de Barcelona: varias celebraciones arrancan este 2 de octubre y otras, como la del Congrés, comienzan el día 3.",
-      "contexto": "Octubre concentra una parte importante del calendario vecinal de la ciudad, con actos de cultura popular, conciertos, actividades familiares y comidas comunitarias.",
-      "por_que_importa": "Es información práctica para organizar el fin de semana y muestra la actividad asociativa de distintos barrios.",
+      "titulo": "La Generalitat busca nuevas fórmulas para que inquilinos puedan quedarse en viviendas que venden grandes fondos",
+      "entradilla": "El Govern combina tanteo y retracto, préstamos de entrada y futuros modelos de compra compartida.",
+      "que_ha_pasado": "El Gobierno catalán trabaja en mecanismos para evitar que el cambio de propietario de paquetes de vivienda expulse a los residentes actuales.",
+      "contexto": "La Generalitat ya ha comprado grandes carteras mediante derechos de adquisición preferente y prepara nuevos instrumentos financieros.",
+      "por_que_importa": "Las fórmulas pueden ampliar vivienda protegida y facilitar permanencia, pero requieren recursos públicos y diseño financiero sostenible.",
       "que_se_sabe": [],
       "que_falta": [
-        "Horarios y actos al aire libre pueden cambiar, especialmente con meteorología adversa; conviene consultar cada programa antes de acudir."
+        "Parte de los mecanismos, como la compra compartida prevista para 2027, todavía no está operativa."
       ],
       "fuentes": [
         {
-          "medio": "betevé",
-          "pais": "Barcelona",
-          "fecha": "2026-10-02",
-          "url": "https://beteve.cat/agenda/festes-majors-barcelona-barris/",
-          "titular": "Calendario de fiestas mayores de Barcelona",
-          "extracto": "Guía actualizada por barrios con fechas y programas de octubre.",
-          "enfoque": "Guía actualizada por barrios con fechas y programas de octubre.",
+          "medio": "El País",
+          "pais": "España / Catalunya",
+          "fecha": "2026-10-03",
+          "url": "https://elpais.com/espana/catalunya/2026-10-03/cataluna-busca-nuevas-formulas-para-que-los-vecinos-se-queden-en-los-pisos-que-dejan-los-grandes-fondos.html",
+          "titular": "Catalunya busca fórmulas ante la salida de grandes fondos",
+          "extracto": "Reportaje sobre instrumentos actuales y previstos de política de vivienda.",
+          "enfoque": "Reportaje sobre instrumentos actuales y previstos de política de vivienda.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1354,77 +1254,38 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-barcelona-acampada-habitatge",
+      "id": "20261001-catalunya-septiembre-calido",
       "categoria": "Local",
-      "ambito_local": "Barcelona",
-      "tema_local": "Vivienda",
-      "region": "Barcelona · Plaça de Catalunya",
-      "fecha": "2026-10-02",
-      "portada": false,
-      "destacada": false,
-      "etiquetas": [
-        "Local",
-        "Barcelona",
-        "Vivienda"
-      ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "La acampada por la vivienda en plaça de Catalunya crece tras el rechazo de los decretos",
-      "entradilla": "El movimiento mantiene la protesta y ha convocado nuevas acciones después de las votaciones del Congreso.",
-      "que_ha_pasado": "betevé informa de que la acampada ha crecido y de que organizaciones de inquilinos han intensificado sus convocatorias en Barcelona coincidiendo con el rechazo parlamentario de los decretos.",
-      "contexto": "La protesta forma parte de una movilización más amplia por alquileres, desahucios y acceso a vivienda que también se desarrolla en otras ciudades.",
-      "por_que_importa": "La evolución de la acampada muestra la reacción local inmediata a una decisión legislativa estatal con efectos sobre la vivienda.",
-      "que_se_sabe": [],
-      "que_falta": [
-        "Las demandas expresadas pertenecen a los colectivos participantes y no representan automáticamente a todos los residentes de Barcelona."
-      ],
-      "fuentes": [
-        {
-          "medio": "betevé",
-          "pais": "Barcelona",
-          "fecha": "2026-10-02",
-          "url": "https://beteve.cat/societat/acampada-placa-catalunya-creix-no-junts-decret-habitatge/",
-          "titular": "Crece la acampada de plaça de Catalunya",
-          "extracto": "Cobertura de la movilización y de las convocatorias en Barcelona.",
-          "enfoque": "Cobertura de la movilización y de las convocatorias en Barcelona.",
-          "orientacion": null,
-          "titular_traducido": false
-        }
-      ],
-      "analisis_verificado": false
-    },
-    {
-      "id": "20261001-santandreu-desnonament",
-      "categoria": "Local",
-      "ambito_local": "Sant Andreu",
-      "tema_local": "Vivienda",
-      "region": "Barcelona · Sant Andreu",
+      "ambito_local": "Catalunya",
+      "tema_local": "Clima",
+      "region": "Catalunya · Clima",
       "fecha": "2026-10-01",
       "portada": false,
       "destacada": false,
       "etiquetas": [
         "Local",
-        "Sant Andreu",
-        "Vivienda"
+        "Catalunya",
+        "Clima"
       ],
       "etiqueta_editorial": "RECIENTE",
-      "titulo": "Un juzgado suspende el desahucio de una vecina vulnerable de Sant Andreu aplicando el nuevo decreto",
-      "entradilla": "El caso de una residente de la calle Otger es el primero que betevé identifica como suspendido al amparo de la nueva norma.",
-      "que_ha_pasado": "betevé informa de que el juzgado aceptó cancelar el lanzamiento de una vecina vulnerable tras un escrito basado en el decreto estatal recién publicado.",
-      "contexto": "La medida forma parte del nuevo marco estatal de protección frente a determinados desahucios, que todavía está sometido a debate parlamentario.",
-      "por_que_importa": "Es una aplicación concreta de una norma estatal en el distrito y permite observar sus efectos inmediatos sobre un caso real.",
+      "titulo": "Septiembre de 2026 fue el más cálido medido en Catalunya",
+      "entradilla": "Meteocat sitúa el mes por encima de los récords de 1987, 2018 y 2023.",
+      "que_ha_pasado": "El avance del boletín mensual de Meteocat concluye que septiembre de 2026 ha sido el septiembre más cálido de la serie catalana.",
+      "contexto": "El mes incluyó una ola de calor excepcional a comienzos de septiembre y contrastes fuertes de precipitación entre la mitad occidental y oriental.",
+      "por_que_importa": "Los registros ayudan a medir la evolución del clima y a planificar adaptación en salud, agua y ciudades.",
       "que_se_sabe": [],
       "que_falta": [
-        "La información describe este procedimiento judicial concreto y no garantiza el resultado de otros desahucios con circunstancias distintas."
+        "El dato describe un mes concreto; la atribución de cada episodio individual requiere análisis climático específico."
       ],
       "fuentes": [
         {
-          "medio": "betevé",
-          "pais": "Barcelona · Sant Andreu",
+          "medio": "Meteocat",
+          "pais": "Catalunya",
           "fecha": "2026-10-01",
-          "url": "https://beteve.cat/societat/primer-desnonament-suspes-decret-maricarmen-sant-andreu/",
-          "titular": "Primer desahucio suspendido en Sant Andreu con el nuevo decreto",
-          "extracto": "Información de proximidad sobre la resolución judicial y la situación de la vecina.",
-          "enfoque": "Información de proximidad sobre la resolución judicial y la situación de la vecina.",
+          "url": "https://www.meteo.cat/wpweb/climatologia/butlletins-i-episodis-meteorologics/butlleti-mensual/",
+          "titular": "Avance del boletín climático de septiembre",
+          "extracto": "Fuente oficial con temperaturas, precipitación y episodios destacados.",
+          "enfoque": "Fuente oficial con temperaturas, precipitación y episodios destacados.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1432,12 +1293,90 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261002-santandreu-festa-congres",
+      "id": "20261003-barcelona-pluja",
+      "categoria": "Local",
+      "ambito_local": "Barcelona",
+      "tema_local": "Meteorología",
+      "region": "Barcelona · Área metropolitana",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Barcelona",
+        "Meteorología"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Barcelona afronta un sábado variable con chubascos localmente fuertes",
+      "entradilla": "La lluvia puede aparecer sobre todo en las horas centrales y de nuevo hacia la tarde y la noche.",
+      "que_ha_pasado": "La previsión local de betevé señala un sábado cambiante, con posibilidad de chubascos intensos en algunos momentos de la jornada.",
+      "contexto": "Catalunya todavía arrastra los efectos de varios días de lluvias fuertes, especialmente en el sur.",
+      "por_que_importa": "La información es útil para movilidad y actividades al aire libre durante el fin de semana.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Es una previsión y puede variar por zonas; para avisos operativos deben consultarse Meteocat y Protección Civil."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-10-03",
+          "url": "https://beteve.cat/medi-ambient/temps-barcelona-dissabte-3-octubre-pluja-irregular/",
+          "titular": "Sábado cambiante con lluvia irregular en Barcelona",
+          "extracto": "Previsión local para el 3 de octubre.",
+          "enfoque": "Previsión local para el 3 de octubre.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-barcelona-viu-montjuic",
+      "categoria": "Local",
+      "ambito_local": "Barcelona",
+      "tema_local": "Agenda y cultura",
+      "region": "Barcelona · Montjuïc",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Barcelona",
+        "Agenda y cultura"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "Viu Montjuïc reúne este fin de semana más de 90 actividades culturales",
+      "entradilla": "Museos, teatros y entidades de la montaña organizan puertas abiertas, rutas, talleres, música y danza.",
+      "que_ha_pasado": "La sexta edición de Viu Montjuïc se celebra los días 3 y 4 de octubre con actividades repartidas por distintos equipamientos y espacios.",
+      "contexto": "El programa incluye propuestas gratuitas, algunas con reserva previa, y coincide con el 50º aniversario del Teatre Lliure.",
+      "por_que_importa": "Es una de las principales concentraciones de actividad cultural de la ciudad este fin de semana.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "Algunas actividades requieren reserva y pueden sufrir cambios por meteorología; conviene consultar el programa antes de acudir."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-10-03",
+          "url": "https://beteve.cat/agenda/programa-viu-montjuic-activitats-culturals-parc-montjuic/",
+          "titular": "Programa de Viu Montjuïc 2026",
+          "extracto": "Guía de fechas, espacios y actividades de la edición del 3 y 4 de octubre.",
+          "enfoque": "Guía de fechas, espacios y actividades de la edición del 3 y 4 de octubre.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-santandreu-festa-congres",
       "categoria": "Local",
       "ambito_local": "Sant Andreu",
       "tema_local": "Agenda",
       "region": "Barcelona · Sant Andreu · el Congrés i els Indians",
-      "fecha": "2026-10-02",
+      "fecha": "2026-10-03",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1446,24 +1385,63 @@
         "Agenda"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "El Congrés empieza mañana nueve días de fiesta mayor en el distrito de Sant Andreu",
-      "entradilla": "El programa del 3 al 11 de octubre incluye música, actividades infantiles, comidas populares, cultura y deporte.",
-      "que_ha_pasado": "betevé mantiene actualizado el programa de la Festa Major del Congrés, que comienza el sábado 3 de octubre y se extiende hasta el día 11.",
-      "contexto": "El Congrés i els Indians es uno de los siete barrios del distrito de Sant Andreu y celebra una de las fiestas vecinales del calendario de otoño.",
-      "por_que_importa": "Es una referencia práctica de agenda para el fin de semana y los próximos días en el distrito.",
+      "titulo": "La Festa Major del Congrés arranca hoy con actividades familiares, correfoc y música",
+      "entradilla": "La celebración se prolongará hasta el 11 de octubre y concentra buena parte de los actos en la plaça del Congrés.",
+      "que_ha_pasado": "La fiesta mayor comienza este sábado con espectáculo infantil, actividades escénicas, correfoc y una noche de música.",
+      "contexto": "El Congrés i els Indians es uno de los barrios del distrito de Sant Andreu y mantiene una programación vecinal durante nueve días.",
+      "por_que_importa": "Es la principal cita comunitaria del distrito este fin de semana.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los horarios pueden cambiar; conviene consultar el programa actualizado antes de acudir a una actividad."
+        "Los horarios pueden cambiar y algunas actividades al aire libre pueden verse afectadas por la lluvia."
       ],
       "fuentes": [
         {
           "medio": "betevé",
           "pais": "Barcelona · Sant Andreu",
-          "fecha": "2026-10-02",
+          "fecha": "2026-10-03",
           "url": "https://beteve.cat/agenda/festa-major-congres-programa/",
           "titular": "Programa de la Festa Major del Congrés 2026",
-          "extracto": "Agenda actualizada con fechas, lugares y actividades de la fiesta mayor.",
-          "enfoque": "Agenda actualizada con fechas, lugares y actividades de la fiesta mayor.",
+          "extracto": "Agenda completa con actividades desde el 3 hasta el 11 de octubre.",
+          "enfoque": "Agenda completa con actividades desde el 3 hasta el 11 de octubre.",
+          "orientacion": null,
+          "titular_traducido": false
+        }
+      ],
+      "analisis_verificado": false
+    },
+    {
+      "id": "20261003-santandreu-jazz-band-medalla",
+      "categoria": "Local",
+      "ambito_local": "Sant Andreu",
+      "tema_local": "Cultura",
+      "region": "Barcelona · Sant Andreu",
+      "fecha": "2026-10-03",
+      "portada": false,
+      "destacada": false,
+      "etiquetas": [
+        "Local",
+        "Sant Andreu",
+        "Cultura"
+      ],
+      "etiqueta_editorial": "HOY",
+      "titulo": "La Sant Andreu Jazz Band recibirá una Medalla de Oro del Festival de Jazz de Barcelona",
+      "entradilla": "La distinción se entregará el 12 de octubre en una jornada dedicada también a Tete Montoliu y Bebo Valdés.",
+      "que_ha_pasado": "El Festival de Jazz de Barcelona concederá este año una segunda Medalla de Oro excepcional a la Sant Andreu Jazz Band, dirigida por Joan Chamorro.",
+      "contexto": "La formación nacida en el distrito se ha convertido en una cantera destacada de jóvenes músicos y protagoniza además el Retrat d’Artista de esta edición.",
+      "por_que_importa": "El reconocimiento proyecta internacionalmente un proyecto musical nacido en Sant Andreu.",
+      "que_se_sabe": [],
+      "que_falta": [
+        "La entrega está prevista para el 12 de octubre; es una cita futura y puede consultar cambios de programa."
+      ],
+      "fuentes": [
+        {
+          "medio": "betevé",
+          "pais": "Barcelona",
+          "fecha": "2026-10-03",
+          "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+          "titular": "Agenda de octubre del Festival de Jazz",
+          "extracto": "La agenda recoge la futura entrega de la Medalla de Oro a la Sant Andreu Jazz Band.",
+          "enfoque": "La agenda recoge la futura entrega de la Medalla de Oro a la Sant Andreu Jazz Band.",
           "orientacion": null,
           "titular_traducido": false
         }
