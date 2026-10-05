@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "edicion_id": "2026-10-04-internacional-local-v1",
-  "titulo": "Perspectiva · Internacional y local · 4 de octubre",
-  "fecha_edicion": "2026-10-04",
-  "actualizado_en": "2026-10-04T15:22:00+02:00",
+  "edicion_id": "2026-10-05-internacional-local-v1",
+  "titulo": "Perspectiva · Internacional y local · 5 de octubre",
+  "fecha_edicion": "2026-10-05",
+  "actualizado_en": "2026-10-05T06:06:33.525Z",
   "tipo": "real",
-  "nota_editorial": "Edición del 04/10/2026 cerrada por la tarde, hora de Barcelona. Perspectiva mantiene 30 historias internacionales, incluidas 10 noticias positivas recientes, y 8 historias Local repartidas entre España, Catalunya, Barcelona y Sant Andreu. La portada cubre el cierre del estrecho de Ormuz, la visita del canciller alemán a Kyiv y las elecciones presidenciales de Brasil. También se incluyen las elecciones de Bosnia, el resultado de Letonia, la escalada en Yemen, asuntos de derechos civiles en Taiwán, salud rural australiana, IA y energía. Las elecciones se describen sin predicciones ni recomendaciones. Local prioriza el grave temporal en Catalunya, la recuperación del transporte y la situación de la estación de Sants, además de agenda útil en Sant Andreu. Las alertas meteorológicas y de movilidad no sustituyen los canales oficiales en tiempo real.",
+  "nota_editorial": "Actualización parcial de la mañana del 05/10/2026, hora de Barcelona, con las novedades recuperadas y comprobadas: segunda vuelta en Brasil, exportaciones de crudo y riesgos marítimos, presión sobre el euro y recuperación tras el temporal. Se conservan 30 historias internacionales, incluidas 10 positivas recientes, y 8 locales en España, Catalunya, Barcelona y Sant Andreu. Las piezas anteriores mantienen su fecha y se identifican como contexto reciente. No es una renovación completa de todas las noticias. Consulta los operadores y autoridades para incidencias de movilidad en tiempo real.",
   "noticias": [
     {
-      "id": "20261004-iran-ormuz",
-      "categoria": "Mundo",
+      "id": "20261005-crudo-exportaciones",
+      "categoria": "Economía",
       "region": "Oriente Próximo · Irán y estrecho de Ormuz",
-      "fecha": "2026-10-04",
+      "fecha": "2026-10-05",
       "portada": true,
       "destacada": true,
       "etiquetas": [
@@ -19,24 +19,24 @@
         "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Irán dice que Ormuz seguirá cerrado hasta que se cumplan las condiciones pactadas",
-      "entradilla": "Teherán mantiene el cierre del estrecho mientras continúan los contactos indirectos con Estados Unidos a través de Catar.",
-      "que_ha_pasado": "El presidente del Parlamento iraní y principal negociador, Mohammad Baqer Qalibaf, afirmó que el estrecho de Ormuz no reabrirá hasta que se cumplan siete condiciones vinculadas al acuerdo provisional alcanzado en junio con Estados Unidos.",
-      "contexto": "El estrecho es una vía esencial para el transporte mundial de energía y su cierre ha elevado los riesgos económicos y militares en la región.",
-      "por_que_importa": "La reapertura o prolongación del bloqueo puede afectar a precios energéticos, rutas marítimas y posibilidades de desescalada.",
+      "titulo": "Suben las exportaciones de crudo de Oriente Próximo mientras continúan los ataques marítimos",
+      "entradilla": "El volumen exportado no implica seguridad en las rutas.",
+      "que_ha_pasado": "Datos provisionales de Kpler recogidos por Reuters muestran exportaciones superiores al nivel previo a la guerra en cuatro días de finales de septiembre.",
+      "contexto": "Persisten ataques a buques en torno a Ormuz.",
+      "por_que_importa": "El suministro y el riesgo marítimo deben evaluarse por separado.",
       "que_se_sabe": [],
       "que_falta": [
-        "No hay acuerdo final anunciado entre Washington y Teherán y las posiciones pueden cambiar durante la mediación."
+        "Los datos son provisionales y no garantizan continuidad."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
-          "pais": "Internacional / Irán",
-          "fecha": "2026-10-04",
-          "url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/",
-          "titular": "Irán mantiene sus condiciones para reabrir Ormuz",
-          "extracto": "Reuters recoge las declaraciones iraníes y el papel de la mediación catarí.",
-          "enfoque": "Reuters recoge las declaraciones iraníes y el papel de la mediación catarí.",
+          "pais": "Internacional",
+          "fecha": "2026-10-05",
+          "url": "https://www.reuters.com/business/energy/middle-east-crude-oil-exports-exceed-pre-war-levels-tanker-attacks-increase-2026-10-05/",
+          "titular": "Exportaciones y ataques marítimos",
+          "extracto": "Información comprobada para esta actualización.",
+          "enfoque": "Cobertura informativa.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -93,10 +93,10 @@
       "posicion_portada": 2
     },
     {
-      "id": "20261004-brasil-elecciones",
+      "id": "20261005-brasil-segunda-vuelta",
       "categoria": "Mundo",
       "region": "América Latina · Brasil",
-      "fecha": "2026-10-04",
+      "fecha": "2026-10-05",
       "portada": true,
       "destacada": true,
       "etiquetas": [
@@ -104,35 +104,24 @@
         "Mundo"
       ],
       "etiqueta_editorial": "EN PORTADA",
-      "titulo": "Brasil vota en unas presidenciales muy polarizadas con una segunda vuelta como posibilidad",
-      "entradilla": "Lula da Silva y Flávio Bolsonaro llegan como principales candidatos, mientras también se renuevan cargos legislativos y regionales.",
-      "que_ha_pasado": "Cerca de 159 millones de brasileños están llamados a votar este domingo. Para ganar en primera vuelta un candidato necesita más del 50 % de los votos válidos.",
-      "contexto": "La campaña ha estado marcada por coste de vida, corrupción, relaciones exteriores y el legado político de Jair Bolsonaro.",
-      "por_que_importa": "Brasil es la mayor economía de América Latina y sus decisiones políticas tienen peso regional, climático y comercial.",
+      "titulo": "Lula y Flávio Bolsonaro disputarán la segunda vuelta en Brasil",
+      "entradilla": "La votación decisiva será el 25 de octubre.",
+      "que_ha_pasado": "Ningún candidato alcanzó la mayoría necesaria. Flávio Bolsonaro y Lula pasan a la segunda vuelta, según AP.",
+      "contexto": "Brasil elige su próximo presidente.",
+      "por_que_importa": "La decisión tendrá repercusiones regionales.",
       "que_se_sabe": [],
       "que_falta": [
-        "No se anticipa el resultado. Si ningún candidato supera el 50 %, habrá segunda vuelta el 25 de octubre."
+        "El ganador todavía no se conoce."
       ],
       "fuentes": [
         {
-          "medio": "Reuters",
-          "pais": "Internacional / Brasil",
-          "fecha": "2026-10-04",
-          "url": "https://www.reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04/",
-          "titular": "Brasil vota en una elección muy polarizada",
-          "extracto": "Reuters resume candidatos, temas de campaña y reglas de la votación.",
-          "enfoque": "Reuters resume candidatos, temas de campaña y reglas de la votación.",
-          "orientacion": null,
-          "titular_traducido": false
-        },
-        {
           "medio": "Associated Press",
-          "pais": "Estados Unidos / Brasil",
-          "fecha": "2026-10-04",
+          "pais": "Brasil",
+          "fecha": "2026-10-05",
           "url": "https://apnews.com/article/c194f8965632c8af9bcc4e7a3716cd7c",
-          "titular": "Brasil elige presidente en una votación disputada",
-          "extracto": "AP ofrece contexto político y electoral adicional.",
-          "enfoque": "AP ofrece contexto político y electoral adicional.",
+          "titular": "Brasil irá a segunda vuelta",
+          "extracto": "Información comprobada para esta actualización.",
+          "enfoque": "Cobertura informativa.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -151,7 +140,7 @@
         "Europa",
         "Mundo"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "Bosnia celebra elecciones clave para su estabilidad política y su camino hacia la Unión Europea",
       "entradilla": "Los votantes eligen presidencia tripartita, parlamento y autoridades regionales en un sistema institucional especialmente complejo.",
       "que_ha_pasado": "Bosnia y Herzegovina celebra elecciones generales este domingo con nuevos sistemas electrónicos de identificación y escaneo de papeletas.",
@@ -198,7 +187,7 @@
         "Europa",
         "Mundo"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "El primer ministro letón se encamina a formar una nueva coalición tras ganar las elecciones",
       "entradilla": "United List quedó primero en unos comicios marcados por seguridad, Ucrania y relaciones con Rusia.",
       "que_ha_pasado": "El partido centrista del primer ministro Andris Kulbergs ganó las elecciones parlamentarias del sábado y ha iniciado conversaciones para formar una nueva coalición.",
@@ -234,7 +223,7 @@
         "Oriente Próximo",
         "Mundo"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "El Gobierno yemení anuncia una gran ofensiva contra los hutíes",
       "entradilla": "Las fuerzas gubernamentales, con apoyo saudí, buscan recuperar territorios mientras aumentan los riesgos humanitarios.",
       "que_ha_pasado": "El presidente del Consejo Presidencial de Yemen, Rashad al-Alimi, anunció nuevas operaciones militares contra los hutíes para intentar recuperar territorio.",
@@ -270,7 +259,7 @@
         "Asia oriental",
         "Sociedad"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "Una redada policial en un bar LGTBI de Taipéi provoca una protesta pública",
       "entradilla": "Activistas denuncian un uso desproporcionado de la fuerza y reclaman explicaciones a las autoridades.",
       "que_ha_pasado": "Alrededor de un centenar de personas se manifestaron este domingo después de que la policía realizara una redada en un bar gay de Taipéi.",
@@ -306,7 +295,7 @@
         "Oceanía y Oriente Próximo",
         "Mundo"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "Australia investiga posibles vínculos locales del copiloto acusado en el incidente de Flydubai",
       "entradilla": "Un equipo antiterrorista australiano revisa contactos y antecedentes mientras continúa la investigación internacional.",
       "que_ha_pasado": "La Policía Federal Australiana confirmó que un equipo de lucha antiterrorista examina posibles conexiones australianas del copiloto acusado de atacar al comandante de un vuelo de Flydubai.",
@@ -342,7 +331,7 @@
         "Oriente Próximo",
         "Sociedad"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "Miles de palestinos desplazados siguen sin poder regresar a Gaza pese al alto el fuego",
       "entradilla": "Familias separadas esperan condiciones de seguridad y reconstrucción mientras la vuelta masiva sigue bloqueada.",
       "que_ha_pasado": "Reuters documenta la situación de palestinos que permanecen fuera de Gaza y no pueden regresar pese a meses de alto el fuego.",
@@ -378,7 +367,7 @@
         "Oceanía",
         "Economía"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "El Gobierno australiano enfría las expectativas de nuevas ayudas por coste de vida",
       "entradilla": "El tesorero advierte del fuerte aumento de deuda y de un margen presupuestario más limitado.",
       "que_ha_pasado": "El tesorero Jim Chalmers señaló que es poco probable que el próximo presupuesto incluya grandes nuevas medidas generales de alivio del coste de vida.",
@@ -414,7 +403,7 @@
         "Oceanía",
         "Salud"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "Una localidad rural australiana se queda sin médico permanente",
       "entradilla": "Moura, con unas 2.000 personas, perderá a su único médico de cabecera mientras crece la preocupación por la atención rural.",
       "que_ha_pasado": "ABC informa de que la localidad de Moura, en Queensland, está a punto de quedarse sin ningún médico permanente.",
@@ -450,7 +439,7 @@
         "Global",
         "Tecnología"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "La autonomía de los agentes de IA reaviva las preocupaciones sobre control y seguridad",
       "entradilla": "Los sistemas capaces de ejecutar tareas sin supervisión constante atraen inversión, pero también elevan riesgos operativos.",
       "que_ha_pasado": "ABC Australia analiza el crecimiento de los agentes de IA y las preocupaciones sobre comportamientos no previstos cuando estos sistemas actúan de forma autónoma.",
@@ -486,7 +475,7 @@
         "Global",
         "Medioambiente"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "La crisis energética acelera inversiones en electrificación, aunque sin compensar los costes de la guerra",
       "entradilla": "El encarecimiento y la inseguridad de los combustibles fósiles están impulsando redes, renovables y almacenamiento.",
       "que_ha_pasado": "ABC Australia analiza cómo la guerra con Irán ha acelerado decisiones de electrificación en varios países y sectores.",
@@ -728,35 +717,35 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261003-ia-inversion",
-      "categoria": "Tecnología",
-      "region": "Global · Inteligencia artificial",
-      "fecha": "2026-10-03",
+      "id": "20261005-euro-francia",
+      "categoria": "Economía",
+      "region": "Europa · Francia y zona euro",
+      "fecha": "2026-10-05",
       "portada": false,
       "destacada": false,
       "etiquetas": [
-        "Global",
-        "Tecnología"
+        "Europa",
+        "Economía"
       ],
-      "etiqueta_editorial": "CONTEXTO RECIENTE",
-      "titulo": "La inversión en IA alcanza niveles históricos mientras crecen las dudas sobre los retornos",
-      "entradilla": "Centros de datos, chips y energía absorben cantidades de capital sin precedentes.",
-      "que_ha_pasado": "Reuters analiza la enorme escala de inversión en infraestructura de inteligencia artificial y los ingresos que serían necesarios para justificarla.",
-      "contexto": "Las grandes tecnológicas y fondos compiten por capacidad de cómputo y energía a escala global.",
-      "por_que_importa": "El equilibrio entre inversión y productividad puede afectar mercados, empleo y consumo eléctrico.",
+      "etiqueta_editorial": "HOY",
+      "titulo": "El euro cae a mínimos de 17 meses ante la preocupación fiscal francesa",
+      "entradilla": "La presión sobre la deuda francesa afecta al mercado de divisas.",
+      "que_ha_pasado": "El euro tocó 1,1161 dólares durante la sesión asiática del lunes, según Reuters.",
+      "contexto": "La caída coincide con inquietud por las finanzas francesas.",
+      "por_que_importa": "El cambio influye en importaciones y costes.",
       "que_se_sabe": [],
       "que_falta": [
-        "Las proyecciones de retorno son escenarios y no resultados garantizados."
+        "El contagio a toda la zona euro no está confirmado."
       ],
       "fuentes": [
         {
           "medio": "Reuters",
           "pais": "Internacional",
-          "fecha": "2026-10-03",
-          "url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
-          "titular": "La carrera de inversión en IA aumenta",
-          "extracto": "Análisis de Reuters sobre capital, productividad y sostenibilidad financiera.",
-          "enfoque": "Análisis de Reuters sobre capital, productividad y sostenibilidad financiera.",
+          "fecha": "2026-10-05",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-holds-firm-french-fiscal-woes-keep-euro-back-foot-2026-10-05/",
+          "titular": "Euro y deuda francesa",
+          "extracto": "Información comprobada para esta actualización.",
+          "enfoque": "Cobertura informativa.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1139,7 +1128,7 @@
         "España",
         "Meteorología y movilidad"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "El temporal mantiene avisos y graves incidencias de movilidad en varias zonas de España",
       "entradilla": "Catalunya concentra los efectos más graves, mientras otras comunidades mantienen avisos por lluvias intensas.",
       "que_ha_pasado": "El episodio de lluvias ha afectado a varias comunidades españolas y ha provocado cortes de transporte, carreteras inundadas y recomendaciones de limitar desplazamientos.",
@@ -1217,7 +1206,7 @@
         "Catalunya",
         "Emergencias"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "El temporal deja dos muertos y una persona desaparecida en Catalunya",
       "entradilla": "Los ríos han alcanzado niveles peligrosos y los servicios de emergencia han realizado más de un millar de actuaciones.",
       "que_ha_pasado": "Las lluvias torrenciales han causado dos muertes y una desaparición, además de inundaciones, rescates y daños en distintos puntos de Catalunya.",
@@ -1254,12 +1243,12 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261004-catalunya-transporte",
+      "id": "20261005-catalunya-transporte",
       "categoria": "Local",
       "ambito_local": "Catalunya",
       "tema_local": "Movilidad",
       "region": "Catalunya · Red ferroviaria",
-      "fecha": "2026-10-04",
+      "fecha": "2026-10-05",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1268,24 +1257,24 @@
         "Movilidad"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "La alta velocidad se recupera parcialmente mientras Rodalies sigue muy afectado por el temporal",
-      "entradilla": "Renfe inspecciona líneas y mantiene restricciones después de una noche con miles de pasajeros bloqueados.",
-      "que_ha_pasado": "La conexión de alta velocidad entre Barcelona y Madrid volvió a operar parcialmente, mientras Rodalies y media distancia continúan con importantes limitaciones.",
-      "contexto": "Las lluvias provocaron cortes ferroviarios, inundaciones y afectaciones en carreteras y aeropuerto.",
-      "por_que_importa": "La recuperación de movilidad será clave para el inicio de la semana laboral.",
+      "titulo": "Rodalies mantiene afectaciones hacia el Maresme y Girona tras el temporal",
+      "entradilla": "La recuperación ferroviaria sigue en marcha.",
+      "que_ha_pasado": "Persisten incidencias y transporte alternativo en varios tramos.",
+      "contexto": "Las infraestructuras se revisan tras las lluvias.",
+      "por_que_importa": "Los desplazamientos pueden requerir rutas alternativas.",
       "que_se_sabe": [],
       "que_falta": [
-        "Los horarios y reaperturas pueden cambiar; hay que consultar Renfe, Rodalies y Trànsit antes de viajar."
+        "Consulta Rodalies antes de viajar."
       ],
       "fuentes": [
         {
           "medio": "El País",
-          "pais": "España / Catalunya",
-          "fecha": "2026-10-04",
-          "url": "https://elpais.com/espana/catalunya/2026-10-04/el-temporal-provoca-el-caos-en-el-transporte-en-cataluna.html",
-          "titular": "Catalunya recupera parcialmente la movilidad",
-          "extracto": "Seguimiento de alta velocidad, Rodalies, carreteras y aeropuerto.",
-          "enfoque": "Seguimiento de alta velocidad, Rodalies, carreteras y aeropuerto.",
+          "pais": "Catalunya",
+          "fecha": "2026-10-05",
+          "url": "https://elpais.com/espana/catalunya/2026-10-05/cataluna-se-centra-en-recuperar-la-normalidad-tras-el-temporal-y-sigue-sin-rodalies-hacia-el-maresme-y-girona.html",
+          "titular": "Recuperación tras el temporal",
+          "extracto": "Información comprobada para esta actualización.",
+          "enfoque": "Cobertura informativa.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1306,7 +1295,7 @@
         "Barcelona",
         "Movilidad y emergencias"
       ],
-      "etiqueta_editorial": "HOY",
+      "etiqueta_editorial": "RECIENTE",
       "titulo": "Cientos de personas pasan la noche en la estación de Sants por las interrupciones ferroviarias",
       "entradilla": "Cruz Roja y el CUESB repartieron comida, bebida y mantas a pasajeros que no pudieron continuar sus viajes.",
       "que_ha_pasado": "La estación de Sants permaneció abierta durante toda la noche para acoger a personas afectadas por la suspensión de servicios.",
@@ -1314,7 +1303,7 @@
       "por_que_importa": "La situación muestra el impacto directo del episodio meteorológico sobre miles de viajeros en Barcelona.",
       "que_se_sabe": [],
       "que_falta": [
-        "La normalización del transporte continúa y las condiciones pueden cambiar a lo largo del domingo."
+        "Esta ficha describe la noche previa al 4 de octubre; no informa del estado actual de la estación."
       ],
       "fuentes": [
         {
@@ -1332,12 +1321,12 @@
       "analisis_verificado": false
     },
     {
-      "id": "20261004-barcelona-viu-montjuic",
+      "id": "20261005-barcelona-recuperacion",
       "categoria": "Local",
       "ambito_local": "Barcelona",
-      "tema_local": "Cultura y agenda",
+      "tema_local": "Recuperación y servicios",
       "region": "Barcelona · Montjuïc",
-      "fecha": "2026-10-04",
+      "fecha": "2026-10-05",
       "portada": false,
       "destacada": false,
       "etiquetas": [
@@ -1346,24 +1335,24 @@
         "Cultura y agenda"
       ],
       "etiqueta_editorial": "HOY",
-      "titulo": "Viu Montjuïc mantiene este domingo una amplia programación cultural",
-      "entradilla": "Museos y entidades de la montaña participan en una jornada con más de 90 propuestas durante el fin de semana.",
-      "que_ha_pasado": "La sexta edición de Viu Montjuïc continúa este domingo con actividades de museos, teatros y equipamientos culturales.",
-      "contexto": "El programa reúne rutas, talleres, puertas abiertas y espectáculos en distintos espacios.",
-      "por_que_importa": "Es una de las principales propuestas culturales del fin de semana en la ciudad.",
+      "titulo": "Barcelona prioriza reparaciones en los barrios de montaña",
+      "entradilla": "Roquetes y Torre Baró figuran entre las zonas afectadas.",
+      "que_ha_pasado": "El Ayuntamiento prioriza la recuperación tras desprendimientos e inundaciones.",
+      "contexto": "El temporal dejó daños en la ciudad.",
+      "por_que_importa": "Algunos equipamientos siguen afectados.",
       "que_se_sabe": [],
       "que_falta": [
-        "Algunas actividades pueden verse afectadas por la meteorología o requerir reserva previa."
+        "Comprueba aperturas en canales municipales."
       ],
       "fuentes": [
         {
-          "medio": "betevé",
+          "medio": "El País",
           "pais": "Barcelona",
-          "fecha": "2026-10-04",
-          "url": "https://beteve.cat/agenda/programa-viu-montjuic-activitats-culturals-parc-montjuic/",
-          "titular": "Programa de Viu Montjuïc",
-          "extracto": "Agenda y actividades del 3 y 4 de octubre.",
-          "enfoque": "Agenda y actividades del 3 y 4 de octubre.",
+          "fecha": "2026-10-05",
+          "url": "https://elpais.com/espana/catalunya/2026-10-05/cataluna-se-centra-en-recuperar-la-normalidad-tras-el-temporal-y-sigue-sin-rodalies-hacia-el-maresme-y-girona.html",
+          "titular": "Reparaciones en Barcelona",
+          "extracto": "Información comprobada para esta actualización.",
+          "enfoque": "Cobertura informativa.",
           "orientacion": null,
           "titular_traducido": false
         }
@@ -1384,15 +1373,15 @@
         "Sant Andreu",
         "Agenda"
       ],
-      "etiqueta_editorial": "HOY",
-      "titulo": "La Festa Major del Congrés celebra hoy su cercavila, pregón y comida popular",
-      "entradilla": "La fiesta continúa este domingo con actividades de mañana a tarde en torno a la plaça del Congrés.",
-      "que_ha_pasado": "El programa del día incluye despertador musical, plantada de gegants, cercavila, pregón, costellada popular y teatro.",
+      "etiqueta_editorial": "RECIENTE",
+      "titulo": "La Festa Major del Congrés continúa hasta el 11 de octubre",
+      "entradilla": "Agenda vecinal del distrito durante esta semana.",
+      "que_ha_pasado": "El programa publicado sitúa la Festa Major del Congrés entre el 3 y el 11 de octubre. Las actividades de cercavila, pregón y comida popular del día 4 ya corresponden a la jornada anterior.",
       "contexto": "La Festa Major del Congrés se celebra del 3 al 11 de octubre y reúne actividades vecinales durante nueve días.",
       "por_que_importa": "Es la principal cita comunitaria del distrito este fin de semana.",
       "que_se_sabe": [],
       "que_falta": [
-        "La meteorología puede modificar actividades exteriores; conviene consultar el programa antes de desplazarse."
+        "Consulta el programa y posibles cambios meteorológicos antes de acudir."
       ],
       "fuentes": [
         {
